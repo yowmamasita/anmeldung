@@ -1,0 +1,31 @@
+name: scrape latest data
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/5 * * * *"
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      - name: check out this repo
+        uses: actions/checkout@v2
+      - name: cache dependencies
+        uses: actions/cache@v2
+        with:
+          path: 'node_modules'
+          key: node_modules-${{ hashfiles('**/package-lock.json') }}
+      - name: install dependencies
+        run: npm ci
+      - name: fetch latest data
+        run: yarn start > results.json
+      - name: commit and push if it changed
+        run: |-
+          git config user.name "automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add -a
+          timestamp=$(date -u)
+          git commit -m "latest data: ${timestamp}" || exit 0
+          git push

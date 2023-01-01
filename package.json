@@ -1,0 +1,13 @@
+{
+  "name": "anmeldung",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^19.4.1"
+  }
+}
