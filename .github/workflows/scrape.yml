@@ -18,7 +18,7 @@ jobs:
           path: 'node_modules'
           key: node_modules-${{ hashfiles('**/package-lock.json') }}
       - name: install dependencies
-        run: npm ci
+        run: yarn install --frozen-lockfile
       - name: fetch latest data
         run: yarn start > results.json
       - name: commit and push if it changed
