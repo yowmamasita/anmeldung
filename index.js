@@ -10,7 +10,7 @@ async function getAppointmentSlotsFn(browser) {
 
 	console.log('page created');
 
-	return async function innerFn(dateUrl) {
+	return (async function innerFn(dateUrl) {
 		console.log('dateUrl', dateUrl);
 		await page.goto(dateUrl);
 
@@ -27,7 +27,7 @@ async function getAppointmentSlotsFn(browser) {
 		});
 
 		return appointmentSlots;
-	};
+	});
 }
 
 (async () => {
