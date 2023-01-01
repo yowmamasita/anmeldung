@@ -44,6 +44,8 @@ async function getAppointmentSlots(browser, dateUrl) {
 		console.log('appointments', appointments);
 
 		fs.writeFileSync('results.json', appointments.join('\n'));
+	} else {
+		fs.writeFileSync('results.json', "");
 	}
 
 	await browser.close();
