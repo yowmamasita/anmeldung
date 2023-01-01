@@ -1,1 +1,1 @@
-# available Anmeldung appointments
+# list of available Anmeldung appointments
