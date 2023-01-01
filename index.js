@@ -20,6 +20,8 @@ async function getAppointmentSlots(browser, dateUrl) {
 			.map(e => `${appointmentDate} ${e.innerText.replace('\t', ' ')} ${e.querySelector('a').href}`);
 	});
 
+	// await page.screenshot({ path: 'anmeldung.png' });
+
 	return appointmentSlots;
 }
 
@@ -37,7 +39,7 @@ async function getAppointmentSlots(browser, dateUrl) {
 
 	console.log('dates', bookable);
 
-	await page.screenshot({ path: 'anmeldung.png' });
+	// await page.screenshot({ path: 'anmeldung.png' });
 
 	if (bookable.length > 0) {
 		const appointmentsByDay = await Promise.all(bookable.map(async (e) => await getAppointmentSlots(browser, e)));
