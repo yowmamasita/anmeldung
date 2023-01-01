@@ -37,6 +37,8 @@ async function getAppointmentSlots(browser, dateUrl) {
 
 	console.log('dates', bookable);
 
+	await page.screenshot({ path: 'anmeldung.png' });
+
 	if (bookable.length > 0) {
 		const appointmentsByDay = await Promise.all(bookable.map(async (e) => await getAppointmentSlots(browser, e)));
 		const appointments = appointmentsByDay.flat();
@@ -45,7 +47,7 @@ async function getAppointmentSlots(browser, dateUrl) {
 
 		fs.writeFileSync('results.json', appointments.join('\n'));
 	} else {
-		fs.writeFileSync('results.json', "");
+		fs.writeFileSync('results.json', '');
 	}
 
 	await browser.close();
