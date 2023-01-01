@@ -16,7 +16,7 @@ jobs:
           path: |
             node_modules
             /home/runner/.cache/puppeteer
-          key: node_modules-${{ hashfiles('yarn-lock.json') }}
+          key: node_modules-${{ hashfiles('yarn.lock') }}
       - name: install dependencies
         run: yarn install --frozen-lockfile
       - name: fetch latest data

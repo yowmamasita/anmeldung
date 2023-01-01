@@ -1,4 +1,5 @@
 import puppeteer from 'puppeteer';
+import * as fs from 'fs';
 
 (async () => {
 	const browser = await puppeteer.launch();
@@ -23,4 +24,6 @@ import puppeteer from 'puppeteer';
 	console.log('Bookable dates:', bookable.length);
 
 	await browser.close();
+
+	fs.writeFileSync('results.json', bookable.join('\n'));
 })();
