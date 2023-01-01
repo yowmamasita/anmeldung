@@ -1,29 +1,50 @@
 import puppeteer from 'puppeteer';
 import * as fs from 'fs';
 
+const ANMELDUNG_URL = 'https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=0&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122252,329742,122260,329745,122262,329748,122254,329751,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,327539,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122301,327282,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,122281,327352,122279,329772,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300,121362,121364&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F';
+
+const getDetails = async (browser) => {
+	const page = await browser.newPage();
+
+	return async (dateUrl) => {
+		await page.goto(dateUrl);
+
+		const appointmentSlots = await page.evaluate(() => {
+			const parts = window.location.href.split('/');
+			const lastSegment = parts.pop() || parts.pop();
+
+			const appointmentDate = (new Date(parseInt(lastSegment, 10) * 1000))
+				.toLocaleString('de-DE', { dateStyle: 'full', timeZone: 'Europe/Berlin' });
+
+			return Array
+				.from(document.querySelectorAll('tr'))
+				.map(e => `${appointmentDate} ${e.innerText.replace('\t', ' ')} ${e.querySelector('a').href}`);
+		});
+
+		console.log(appointmentSlots);
+	};
+};
+
 (async () => {
 	const browser = await puppeteer.launch();
 	const page = await browser.newPage();
 
-	await page.goto('https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=0&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122252,329742,122260,329745,122262,329748,122254,329751,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,327539,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122301,327282,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,122281,327352,122279,329772,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300,121362,121364&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F');
+	await page.goto(ANMELDUNG_URL);
 
 	const bookable = await page.evaluate(() => {
 		return Array
-			.from(document.querySelectorAll("tr > .buchbar"))
-			.map(d =>
-				`${d.innerText} ${d
-						.parentElement
-						.parentElement
-						.parentElement
-						.querySelector(".month")
-						.innerText}`);
+			.from(document.querySelectorAll('tr > .buchbar > a'))
+			.map(d => d.href);
 	});
 
 	console.log(bookable);
 
-	console.log('Bookable dates:', bookable.length);
+	const appointmentsByDay = await Promise.all(bookable.map(getDetails(browser)));
+	const appointments = appointmentsByDay.flat();
+
+	console.log(appointments);
 
 	await browser.close();
 
-	fs.writeFileSync('results.json', bookable.join('\n'));
+	fs.writeFileSync('results.json', appointments.join('\n'));
 })();
