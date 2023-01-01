@@ -1,0 +1,20 @@
+yarn run v1.22.19
+$ node index.js
+[
+  '02 Januar 2023',  '03 Januar 2023',  '04 Januar 2023',
+  '05 Januar 2023',  '06 Januar 2023',  '09 Januar 2023',
+  '10 Januar 2023',  '11 Januar 2023',  '12 Januar 2023',
+  '13 Januar 2023',  '16 Januar 2023',  '17 Januar 2023',
+  '18 Januar 2023',  '19 Januar 2023',  '20 Januar 2023',
+  '23 Januar 2023',  '24 Januar 2023',  '25 Januar 2023',
+  '26 Januar 2023',  '27 Januar 2023',  '30 Januar 2023',
+  '31 Januar 2023',  '01 Februar 2023', '02 Februar 2023',
+  '03 Februar 2023', '06 Februar 2023', '07 Februar 2023',
+  '08 Februar 2023', '09 Februar 2023', '10 Februar 2023',
+  '13 Februar 2023', '14 Februar 2023', '15 Februar 2023',
+  '16 Februar 2023', '17 Februar 2023', '20 Februar 2023',
+  '21 Februar 2023', '22 Februar 2023', '23 Februar 2023',
+  '24 Februar 2023', '27 Februar 2023', '28 Februar 2023'
+]
+Bookable dates: 42
+Done in 5.05s.
