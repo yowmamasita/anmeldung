@@ -17,7 +17,7 @@ async function getAppointmentSlots(browser, dateUrl) {
 
 		return Array
 			.from(document.querySelectorAll('tr'))
-			.map(e => `${appointmentDate} ${e.innerText.replace('\t', ' ')} ${e.querySelector('a').href}`);
+			.map(e => `- ${appointmentDate} ${e.innerText.replace('\t', ' ')} ${e.querySelector('a').href}`);
 	});
 
 	// await page.screenshot({ path: 'anmeldung.png' });
@@ -47,9 +47,9 @@ async function getAppointmentSlots(browser, dateUrl) {
 
 		console.log('appointments', appointments);
 
-		fs.writeFileSync('results.json', appointments.join('\n'));
+		fs.writeFileSync('results.txt', appointments.join('\n'));
 	} else {
-		fs.writeFileSync('results.json', '');
+		fs.writeFileSync('results.txt', '');
 	}
 
 	await browser.close();
