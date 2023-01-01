@@ -2,11 +2,11 @@ name: scrape latest data
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "* * * * *"
 
 jobs:
   scheduled:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
       - name: check out this repo
         uses: actions/checkout@v2
