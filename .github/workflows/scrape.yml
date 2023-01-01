@@ -13,8 +13,10 @@ jobs:
       - name: cache dependencies
         uses: actions/cache@v2
         with:
-          path: 'node_modules'
-          key: node_modules-${{ hashfiles('**/package-lock.json') }}
+          path: |
+            node_modules
+            /home/runner/.cache/puppeteer
+          key: node_modules-${{ hashfiles('yarn-lock.json') }}
       - name: install dependencies
         run: yarn install --frozen-lockfile
       - name: fetch latest data
