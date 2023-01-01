@@ -25,7 +25,7 @@ jobs:
         run: |-
           git config user.name "automated"
           git config user.email "actions@users.noreply.github.com"
-          git add -a
+          git add -A
           timestamp=$(date -u)
           git commit -m "latest data: ${timestamp}" || exit 0
           git push
