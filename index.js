@@ -9,7 +9,7 @@ import * as fs from 'fs';
 
 	const bookable = await page.evaluate(() => {
 		return Array
-			.from(document.querySelectorAll("tr > .nichtbuchbar"))
+			.from(document.querySelectorAll("tr > .buchbar"))
 			.map(d =>
 				`${d.innerText} ${d
 						.parentElement
