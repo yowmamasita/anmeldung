@@ -1,1 +1,5 @@
-# list of available Anmeldung appointments as of Mon Jan  2 09:46:23 UTC 2023
+# list of available Anmeldung appointments as of Mon Jan  2 09:47:26 UTC 2023
+- Montag, 2. Januar 2023 11:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672655760/2845/
+- Montag, 30. Januar 2023 09:24 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675067040/2920/
+- Dienstag, 7. Februar 2023 12:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675768320/2857/
+- Montag, 20. Februar 2023 08:36 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1676878560/143/
