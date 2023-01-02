@@ -1,33 +1,42 @@
-# list of available Anmeldung appointments as of Mon Jan  2 09:04:24 UTC 2023
-- Montag, 27. Februar 2023 10:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677489840/2845/
-- Montag, 27. Februar 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677489840/2848/
-- Montag, 27. Februar 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677489840/2887/
-- Montag, 27. Februar 2023 10:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1677490560/106/
-- Montag, 27. Februar 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677490560/2845/
-- Montag, 27. Februar 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677490560/2887/
+# list of available Anmeldung appointments as of Mon Jan  2 09:05:21 UTC 2023
+- Mittwoch, 1. Februar 2023 08:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675234800/169/
+- Mittwoch, 1. Februar 2023 08:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675235520/169/
+- Mittwoch, 1. Februar 2023 08:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675236240/169/
+- Mittwoch, 1. Februar 2023 08:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675236960/169/
+- Mittwoch, 1. Februar 2023 08:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675237680/169/
+- Mittwoch, 1. Februar 2023 09:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675238400/169/
+- Mittwoch, 1. Februar 2023 09:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675239120/169/
+- Mittwoch, 1. Februar 2023 09:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675239840/169/
+- Mittwoch, 1. Februar 2023 09:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675240560/169/
+- Mittwoch, 1. Februar 2023 09:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675241280/169/
+- Mittwoch, 1. Februar 2023 10:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675242000/169/
+- Mittwoch, 1. Februar 2023 10:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675242720/169/
+- Mittwoch, 1. Februar 2023 10:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675243440/169/
+- Mittwoch, 1. Februar 2023 10:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675244160/169/
+- Mittwoch, 1. Februar 2023 10:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675244880/169/
+- Mittwoch, 1. Februar 2023 11:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675245600/169/
+- Mittwoch, 1. Februar 2023 11:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675246320/169/
+- Mittwoch, 1. Februar 2023 11:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675247040/169/
+- Mittwoch, 1. Februar 2023 11:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675247760/169/
+- Mittwoch, 1. Februar 2023 11:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675248480/169/
+- Mittwoch, 1. Februar 2023 12:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675249200/169/
+- Mittwoch, 1. Februar 2023 12:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675249920/169/
+- Mittwoch, 1. Februar 2023 12:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675250640/169/
+- Mittwoch, 1. Februar 2023 12:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675251360/169/
+- Mittwoch, 1. Februar 2023 12:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675252080/169/
+- Montag, 27. Februar 2023 10:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677489840/2887/
+- Montag, 27. Februar 2023 10:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677490560/2887/
 - Montag, 27. Februar 2023 10:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677491280/2845/
 - Montag, 27. Februar 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677491280/2887/
-- Montag, 27. Februar 2023 11:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1677492000/106/
-- Montag, 27. Februar 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677492000/2845/
-- Montag, 27. Februar 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677492000/2848/
-- Montag, 27. Februar 2023 11:12 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1677492720/106/
-- Montag, 27. Februar 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677492720/2845/
+- Montag, 27. Februar 2023 11:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677492000/2845/
+- Montag, 27. Februar 2023 11:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677492720/2845/
 - Montag, 27. Februar 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677492720/2848/
 - Montag, 27. Februar 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677492720/2887/
-- Montag, 27. Februar 2023 11:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1677493440/106/
-- Montag, 27. Februar 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677493440/2845/
-- Montag, 27. Februar 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677493440/2848/
-- Montag, 27. Februar 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677493440/2887/
+- Montag, 27. Februar 2023 11:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677493440/2845/
 - Montag, 27. Februar 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677493440/192/
 - Montag, 27. Februar 2023 11:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1677494160/106/
 - Montag, 27. Februar 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677494160/2845/
 - Montag, 27. Februar 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677494160/2887/
-- Montag, 27. Februar 2023 11:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677494880/2845/
-- Montag, 27. Februar 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677494880/2848/
-- Montag, 27. Februar 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677494880/2887/
-- Montag, 27. Februar 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677494880/192/
-- Montag, 27. Februar 2023 12:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677496320/3238/
-- Montag, 27. Februar 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677496320/192/
 - Montag, 27. Februar 2023 12:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677497040/2887/
 - Montag, 27. Februar 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677497040/192/
 - Montag, 27. Februar 2023 12:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677497760/2887/
@@ -42,7 +51,5 @@
 - Montag, 27. Februar 2023 13:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677501360/2887/
 - Montag, 27. Februar 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677501360/192/
 - Montag, 27. Februar 2023 13:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677502080/2887/
-- Montag, 27. Februar 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677502080/192/
 - Montag, 27. Februar 2023 14:12 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677503520/2887/
-- Montag, 27. Februar 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677503520/192/
-- Montag, 27. Februar 2023 14:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677504240/2887/
+- Montag, 27. Februar 2023 14:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677504960/192/
