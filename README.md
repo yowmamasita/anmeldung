@@ -1,197 +1,167 @@
-# list of available Anmeldung appointments as of Mon Jan  2 07:04:24 UTC 2023
-- Montag, 2. Januar 2023 08:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1672644240/143/
+# list of available Anmeldung appointments as of Mon Jan  2 07:05:26 UTC 2023
+- Montag, 2. Januar 2023 08:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672643520/2848/
+- Montag, 2. Januar 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672643520/2854/
+- Montag, 2. Januar 2023 08:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672644240/2848/
+- Montag, 2. Januar 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672644240/2851/
+- Montag, 2. Januar 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672644240/2854/
 - Montag, 2. Januar 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672644240/1018/
-- Montag, 2. Januar 2023 08:36 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672644960/1018/
-- Montag, 2. Januar 2023 09:00 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672646400/1018/
-- Montag, 2. Januar 2023 09:12 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672647120/1018/
+- Montag, 2. Januar 2023 08:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672644960/2848/
+- Montag, 2. Januar 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672644960/2851/
+- Montag, 2. Januar 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672644960/2854/
+- Montag, 2. Januar 2023 08:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672645680/2848/
+- Montag, 2. Januar 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672645680/2851/
+- Montag, 2. Januar 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672645680/2854/
+- Montag, 2. Januar 2023 09:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672646400/2848/
+- Montag, 2. Januar 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672646400/2851/
+- Montag, 2. Januar 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672646400/2854/
+- Montag, 2. Januar 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672646400/1018/
+- Montag, 2. Januar 2023 09:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672647120/2848/
+- Montag, 2. Januar 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672647120/2851/
+- Montag, 2. Januar 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672647120/2854/
+- Montag, 2. Januar 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672647120/1018/
+- Montag, 2. Januar 2023 09:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672647840/2848/
+- Montag, 2. Januar 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672647840/2851/
+- Montag, 2. Januar 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672647840/2854/
+- Montag, 2. Januar 2023 09:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672648560/2851/
+- Montag, 2. Januar 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672648560/2854/
+- Montag, 2. Januar 2023 09:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672649280/2851/
+- Montag, 2. Januar 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672649280/2854/
+- Montag, 2. Januar 2023 10:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672650000/2851/
+- Montag, 2. Januar 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672650000/2854/
+- Montag, 2. Januar 2023 10:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672650720/2851/
+- Montag, 2. Januar 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672650720/2854/
+- Montag, 2. Januar 2023 10:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672651440/2851/
+- Montag, 2. Januar 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672651440/2854/
+- Montag, 2. Januar 2023 10:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672652160/2851/
+- Montag, 2. Januar 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672652160/2854/
+- Montag, 2. Januar 2023 10:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672652880/2851/
+- Montag, 2. Januar 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672652880/2854/
+- Montag, 2. Januar 2023 11:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672653600/2851/
+- Montag, 2. Januar 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672653600/2854/
+- Montag, 2. Januar 2023 11:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672654320/2851/
+- Montag, 2. Januar 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672654320/2854/
+- Montag, 2. Januar 2023 11:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672655040/2851/
+- Montag, 2. Januar 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672655040/2854/
+- Montag, 2. Januar 2023 11:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672655760/2851/
+- Montag, 2. Januar 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672655760/2854/
+- Montag, 2. Januar 2023 11:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672656480/2851/
+- Montag, 2. Januar 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672656480/2854/
+- Montag, 2. Januar 2023 12:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672659360/2854/
+- Montag, 2. Januar 2023 12:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672660080/2854/
+- Montag, 2. Januar 2023 13:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672660800/2851/
+- Montag, 2. Januar 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672660800/2854/
+- Montag, 2. Januar 2023 13:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672661520/2851/
+- Montag, 2. Januar 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672661520/2854/
+- Montag, 2. Januar 2023 13:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672662240/2851/
+- Montag, 2. Januar 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672662240/2854/
+- Montag, 2. Januar 2023 13:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672662960/2851/
+- Montag, 2. Januar 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672662960/2854/
+- Montag, 2. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672662960/2899/
+- Montag, 2. Januar 2023 13:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672663680/2851/
+- Montag, 2. Januar 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672663680/2854/
+- Montag, 2. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672663680/2899/
+- Montag, 2. Januar 2023 14:00 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672664400/2854/
+- Montag, 2. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672664400/2899/
+- Montag, 2. Januar 2023 14:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672665120/2851/
+- Montag, 2. Januar 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672665120/2854/
+- Montag, 2. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672665120/2899/
+- Montag, 2. Januar 2023 14:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672665840/2851/
+- Montag, 2. Januar 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672665840/2854/
+- Montag, 2. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672665840/2899/
+- Montag, 2. Januar 2023 14:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672666560/2854/
+- Montag, 2. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672666560/2899/
+- Montag, 2. Januar 2023 14:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672667280/2899/
+- Montag, 30. Januar 2023 08:00 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675062000/2893/
+- Montag, 30. Januar 2023 08:12 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675062720/2893/
+- Montag, 30. Januar 2023 08:24 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675063440/2893/
+- Montag, 30. Januar 2023 08:36 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675064160/2893/
+- Montag, 30. Januar 2023 08:48 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675064880/2893/
+- Montag, 30. Januar 2023 09:00 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675065600/2893/
+- Montag, 30. Januar 2023 09:12 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675066320/2920/
+- Montag, 30. Januar 2023  Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675066320/2893/
+- Montag, 30. Januar 2023 09:24 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675067040/2920/
+- Montag, 30. Januar 2023  Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675067040/2893/
+- Montag, 30. Januar 2023 09:36 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675067760/2920/
+- Montag, 30. Januar 2023  Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675067760/2893/
+- Montag, 30. Januar 2023 09:48 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675068480/2920/
+- Montag, 30. Januar 2023  Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675068480/2893/
+- Montag, 30. Januar 2023 10:00 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675069200/2893/
+- Montag, 30. Januar 2023 10:12 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675069920/2920/
+- Montag, 30. Januar 2023  Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675069920/2893/
+- Montag, 30. Januar 2023 10:24 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675070640/2920/
+- Montag, 30. Januar 2023  Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675070640/2893/
+- Montag, 30. Januar 2023 10:36 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675071360/2920/
+- Montag, 30. Januar 2023  Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675071360/2893/
+- Montag, 30. Januar 2023 10:48 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675072080/2920/
+- Montag, 30. Januar 2023  Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675072080/2893/
 - Montag, 27. Februar 2023 08:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677481200/2845/
+- Montag, 27. Februar 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1677481200/108/
+- Montag, 27. Februar 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677481200/2848/
 - Montag, 27. Februar 2023  Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1677481200/147/
+- Montag, 27. Februar 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677481200/2887/
 - Montag, 27. Februar 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1677481200/151/
 - Montag, 27. Februar 2023  Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1677481200/148/
+- Montag, 27. Februar 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677481200/2854/
 - Montag, 27. Februar 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1677481200/150/
-- Montag, 27. Februar 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1677481200/103/
-- Montag, 27. Februar 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677481200/192/
-- Montag, 27. Februar 2023 08:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1677481800/147/
-- Montag, 27. Februar 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1677481800/151/
-- Montag, 27. Februar 2023  Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1677481800/148/
-- Montag, 27. Februar 2023 08:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677481920/2845/
-- Montag, 27. Februar 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1677481920/108/
-- Montag, 27. Februar 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1677481920/381/
+- Montag, 27. Februar 2023 08:10 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677481800/2884/
+- Montag, 27. Februar 2023 08:12 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1677481920/381/
 - Montag, 27. Februar 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677481920/1018/
+- Montag, 27. Februar 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1677481920/103/
 - Montag, 27. Februar 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677481920/192/
 - Montag, 27. Februar 2023 08:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1677482280/112/
-- Montag, 27. Februar 2023 08:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1677482400/147/
-- Montag, 27. Februar 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1677482400/151/
-- Montag, 27. Februar 2023  Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1677482400/148/
-- Montag, 27. Februar 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1677482400/150/
 - Montag, 27. Februar 2023 08:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1677482640/106/
-- Montag, 27. Februar 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677482640/2845/
-- Montag, 27. Februar 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1677482640/108/
-- Montag, 27. Februar 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1677482640/381/
-- Montag, 27. Februar 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677482640/1018/
-- Montag, 27. Februar 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1677482640/103/
-- Montag, 27. Februar 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677482640/192/
-- Montag, 27. Februar 2023 08:30 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1677483000/147/
-- Montag, 27. Februar 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1677483000/150/
-- Montag, 27. Februar 2023 08:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1677483360/106/
-- Montag, 27. Februar 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677483360/2845/
-- Montag, 27. Februar 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1677483360/108/
-- Montag, 27. Februar 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1677483360/381/
-- Montag, 27. Februar 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677483360/1018/
-- Montag, 27. Februar 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1677483360/103/
-- Montag, 27. Februar 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677483360/192/
-- Montag, 27. Februar 2023 08:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1677483600/147/
-- Montag, 27. Februar 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1677483600/151/
-- Montag, 27. Februar 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1677483600/150/
-- Montag, 27. Februar 2023 08:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1677484080/106/
-- Montag, 27. Februar 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677484080/2845/
-- Montag, 27. Februar 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1677484080/108/
-- Montag, 27. Februar 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1677484080/381/
-- Montag, 27. Februar 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677484080/1018/
-- Montag, 27. Februar 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1677484080/103/
-- Montag, 27. Februar 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677484080/192/
-- Montag, 27. Februar 2023 08:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1677484200/147/
-- Montag, 27. Februar 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1677484200/151/
-- Montag, 27. Februar 2023  Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1677484200/148/
-- Montag, 27. Februar 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1677484200/150/
 - Montag, 27. Februar 2023 09:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1677484800/106/
 - Montag, 27. Februar 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677484800/2845/
 - Montag, 27. Februar 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1677484800/108/
+- Montag, 27. Februar 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677484800/2848/
 - Montag, 27. Februar 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1677484800/381/
+- Montag, 27. Februar 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677484800/2878/
+- Montag, 27. Februar 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677484800/2854/
+- Montag, 27. Februar 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677484800/2884/
 - Montag, 27. Februar 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677484800/1018/
 - Montag, 27. Februar 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677484800/192/
 - Montag, 27. Februar 2023 09:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1677485400/147/
 - Montag, 27. Februar 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1677485400/151/
 - Montag, 27. Februar 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1677485400/150/
-- Montag, 27. Februar 2023 09:12 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1677485520/106/
-- Montag, 27. Februar 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677485520/2845/
-- Montag, 27. Februar 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1677485520/108/
-- Montag, 27. Februar 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1677485520/381/
-- Montag, 27. Februar 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677485520/1018/
-- Montag, 27. Februar 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677485520/192/
-- Montag, 27. Februar 2023 09:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1677486000/147/
-- Montag, 27. Februar 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1677486000/151/
-- Montag, 27. Februar 2023  Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1677486000/148/
-- Montag, 27. Februar 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1677486000/150/
-- Montag, 27. Februar 2023 09:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1677486240/106/
-- Montag, 27. Februar 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677486240/2845/
-- Montag, 27. Februar 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1677486240/108/
-- Montag, 27. Februar 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1677486240/381/
-- Montag, 27. Februar 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677486240/1018/
+- Montag, 27. Februar 2023 09:20 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1677486000/148/
+- Montag, 27. Februar 2023 09:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677486240/2887/
 - Montag, 27. Februar 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1677486240/103/
 - Montag, 27. Februar 2023 09:30 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677486600/844/
-- Montag, 27. Februar 2023  Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1677486600/147/
-- Montag, 27. Februar 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1677486600/150/
-- Montag, 27. Februar 2023 09:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1677486960/106/
-- Montag, 27. Februar 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677486960/2845/
-- Montag, 27. Februar 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1677486960/108/
-- Montag, 27. Februar 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1677486960/381/
-- Montag, 27. Februar 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677486960/1018/
-- Montag, 27. Februar 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677486960/192/
-- Montag, 27. Februar 2023 09:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1677487200/147/
-- Montag, 27. Februar 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1677487200/151/
-- Montag, 27. Februar 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1677487200/150/
-- Montag, 27. Februar 2023 09:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1677487680/106/
-- Montag, 27. Februar 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677487680/2845/
-- Montag, 27. Februar 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1677487680/108/
-- Montag, 27. Februar 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1677487680/381/
-- Montag, 27. Februar 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677487680/1018/
-- Montag, 27. Februar 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1677487680/103/
-- Montag, 27. Februar 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677487680/192/
-- Montag, 27. Februar 2023 09:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1677487800/147/
-- Montag, 27. Februar 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1677487800/151/
-- Montag, 27. Februar 2023  Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1677487800/148/
-- Montag, 27. Februar 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1677487800/150/
 - Montag, 27. Februar 2023 09:54 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677488040/2911/
 - Montag, 27. Februar 2023 10:00 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1677488400/147/
 - Montag, 27. Februar 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1677488400/381/
 - Montag, 27. Februar 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1677488400/151/
+- Montag, 27. Februar 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677488400/2854/
+- Montag, 27. Februar 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677488400/2884/
 - Montag, 27. Februar 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677488400/1018/
 - Montag, 27. Februar 2023 10:06 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1677488760/112/
 - Montag, 27. Februar 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677488760/841/
-- Montag, 27. Februar 2023 10:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1677489000/147/
-- Montag, 27. Februar 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1677489000/151/
-- Montag, 27. Februar 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1677489000/150/
-- Montag, 27. Februar 2023 10:12 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1677489120/381/
-- Montag, 27. Februar 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677489120/1018/
-- Montag, 27. Februar 2023 10:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1677489600/147/
-- Montag, 27. Februar 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1677489600/151/
-- Montag, 27. Februar 2023  Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1677489600/148/
-- Montag, 27. Februar 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1677489600/150/
-- Montag, 27. Februar 2023 10:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1677489840/381/
-- Montag, 27. Februar 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677489840/1018/
-- Montag, 27. Februar 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1677489840/103/
-- Montag, 27. Februar 2023 10:30 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1677490200/147/
-- Montag, 27. Februar 2023  Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1677490200/148/
-- Montag, 27. Februar 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1677490200/150/
-- Montag, 27. Februar 2023 10:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1677490560/381/
-- Montag, 27. Februar 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677490560/1018/
-- Montag, 27. Februar 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1677490560/103/
-- Montag, 27. Februar 2023 10:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1677490800/147/
-- Montag, 27. Februar 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1677490800/150/
+- Montag, 27. Februar 2023 10:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1677489000/150/
+- Montag, 27. Februar 2023 10:20 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1677489600/148/
+- Montag, 27. Februar 2023 10:24 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1677489840/103/
 - Montag, 27. Februar 2023 10:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677490920/2914/
-- Montag, 27. Februar 2023 10:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1677491280/381/
-- Montag, 27. Februar 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677491280/1018/
-- Montag, 27. Februar 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1677491280/103/
-- Montag, 27. Februar 2023 10:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1677491400/147/
-- Montag, 27. Februar 2023  Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1677491400/148/
-- Montag, 27. Februar 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1677491400/150/
 - Montag, 27. Februar 2023 10:54 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677491640/2911/
-- Montag, 27. Februar 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677491640/2914/
 - Montag, 27. Februar 2023 11:00 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1677492000/147/
 - Montag, 27. Februar 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1677492000/381/
+- Montag, 27. Februar 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677492000/2854/
 - Montag, 27. Februar 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1677492000/150/
-- Montag, 27. Februar 2023 11:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1677492600/147/
-- Montag, 27. Februar 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1677492600/150/
-- Montag, 27. Februar 2023 11:12 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1677492720/381/
-- Montag, 27. Februar 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1677492720/103/
-- Montag, 27. Februar 2023 11:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1677493200/147/
-- Montag, 27. Februar 2023  Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1677493200/148/
-- Montag, 27. Februar 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1677493200/150/
-- Montag, 27. Februar 2023 11:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1677493440/381/
-- Montag, 27. Februar 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677493440/1018/
-- Montag, 27. Februar 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1677493440/103/
-- Montag, 27. Februar 2023 11:30 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1677493800/148/
-- Montag, 27. Februar 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1677493800/150/
-- Montag, 27. Februar 2023 11:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1677494160/381/
-- Montag, 27. Februar 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677494160/1018/
-- Montag, 27. Februar 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1677494160/103/
-- Montag, 27. Februar 2023 11:40 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1677494400/148/
-- Montag, 27. Februar 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1677494400/150/
-- Montag, 27. Februar 2023 11:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1677494880/381/
-- Montag, 27. Februar 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677494880/1018/
-- Montag, 27. Februar 2023 11:50 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1677495000/148/
-- Montag, 27. Februar 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1677495000/150/
+- Montag, 27. Februar 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677492000/2884/
+- Montag, 27. Februar 2023 11:12 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1677492720/103/
+- Montag, 27. Februar 2023 11:20 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1677493200/148/
+- Montag, 27. Februar 2023 11:24 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677493440/1018/
+- Montag, 27. Februar 2023 12:00 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677495600/2854/
+- Montag, 27. Februar 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677495600/2884/
 - Montag, 27. Februar 2023 12:20 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1677496800/148/
-- Montag, 27. Februar 2023 12:30 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1677497400/148/
-- Montag, 27. Februar 2023 12:36 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677497760/1018/
 - Montag, 27. Februar 2023 12:48 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677498480/1018/
+- Montag, 27. Februar 2023 12:54 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677498840/841/
 - Montag, 27. Februar 2023 13:00 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1677499200/147/
+- Montag, 27. Februar 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677499200/2854/
+- Montag, 27. Februar 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677499200/2884/
 - Montag, 27. Februar 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677499200/1018/
-- Montag, 27. Februar 2023 13:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1677499800/147/
-- Montag, 27. Februar 2023 13:12 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677499920/1018/
-- Montag, 27. Februar 2023 13:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1677500400/147/
-- Montag, 27. Februar 2023 13:24 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677500640/1018/
-- Montag, 27. Februar 2023 13:30 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1677501000/147/
-- Montag, 27. Februar 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1677501000/151/
-- Montag, 27. Februar 2023 13:36 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677501360/1018/
-- Montag, 27. Februar 2023 13:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1677501600/147/
-- Montag, 27. Februar 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1677501600/151/
-- Montag, 27. Februar 2023 13:48 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677502080/1018/
-- Montag, 27. Februar 2023 13:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1677502200/147/
-- Montag, 27. Februar 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1677502200/151/
+- Montag, 27. Februar 2023 13:30 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1677501000/151/
 - Montag, 27. Februar 2023 14:00 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1677502800/147/
+- Montag, 27. Februar 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677502800/2854/
 - Montag, 27. Februar 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677502800/1018/
-- Montag, 27. Februar 2023 14:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1677503400/147/
-- Montag, 27. Februar 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1677503400/151/
-- Montag, 27. Februar 2023 14:12 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677503520/1018/
-- Montag, 27. Februar 2023 14:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1677504000/147/
-- Montag, 27. Februar 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1677504000/151/
-- Montag, 27. Februar 2023 14:24 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677504240/1018/
-- Montag, 27. Februar 2023 14:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1677505200/147/
-- Montag, 27. Februar 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1677505200/151/
-- Montag, 27. Februar 2023 14:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1677505800/147/
-- Montag, 27. Februar 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1677505800/151/
-- Montag, 27. Februar 2023 15:10 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1677507000/151/
+- Montag, 27. Februar 2023 14:10 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1677503400/151/
 - Montag, 27. Februar 2023 15:20 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1677507600/151/
 - Montag, 27. Februar 2023 15:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1677508200/150/
