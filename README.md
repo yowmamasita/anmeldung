@@ -1,6 +1,2 @@
-# list of available Anmeldung appointments as of Mon Jan  2 05:52:23 UTC 2023
-- Montag, 2. Januar 2023 07:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672641000/2914/
-- Montag, 2. Januar 2023 07:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672641720/2914/
-- Montag, 2. Januar 2023 08:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672643160/2914/
+# list of available Anmeldung appointments as of Mon Jan  2 05:53:21 UTC 2023
 - Montag, 2. Januar 2023 08:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672643880/2914/
-- Montag, 2. Januar 2023 09:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672647480/2914/
