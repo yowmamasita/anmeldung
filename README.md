@@ -1,7 +1,27 @@
-# list of available Anmeldung appointments as of Mon Jan  2 06:35:26 UTC 2023
+# list of available Anmeldung appointments as of Mon Jan  2 06:36:28 UTC 2023
+- Montag, 2. Januar 2023 07:54 Bürgeramt 4 (Alt- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672642440/2917/
+- Montag, 2. Januar 2023 08:06 Bürgeramt 4 (Alt- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672643160/2917/
+- Montag, 2. Januar 2023 08:30 Bürgeramt 4 (Alt- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672644600/2917/
+- Montag, 2. Januar 2023 08:42 Bürgeramt 4 (Alt- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672645320/2917/
+- Montag, 2. Januar 2023 09:18 Bürgeramt 4 (Alt- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672647480/2917/
+- Montag, 2. Januar 2023 09:30 Bürgeramt 4 (Alt- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672648200/2917/
+- Montag, 2. Januar 2023 09:42 Bürgeramt 4 (Alt- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672648920/2917/
+- Montag, 2. Januar 2023 10:18 Bürgeramt 4 (Alt- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672651080/2917/
+- Montag, 2. Januar 2023 10:30 Bürgeramt 4 (Alt- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672651800/2917/
+- Montag, 2. Januar 2023 10:42 Bürgeramt 4 (Alt- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672652520/2917/
+- Montag, 2. Januar 2023 10:54 Bürgeramt 4 (Alt- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672653240/2917/
+- Montag, 2. Januar 2023 12:18 Bürgeramt 4 (Alt- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672658280/2917/
+- Montag, 2. Januar 2023 12:30 Bürgeramt 4 (Alt- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672659000/2917/
+- Montag, 2. Januar 2023 12:42 Bürgeramt 4 (Alt- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672659720/2917/
+- Montag, 2. Januar 2023 12:54 Bürgeramt 4 (Alt- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672660440/2917/
+- Montag, 2. Januar 2023 13:06 Bürgeramt 4 (Alt- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672661160/2917/
+- Montag, 2. Januar 2023 13:18 Bürgeramt 4 (Alt- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672661880/2917/
+- Montag, 2. Januar 2023 13:30 Bürgeramt 4 (Alt- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672662600/2917/
+- Montag, 2. Januar 2023 13:42 Bürgeramt 4 (Alt- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672663320/2917/
+- Montag, 2. Januar 2023 13:54 Bürgeramt 4 (Alt- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672664040/2917/
+- Montag, 2. Januar 2023 14:06 Bürgeramt 4 (Alt- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672664760/2917/
 - Montag, 27. Februar 2023 07:30 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677479400/2911/
 - Montag, 27. Februar 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677479400/2914/
-- Montag, 27. Februar 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677479400/844/
 - Montag, 27. Februar 2023 07:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677480120/2911/
 - Montag, 27. Februar 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677480120/2914/
 - Montag, 27. Februar 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1677480120/112/
@@ -12,13 +32,10 @@
 - Montag, 27. Februar 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677480840/844/
 - Montag, 27. Februar 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677480840/841/
 - Montag, 27. Februar 2023 08:06 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677481560/2911/
-- Montag, 27. Februar 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1677481560/136/
-- Montag, 27. Februar 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677481560/2914/
 - Montag, 27. Februar 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1677481560/112/
 - Montag, 27. Februar 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677481560/844/
 - Montag, 27. Februar 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677481560/841/
 - Montag, 27. Februar 2023 08:18 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677482280/2911/
-- Montag, 27. Februar 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1677482280/136/
 - Montag, 27. Februar 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677482280/2914/
 - Montag, 27. Februar 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1677482280/112/
 - Montag, 27. Februar 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677482280/844/
@@ -40,6 +57,7 @@
 - Montag, 27. Februar 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677484440/844/
 - Montag, 27. Februar 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677484440/841/
 - Montag, 27. Februar 2023 09:06 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677485160/2911/
+- Montag, 27. Februar 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1677485160/136/
 - Montag, 27. Februar 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677485160/2914/
 - Montag, 27. Februar 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1677485160/112/
 - Montag, 27. Februar 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677485160/844/
@@ -67,8 +85,7 @@
 - Montag, 27. Februar 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1677488040/112/
 - Montag, 27. Februar 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677488040/844/
 - Montag, 27. Februar 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677488040/841/
-- Montag, 27. Februar 2023 10:06 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677488760/2911/
-- Montag, 27. Februar 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1677488760/136/
+- Montag, 27. Februar 2023 10:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1677488760/136/
 - Montag, 27. Februar 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1677488760/112/
 - Montag, 27. Februar 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677488760/844/
 - Montag, 27. Februar 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677488760/841/
@@ -98,7 +115,6 @@
 - Montag, 27. Februar 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677493080/2914/
 - Montag, 27. Februar 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677493080/841/
 - Montag, 27. Februar 2023 11:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677493800/2914/
-- Montag, 27. Februar 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677493800/841/
 - Montag, 27. Februar 2023 11:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677494520/2914/
 - Montag, 27. Februar 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677494520/841/
 - Montag, 27. Februar 2023 11:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677495240/2914/
@@ -116,4 +132,3 @@
 - Montag, 27. Februar 2023 14:06 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677503160/841/
 - Montag, 27. Februar 2023 14:18 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677503880/841/
 - Montag, 27. Februar 2023 14:30 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677504600/841/
-- Montag, 27. Februar 2023 14:42 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677505320/841/
