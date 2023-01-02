@@ -3,14 +3,14 @@
 git config user.name "automated"
 git config user.email "actions@users.noreply.github.com"
 
-anmeldungUrl="https://github.com/yowmamasita/anmeldung/blob/main/README.md"
+actionUrl="https://github.com/yowmamasita/anmeldung/blob/main/README.md"
 
 timestamp=$(TZ=Europe/Berlin date -u)
 
 appointmentCount=$(cat results.txt | wc -l)
 
 if [ "${appointmentCount}" -ne "0" ]; then
-	curl -d "${appointmentCount} Anmeldung appointment(s) found! Book fast!" -H "Click: ${anmeldungUrl}" ntfy.sh/anmeldung || exit 0;
+	curl -d "${appointmentCount} Anmeldung appointment(s) found! Book fast!" -H "Click: ${actionUrl}" ntfy.sh/anmeldung || exit 0;
 fi
 
 rm -f README.md
