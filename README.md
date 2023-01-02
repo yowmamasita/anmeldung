@@ -1,2 +1,1 @@
-# list of available Anmeldung appointments as of Mon Jan  2 05:28:22 UTC 2023
-- Montag, 2. Januar 2023 07:30 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672641000/844/
+# list of available Anmeldung appointments as of Mon Jan  2 05:29:27 UTC 2023
