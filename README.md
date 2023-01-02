@@ -1,16 +1,1 @@
-# list of available Anmeldung appointments as of Mon Jan  2 09:31:29 UTC 2023
-- Dienstag, 3. Januar 2023 11:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1672742880/136/
-- Mittwoch, 18. Januar 2023 10:18 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674033480/2887/
-- Mittwoch, 8. Februar 2023 10:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675848960/3238/
-- Mittwoch, 8. Februar 2023 12:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675854720/169/
-- Mittwoch, 8. Februar 2023 12:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675855440/169/
-- Donnerstag, 9. Februar 2023 11:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675938960/2857/
-- Montag, 20. Februar 2023 09:18 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1676881080/2911/
-- Dienstag, 21. Februar 2023 16:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1676994480/2896/
-- Donnerstag, 23. Februar 2023 11:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1677147120/146/
-- Montag, 27. Februar 2023 09:18 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677485880/2911/
-- Montag, 27. Februar 2023 10:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1677489840/106/
-- Montag, 27. Februar 2023 12:42 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677498120/841/
-- Montag, 27. Februar 2023 14:12 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677503520/2887/
-- Montag, 27. Februar 2023 14:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677505680/2887/
-- Dienstag, 28. Februar 2023 15:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1677594960/231/
+# list of available Anmeldung appointments as of Mon Jan  2 09:32:25 UTC 2023
