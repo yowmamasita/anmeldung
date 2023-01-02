@@ -1,4 +1,1 @@
-# list of available Anmeldung appointments as of Mon Jan  2 09:27:27 UTC 2023
-- Montag, 27. Februar 2023 12:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677496320/3238/
-- Montag, 27. Februar 2023 13:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1677500400/147/
-- Dienstag, 28. Februar 2023 13:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677587040/2899/
+# list of available Anmeldung appointments as of Mon Jan  2 09:28:26 UTC 2023
