@@ -10,11 +10,12 @@ timestamp=$(date -u)
 appointmentCount=$(cat results.txt | wc -l)
 
 if [ "${appointmentCount}" -ne "0" ]; then
-	rm -f README.md
-	echo "# list of available Anmeldung appointments as of ${timestamp}" > README.md
-	cat results.txt >> README.md
 	curl -d "${appointmentCount} Anmeldung appointment(s) found! Book fast!" -H "Click: ${anmeldungUrl}" ntfy.sh/anmeldung || exit 0;
 fi
+
+rm -f README.md
+echo "# list of available Anmeldung appointments as of ${timestamp}" > README.md
+cat results.txt >> README.md
 
 git add -A
 git commit -m "latest data: ${timestamp}, slots: ${appointmentCount}" || exit 0
