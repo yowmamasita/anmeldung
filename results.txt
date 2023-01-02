@@ -1,14 +1,9 @@
-- Montag, 16. Januar 2023 13:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1673872920/136/
-- Montag, 16. Januar 2023 13:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1673873640/136/
-- Montag, 16. Januar 2023 14:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1673874360/136/
-- Montag, 16. Januar 2023 14:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1673875080/136/
-- Montag, 23. Januar 2023 13:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1674475560/136/
+- Montag, 16. Januar 2023 13:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1673872200/136/
 - Montag, 23. Januar 2023 13:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1674476280/136/
 - Montag, 23. Januar 2023 13:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1674477720/136/
 - Montag, 23. Januar 2023 13:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1674478440/136/
 - Montag, 23. Januar 2023 14:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1674479160/136/
 - Montag, 23. Januar 2023 14:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1674479880/136/
-- Montag, 23. Januar 2023 14:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1674480600/136/
 - Montag, 23. Januar 2023 14:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1674481320/136/
 - Montag, 23. Januar 2023 15:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1674482760/136/
 - Montag, 23. Januar 2023 15:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1674483480/136/
@@ -16,7 +11,6 @@
 - Montag, 30. Januar 2023 13:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1675080360/136/
 - Montag, 30. Januar 2023 13:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1675081080/136/
 - Montag, 30. Januar 2023 13:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1675081800/136/
-- Montag, 30. Januar 2023 13:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1675082520/136/
 - Montag, 30. Januar 2023 13:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1675083240/136/
 - Montag, 30. Januar 2023 14:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1675083960/136/
 - Montag, 30. Januar 2023 14:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1675084680/136/
@@ -24,11 +18,9 @@
 - Montag, 30. Januar 2023 14:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1675086120/136/
 - Montag, 30. Januar 2023 14:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1675086840/136/
 - Montag, 30. Januar 2023 15:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1675087560/136/
-- Montag, 30. Januar 2023 15:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1675088280/136/
 - Montag, 6. Februar 2023 13:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1675685880/136/
 - Montag, 6. Februar 2023 13:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1675687320/136/
 - Montag, 6. Februar 2023 13:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1675688040/136/
-- Montag, 6. Februar 2023 14:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1675688760/136/
 - Montag, 6. Februar 2023 14:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1675689480/136/
 - Montag, 6. Februar 2023 14:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1675690200/136/
 - Montag, 6. Februar 2023 14:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1675690920/136/
