@@ -1,4 +1,2 @@
-# list of available Anmeldung appointments as of Mon Jan  2 06:21:30 UTC 2023
-- Donnerstag, 23. Februar 2023 10:00 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677142800/2911/
+# list of available Anmeldung appointments as of Mon Jan  2 06:22:21 UTC 2023
 - Donnerstag, 23. Februar 2023 16:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677165840/3238/
-- Freitag, 24. Februar 2023 07:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677218400/2851/
