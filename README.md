@@ -1,13 +1,2 @@
-# list of available Anmeldung appointments as of Mon Jan  2 08:52:25 UTC 2023
-- Montag, 2. Januar 2023 11:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672655040/2863/
-- Freitag, 3. Februar 2023 09:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675411200/2857/
-- Donnerstag, 9. Februar 2023 11:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675938240/2857/
-- Donnerstag, 9. Februar 2023 13:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675944720/2857/
-- Donnerstag, 9. Februar 2023 13:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675945440/2857/
-- Donnerstag, 9. Februar 2023 13:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675946160/2857/
-- Freitag, 10. Februar 2023 09:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1676017440/2857/
-- Freitag, 10. Februar 2023 09:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1676018160/2857/
-- Freitag, 10. Februar 2023 09:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1676018880/2857/
-- Freitag, 10. Februar 2023 10:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1676020320/2857/
-- Freitag, 10. Februar 2023 10:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1676021040/2857/
-- Montag, 13. Februar 2023 10:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1676281680/143/
+# list of available Anmeldung appointments as of Mon Jan  2 08:53:24 UTC 2023
+- Donnerstag, 9. Februar 2023 14:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675949040/2857/
