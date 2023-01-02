@@ -1,10 +1,9 @@
-# list of available Anmeldung appointments as of Mon Jan  2 06:00:37 UTC 2023
+# list of available Anmeldung appointments as of Mon Jan  2 06:01:23 UTC 2023
 - Freitag, 24. Februar 2023 07:00 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1677218400/143/
 - Freitag, 24. Februar 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677218400/2851/
 - Freitag, 24. Februar 2023 07:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1677219120/143/
 - Freitag, 24. Februar 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677219120/2851/
-- Freitag, 24. Februar 2023 07:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1677219840/143/
-- Freitag, 24. Februar 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677219840/2851/
+- Freitag, 24. Februar 2023 07:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677219840/2851/
 - Freitag, 24. Februar 2023 07:36 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1677220560/143/
 - Freitag, 24. Februar 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677220560/2851/
 - Freitag, 24. Februar 2023 07:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1677221280/143/
@@ -46,15 +45,13 @@
 - Freitag, 24. Februar 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677234960/2851/
 - Freitag, 24. Februar 2023 11:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1677235680/143/
 - Freitag, 24. Februar 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677235680/2851/
-- Freitag, 24. Februar 2023 12:00 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1677236400/143/
 - Freitag, 24. Februar 2023 12:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1677237120/143/
 - Freitag, 24. Februar 2023 12:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1677237840/143/
 - Freitag, 24. Februar 2023 12:36 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1677238560/143/
 - Freitag, 24. Februar 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677238560/2851/
 - Freitag, 24. Februar 2023 12:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1677239280/143/
 - Freitag, 24. Februar 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677239280/2851/
-- Freitag, 24. Februar 2023 13:00 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1677240000/143/
-- Freitag, 24. Februar 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677240000/2851/
+- Freitag, 24. Februar 2023 13:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677240000/2851/
 - Freitag, 24. Februar 2023 13:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1677240720/143/
 - Freitag, 24. Februar 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677240720/2851/
 - Freitag, 24. Februar 2023 13:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1677241440/143/
@@ -65,5 +62,4 @@
 - Freitag, 24. Februar 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677242880/2851/
 - Freitag, 24. Februar 2023 14:00 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1677243600/143/
 - Freitag, 24. Februar 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677243600/2851/
-- Freitag, 24. Februar 2023 14:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1677244320/143/
-- Freitag, 24. Februar 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677244320/2851/
+- Freitag, 24. Februar 2023 14:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677244320/2851/
