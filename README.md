@@ -1,8 +1,3 @@
-# list of available Anmeldung appointments as of Mon Jan  2 08:18:22 UTC 2023
+# list of available Anmeldung appointments as of Mon Jan  2 08:19:26 UTC 2023
 - Montag, 2. Januar 2023 10:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672650000/2848/
 - Montag, 2. Januar 2023 10:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672650720/2848/
-- Montag, 2. Januar 2023 10:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672651440/2848/
-- Montag, 2. Januar 2023 10:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672652160/2848/
-- Montag, 2. Januar 2023 10:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672652880/2848/
-- Montag, 2. Januar 2023 11:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672655040/2848/
-- Montag, 2. Januar 2023 11:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672655760/2848/
