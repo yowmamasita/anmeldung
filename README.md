@@ -1,2 +1,58 @@
-# list of available Anmeldung appointments as of Mon Jan  2 09:10:28 UTC 2023
-
+# list of available Anmeldung appointments as of Mon Jan  2 09:11:29 UTC 2023
+- Dienstag, 3. Januar 2023 08:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672729920/2851/
+- Dienstag, 3. Januar 2023 10:12 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672737120/904/
+- Dienstag, 17. Januar 2023 16:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1673969040/112/
+- Dienstag, 17. Januar 2023 16:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1673969760/112/
+- Mittwoch, 18. Januar 2023 10:48 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674035280/2920/
+- Donnerstag, 2. Februar 2023 11:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675334160/169/
+- Donnerstag, 2. Februar 2023 12:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675336320/169/
+- Donnerstag, 2. Februar 2023 12:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675337040/169/
+- Donnerstag, 2. Februar 2023 12:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675337760/169/
+- Donnerstag, 2. Februar 2023 12:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675338480/169/
+- Donnerstag, 2. Februar 2023 13:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675339200/169/
+- Donnerstag, 2. Februar 2023 13:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675339920/169/
+- Donnerstag, 2. Februar 2023 13:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675340640/169/
+- Donnerstag, 2. Februar 2023 13:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675341360/169/
+- Donnerstag, 2. Februar 2023 13:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675342080/169/
+- Donnerstag, 2. Februar 2023 14:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675342800/169/
+- Donnerstag, 2. Februar 2023 14:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675343520/169/
+- Donnerstag, 2. Februar 2023 14:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675344240/169/
+- Donnerstag, 2. Februar 2023 14:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675344960/169/
+- Donnerstag, 2. Februar 2023 14:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675345680/169/
+- Donnerstag, 2. Februar 2023 15:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675347120/169/
+- Donnerstag, 2. Februar 2023 15:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675347840/169/
+- Donnerstag, 2. Februar 2023 15:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675348560/169/
+- Donnerstag, 2. Februar 2023 15:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675349280/169/
+- Donnerstag, 2. Februar 2023 16:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675350720/169/
+- Donnerstag, 2. Februar 2023 16:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675351440/169/
+- Donnerstag, 2. Februar 2023 16:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675352160/169/
+- Donnerstag, 2. Februar 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675352160/2857/
+- Donnerstag, 2. Februar 2023 16:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675352880/169/
+- Donnerstag, 2. Februar 2023 17:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675355040/169/
+- Donnerstag, 2. Februar 2023 17:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675355760/169/
+- Donnerstag, 2. Februar 2023 17:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675356480/169/
+- Freitag, 3. Februar 2023 08:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675409040/169/
+- Freitag, 3. Februar 2023 08:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675409760/169/
+- Freitag, 3. Februar 2023 08:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675410480/169/
+- Freitag, 3. Februar 2023 09:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675411200/169/
+- Freitag, 3. Februar 2023 09:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675411920/169/
+- Freitag, 3. Februar 2023 09:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675412640/169/
+- Freitag, 3. Februar 2023 09:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675413360/169/
+- Freitag, 3. Februar 2023 09:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675414080/169/
+- Freitag, 3. Februar 2023 10:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675414800/169/
+- Freitag, 3. Februar 2023 10:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675415520/169/
+- Freitag, 3. Februar 2023 10:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675416240/169/
+- Freitag, 3. Februar 2023 10:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675416960/169/
+- Freitag, 3. Februar 2023 10:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675417680/169/
+- Freitag, 3. Februar 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675417680/2857/
+- Freitag, 3. Februar 2023 11:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675418400/169/
+- Freitag, 3. Februar 2023 11:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675419120/169/
+- Freitag, 3. Februar 2023 11:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675419840/169/
+- Freitag, 3. Februar 2023 11:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675420560/169/
+- Freitag, 3. Februar 2023 11:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675421280/169/
+- Freitag, 3. Februar 2023 12:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675422720/169/
+- Freitag, 3. Februar 2023 12:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675423440/169/
+- Freitag, 3. Februar 2023 12:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1675424160/169/
+- Montag, 27. Februar 2023 10:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677489120/2845/
+- Montag, 27. Februar 2023 10:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677489840/2845/
+- Montag, 27. Februar 2023 12:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677496320/3238/
