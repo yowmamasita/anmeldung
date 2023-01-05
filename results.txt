@@ -1,8 +1,6 @@
-- Donnerstag, 16. Februar 2023 12:48 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1676548080/904/
 - Dienstag, 21. Februar 2023 11:12 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1676974320/904/
 - Dienstag, 21. Februar 2023 11:24 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1676975040/904/
 - Dienstag, 21. Februar 2023 11:48 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1676976480/904/
-- Dienstag, 21. Februar 2023 12:12 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1676977920/904/
 - Dienstag, 21. Februar 2023 12:24 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1676978640/904/
 - Dienstag, 21. Februar 2023 12:36 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1676979360/904/
 - Dienstag, 21. Februar 2023 12:48 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1676980080/904/
@@ -67,7 +65,6 @@
 - Donnerstag, 23. Februar 2023 15:24 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677162240/904/
 - Donnerstag, 23. Februar 2023 15:36 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677162960/904/
 - Donnerstag, 23. Februar 2023 15:48 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677163680/904/
-- Donnerstag, 23. Februar 2023 16:12 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677165120/904/
 - Freitag, 24. Februar 2023 07:30 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677220200/904/
 - Freitag, 24. Februar 2023 07:42 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677220920/904/
 - Freitag, 24. Februar 2023 07:54 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677221640/904/
@@ -112,4 +109,3 @@
 - Dienstag, 28. Februar 2023 15:36 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677594960/904/
 - Dienstag, 28. Februar 2023 16:12 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677597120/904/
 - Dienstag, 28. Februar 2023 16:24 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677597840/904/
-- Dienstag, 28. Februar 2023 17:12 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677600720/904/
