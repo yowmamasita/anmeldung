@@ -1,11 +1,8 @@
-- Freitag, 6. Januar 2023 08:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1672988400/168/
-- Freitag, 6. Januar 2023 08:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1672989120/168/
-- Freitag, 6. Januar 2023 08:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1672989840/168/
 - Freitag, 6. Januar 2023 08:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1672990560/168/
 - Freitag, 6. Januar 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672990560/2863/
 - Freitag, 6. Januar 2023 08:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1672991280/168/
 - Freitag, 6. Januar 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672991280/2863/
-- Freitag, 6. Januar 2023 09:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1672992720/168/
-- Freitag, 6. Januar 2023 09:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1672993440/168/
-- Freitag, 6. Januar 2023 09:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1672994160/168/
-- Freitag, 6. Januar 2023 09:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1672994880/168/
+- Mittwoch, 22. Februar 2023 08:42 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677051720/904/
+- Donnerstag, 23. Februar 2023 10:00 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677142800/904/
+- Donnerstag, 23. Februar 2023 12:48 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677152880/904/
+- Montag, 27. Februar 2023 09:36 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677486960/2866/
