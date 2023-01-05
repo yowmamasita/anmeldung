@@ -1,10 +1,1 @@
-- Donnerstag, 5. Januar 2023 12:12 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1672917120/135/
-- Donnerstag, 5. Januar 2023 12:24 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1672917840/135/
-- Donnerstag, 5. Januar 2023 12:36 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1672918560/135/
-- Donnerstag, 5. Januar 2023 12:48 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1672919280/135/
-- Donnerstag, 5. Januar 2023 13:00 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1672920000/135/
-- Donnerstag, 5. Januar 2023 14:24 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1672925040/135/
-- Donnerstag, 5. Januar 2023 14:48 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1672926480/135/
-- Donnerstag, 5. Januar 2023 15:24 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1672928640/135/
-- Donnerstag, 5. Januar 2023 15:36 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1672929360/135/
-- Donnerstag, 5. Januar 2023 15:48 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1672930080/135/
+
