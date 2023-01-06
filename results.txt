@@ -1,9 +1,0 @@
-- Montag, 27. Februar 2023 11:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1677493080/313/
-- Montag, 27. Februar 2023 11:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1677493800/313/
-- Montag, 27. Februar 2023 12:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1677497400/313/
-- Montag, 27. Februar 2023 13:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1677501000/313/
-- Montag, 27. Februar 2023 13:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1677501720/313/
-- Montag, 27. Februar 2023 13:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1677502440/313/
-- Montag, 27. Februar 2023 14:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1677503880/313/
-- Montag, 27. Februar 2023 14:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1677504600/313/
-- Montag, 27. Februar 2023 14:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1677505320/313/
