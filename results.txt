@@ -1,16 +1,1 @@
-- Montag, 9. Januar 2023 07:54 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673247240/2911/
-- Montag, 9. Januar 2023 08:54 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673250840/2911/
-- Montag, 9. Januar 2023 09:18 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673252280/2911/
-- Montag, 9. Januar 2023 09:30 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673253000/2911/
-- Montag, 9. Januar 2023 09:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673253720/2911/
-- Montag, 9. Januar 2023 10:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673257320/2911/
-- Montag, 9. Januar 2023 10:54 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673258040/2911/
-- Montag, 9. Januar 2023 11:18 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673259480/2911/
-- Montag, 9. Januar 2023 12:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673264520/2911/
-- Montag, 9. Januar 2023 12:54 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673265240/2911/
-- Montag, 9. Januar 2023 13:18 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673266680/2911/
-- Montag, 9. Januar 2023 13:30 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673267400/2911/
-- Montag, 9. Januar 2023 13:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673268120/2911/
-- Montag, 9. Januar 2023 13:54 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673268840/2911/
-- Montag, 9. Januar 2023 14:06 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673269560/111/
-- Montag, 9. Januar 2023 14:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673271720/2911/
+- Montag, 9. Januar 2023 08:18 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673248680/2911/
