@@ -1,24 +1,9 @@
 - Freitag, 6. Januar 2023 08:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1672988400/169/
+- Freitag, 6. Januar 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672988400/3238/
+- Freitag, 6. Januar 2023 08:06 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1672988760/133/
+- Freitag, 6. Januar 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672988760/2914/
 - Freitag, 6. Januar 2023 08:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1672989120/169/
+- Freitag, 6. Januar 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672989120/3238/
 - Freitag, 6. Januar 2023 08:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1672989840/169/
-- Freitag, 6. Januar 2023 08:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1672990560/169/
-- Freitag, 6. Januar 2023 08:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1672991280/169/
-- Montag, 9. Januar 2023 11:06 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673258760/111/
-- Montag, 9. Januar 2023 11:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673259480/111/
-- Montag, 9. Januar 2023 11:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673260200/111/
-- Montag, 9. Januar 2023 11:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673260920/111/
-- Montag, 9. Januar 2023 11:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673261640/111/
-- Montag, 9. Januar 2023 12:06 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673262360/111/
-- Montag, 9. Januar 2023 12:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673263080/111/
-- Montag, 9. Januar 2023 12:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673263800/111/
-- Montag, 9. Januar 2023 12:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673264520/111/
-- Montag, 9. Januar 2023 12:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673265240/111/
-- Montag, 9. Januar 2023 13:06 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673265960/111/
-- Montag, 9. Januar 2023 13:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673266680/111/
-- Montag, 9. Januar 2023 13:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673267400/111/
-- Montag, 9. Januar 2023 13:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673268840/111/
-- Montag, 9. Januar 2023 14:06 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673269560/111/
-- Montag, 9. Januar 2023 14:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673270280/111/
-- Montag, 9. Januar 2023 14:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673271000/111/
-- Montag, 9. Januar 2023 14:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673271720/111/
-- Montag, 9. Januar 2023 14:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673272440/111/
+- Freitag, 6. Januar 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672989840/3238/
+- Freitag, 6. Januar 2023 10:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1672998480/3238/
