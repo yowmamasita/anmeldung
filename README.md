@@ -1,2 +1,75 @@
-# list of available Anmeldung appointments as of Fri Jan  6 14:54:23 CET 2023
+# list of available Anmeldung appointments as of Fri Jan  6 14:55:26 CET 2023
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=0&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122252,329742,122260,329745,122262,329748,122254,329751,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,327539,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122301,327282,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,122281,327352,122279,329772,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300,121362,121364&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
+- Montag, 9. Januar 2023 08:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673247600/2863/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673247600/2899/
+- Montag, 9. Januar 2023 08:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673248320/168/
+- Montag, 9. Januar 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673248320/2863/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1673248320/172/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673248320/2899/
+- Montag, 9. Januar 2023 08:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673249040/168/
+- Montag, 9. Januar 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673249040/2863/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1673249040/172/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673249040/2899/
+- Montag, 9. Januar 2023 08:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673249760/168/
+- Montag, 9. Januar 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673249760/2863/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1673249760/172/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673249760/2899/
+- Montag, 9. Januar 2023 08:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673250480/168/
+- Montag, 9. Januar 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673250480/2863/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1673250480/172/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673250480/2899/
+- Montag, 9. Januar 2023 09:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673251920/168/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1673251920/172/
+- Montag, 9. Januar 2023 09:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673252640/168/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1673252640/172/
+- Montag, 9. Januar 2023 09:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673253360/168/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1673253360/172/
+- Montag, 9. Januar 2023 09:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673254080/168/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1673254080/172/
+- Montag, 9. Januar 2023 10:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673255520/168/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1673255520/172/
+- Montag, 9. Januar 2023 10:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673256240/168/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1673256240/172/
+- Montag, 9. Januar 2023 10:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673256960/168/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1673256960/172/
+- Montag, 9. Januar 2023 10:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673257680/168/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1673257680/172/
+- Montag, 9. Januar 2023 11:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673258400/168/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673258400/2899/
+- Montag, 9. Januar 2023 11:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673259120/168/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673259120/2899/
+- Montag, 9. Januar 2023 11:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673259840/168/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673259840/2899/
+- Montag, 9. Januar 2023 11:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673260560/168/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673260560/2899/
+- Montag, 9. Januar 2023 11:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673261280/168/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673261280/2899/
+- Montag, 9. Januar 2023 12:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673262000/168/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673262000/2899/
+- Montag, 9. Januar 2023 12:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673262720/168/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673262720/2899/
+- Montag, 9. Januar 2023 12:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673263440/168/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673263440/2899/
+- Montag, 9. Januar 2023 12:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673264160/168/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673264160/2899/
+- Montag, 9. Januar 2023 12:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673264880/168/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673264880/2899/
+- Montag, 9. Januar 2023 13:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673265600/168/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673265600/2899/
+- Montag, 9. Januar 2023 13:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673266320/168/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673266320/2899/
+- Montag, 9. Januar 2023 13:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673267040/168/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673267040/2899/
+- Montag, 9. Januar 2023 13:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673267760/168/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673267760/2899/
+- Montag, 9. Januar 2023 13:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673268480/168/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673268480/2899/
+- Montag, 9. Januar 2023 14:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673269200/2899/
+- Montag, 9. Januar 2023 14:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673269920/168/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673269920/2899/
+- Montag, 9. Januar 2023 14:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673270640/168/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673270640/2899/
+- Montag, 9. Januar 2023 14:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673271360/168/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673271360/2899/
+- Montag, 9. Januar 2023 14:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673272080/168/
+- Montag, 9. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673272080/2899/
