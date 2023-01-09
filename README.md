@@ -1,20 +1,23 @@
-# list of available Anmeldung appointments as of Mon Jan  9 07:42:32 CET 2023
+# list of available Anmeldung appointments as of Mon Jan  9 07:43:25 CET 2023
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=0&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122252,329742,122260,329745,122262,329748,122254,329751,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,327539,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122301,327282,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,122281,327352,122279,329772,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300,121362,121364&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
 - Montag, 9. Januar 2023 08:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673247600/146/
 - Montag, 9. Januar 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673247600/2875/
 - Montag, 9. Januar 2023 08:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673248320/146/
 - Montag, 9. Januar 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673248320/2875/
+- Montag, 9. Januar 2023 08:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1673248680/136/
 - Montag, 9. Januar 2023 08:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673249040/146/
 - Montag, 9. Januar 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673249040/2875/
 - Montag, 9. Januar 2023 08:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673249760/146/
 - Montag, 9. Januar 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673249760/2875/
 - Montag, 9. Januar 2023 08:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673250480/146/
-- Montag, 9. Januar 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673250480/2875/
-- Montag, 9. Januar 2023 09:00 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673251200/2932/
-- Montag, 9. Januar 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673251200/2875/
+- Montag, 9. Januar 2023 08:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1673250840/136/
+- Montag, 9. Januar 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673250840/2914/
+- Montag, 9. Januar 2023 09:00 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673251200/2875/
 - Montag, 9. Januar 2023 09:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673251920/2932/
 - Montag, 9. Januar 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673251920/146/
 - Montag, 9. Januar 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673251920/2875/
+- Montag, 9. Januar 2023 09:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1673252280/136/
+- Montag, 9. Januar 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673252280/2914/
 - Montag, 9. Januar 2023 09:24 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673252640/2932/
 - Montag, 9. Januar 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673252640/146/
 - Montag, 9. Januar 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673252640/2875/
@@ -27,53 +30,16 @@
 - Montag, 9. Januar 2023 10:00 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673254800/2932/
 - Montag, 9. Januar 2023 10:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673255520/2932/
 - Montag, 9. Januar 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673255520/146/
-- Montag, 9. Januar 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673255520/2875/
+- Montag, 9. Januar 2023 10:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1673255880/136/
 - Montag, 9. Januar 2023 10:24 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673256240/2932/
 - Montag, 9. Januar 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673256240/146/
-- Montag, 9. Januar 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673256240/2875/
 - Montag, 9. Januar 2023 10:36 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673256960/2932/
 - Montag, 9. Januar 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673256960/146/
-- Montag, 9. Januar 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673256960/2875/
 - Montag, 9. Januar 2023 10:48 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673257680/2932/
-- Montag, 9. Januar 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673257680/146/
-- Montag, 9. Januar 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673257680/2875/
 - Montag, 9. Januar 2023 11:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673259120/2932/
 - Montag, 9. Januar 2023 11:24 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673259840/2932/
-- Montag, 9. Januar 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673259840/146/
-- Montag, 9. Januar 2023 11:36 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673260560/2932/
-- Montag, 9. Januar 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673260560/146/
-- Montag, 9. Januar 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673260560/2875/
-- Montag, 9. Januar 2023 11:48 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673261280/2932/
-- Montag, 9. Januar 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673261280/146/
-- Montag, 9. Januar 2023 12:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673262000/146/
-- Montag, 9. Januar 2023 12:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673262720/146/
-- Montag, 9. Januar 2023 12:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673263440/146/
-- Montag, 9. Januar 2023 12:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673264160/146/
-- Montag, 9. Januar 2023 12:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673264880/146/
-- Montag, 9. Januar 2023 13:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673266320/146/
-- Montag, 9. Januar 2023 13:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673267040/146/
 - Montag, 9. Januar 2023 13:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673267760/146/
-- Montag, 9. Januar 2023 13:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673268480/146/
-- Montag, 9. Januar 2023 14:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673269200/146/
-- Montag, 9. Januar 2023 14:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673269920/146/
-- Montag, 9. Januar 2023 14:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673270640/146/
-- Montag, 9. Januar 2023 14:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673271360/146/
-- Mittwoch, 8. Februar 2023 09:06 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1675843560/135/
-- Mittwoch, 8. Februar 2023 09:18 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1675844280/135/
-- Freitag, 10. Februar 2023 07:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676012040/135/
-- Freitag, 10. Februar 2023 08:06 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676012760/135/
-- Freitag, 10. Februar 2023 08:18 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676013480/135/
-- Freitag, 10. Februar 2023 08:30 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676014200/135/
-- Freitag, 10. Februar 2023 08:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676014920/135/
-- Freitag, 10. Februar 2023 08:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676015640/135/
-- Freitag, 10. Februar 2023 09:06 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676016360/135/
-- Freitag, 10. Februar 2023 09:18 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676017080/135/
 - Freitag, 10. Februar 2023 09:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676018520/135/
-- Freitag, 10. Februar 2023 09:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676019240/135/
-- Freitag, 10. Februar 2023 10:18 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676020680/135/
-- Freitag, 10. Februar 2023 11:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676026440/135/
-- Freitag, 10. Februar 2023 12:06 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676027160/135/
-- Freitag, 10. Februar 2023 12:18 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676027880/135/
 - Mittwoch, 15. Februar 2023 07:30 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676442600/135/
 - Mittwoch, 15. Februar 2023 07:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676443320/135/
 - Mittwoch, 15. Februar 2023 07:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676444040/135/
@@ -82,9 +48,9 @@
 - Mittwoch, 15. Februar 2023 08:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676446920/135/
 - Mittwoch, 15. Februar 2023 09:18 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676449080/135/
 - Mittwoch, 15. Februar 2023 09:30 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676449800/135/
+- Mittwoch, 15. Februar 2023 09:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676450520/135/
 - Mittwoch, 15. Februar 2023 09:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676451240/135/
 - Mittwoch, 15. Februar 2023 10:06 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676451960/135/
-- Freitag, 17. Februar 2023 07:30 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676615400/135/
 - Freitag, 17. Februar 2023 07:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676616120/135/
 - Freitag, 17. Februar 2023 07:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676616840/135/
 - Freitag, 17. Februar 2023 08:06 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676617560/135/
@@ -114,7 +80,6 @@
 - Montag, 20. Februar 2023 08:06 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676876760/135/
 - Montag, 20. Februar 2023 08:18 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676877480/135/
 - Montag, 20. Februar 2023 08:30 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676878200/135/
-- Montag, 20. Februar 2023 08:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676878920/135/
 - Montag, 20. Februar 2023 08:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676879640/135/
 - Montag, 20. Februar 2023 09:06 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676880360/135/
 - Montag, 20. Februar 2023 09:18 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676881080/135/
@@ -136,7 +101,6 @@
 - Montag, 20. Februar 2023 13:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676897640/135/
 - Montag, 20. Februar 2023 14:06 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676898360/135/
 - Montag, 20. Februar 2023 14:18 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676899080/135/
-- Montag, 20. Februar 2023 14:30 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676899800/135/
 - Montag, 20. Februar 2023 14:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676900520/135/
 - Montag, 20. Februar 2023 14:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676901240/135/
 - Mittwoch, 22. Februar 2023 07:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1677048120/135/
@@ -176,7 +140,6 @@
 - Freitag, 24. Februar 2023 12:06 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1677236760/135/
 - Freitag, 24. Februar 2023 12:18 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1677237480/135/
 - Freitag, 24. Februar 2023 12:30 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1677238200/135/
-- Freitag, 24. Februar 2023 12:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1677238920/135/
 - Montag, 27. Februar 2023 07:30 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1677479400/135/
 - Montag, 27. Februar 2023 07:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1677480120/135/
 - Montag, 27. Februar 2023 07:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1677480840/135/
@@ -210,4 +173,3 @@
 - Montag, 27. Februar 2023 14:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1677505320/135/
 - Montag, 27. Februar 2023 14:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1677506040/135/
 - Montag, 27. Februar 2023 15:06 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1677506760/135/
-- Montag, 27. Februar 2023 15:18 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1677507480/135/
