@@ -1,7 +1,0 @@
-- Montag, 9. Januar 2023 12:36 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673264160/2839/
-- Dienstag, 10. Januar 2023 09:42 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673340120/2938/
-- Dienstag, 10. Januar 2023 10:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1673344200/150/
-- Dienstag, 10. Januar 2023 13:54 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673355240/2839/
-- Mittwoch, 11. Januar 2023 11:36 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673433360/2866/
-- Dienstag, 7. Februar 2023 12:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675768320/2899/
-- Dienstag, 28. Februar 2023 13:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1677587760/231/
