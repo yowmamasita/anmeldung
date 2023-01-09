@@ -1,25 +1,30 @@
-- Montag, 9. Januar 2023 08:06 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673247960/111/
 - Montag, 9. Januar 2023 08:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673248680/111/
 - Montag, 9. Januar 2023 08:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673249400/111/
 - Montag, 9. Januar 2023 08:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673250120/111/
-- Montag, 9. Januar 2023 08:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673250840/111/
-- Montag, 9. Januar 2023 09:06 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673251560/111/
+- Montag, 9. Januar 2023 09:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1673251920/153/
 - Montag, 9. Januar 2023 09:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673252280/111/
 - Montag, 9. Januar 2023 09:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673253000/111/
 - Montag, 9. Januar 2023 09:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673253720/111/
 - Montag, 9. Januar 2023 09:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673254440/111/
+- Montag, 9. Januar 2023 10:00 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1673254800/143/
 - Montag, 9. Januar 2023 10:06 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673255160/111/
-- Montag, 9. Januar 2023 10:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673255880/111/
-- Montag, 9. Januar 2023 10:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673256600/111/
-- Montag, 9. Januar 2023 10:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673257320/111/
-- Montag, 9. Januar 2023 10:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673258040/111/
-- Montag, 9. Januar 2023 11:06 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673258760/111/
-- Montag, 9. Januar 2023 11:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673259480/111/
+- Montag, 9. Januar 2023 10:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673256960/146/
+- Montag, 9. Januar 2023 11:00 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673258400/2932/
+- Montag, 9. Januar 2023 11:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673259120/2851/
+- Montag, 9. Januar 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673259120/146/
 - Montag, 9. Januar 2023 11:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673260200/111/
-- Montag, 9. Januar 2023 11:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673260920/111/
 - Montag, 9. Januar 2023 11:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673261640/111/
 - Montag, 9. Januar 2023 12:06 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673262360/111/
-- Montag, 9. Januar 2023 12:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673263080/111/
+- Montag, 9. Januar 2023 12:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1673262720/143/
 - Montag, 9. Januar 2023 12:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673263800/111/
-- Montag, 9. Januar 2023 12:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673264520/111/
-- Montag, 9. Januar 2023 12:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673265240/111/
+- Montag, 9. Januar 2023 13:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1673266320/143/
+- Montag, 9. Januar 2023 13:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1673267040/143/
+- Montag, 9. Januar 2023 14:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673269920/2851/
+- Montag, 9. Januar 2023 14:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673271000/313/
+- Montag, 20. Februar 2023 12:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1676894040/135/
+- Montag, 20. Februar 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1676894040/2911/
+- Mittwoch, 22. Februar 2023 08:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1677051720/135/
+- Freitag, 24. Februar 2023 07:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1677220920/135/
+- Montag, 27. Februar 2023 10:30 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1677490200/135/
+- Montag, 27. Februar 2023 12:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1677498840/135/
+- Montag, 27. Februar 2023 13:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1677501720/135/
