@@ -1,10 +1,1 @@
-- Montag, 9. Januar 2023 09:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673251200/168/
-- Montag, 9. Januar 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673251200/2863/
-- Montag, 9. Januar 2023 09:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673251920/168/
-- Montag, 9. Januar 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673251920/2863/
-- Montag, 9. Januar 2023 09:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673252640/168/
-- Montag, 9. Januar 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673252640/2863/
-- Montag, 9. Januar 2023 09:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673253360/168/
-- Montag, 9. Januar 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673253360/2863/
-- Montag, 9. Januar 2023 09:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673254080/168/
-- Montag, 9. Januar 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673254080/2863/
+
