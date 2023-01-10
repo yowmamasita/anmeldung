@@ -1,15 +1,1 @@
-- Montag, 16. Januar 2023 08:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1673852400/172/
-- Montag, 16. Januar 2023 08:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1673853120/172/
-- Montag, 16. Januar 2023 08:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1673853840/172/
-- Montag, 16. Januar 2023 08:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1673854560/172/
-- Montag, 16. Januar 2023 08:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1673855280/172/
-- Montag, 16. Januar 2023 09:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1673856000/172/
-- Montag, 16. Januar 2023 09:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1673856720/172/
-- Montag, 16. Januar 2023 09:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1673857440/172/
-- Montag, 16. Januar 2023 09:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1673858160/172/
-- Montag, 16. Januar 2023 09:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1673858880/172/
-- Montag, 16. Januar 2023 10:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1673859600/172/
-- Montag, 16. Januar 2023 10:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1673860320/172/
-- Montag, 16. Januar 2023 10:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1673861040/172/
-- Montag, 16. Januar 2023 10:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1673861760/172/
-- Montag, 16. Januar 2023 10:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1673862480/172/
+- Freitag, 13. Januar 2023 07:00 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673589600/2854/
