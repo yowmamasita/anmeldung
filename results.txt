@@ -1,4 +1,1 @@
-- Mittwoch, 11. Januar 2023 07:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1673420040/111/
-- Mittwoch, 11. Januar 2023 08:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673421840/2863/
-- Mittwoch, 11. Januar 2023 08:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673422560/2863/
-- Mittwoch, 11. Januar 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673422560/2866/
+- Mittwoch, 11. Januar 2023 08:36 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673422560/2866/
