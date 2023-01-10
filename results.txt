@@ -1,11 +1,1 @@
-- Dienstag, 10. Januar 2023 08:24 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673335440/1018/
-- Dienstag, 10. Januar 2023 08:36 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673336160/1018/
-- Dienstag, 10. Januar 2023 08:48 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673336880/1018/
-- Dienstag, 10. Januar 2023 09:00 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673337600/1018/
-- Dienstag, 10. Januar 2023 09:12 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673338320/1018/
-- Dienstag, 10. Januar 2023 09:24 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673339040/1018/
-- Dienstag, 10. Januar 2023 09:36 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673339760/1018/
-- Dienstag, 10. Januar 2023 09:48 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673340480/1018/
-- Dienstag, 10. Januar 2023 10:24 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673342640/1018/
-- Dienstag, 10. Januar 2023 10:36 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673343360/1018/
-- Dienstag, 10. Januar 2023 10:48 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673344080/1018/
+
