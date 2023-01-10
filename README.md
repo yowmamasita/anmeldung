@@ -1,5 +1,24 @@
-# list of available Anmeldung appointments as of Tue Jan 10 10:01:25 CET 2023
+# list of available Anmeldung appointments as of Tue Jan 10 10:02:24 CET 2023
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=0&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122252,329742,122260,329745,122262,329748,122254,329751,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,327539,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122301,327282,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,122281,327352,122279,329772,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300,121362,121364&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
-- Dienstag, 10. Januar 2023 10:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1673341920/191/
-- Dienstag, 10. Januar 2023 10:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1673342640/231/
-- Dienstag, 10. Januar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1673342640/191/
+- Dienstag, 10. Januar 2023 10:24 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673342640/313/
+- Dienstag, 10. Januar 2023 10:36 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673343360/313/
+- Dienstag, 10. Januar 2023 10:48 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673344080/313/
+- Dienstag, 10. Januar 2023 11:00 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673344800/313/
+- Dienstag, 10. Januar 2023 11:12 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673345520/313/
+- Dienstag, 10. Januar 2023 11:24 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673346240/313/
+- Dienstag, 10. Januar 2023 11:36 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673346960/313/
+- Dienstag, 10. Januar 2023 11:48 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673347680/313/
+- Dienstag, 10. Januar 2023 12:48 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673351280/313/
+- Dienstag, 10. Januar 2023 13:12 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673352720/313/
+- Dienstag, 10. Januar 2023 13:36 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673354160/313/
+- Dienstag, 10. Januar 2023 13:48 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673354880/313/
+- Dienstag, 10. Januar 2023 14:12 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673356320/313/
+- Dienstag, 10. Januar 2023 14:36 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673357760/313/
+- Dienstag, 10. Januar 2023 14:48 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673358480/313/
+- Dienstag, 10. Januar 2023 15:24 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673360640/313/
+- Dienstag, 10. Januar 2023 15:36 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673361360/313/
+- Dienstag, 10. Januar 2023 15:48 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673362080/313/
+- Dienstag, 10. Januar 2023 16:12 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673363520/313/
+- Dienstag, 10. Januar 2023 16:24 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673364240/313/
+- Mittwoch, 15. Februar 2023 08:00 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1676444400/147/
+- Mittwoch, 15. Februar 2023 08:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1676445000/147/
