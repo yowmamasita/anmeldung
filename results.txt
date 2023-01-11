@@ -1,7 +1,0 @@
-- Donnerstag, 12. Januar 2023 12:36 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673523360/2911/
-- Donnerstag, 12. Januar 2023 14:12 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673529120/2911/
-- Donnerstag, 12. Januar 2023 14:24 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673529840/2911/
-- Donnerstag, 12. Januar 2023 14:36 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673530560/2911/
-- Donnerstag, 12. Januar 2023 14:48 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673531280/2911/
-- Donnerstag, 12. Januar 2023 15:24 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673533440/2911/
-- Donnerstag, 12. Januar 2023 15:48 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673534880/2911/
