@@ -1,6 +1,6 @@
 name: Reservation
 about: Reserves an Anmeldung appointment
-title: ""
+title: "My Reservation"
 labels: ["reservation"]
 body:
   - type: markdown
