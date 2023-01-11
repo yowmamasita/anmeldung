@@ -1,5 +1,5 @@
 name: Reservation
-about: Reserves an Anmeldung appointment
+description: Reserves an Anmeldung appointment
 title: "My Reservation"
 labels: ["reservation"]
 body:
