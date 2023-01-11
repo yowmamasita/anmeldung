@@ -1,0 +1,58 @@
+name: Reservation
+about: Reserves an Anmeldung appointment
+title: ""
+labels: ["reservation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This will be free forever. I just ask you to donate at https://risefoundation.de/ if you have some extra.
+  - type: dropdown
+    id: burgeramt
+    attributes:
+      label: Bürgeramt
+      description: Which Bürgeramt?
+      multiple: true
+      options:
+        - Alt- Hohenschönhausen
+        - Biesdorf - Center
+        - Blaschkoallee
+        - Friedrichsfelde (Tierparkcenter)
+        - Friedrichshain (Frankfurter Allee)
+        - Halemweg
+        - Heerstraße
+        - Heiligensee
+        - Helle Mitte
+        - Hermsdorf
+        - Hohenzollerndamm
+        - Karow / Buch
+        - Kladow
+        - Klosterstraße
+        - Köpenick
+        - Kreuzberg (Yorckstraße)
+        - Lankwitz
+        - Lichtenberg
+        - Lichtenrade
+        - Märkisches Viertel
+        - Marzahner Promenade
+        - Mitte
+        - Neu- Hohenschönhausen
+        - Neukölln
+        - Reinickendorf
+        - Reinickendorf-Ost
+        - Schöneberg
+        - Schöneweide
+        - Sonnenallee
+        - Spandau
+        - Steglitz
+        - Tegel
+        - Tempelhof
+        - Tiergarten
+        - Wasserstadt
+        - Wedding
+        - Weißensee
+        - Wilmersdorfer Straße
+        - Zehlendorf
+        - Zwickauer Damm
+    validations:
+      required: true
