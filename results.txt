@@ -1,18 +1,17 @@
 - Mittwoch, 11. Januar 2023 09:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673424000/2845/
+- Mittwoch, 11. Januar 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673424000/2938/
+- Mittwoch, 11. Januar 2023 09:06 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673424360/844/
 - Mittwoch, 11. Januar 2023 09:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673424720/2845/
 - Mittwoch, 11. Januar 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673424720/2938/
 - Mittwoch, 11. Januar 2023 09:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673425440/2845/
 - Mittwoch, 11. Januar 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673425440/2938/
 - Mittwoch, 11. Januar 2023 09:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673426160/2938/
 - Mittwoch, 11. Januar 2023 09:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673426880/2938/
-- Mittwoch, 11. Januar 2023 10:00 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673427600/2938/
 - Mittwoch, 11. Januar 2023 10:12 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673428320/2938/
-- Mittwoch, 11. Januar 2023 10:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673429040/2845/
-- Mittwoch, 11. Januar 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673429040/2938/
+- Mittwoch, 11. Januar 2023 10:24 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673429040/2938/
 - Mittwoch, 11. Januar 2023 10:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673429760/2938/
 - Mittwoch, 11. Januar 2023 10:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673430480/2938/
 - Mittwoch, 11. Januar 2023 11:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673433360/2938/
-- Mittwoch, 11. Januar 2023 11:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673434080/2938/
 - Mittwoch, 11. Januar 2023 12:00 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673434800/2938/
 - Mittwoch, 11. Januar 2023 12:12 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673435520/2938/
 - Mittwoch, 11. Januar 2023 12:24 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673436240/2938/
@@ -24,5 +23,3 @@
 - Mittwoch, 11. Januar 2023 13:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673440560/2938/
 - Mittwoch, 11. Januar 2023 13:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673441280/2938/
 - Mittwoch, 11. Januar 2023 14:00 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673442000/2938/
-- Mittwoch, 11. Januar 2023 14:12 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673442720/2938/
-- Mittwoch, 11. Januar 2023 14:24 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673443440/2938/
