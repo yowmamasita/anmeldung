@@ -1,8 +1,0 @@
-- Mittwoch, 11. Januar 2023 11:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673431920/146/
-- Mittwoch, 11. Januar 2023 11:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673432640/146/
-- Mittwoch, 11. Januar 2023 11:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673433360/146/
-- Mittwoch, 11. Januar 2023 11:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673434080/146/
-- Mittwoch, 11. Januar 2023 12:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673435520/146/
-- Mittwoch, 11. Januar 2023 12:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673436240/146/
-- Mittwoch, 11. Januar 2023 12:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673436960/146/
-- Mittwoch, 11. Januar 2023 12:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1673437680/146/
