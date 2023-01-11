@@ -1,11 +1,1 @@
-- Donnerstag, 12. Januar 2023 11:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1673519040/167/
-- Donnerstag, 12. Januar 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1673519040/170/
-- Donnerstag, 12. Januar 2023 11:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1673519760/170/
-- Donnerstag, 12. Januar 2023 11:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1673520480/170/
-- Donnerstag, 12. Januar 2023 12:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1673521200/170/
-- Donnerstag, 12. Januar 2023 12:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1673521920/170/
-- Donnerstag, 12. Januar 2023 12:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1673523360/170/
-- Donnerstag, 12. Januar 2023 12:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1673524080/170/
-- Donnerstag, 12. Januar 2023 13:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1673525520/170/
-- Donnerstag, 12. Januar 2023 13:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1673526240/170/
-- Donnerstag, 12. Januar 2023 13:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1673526960/170/
+- Dienstag, 28. Februar 2023 11:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1677581280/169/
