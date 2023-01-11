@@ -1,2 +1,39 @@
-# list of available Anmeldung appointments as of Wed Jan 11 07:30:31 CET 2023
+# list of available Anmeldung appointments as of Wed Jan 11 07:31:26 CET 2023
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=0&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122252,329742,122260,329745,122262,329748,122254,329751,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,327539,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122301,327282,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,122281,327352,122279,329772,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300,121362,121364&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
+- Mittwoch, 11. Januar 2023 07:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673419320/313/
+- Mittwoch, 11. Januar 2023 07:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673420040/313/
+- Mittwoch, 11. Januar 2023 08:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1673420400/169/
+- Mittwoch, 11. Januar 2023 08:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673420760/313/
+- Mittwoch, 11. Januar 2023 08:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1673421120/169/
+- Mittwoch, 11. Januar 2023 08:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673421480/313/
+- Mittwoch, 11. Januar 2023 08:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1673421840/169/
+- Mittwoch, 11. Januar 2023 08:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673422200/313/
+- Mittwoch, 11. Januar 2023 08:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1673422560/169/
+- Mittwoch, 11. Januar 2023 08:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673422920/313/
+- Mittwoch, 11. Januar 2023 08:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1673423280/169/
+- Mittwoch, 11. Januar 2023 08:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673423640/313/
+- Mittwoch, 11. Januar 2023 09:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673424360/313/
+- Mittwoch, 11. Januar 2023 09:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673425080/313/
+- Mittwoch, 11. Januar 2023 09:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673425800/313/
+- Mittwoch, 11. Januar 2023 09:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673426520/313/
+- Mittwoch, 11. Januar 2023 09:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673427240/313/
+- Mittwoch, 11. Januar 2023 10:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673427960/313/
+- Mittwoch, 11. Januar 2023 10:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673428680/313/
+- Mittwoch, 11. Januar 2023 10:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673429400/313/
+- Mittwoch, 11. Januar 2023 10:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673430120/313/
+- Mittwoch, 11. Januar 2023 10:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673430840/313/
+- Mittwoch, 11. Januar 2023 11:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673431560/313/
+- Mittwoch, 11. Januar 2023 11:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673432280/313/
+- Mittwoch, 11. Januar 2023 11:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673433000/313/
+- Mittwoch, 11. Januar 2023 11:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673433720/313/
+- Mittwoch, 11. Januar 2023 11:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673434440/313/
+- Mittwoch, 11. Januar 2023 12:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673435160/313/
+- Mittwoch, 11. Januar 2023 12:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673435880/313/
+- Mittwoch, 11. Januar 2023 12:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673436600/313/
+- Mittwoch, 11. Januar 2023 12:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673437320/313/
+- Mittwoch, 11. Januar 2023 12:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673438040/313/
+- Mittwoch, 11. Januar 2023 13:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673438760/313/
+- Mittwoch, 11. Januar 2023 13:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673439480/313/
+- Mittwoch, 11. Januar 2023 13:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673440200/313/
+- Mittwoch, 11. Januar 2023 13:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673440920/313/
+- Mittwoch, 11. Januar 2023 13:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673441640/313/
