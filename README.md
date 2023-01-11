@@ -1,32 +1,15 @@
-# list of available Anmeldung appointments as of Wed Jan 11 09:43:27 CET 2023
+# list of available Anmeldung appointments as of Wed Jan 11 09:44:26 CET 2023
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=0&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122252,329742,122260,329745,122262,329748,122254,329751,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,327539,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122301,327282,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,122281,327352,122279,329772,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300,121362,121364&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
-- Montag, 20. Februar 2023 07:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1676875320/111/
-- Montag, 20. Februar 2023 07:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1676876040/111/
-- Montag, 20. Februar 2023 08:06 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1676876760/111/
-- Montag, 20. Februar 2023 08:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1676877480/111/
-- Montag, 20. Februar 2023 08:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1676878200/111/
 - Montag, 20. Februar 2023 08:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1676878920/111/
 - Montag, 20. Februar 2023 08:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1676879640/111/
 - Montag, 20. Februar 2023 09:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1676881080/111/
-- Montag, 20. Februar 2023 09:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1676881800/111/
 - Montag, 20. Februar 2023 09:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1676882520/111/
 - Montag, 20. Februar 2023 09:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1676883240/111/
-- Montag, 20. Februar 2023 10:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1676885400/111/
-- Montag, 20. Februar 2023 10:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1676886120/111/
-- Montag, 20. Februar 2023 10:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1676886840/111/
-- Montag, 20. Februar 2023 11:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1676890440/111/
-- Montag, 20. Februar 2023 12:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1676891880/111/
-- Montag, 20. Februar 2023 12:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1676893320/111/
 - Montag, 20. Februar 2023 12:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1676894040/111/
-- Montag, 20. Februar 2023 13:06 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1676894760/111/
 - Montag, 20. Februar 2023 13:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1676895480/111/
 - Montag, 20. Februar 2023 13:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1676896200/111/
 - Montag, 20. Februar 2023 13:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1676896920/111/
 - Montag, 20. Februar 2023 13:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1676897640/111/
-- Montag, 20. Februar 2023 14:06 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1676898360/111/
-- Montag, 20. Februar 2023 14:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1676899080/111/
-- Montag, 20. Februar 2023 14:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1676899800/111/
-- Montag, 20. Februar 2023 14:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1676900520/111/
 - Montag, 27. Februar 2023 07:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1677479400/111/
 - Montag, 27. Februar 2023 07:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1677480120/111/
 - Montag, 27. Februar 2023 07:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1677480840/111/
@@ -40,7 +23,6 @@
 - Montag, 27. Februar 2023 09:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1677486600/111/
 - Montag, 27. Februar 2023 09:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1677487320/111/
 - Montag, 27. Februar 2023 09:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1677488040/111/
-- Montag, 27. Februar 2023 10:06 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1677488760/111/
 - Montag, 27. Februar 2023 10:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1677489480/111/
 - Montag, 27. Februar 2023 10:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1677490200/111/
 - Montag, 27. Februar 2023 10:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1677490920/111/
@@ -61,5 +43,3 @@
 - Montag, 27. Februar 2023 13:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1677502440/111/
 - Montag, 27. Februar 2023 14:06 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1677503160/111/
 - Montag, 27. Februar 2023 14:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1677503880/111/
-- Montag, 27. Februar 2023 14:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1677504600/111/
-- Montag, 27. Februar 2023 14:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1677505320/111/
