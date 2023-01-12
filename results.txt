@@ -1,9 +1,0 @@
-- Donnerstag, 12. Januar 2023 11:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673518320/2851/
-- Donnerstag, 12. Januar 2023 11:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673520480/2845/
-- Donnerstag, 12. Januar 2023 12:12 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673521920/2938/
-- Donnerstag, 12. Januar 2023 12:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673522640/3238/
-- Donnerstag, 12. Januar 2023 12:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673524080/3238/
-- Donnerstag, 12. Januar 2023 13:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673525520/3238/
-- Donnerstag, 12. Januar 2023 14:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673529120/3238/
-- Donnerstag, 12. Januar 2023 14:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673529840/3238/
-- Donnerstag, 12. Januar 2023 16:48 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673538480/2875/
