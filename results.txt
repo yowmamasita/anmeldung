@@ -1,10 +1,1 @@
-- Donnerstag, 12. Januar 2023 15:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673534160/168/
-- Donnerstag, 12. Januar 2023 15:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673534880/168/
-- Donnerstag, 12. Januar 2023 16:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673535600/168/
-- Donnerstag, 12. Januar 2023 16:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673536320/168/
-- Donnerstag, 12. Januar 2023 16:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673537040/168/
-- Donnerstag, 12. Januar 2023 16:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673537760/168/
-- Donnerstag, 12. Januar 2023 16:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673538480/168/
-- Donnerstag, 12. Januar 2023 17:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673540640/168/
-- Donnerstag, 12. Januar 2023 17:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673541360/168/
-- Donnerstag, 12. Januar 2023 17:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1673542080/168/
+
