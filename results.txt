@@ -1,9 +1,0 @@
-- Freitag, 13. Januar 2023 09:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673598960/3238/
-- Freitag, 13. Januar 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673598960/2938/
-- Freitag, 13. Januar 2023 09:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673599680/3238/
-- Freitag, 13. Januar 2023 10:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673600400/3238/
-- Freitag, 13. Januar 2023 10:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673601120/3238/
-- Freitag, 13. Januar 2023 10:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673601840/3238/
-- Freitag, 13. Januar 2023 10:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673602560/3238/
-- Freitag, 13. Januar 2023 10:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673603280/3238/
-- Freitag, 13. Januar 2023 11:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673605440/3238/
