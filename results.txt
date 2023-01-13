@@ -1,10 +1,1 @@
-- Freitag, 13. Januar 2023 10:00 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1673600400/147/
-- Freitag, 13. Januar 2023 10:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1673601000/147/
-- Freitag, 13. Januar 2023 10:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1673601600/147/
-- Freitag, 13. Januar 2023 10:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1673602800/147/
-- Freitag, 13. Januar 2023 10:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1673603400/147/
-- Freitag, 13. Januar 2023 11:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1673604600/147/
-- Freitag, 13. Januar 2023 11:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1673605200/147/
-- Freitag, 13. Januar 2023 11:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1673606400/147/
-- Freitag, 13. Januar 2023 11:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1673607000/147/
-- Freitag, 13. Januar 2023 12:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1673608200/147/
+
