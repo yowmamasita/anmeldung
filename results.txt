@@ -1,9 +1,1 @@
-- Montag, 16. Januar 2023 07:54 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1673852040/312/
-- Montag, 16. Januar 2023 08:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1673852400/167/
-- Montag, 16. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673852400/2899/
-- Montag, 16. Januar 2023 08:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1673853120/167/
-- Montag, 16. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673853120/2899/
-- Montag, 16. Januar 2023 08:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673855280/2899/
-- Montag, 16. Januar 2023 09:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1673856720/169/
-- Montag, 16. Januar 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1673856720/167/
-- Montag, 16. Januar 2023 09:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673857440/2899/
+
