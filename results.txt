@@ -1,6 +1,1 @@
-- Montag, 16. Januar 2023 09:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673858160/2845/
-- Montag, 16. Januar 2023 10:48 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673862480/2875/
-- Montag, 16. Januar 2023 12:36 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673868960/2893/
-- Montag, 16. Januar 2023 13:00 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673870400/2893/
-- Mittwoch, 18. Januar 2023 07:42 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674024120/844/
-- Donnerstag, 19. Januar 2023 17:06 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674144360/2839/
+
