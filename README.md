@@ -1,2 +1,88 @@
-# list of available Anmeldung appointments as of Mon Jan 16 07:35:26 CET 2023
+# list of available Anmeldung appointments as of Mon Jan 16 07:36:25 CET 2023
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=0&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122252,329742,122260,329745,122262,329748,122254,329751,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,327539,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122301,327282,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,122281,327352,122279,329772,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300,121362,121364&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
+- Montag, 16. Januar 2023 07:54 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1673852040/133/
+- Montag, 16. Januar 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1673852040/312/
+- Montag, 16. Januar 2023 08:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1673852400/231/
+- Montag, 16. Januar 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673852400/2854/
+- Montag, 16. Januar 2023 08:06 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1673852760/133/
+- Montag, 16. Januar 2023 08:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1673853120/231/
+- Montag, 16. Januar 2023 08:18 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1673853480/133/
+- Montag, 16. Januar 2023 08:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1673853840/231/
+- Montag, 16. Januar 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1673853840/172/
+- Montag, 16. Januar 2023 08:30 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1673854200/133/
+- Montag, 16. Januar 2023 08:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1673854560/169/
+- Montag, 16. Januar 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1673854560/231/
+- Montag, 16. Januar 2023 08:42 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1673854920/133/
+- Montag, 16. Januar 2023 08:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1673855280/231/
+- Montag, 16. Januar 2023 08:54 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1673855640/133/
+- Montag, 16. Januar 2023 09:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1673856000/231/
+- Montag, 16. Januar 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1673856000/167/
+- Montag, 16. Januar 2023 09:06 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1673856360/133/
+- Montag, 16. Januar 2023 09:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1673856720/231/
+- Montag, 16. Januar 2023 09:18 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1673857080/133/
+- Montag, 16. Januar 2023 09:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1673857440/231/
+- Montag, 16. Januar 2023 09:30 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1673857800/133/
+- Montag, 16. Januar 2023 09:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1673858160/169/
+- Montag, 16. Januar 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1673858160/231/
+- Montag, 16. Januar 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1673858160/170/
+- Montag, 16. Januar 2023 09:42 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1673858520/133/
+- Montag, 16. Januar 2023 09:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1673858880/231/
+- Montag, 16. Januar 2023 09:54 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1673859240/133/
+- Montag, 16. Januar 2023 10:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1673859600/231/
+- Montag, 16. Januar 2023 10:06 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1673859960/133/
+- Montag, 16. Januar 2023 10:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1673860320/231/
+- Montag, 16. Januar 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1673860320/167/
+- Montag, 16. Januar 2023 10:18 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1673860680/133/
+- Montag, 16. Januar 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673860680/313/
+- Montag, 16. Januar 2023 10:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1673861040/231/
+- Montag, 16. Januar 2023 10:30 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1673861400/133/
+- Montag, 16. Januar 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673861400/313/
+- Montag, 16. Januar 2023 10:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1673861760/169/
+- Montag, 16. Januar 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1673861760/231/
+- Montag, 16. Januar 2023 10:42 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1673862120/133/
+- Montag, 16. Januar 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673862120/313/
+- Montag, 16. Januar 2023 10:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1673862480/231/
+- Montag, 16. Januar 2023 10:54 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1673862840/133/
+- Montag, 16. Januar 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673862840/313/
+- Montag, 16. Januar 2023 11:06 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1673863560/133/
+- Montag, 16. Januar 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673863560/313/
+- Montag, 16. Januar 2023 11:18 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1673864280/133/
+- Montag, 16. Januar 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673864280/313/
+- Montag, 16. Januar 2023 11:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1673864640/169/
+- Montag, 16. Januar 2023 11:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673865000/313/
+- Montag, 16. Januar 2023 11:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1673865360/169/
+- Montag, 16. Januar 2023 11:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673865720/313/
+- Montag, 16. Januar 2023 11:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673866440/313/
+- Montag, 16. Januar 2023 12:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673867160/313/
+- Montag, 16. Januar 2023 12:18 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1673867880/133/
+- Montag, 16. Januar 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673867880/313/
+- Montag, 16. Januar 2023 12:30 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1673868600/133/
+- Montag, 16. Januar 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673868600/313/
+- Montag, 16. Januar 2023 12:42 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1673869320/133/
+- Montag, 16. Januar 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673869320/313/
+- Montag, 16. Januar 2023 12:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1673869680/231/
+- Montag, 16. Januar 2023 12:54 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1673870040/133/
+- Montag, 16. Januar 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673870040/313/
+- Montag, 16. Januar 2023 13:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1673870400/231/
+- Montag, 16. Januar 2023 13:06 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1673870760/133/
+- Montag, 16. Januar 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673870760/313/
+- Montag, 16. Januar 2023 13:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1673871120/231/
+- Montag, 16. Januar 2023 13:18 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1673871480/133/
+- Montag, 16. Januar 2023 13:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1673871840/231/
+- Montag, 16. Januar 2023 13:30 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1673872200/133/
+- Montag, 16. Januar 2023 13:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1673872560/231/
+- Montag, 16. Januar 2023 13:42 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1673872920/133/
+- Montag, 16. Januar 2023 13:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1673873280/231/
+- Montag, 16. Januar 2023 13:54 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1673873640/133/
+- Montag, 16. Januar 2023 14:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1673874000/231/
+- Montag, 16. Januar 2023 14:06 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1673874360/133/
+- Montag, 16. Januar 2023 14:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1673874720/231/
+- Montag, 16. Januar 2023 14:18 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1673875080/133/
+- Montag, 16. Januar 2023 14:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1673875440/169/
+- Montag, 16. Januar 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1673875440/231/
+- Montag, 16. Januar 2023 14:30 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1673875800/133/
+- Montag, 16. Januar 2023 14:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1673876160/231/
+- Montag, 16. Januar 2023 14:42 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1673876520/133/
+- Montag, 16. Januar 2023 14:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1673876880/231/
+- Montag, 16. Januar 2023 14:54 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1673877240/133/
+- Montag, 16. Januar 2023 15:06 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1673877960/133/
