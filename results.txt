@@ -1,14 +1,1 @@
-- Montag, 16. Januar 2023 09:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1673858160/231/
-- Montag, 16. Januar 2023 09:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673858520/313/
-- Montag, 16. Januar 2023 09:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673859240/313/
-- Montag, 16. Januar 2023 10:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673859960/313/
-- Montag, 16. Januar 2023 10:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673860680/313/
-- Montag, 16. Januar 2023 10:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673862840/313/
-- Montag, 16. Januar 2023 11:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673863560/313/
-- Montag, 16. Januar 2023 11:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673865000/313/
-- Montag, 16. Januar 2023 11:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673865720/313/
-- Montag, 16. Januar 2023 13:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673870760/313/
-- Montag, 16. Januar 2023 13:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673871480/313/
-- Montag, 16. Januar 2023 13:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673872920/313/
-- Montag, 16. Januar 2023 13:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673873640/313/
-- Montag, 16. Januar 2023 15:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1673878680/313/
+
