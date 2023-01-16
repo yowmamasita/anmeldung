@@ -1,7 +1,0 @@
-- Mittwoch, 18. Januar 2023 11:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1674037440/172/
-- Mittwoch, 18. Januar 2023 11:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1674038160/172/
-- Mittwoch, 18. Januar 2023 11:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1674038880/172/
-- Donnerstag, 19. Januar 2023 12:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1674128880/172/
-- Donnerstag, 19. Januar 2023 13:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1674130320/172/
-- Donnerstag, 19. Januar 2023 13:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1674131040/172/
-- Donnerstag, 19. Januar 2023 13:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1674132480/172/
