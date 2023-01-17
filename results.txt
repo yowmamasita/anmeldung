@@ -1,6 +1,0 @@
-- Dienstag, 17. Januar 2023 13:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1673958960/2899/
-- Mittwoch, 18. Januar 2023 09:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674030240/2857/
-- Mittwoch, 18. Januar 2023 09:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674030960/2857/
-- Mittwoch, 18. Januar 2023 09:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674031680/2857/
-- Mittwoch, 18. Januar 2023 11:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674037440/2857/
-- Donnerstag, 2. Februar 2023 17:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675354320/2863/
