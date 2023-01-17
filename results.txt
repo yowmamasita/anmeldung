@@ -1,5 +1,1 @@
-- Mittwoch, 18. Januar 2023 08:54 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674028440/2911/
-- Mittwoch, 18. Januar 2023 09:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674030240/167/
-- Mittwoch, 18. Januar 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1674030240/170/
-- Mittwoch, 18. Januar 2023 09:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674031680/167/
-- Mittwoch, 18. Januar 2023 10:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674032400/167/
+- Mittwoch, 18. Januar 2023 10:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674034560/2863/
