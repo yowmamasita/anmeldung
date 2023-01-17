@@ -1,18 +1,10 @@
-- Mittwoch, 18. Januar 2023 09:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1674028800/170/
-- Mittwoch, 18. Januar 2023 09:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674030240/167/
-- Mittwoch, 18. Januar 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1674030240/170/
+- Mittwoch, 18. Januar 2023 09:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1674030240/170/
 - Mittwoch, 18. Januar 2023 09:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674030960/167/
 - Mittwoch, 18. Januar 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1674030960/170/
 - Mittwoch, 18. Januar 2023 09:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674031680/167/
 - Mittwoch, 18. Januar 2023 10:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674033120/167/
-- Mittwoch, 18. Januar 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1674033120/170/
 - Mittwoch, 18. Januar 2023 10:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674033840/167/
-- Mittwoch, 18. Januar 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674033840/2860/
 - Mittwoch, 18. Januar 2023 10:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674035280/167/
-- Mittwoch, 18. Januar 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1674035280/168/
 - Mittwoch, 18. Januar 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1674035280/170/
-- Mittwoch, 18. Januar 2023 11:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674036000/167/
 - Mittwoch, 18. Januar 2023 11:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674036720/167/
 - Mittwoch, 18. Januar 2023 11:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674037440/167/
-- Mittwoch, 18. Januar 2023 11:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674038160/167/
-- Mittwoch, 18. Januar 2023 11:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674038880/167/
