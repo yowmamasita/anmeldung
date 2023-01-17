@@ -1,7 +1,0 @@
-- Donnerstag, 19. Januar 2023 11:00 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674122400/2866/
-- Donnerstag, 19. Januar 2023 11:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674124560/2899/
-- Donnerstag, 19. Januar 2023 12:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674126720/2899/
-- Donnerstag, 19. Januar 2023 12:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674127440/2899/
-- Donnerstag, 19. Januar 2023 12:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674128160/2899/
-- Donnerstag, 19. Januar 2023 17:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674146160/2857/
-- Donnerstag, 19. Januar 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674146160/904/
