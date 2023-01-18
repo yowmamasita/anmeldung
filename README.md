@@ -1,33 +1,47 @@
-# list of available Anmeldung appointments as of Wed Jan 18 07:36:19 CET 2023
+# list of available Anmeldung appointments as of Wed Jan 18 07:37:21 CET 2023
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=0&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122252,329742,122260,329745,122262,329748,122254,329751,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,327539,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122301,327282,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,122281,327352,122279,329772,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300,121362,121364&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
-- Mittwoch, 18. Januar 2023 07:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1674024840/191/
+- Mittwoch, 18. Januar 2023 07:42 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674024120/133/
+- Mittwoch, 18. Januar 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674024120/922/
+- Mittwoch, 18. Januar 2023 07:54 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674024840/133/
 - Mittwoch, 18. Januar 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674024840/922/
 - Mittwoch, 18. Januar 2023 08:00 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674025200/2893/
-- Mittwoch, 18. Januar 2023 08:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1674025560/191/
-- Mittwoch, 18. Januar 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674025560/922/
-- Mittwoch, 18. Januar 2023 08:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1674025920/231/
-- Mittwoch, 18. Januar 2023  Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674025920/2893/
+- Mittwoch, 18. Januar 2023 08:06 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674025560/133/
+- Mittwoch, 18. Januar 2023 08:12 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674025920/2893/
+- Mittwoch, 18. Januar 2023 08:18 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674026280/133/
 - Mittwoch, 18. Januar 2023 08:24 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674026640/2893/
-- Mittwoch, 18. Januar 2023 08:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1674027000/191/
+- Mittwoch, 18. Januar 2023 08:30 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674027000/133/
 - Mittwoch, 18. Januar 2023 08:36 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674027360/2893/
-- Mittwoch, 18. Januar 2023 08:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1674027720/191/
-- Mittwoch, 18. Januar 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674027720/922/
-- Mittwoch, 18. Januar 2023 08:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1674028080/231/
-- Mittwoch, 18. Januar 2023  Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674028080/2893/
-- Mittwoch, 18. Januar 2023 08:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1674028440/191/
+- Mittwoch, 18. Januar 2023 08:42 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674027720/133/
+- Mittwoch, 18. Januar 2023 08:48 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674028080/2893/
+- Mittwoch, 18. Januar 2023 08:54 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674028440/133/
+- Mittwoch, 18. Januar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1674028440/191/
 - Mittwoch, 18. Januar 2023 09:00 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674028800/2893/
-- Mittwoch, 18. Januar 2023 09:06 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674029160/922/
+- Mittwoch, 18. Januar 2023 09:06 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674029160/133/
 - Mittwoch, 18. Januar 2023 09:12 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674029520/2893/
-- Mittwoch, 18. Januar 2023 09:18 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674029880/922/
+- Mittwoch, 18. Januar 2023 09:18 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674029880/133/
 - Mittwoch, 18. Januar 2023 09:24 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674030240/2893/
-- Mittwoch, 18. Januar 2023 09:30 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674030600/922/
+- Mittwoch, 18. Januar 2023 09:30 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674030600/133/
 - Mittwoch, 18. Januar 2023 09:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1674030960/231/
 - Mittwoch, 18. Januar 2023  Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674030960/2893/
-- Mittwoch, 18. Januar 2023 09:42 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674031320/922/
-- Mittwoch, 18. Januar 2023 09:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1674031680/231/
-- Mittwoch, 18. Januar 2023  Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674031680/2893/
-- Mittwoch, 18. Januar 2023 09:54 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674032040/922/
-- Mittwoch, 18. Januar 2023 10:00 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674032400/2893/
-- Mittwoch, 18. Januar 2023 10:12 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674033120/2893/
-- Mittwoch, 18. Januar 2023 10:24 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674033840/2893/
-- Mittwoch, 18. Januar 2023 10:36 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674034560/2893/
+- Mittwoch, 18. Januar 2023 09:42 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674031320/133/
+- Mittwoch, 18. Januar 2023 09:48 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674031680/2893/
+- Mittwoch, 18. Januar 2023 09:54 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674032040/133/
+- Mittwoch, 18. Januar 2023 10:06 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674032760/133/
+- Mittwoch, 18. Januar 2023 10:18 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674033480/133/
+- Mittwoch, 18. Januar 2023 10:30 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674034200/133/
+- Mittwoch, 18. Januar 2023 10:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1674034560/231/
+- Mittwoch, 18. Januar 2023 10:54 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674035640/133/
+- Mittwoch, 18. Januar 2023 11:06 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674036360/133/
+- Mittwoch, 18. Januar 2023 11:18 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674037080/133/
+- Mittwoch, 18. Januar 2023 12:30 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674041400/133/
+- Mittwoch, 18. Januar 2023 12:42 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674042120/133/
+- Mittwoch, 18. Januar 2023 12:54 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674042840/133/
+- Mittwoch, 18. Januar 2023 13:06 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674043560/133/
+- Mittwoch, 18. Januar 2023 13:18 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674044280/133/
+- Mittwoch, 18. Januar 2023 13:30 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674045000/133/
+- Mittwoch, 18. Januar 2023 13:42 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674045720/133/
+- Mittwoch, 18. Januar 2023 13:54 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674046440/133/
+- Mittwoch, 18. Januar 2023 14:06 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674047160/133/
+- Mittwoch, 18. Januar 2023 14:18 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674047880/133/
+- Mittwoch, 18. Januar 2023 14:30 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674048600/133/
+- Mittwoch, 18. Januar 2023 14:42 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674049320/133/
