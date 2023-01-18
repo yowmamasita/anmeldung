@@ -1,5 +1,0 @@
-- Donnerstag, 19. Januar 2023 11:24 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674123840/2911/
-- Donnerstag, 19. Januar 2023 12:00 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674126000/2911/
-- Donnerstag, 19. Januar 2023 14:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674135360/2863/
-- Donnerstag, 19. Januar 2023 14:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674136080/2863/
-- Donnerstag, 19. Januar 2023 15:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674138240/2863/
