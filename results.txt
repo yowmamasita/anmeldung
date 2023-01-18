@@ -1,13 +1,3 @@
-- Mittwoch, 18. Januar 2023 08:12 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1674025920/106/
-- Mittwoch, 18. Januar 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674025920/2845/
+- Mittwoch, 18. Januar 2023 08:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674025920/2845/
 - Mittwoch, 18. Januar 2023  Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674025920/2893/
-- Mittwoch, 18. Januar 2023 08:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674026640/2845/
-- Mittwoch, 18. Januar 2023  Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674026640/2893/
-- Mittwoch, 18. Januar 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1674026640/154/
-- Mittwoch, 18. Januar 2023 08:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674027360/2845/
-- Mittwoch, 18. Januar 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1674027360/154/
-- Mittwoch, 18. Januar 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1674027360/103/
-- Mittwoch, 18. Januar 2023 08:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674028080/2845/
-- Mittwoch, 18. Januar 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1674028080/231/
-- Mittwoch, 18. Januar 2023  Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674028080/2893/
-- Mittwoch, 18. Januar 2023 09:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674029520/2845/
+- Mittwoch, 18. Januar 2023 09:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674030960/2845/
