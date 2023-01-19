@@ -1,10 +1,7 @@
 - Freitag, 20. Januar 2023 08:12 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674198720/2887/
-- Freitag, 20. Januar 2023 08:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1674199440/190/
-- Freitag, 20. Januar 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674199440/2887/
-- Freitag, 20. Januar 2023 08:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674200160/2887/
+- Freitag, 20. Januar 2023 08:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674199440/2887/
 - Freitag, 20. Januar 2023 08:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674200880/2887/
 - Freitag, 20. Januar 2023 09:00 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674201600/2887/
-- Freitag, 20. Januar 2023 09:12 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674202320/2887/
 - Freitag, 20. Januar 2023 09:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674203040/2887/
 - Freitag, 20. Januar 2023 09:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674203760/2887/
 - Freitag, 20. Januar 2023 09:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674204480/2887/
@@ -12,5 +9,3 @@
 - Freitag, 20. Januar 2023 10:12 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674205920/2887/
 - Freitag, 20. Januar 2023 10:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674206640/2887/
 - Freitag, 20. Januar 2023 10:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674207360/2887/
-- Freitag, 20. Januar 2023 10:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674208080/2887/
-- Freitag, 20. Januar 2023 11:12 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674209520/2887/
