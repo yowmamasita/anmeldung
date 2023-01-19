@@ -1,36 +1,24 @@
-- Donnerstag, 19. Januar 2023 10:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1674118800/191/
-- Donnerstag, 19. Januar 2023 10:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1674119520/136/
-- Donnerstag, 19. Januar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1674119520/191/
-- Donnerstag, 19. Januar 2023 10:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1674120240/191/
-- Donnerstag, 19. Januar 2023 10:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1674120960/191/
-- Donnerstag, 19. Januar 2023 10:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1674121680/136/
-- Donnerstag, 19. Januar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1674121680/191/
-- Donnerstag, 19. Januar 2023 11:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1674122400/191/
-- Donnerstag, 19. Januar 2023 11:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1674123120/136/
-- Donnerstag, 19. Januar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1674123120/191/
-- Donnerstag, 19. Januar 2023 11:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1674123840/136/
-- Donnerstag, 19. Januar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1674123840/191/
-- Donnerstag, 19. Januar 2023 11:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1674124560/136/
-- Donnerstag, 19. Januar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1674124560/191/
-- Donnerstag, 19. Januar 2023 11:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1674125280/191/
-- Donnerstag, 19. Januar 2023 12:00 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1674126000/136/
-- Donnerstag, 19. Januar 2023 12:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1674126720/136/
-- Donnerstag, 19. Januar 2023 12:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1674127440/191/
-- Donnerstag, 19. Januar 2023 12:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1674128160/136/
-- Donnerstag, 19. Januar 2023 12:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1674128880/191/
-- Donnerstag, 19. Januar 2023 13:00 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1674129600/136/
-- Donnerstag, 19. Januar 2023 13:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1674130320/191/
-- Donnerstag, 19. Januar 2023 13:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1674131040/191/
-- Donnerstag, 19. Januar 2023 13:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1674131760/191/
-- Donnerstag, 19. Januar 2023 14:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1674134640/136/
-- Donnerstag, 19. Januar 2023 14:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1674135360/136/
-- Donnerstag, 19. Januar 2023 14:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1674136080/136/
-- Donnerstag, 19. Januar 2023 15:00 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1674136800/136/
-- Donnerstag, 19. Januar 2023 15:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1674137520/136/
-- Donnerstag, 19. Januar 2023 15:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1674138240/136/
-- Donnerstag, 19. Januar 2023 15:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1674139680/136/
-- Donnerstag, 19. Januar 2023 16:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1674141120/136/
-- Donnerstag, 19. Januar 2023 16:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1674141840/136/
-- Donnerstag, 19. Januar 2023 16:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1674142560/136/
-- Donnerstag, 19. Januar 2023 16:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1674143280/136/
-- Donnerstag, 19. Januar 2023 17:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1674144720/136/
+- Donnerstag, 19. Januar 2023 10:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674119520/2914/
+- Donnerstag, 19. Januar 2023 10:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674120240/2914/
+- Donnerstag, 19. Januar 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1674120240/231/
+- Donnerstag, 19. Januar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1674120240/191/
+- Donnerstag, 19. Januar 2023 10:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674120960/2914/
+- Donnerstag, 19. Januar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1674120960/191/
+- Donnerstag, 19. Januar 2023 10:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674121680/2914/
+- Donnerstag, 19. Januar 2023 11:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674123120/2914/
+- Donnerstag, 19. Januar 2023 11:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674123840/2914/
+- Donnerstag, 19. Januar 2023 11:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674124560/2914/
+- Donnerstag, 19. Januar 2023 11:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674125280/2914/
+- Donnerstag, 19. Januar 2023 12:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674126720/2914/
+- Donnerstag, 19. Januar 2023 12:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674128160/2914/
+- Donnerstag, 19. Januar 2023 12:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674128880/2914/
+- Donnerstag, 19. Januar 2023 13:00 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674129600/2914/
+- Donnerstag, 19. Januar 2023 13:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674130320/2914/
+- Donnerstag, 19. Januar 2023 13:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674131040/2914/
+- Donnerstag, 19. Januar 2023 14:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674134640/2914/
+- Donnerstag, 19. Januar 2023 14:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674135360/2914/
+- Donnerstag, 19. Januar 2023 14:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674136080/2914/
+- Donnerstag, 19. Januar 2023 15:00 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674136800/2914/
+- Donnerstag, 19. Januar 2023 15:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674138240/2914/
+- Donnerstag, 19. Januar 2023 15:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674138960/2914/
+- Donnerstag, 19. Januar 2023 15:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674139680/2914/
