@@ -1,56 +1,38 @@
-- Dienstag, 14. Februar 2023 15:54 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676386440/141/
-- Mittwoch, 15. Februar 2023 08:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676445840/141/
-- Mittwoch, 15. Februar 2023 09:36 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676450160/141/
-- Mittwoch, 15. Februar 2023 09:48 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676450880/141/
-- Donnerstag, 16. Februar 2023 10:18 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676539080/141/
+- Donnerstag, 19. Januar 2023 10:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674121680/2854/
+- Donnerstag, 19. Januar 2023 11:12 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674123120/2893/
+- Donnerstag, 19. Januar 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674123120/2854/
+- Donnerstag, 19. Januar 2023 11:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674123840/2854/
+- Donnerstag, 19. Januar 2023 11:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674124560/2854/
+- Donnerstag, 19. Januar 2023 11:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674125280/2854/
+- Donnerstag, 19. Januar 2023 12:12 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674126720/2854/
+- Donnerstag, 19. Januar 2023 12:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674127440/2854/
+- Donnerstag, 19. Januar 2023 12:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674128880/2854/
+- Donnerstag, 19. Januar 2023 13:12 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674130320/2854/
+- Donnerstag, 19. Januar 2023 13:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674131760/2854/
+- Donnerstag, 19. Januar 2023 15:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674138960/2854/
+- Donnerstag, 19. Januar 2023 17:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674145440/2854/
 - Donnerstag, 16. Februar 2023 10:42 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676540520/141/
-- Donnerstag, 16. Februar 2023 11:06 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676541960/141/
-- Donnerstag, 16. Februar 2023 11:18 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676542680/141/
-- Donnerstag, 16. Februar 2023 11:30 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676543400/141/
 - Donnerstag, 16. Februar 2023 11:42 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676544120/141/
 - Donnerstag, 16. Februar 2023 11:54 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676544840/141/
-- Donnerstag, 16. Februar 2023 12:06 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676545560/141/
-- Donnerstag, 16. Februar 2023 12:18 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676546280/141/
-- Donnerstag, 16. Februar 2023 12:30 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676547000/141/
 - Donnerstag, 16. Februar 2023 12:42 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676547720/141/
 - Donnerstag, 16. Februar 2023 12:54 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676548440/141/
 - Donnerstag, 16. Februar 2023 13:06 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676549160/141/
-- Donnerstag, 16. Februar 2023 14:30 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676554200/141/
-- Donnerstag, 16. Februar 2023 14:54 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676555640/141/
-- Donnerstag, 16. Februar 2023 15:18 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676557080/141/
-- Donnerstag, 16. Februar 2023 15:30 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676557800/141/
-- Donnerstag, 16. Februar 2023 15:42 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676558520/141/
-- Donnerstag, 16. Februar 2023 15:54 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676559240/141/
-- Donnerstag, 16. Februar 2023 16:18 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676560680/141/
-- Donnerstag, 16. Februar 2023 16:30 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676561400/141/
-- Donnerstag, 16. Februar 2023 16:42 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676562120/141/
-- Donnerstag, 16. Februar 2023 17:06 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676563560/141/
+- Freitag, 17. Februar 2023 08:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676618640/141/
 - Freitag, 17. Februar 2023 09:12 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676621520/141/
 - Freitag, 17. Februar 2023 09:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676622240/141/
 - Freitag, 17. Februar 2023 09:36 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676622960/141/
 - Freitag, 17. Februar 2023 09:48 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676623680/141/
-- Freitag, 17. Februar 2023 10:00 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676624400/141/
-- Freitag, 17. Februar 2023 10:12 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676625120/141/
-- Freitag, 17. Februar 2023 10:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676625840/141/
 - Freitag, 17. Februar 2023 10:36 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676626560/141/
 - Freitag, 17. Februar 2023 11:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676629440/141/
 - Freitag, 17. Februar 2023 11:48 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676630880/141/
-- Freitag, 17. Februar 2023 12:00 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676631600/141/
 - Freitag, 17. Februar 2023 12:12 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676632320/141/
-- Freitag, 17. Februar 2023 12:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676633040/141/
 - Freitag, 17. Februar 2023 12:36 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676633760/141/
 - Freitag, 17. Februar 2023 12:48 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676634480/141/
-- Freitag, 17. Februar 2023 13:00 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676635200/141/
-- Freitag, 17. Februar 2023 13:36 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676637360/141/
-- Freitag, 17. Februar 2023 13:48 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676638080/141/
-- Montag, 20. Februar 2023 08:48 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676879280/141/
 - Montag, 20. Februar 2023 09:12 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676880720/141/
 - Montag, 20. Februar 2023 09:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676881440/141/
-- Montag, 20. Februar 2023 09:36 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676882160/141/
 - Montag, 20. Februar 2023 10:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676885040/141/
 - Montag, 20. Februar 2023 10:36 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676885760/141/
-- Montag, 20. Februar 2023 10:48 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676886480/141/
-- Montag, 20. Februar 2023 11:36 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676889360/141/
+- Montag, 20. Februar 2023 11:12 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676887920/141/
 - Montag, 20. Februar 2023 11:48 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676890080/141/
 - Montag, 20. Februar 2023 12:12 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676891520/141/
 - Montag, 20. Februar 2023 12:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676892240/141/
@@ -65,11 +47,7 @@
 - Montag, 20. Februar 2023 14:12 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676898720/141/
 - Montag, 20. Februar 2023 14:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676899440/141/
 - Montag, 20. Februar 2023 14:36 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676900160/141/
-- Montag, 20. Februar 2023 14:48 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676900880/141/
 - Montag, 20. Februar 2023 15:12 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676902320/141/
-- Montag, 20. Februar 2023 15:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676903040/141/
-- Montag, 20. Februar 2023 15:36 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676903760/141/
-- Dienstag, 21. Februar 2023 09:42 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676968920/141/
 - Dienstag, 21. Februar 2023 09:54 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676969640/141/
 - Dienstag, 21. Februar 2023 10:06 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676970360/141/
 - Dienstag, 21. Februar 2023 10:18 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676971080/141/
@@ -96,12 +74,7 @@
 - Dienstag, 21. Februar 2023 15:18 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676989080/141/
 - Dienstag, 21. Februar 2023 15:42 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676990520/141/
 - Dienstag, 21. Februar 2023 15:54 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676991240/141/
-- Dienstag, 21. Februar 2023 16:06 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676991960/141/
-- Dienstag, 21. Februar 2023 16:18 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676992680/141/
 - Dienstag, 21. Februar 2023 16:42 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676994120/141/
-- Dienstag, 21. Februar 2023 16:54 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676994840/141/
-- Dienstag, 21. Februar 2023 17:18 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1676996280/141/
-- Mittwoch, 22. Februar 2023 08:00 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677049200/141/
 - Mittwoch, 22. Februar 2023 08:12 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677049920/141/
 - Mittwoch, 22. Februar 2023 08:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677050640/141/
 - Mittwoch, 22. Februar 2023 08:36 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677051360/141/
@@ -110,7 +83,6 @@
 - Mittwoch, 22. Februar 2023 09:36 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677054960/141/
 - Mittwoch, 22. Februar 2023 09:48 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677055680/141/
 - Mittwoch, 22. Februar 2023 10:12 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677057120/141/
-- Mittwoch, 22. Februar 2023 10:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677057840/141/
 - Mittwoch, 22. Februar 2023 10:36 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677058560/141/
 - Mittwoch, 22. Februar 2023 10:48 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677059280/141/
 - Mittwoch, 22. Februar 2023 11:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677061440/141/
@@ -123,7 +95,6 @@
 - Mittwoch, 22. Februar 2023 13:00 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677067200/141/
 - Mittwoch, 22. Februar 2023 13:12 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677067920/141/
 - Mittwoch, 22. Februar 2023 13:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677068640/141/
-- Mittwoch, 22. Februar 2023 13:36 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677069360/141/
 - Donnerstag, 23. Februar 2023 09:42 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677141720/141/
 - Donnerstag, 23. Februar 2023 09:54 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677142440/141/
 - Donnerstag, 23. Februar 2023 10:06 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677143160/141/
@@ -150,10 +121,7 @@
 - Donnerstag, 23. Februar 2023 16:42 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677166920/141/
 - Donnerstag, 23. Februar 2023 16:54 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677167640/141/
 - Donnerstag, 23. Februar 2023 17:06 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677168360/141/
-- Freitag, 24. Februar 2023 08:12 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677222720/141/
-- Freitag, 24. Februar 2023 08:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677223440/141/
 - Freitag, 24. Februar 2023 08:36 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677224160/141/
-- Freitag, 24. Februar 2023 08:48 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677224880/141/
 - Freitag, 24. Februar 2023 09:12 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677226320/141/
 - Freitag, 24. Februar 2023 09:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677227040/141/
 - Freitag, 24. Februar 2023 09:36 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677227760/141/
@@ -172,9 +140,7 @@
 - Freitag, 24. Februar 2023 12:36 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677238560/141/
 - Freitag, 24. Februar 2023 12:48 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677239280/141/
 - Freitag, 24. Februar 2023 13:00 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677240000/141/
-- Freitag, 24. Februar 2023 13:12 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677240720/141/
 - Freitag, 24. Februar 2023 13:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677241440/141/
-- Freitag, 24. Februar 2023 13:36 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677242160/141/
 - Montag, 27. Februar 2023 08:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677482640/141/
 - Montag, 27. Februar 2023 09:12 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677485520/141/
 - Montag, 27. Februar 2023 09:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677486240/141/
@@ -183,7 +149,6 @@
 - Montag, 27. Februar 2023 10:12 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677489120/141/
 - Montag, 27. Februar 2023 10:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677489840/141/
 - Montag, 27. Februar 2023 10:48 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677491280/141/
-- Montag, 27. Februar 2023 11:00 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677492000/141/
 - Montag, 27. Februar 2023 11:12 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677492720/141/
 - Montag, 27. Februar 2023 11:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677493440/141/
 - Montag, 27. Februar 2023 11:36 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677494160/141/
@@ -198,7 +163,6 @@
 - Montag, 27. Februar 2023 13:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677500640/141/
 - Montag, 27. Februar 2023 13:36 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677501360/141/
 - Montag, 27. Februar 2023 13:48 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677502080/141/
-- Montag, 27. Februar 2023 14:00 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677502800/141/
 - Montag, 27. Februar 2023 14:12 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677503520/141/
 - Montag, 27. Februar 2023 14:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677504240/141/
 - Montag, 27. Februar 2023 14:36 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677504960/141/
@@ -206,7 +170,6 @@
 - Montag, 27. Februar 2023 15:00 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677506400/141/
 - Montag, 27. Februar 2023 15:12 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677507120/141/
 - Montag, 27. Februar 2023 15:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677507840/141/
-- Dienstag, 28. Februar 2023 09:42 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677573720/141/
 - Dienstag, 28. Februar 2023 09:54 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677574440/141/
 - Dienstag, 28. Februar 2023 10:06 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677575160/141/
 - Dienstag, 28. Februar 2023 10:18 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677575880/141/
@@ -217,7 +180,6 @@
 - Dienstag, 28. Februar 2023 11:18 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677579480/141/
 - Dienstag, 28. Februar 2023 11:42 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677580920/141/
 - Dienstag, 28. Februar 2023 11:54 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677581640/141/
-- Dienstag, 28. Februar 2023 12:06 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677582360/141/
 - Dienstag, 28. Februar 2023 12:18 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677583080/141/
 - Dienstag, 28. Februar 2023 12:54 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677585240/141/
 - Dienstag, 28. Februar 2023 13:18 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677586680/141/
@@ -232,4 +194,3 @@
 - Dienstag, 28. Februar 2023 15:42 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677595320/141/
 - Dienstag, 28. Februar 2023 15:54 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677596040/141/
 - Dienstag, 28. Februar 2023 16:18 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677597480/141/
-- Dienstag, 28. Februar 2023 16:42 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1677598920/141/
