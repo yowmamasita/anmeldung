@@ -1,5 +1,0 @@
-- Montag, 23. Januar 2023 08:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1674460080/170/
-- Montag, 23. Januar 2023 09:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1674462960/170/
-- Montag, 23. Januar 2023 11:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1674468000/168/
-- Montag, 23. Januar 2023 11:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1674469440/170/
-- Dienstag, 24. Januar 2023 11:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1674555000/147/
