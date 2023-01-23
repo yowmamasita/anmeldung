@@ -1,5 +1,3 @@
-- Dienstag, 21. Februar 2023 09:54 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1676969640/154/
-- Dienstag, 21. Februar 2023 10:18 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1676971080/154/
 - Dienstag, 21. Februar 2023 10:54 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1676973240/154/
 - Dienstag, 21. Februar 2023 11:06 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1676973960/154/
 - Dienstag, 21. Februar 2023 11:18 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1676974680/154/
@@ -16,11 +14,7 @@
 - Dienstag, 21. Februar 2023 14:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1676987280/154/
 - Dienstag, 21. Februar 2023 15:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1676988000/154/
 - Dienstag, 21. Februar 2023 15:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1676988720/154/
-- Dienstag, 21. Februar 2023 15:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1676989440/154/
-- Dienstag, 21. Februar 2023 15:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1676990160/154/
 - Dienstag, 21. Februar 2023 15:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1676990880/154/
-- Dienstag, 21. Februar 2023 16:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1676992320/154/
-- Mittwoch, 22. Februar 2023 08:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1677051360/154/
 - Mittwoch, 22. Februar 2023 08:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1677052080/154/
 - Mittwoch, 22. Februar 2023 09:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1677052800/154/
 - Mittwoch, 22. Februar 2023 09:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1677053520/154/
@@ -29,7 +23,6 @@
 - Mittwoch, 22. Februar 2023 09:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1677055680/154/
 - Mittwoch, 22. Februar 2023 10:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1677056400/154/
 - Mittwoch, 22. Februar 2023 10:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1677057120/154/
-- Mittwoch, 22. Februar 2023 10:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1677057840/154/
 - Mittwoch, 22. Februar 2023 10:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1677058560/154/
 - Donnerstag, 23. Februar 2023 07:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1677134880/154/
 - Donnerstag, 23. Februar 2023 08:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1677135600/154/
@@ -42,8 +35,5 @@
 - Donnerstag, 23. Februar 2023 09:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1677140640/154/
 - Donnerstag, 23. Februar 2023 09:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1677141360/154/
 - Donnerstag, 23. Februar 2023 09:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1677142080/154/
-- Donnerstag, 23. Februar 2023 10:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1677142800/154/
 - Donnerstag, 23. Februar 2023 10:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1677143520/154/
 - Donnerstag, 23. Februar 2023 10:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1677144240/154/
-- Donnerstag, 23. Februar 2023 10:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1677144960/154/
-- Donnerstag, 23. Februar 2023 10:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1677145680/154/
