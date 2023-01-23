@@ -1,1 +1,24 @@
-- Montag, 23. Januar 2023 12:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674473040/2863/
+- Montag, 23. Januar 2023 10:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674465120/2863/
+- Montag, 23. Januar 2023 10:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674466560/2863/
+- Montag, 23. Januar 2023 11:18 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674469080/2938/
+- Montag, 23. Januar 2023 12:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674472320/2845/
+- Montag, 23. Januar 2023 12:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674474480/2845/
+- Montag, 23. Januar 2023 13:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674475200/2845/
+- Montag, 23. Januar 2023 13:12 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1674475920/106/
+- Montag, 23. Januar 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674475920/2845/
+- Montag, 23. Januar 2023 13:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674476640/2845/
+- Montag, 23. Januar 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674476640/2863/
+- Montag, 23. Januar 2023 13:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1674477360/106/
+- Montag, 23. Januar 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674477360/2845/
+- Montag, 23. Januar 2023 14:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674478800/2845/
+- Montag, 23. Januar 2023 14:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674479520/2863/
+- Montag, 23. Januar 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1674479520/154/
+- Montag, 23. Januar 2023 14:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674480240/2863/
+- Montag, 23. Januar 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1674480240/154/
+- Montag, 23. Januar 2023 14:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674480960/2863/
+- Montag, 23. Januar 2023 14:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674481680/2845/
+- Montag, 23. Januar 2023 15:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1674483120/154/
+- Dienstag, 21. Februar 2023 10:54 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1676973240/154/
+- Dienstag, 21. Februar 2023 11:06 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1676973960/154/
+- Mittwoch, 22. Februar 2023 09:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1677055680/154/
+- Dienstag, 28. Februar 2023 11:24 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1677579840/313/
