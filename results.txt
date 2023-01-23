@@ -1,11 +1,1 @@
-- Montag, 20. Februar 2023 11:06 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1676887560/154/
-- Mittwoch, 22. Februar 2023 09:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1677053520/154/
-- Mittwoch, 22. Februar 2023 09:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1677054240/154/
-- Mittwoch, 22. Februar 2023 09:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1677054960/154/
-- Mittwoch, 22. Februar 2023 09:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1677055680/154/
-- Mittwoch, 22. Februar 2023 10:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1677056400/154/
-- Donnerstag, 23. Februar 2023 08:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1677137040/154/
-- Donnerstag, 23. Februar 2023 08:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1677138480/154/
-- Donnerstag, 23. Februar 2023 09:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1677139920/154/
-- Donnerstag, 23. Februar 2023 09:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1677140640/154/
-- Donnerstag, 23. Februar 2023 09:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1677141360/154/
+- Dienstag, 21. Februar 2023 12:30 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1676979000/154/
