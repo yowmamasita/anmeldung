@@ -1,4 +1,1 @@
-- Dienstag, 24. Januar 2023 12:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674560880/2887/
-- Dienstag, 24. Januar 2023 13:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674561600/2863/
-- Dienstag, 24. Januar 2023 14:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1674566640/169/
-- Dienstag, 24. Januar 2023 15:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1674570960/169/
+
