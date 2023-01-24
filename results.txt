@@ -1,9 +1,0 @@
-- Mittwoch, 25. Januar 2023 08:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1674632160/170/
-- Mittwoch, 25. Januar 2023 08:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1674632880/170/
-- Mittwoch, 25. Januar 2023 09:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1674635040/170/
-- Mittwoch, 25. Januar 2023 09:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1674636480/170/
-- Mittwoch, 25. Januar 2023 10:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1674638640/170/
-- Mittwoch, 25. Januar 2023 10:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1674639360/170/
-- Mittwoch, 25. Januar 2023 10:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1674640080/170/
-- Mittwoch, 25. Januar 2023 11:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1674643680/170/
-- Mittwoch, 25. Januar 2023 12:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1674647280/170/
