@@ -1,5 +1,4 @@
-- Mittwoch, 25. Januar 2023 08:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1674630000/168/
-- Mittwoch, 25. Januar 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674630000/2863/
+- Mittwoch, 25. Januar 2023 08:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674630000/2863/
 - Mittwoch, 25. Januar 2023 08:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674630720/167/
 - Mittwoch, 25. Januar 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1674630720/168/
 - Mittwoch, 25. Januar 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674630720/2863/
@@ -22,7 +21,6 @@
 - Mittwoch, 25. Januar 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1674635040/168/
 - Mittwoch, 25. Januar 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674635040/2863/
 - Mittwoch, 25. Januar 2023 09:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674635760/167/
-- Mittwoch, 25. Januar 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1674635760/168/
 - Mittwoch, 25. Januar 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674635760/2863/
 - Mittwoch, 25. Januar 2023 09:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674636480/167/
 - Mittwoch, 25. Januar 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1674636480/168/
@@ -36,7 +34,6 @@
 - Mittwoch, 25. Januar 2023 10:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674638640/167/
 - Mittwoch, 25. Januar 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1674638640/168/
 - Mittwoch, 25. Januar 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674638640/2863/
-- Mittwoch, 25. Januar 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1674638640/170/
 - Mittwoch, 25. Januar 2023 10:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674639360/167/
 - Mittwoch, 25. Januar 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1674639360/168/
 - Mittwoch, 25. Januar 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674639360/2863/
@@ -46,7 +43,6 @@
 - Mittwoch, 25. Januar 2023 11:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674640800/167/
 - Mittwoch, 25. Januar 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674640800/2863/
 - Mittwoch, 25. Januar 2023 11:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674641520/167/
-- Mittwoch, 25. Januar 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1674641520/168/
 - Mittwoch, 25. Januar 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674641520/2863/
 - Mittwoch, 25. Januar 2023 11:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674642240/167/
 - Mittwoch, 25. Januar 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1674642240/168/
@@ -58,7 +54,6 @@
 - Mittwoch, 25. Januar 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1674643680/168/
 - Mittwoch, 25. Januar 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674643680/2863/
 - Mittwoch, 25. Januar 2023 12:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674644400/167/
-- Mittwoch, 25. Januar 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1674644400/168/
 - Mittwoch, 25. Januar 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674644400/2863/
 - Mittwoch, 25. Januar 2023 12:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674645120/167/
 - Mittwoch, 25. Januar 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1674645120/168/
@@ -67,8 +62,5 @@
 - Mittwoch, 25. Januar 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1674645840/168/
 - Mittwoch, 25. Januar 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674645840/2863/
 - Mittwoch, 25. Januar 2023 12:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674646560/167/
-- Mittwoch, 25. Januar 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1674646560/168/
 - Mittwoch, 25. Januar 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674646560/2863/
-- Mittwoch, 25. Januar 2023 12:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1674647280/168/
-- Mittwoch, 25. Januar 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674647280/2863/
-- Dienstag, 7. Februar 2023 12:48 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675770480/2866/
+- Mittwoch, 25. Januar 2023 12:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674647280/2863/
