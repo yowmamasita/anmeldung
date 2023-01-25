@@ -1,72 +1,23 @@
-# list of available Anmeldung appointments as of Wed Jan 25 08:06:23 CET 2023
+# list of available Anmeldung appointments as of Wed Jan 25 08:07:21 CET 2023
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=0&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122252,329742,122260,329745,122262,329748,122254,329751,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,327539,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122301,327282,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,122281,327352,122279,329772,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300,121362,121364&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
-- Mittwoch, 25. Januar 2023 08:18 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1674631080/191/
-- Mittwoch, 25. Januar 2023 08:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674631440/167/
 - Mittwoch, 25. Januar 2023 08:30 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1674631800/190/
-- Mittwoch, 25. Januar 2023 08:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1674632160/381/
-- Mittwoch, 25. Januar 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674632160/167/
-- Mittwoch, 25. Januar 2023 08:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1674632520/135/
-- Mittwoch, 25. Januar 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1674632520/190/
-- Mittwoch, 25. Januar 2023 08:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674632880/167/
-- Mittwoch, 25. Januar 2023 08:54 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1674633240/190/
+- Mittwoch, 25. Januar 2023 08:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674632160/167/
+- Mittwoch, 25. Januar 2023 08:42 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1674632520/190/
 - Mittwoch, 25. Januar 2023 09:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674633600/167/
-- Mittwoch, 25. Januar 2023 09:06 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1674633960/135/
-- Mittwoch, 25. Januar 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1674633960/190/
-- Mittwoch, 25. Januar 2023 09:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1674634320/169/
-- Mittwoch, 25. Januar 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674634320/167/
-- Mittwoch, 25. Januar 2023 09:18 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1674634680/190/
+- Mittwoch, 25. Januar 2023 09:06 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1674633960/190/
+- Mittwoch, 25. Januar 2023 09:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674634320/167/
 - Mittwoch, 25. Januar 2023 09:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1674635040/169/
 - Mittwoch, 25. Januar 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674635040/167/
 - Mittwoch, 25. Januar 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1674635040/170/
-- Mittwoch, 25. Januar 2023 09:30 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1674635400/190/
-- Mittwoch, 25. Januar 2023 09:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1674635760/169/
-- Mittwoch, 25. Januar 2023  Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674635760/2920/
-- Mittwoch, 25. Januar 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674635760/167/
-- Mittwoch, 25. Januar 2023 09:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1674636120/135/
-- Mittwoch, 25. Januar 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1674636120/190/
+- Mittwoch, 25. Januar 2023 09:42 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1674636120/190/
 - Mittwoch, 25. Januar 2023 09:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1674636480/169/
 - Mittwoch, 25. Januar 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674636480/167/
-- Mittwoch, 25. Januar 2023 09:54 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1674636840/190/
-- Mittwoch, 25. Januar 2023 10:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674637200/2845/
-- Mittwoch, 25. Januar 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674637200/167/
 - Mittwoch, 25. Januar 2023 10:06 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1674637560/190/
 - Mittwoch, 25. Januar 2023 10:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674637920/2845/
 - Mittwoch, 25. Januar 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674637920/167/
-- Mittwoch, 25. Januar 2023 10:18 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1674638280/190/
 - Mittwoch, 25. Januar 2023 10:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674638640/2845/
-- Mittwoch, 25. Januar 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1674638640/169/
-- Mittwoch, 25. Januar 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674638640/167/
-- Mittwoch, 25. Januar 2023 10:30 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1674639000/190/
-- Mittwoch, 25. Januar 2023 10:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674639360/2845/
-- Mittwoch, 25. Januar 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1674639360/169/
+- Mittwoch, 25. Januar 2023 10:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1674639360/169/
 - Mittwoch, 25. Januar 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674639360/167/
 - Mittwoch, 25. Januar 2023 10:42 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1674639720/190/
-- Mittwoch, 25. Januar 2023 10:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674640080/2845/
-- Mittwoch, 25. Januar 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1674640080/169/
-- Mittwoch, 25. Januar 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674640080/167/
 - Mittwoch, 25. Januar 2023 10:54 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1674640440/190/
-- Mittwoch, 25. Januar 2023 11:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674640800/167/
-- Mittwoch, 25. Januar 2023 11:06 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1674641160/190/
-- Mittwoch, 25. Januar 2023 11:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674641520/167/
-- Mittwoch, 25. Januar 2023 11:18 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1674641880/135/
-- Mittwoch, 25. Januar 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1674641880/190/
-- Mittwoch, 25. Januar 2023 11:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674642240/167/
-- Mittwoch, 25. Januar 2023 11:30 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1674642600/190/
-- Mittwoch, 25. Januar 2023 11:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674642960/167/
-- Mittwoch, 25. Januar 2023 11:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1674643320/135/
-- Mittwoch, 25. Januar 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674643320/898/
-- Mittwoch, 25. Januar 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1674643320/190/
-- Mittwoch, 25. Januar 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1674643320/192/
-- Mittwoch, 25. Januar 2023 11:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674643680/167/
-- Mittwoch, 25. Januar 2023 11:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1674644040/135/
-- Mittwoch, 25. Januar 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1674644040/190/
-- Mittwoch, 25. Januar 2023 12:06 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1674644760/190/
-- Mittwoch, 25. Januar 2023 12:18 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1674645480/190/
-- Mittwoch, 25. Januar 2023 12:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674645840/167/
 - Mittwoch, 25. Januar 2023 12:30 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1674646200/190/
-- Mittwoch, 25. Januar 2023 12:42 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1674646920/190/
-- Mittwoch, 25. Januar 2023 12:54 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1674647640/190/
-- Mittwoch, 25. Januar 2023 13:06 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1674648360/190/
-- Mittwoch, 25. Januar 2023 13:30 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1674649800/190/
-- Mittwoch, 25. Januar 2023 13:42 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1674650520/190/
-- Mittwoch, 25. Januar 2023 14:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1674653040/231/
