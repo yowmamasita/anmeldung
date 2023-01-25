@@ -1,10 +1,2 @@
-- Mittwoch, 25. Januar 2023 07:54 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674629640/133/
-- Mittwoch, 25. Januar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1674629640/191/
 - Mittwoch, 25. Januar 2023 08:00 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674630000/2875/
-- Mittwoch, 25. Januar 2023 08:06 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674630360/133/
-- Mittwoch, 25. Januar 2023 08:12 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674630720/2875/
-- Mittwoch, 25. Januar 2023 08:24 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674631440/2875/
-- Mittwoch, 25. Januar 2023 08:30 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674631800/133/
-- Mittwoch, 25. Januar 2023 08:42 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674632520/133/
-- Mittwoch, 25. Januar 2023 08:48 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674632880/2875/
-- Mittwoch, 25. Januar 2023 12:06 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1674644760/111/
+- Mittwoch, 25. Januar 2023 08:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1674630360/191/
