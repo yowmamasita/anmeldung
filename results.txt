@@ -1,3 +1,2 @@
-- Mittwoch, 25. Januar 2023 07:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1674628920/111/
-- Mittwoch, 25. Januar 2023 07:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674629640/2914/
-- Mittwoch, 25. Januar 2023 10:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674638280/2914/
+- Mittwoch, 25. Januar 2023 07:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674628920/2914/
+- Mittwoch, 25. Januar 2023 07:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1674629640/136/
