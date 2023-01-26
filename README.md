@@ -1,25 +1,4 @@
-# list of available Anmeldung appointments as of Thu Jan 26 09:26:28 CET 2023
+# list of available Anmeldung appointments as of Thu Jan 26 09:27:27 CET 2023
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=0&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122252,329742,122260,329745,122262,329748,122254,329751,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,327539,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122301,327282,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,122281,327352,122279,329772,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300,121362,121364&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
-- Donnerstag, 26. Januar 2023 09:40 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674722400/2920/
 - Donnerstag, 26. Januar 2023 10:00 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674723600/133/
 - Donnerstag, 26. Januar 2023 10:12 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674724320/133/
-- Donnerstag, 26. Januar 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674724320/2911/
-- Donnerstag, 26. Januar 2023 10:24 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674725040/133/
-- Donnerstag, 26. Januar 2023 10:36 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674725760/133/
-- Donnerstag, 26. Januar 2023 10:48 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674726480/133/
-- Donnerstag, 26. Januar 2023 11:00 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674727200/133/
-- Donnerstag, 26. Januar 2023 11:12 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674727920/133/
-- Donnerstag, 26. Januar 2023 11:24 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674728640/133/
-- Donnerstag, 26. Januar 2023 11:36 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674729360/133/
-- Donnerstag, 26. Januar 2023 11:48 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674730080/133/
-- Donnerstag, 26. Januar 2023 12:36 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674732960/133/
-- Donnerstag, 26. Januar 2023 12:48 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674733680/133/
-- Donnerstag, 26. Januar 2023 13:00 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674734400/133/
-- Donnerstag, 26. Januar 2023 14:24 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674739440/133/
-- Donnerstag, 26. Januar 2023 14:36 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674740160/133/
-- Donnerstag, 26. Januar 2023 14:48 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674740880/133/
-- Donnerstag, 26. Januar 2023 15:12 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674742320/133/
-- Donnerstag, 26. Januar 2023 15:24 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674743040/133/
-- Donnerstag, 26. Januar 2023 15:36 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674743760/133/
-- Donnerstag, 26. Januar 2023 15:48 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674744480/133/
-- Donnerstag, 26. Januar 2023 17:36 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1674750960/133/
