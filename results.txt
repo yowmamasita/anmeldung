@@ -1,18 +1,1 @@
-- Donnerstag, 26. Januar 2023 09:42 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1674722520/153/
-- Donnerstag, 26. Januar 2023 09:50 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1674723000/103/
-- Donnerstag, 26. Januar 2023 09:54 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1674723240/153/
-- Donnerstag, 26. Januar 2023 10:06 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1674723960/153/
-- Donnerstag, 26. Januar 2023 10:12 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1674724320/111/
-- Donnerstag, 26. Januar 2023 10:18 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1674724680/153/
-- Donnerstag, 26. Januar 2023 10:24 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1674725040/111/
-- Donnerstag, 26. Januar 2023 10:30 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1674725400/153/
-- Donnerstag, 26. Januar 2023 10:48 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1674726480/111/
-- Donnerstag, 26. Januar 2023 10:54 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1674726840/153/
-- Donnerstag, 26. Januar 2023 11:36 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1674729360/111/
-- Donnerstag, 26. Januar 2023 11:48 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1674730080/111/
-- Donnerstag, 26. Januar 2023 14:48 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1674740880/111/
-- Donnerstag, 26. Januar 2023 15:12 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1674742320/111/
-- Donnerstag, 26. Januar 2023 15:24 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1674743040/111/
-- Donnerstag, 26. Januar 2023 15:36 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1674743760/111/
-- Donnerstag, 26. Januar 2023 15:48 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1674744480/111/
-- Donnerstag, 26. Januar 2023 16:12 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1674745920/111/
+
