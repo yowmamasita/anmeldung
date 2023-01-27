@@ -1,28 +1,13 @@
-- Freitag, 27. Januar 2023 08:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674802800/3238/
-- Freitag, 27. Januar 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674802800/167/
-- Freitag, 27. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674802800/2899/
+- Freitag, 27. Januar 2023 08:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674802800/167/
 - Freitag, 27. Januar 2023 08:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674803520/3238/
 - Freitag, 27. Januar 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674803520/167/
-- Freitag, 27. Januar 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1674803520/172/
-- Freitag, 27. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674803520/2899/
 - Freitag, 27. Januar 2023 08:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674804240/3238/
 - Freitag, 27. Januar 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674804240/167/
 - Freitag, 27. Januar 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1674804240/172/
-- Freitag, 27. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674804240/2899/
 - Freitag, 27. Januar 2023 08:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674804960/167/
 - Freitag, 27. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674804960/2899/
-- Freitag, 27. Januar 2023 08:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674805680/3238/
-- Freitag, 27. Januar 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674805680/167/
+- Freitag, 27. Januar 2023 08:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674805680/167/
 - Freitag, 27. Januar 2023 09:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674806400/2857/
-- Freitag, 27. Januar 2023 09:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674807120/167/
-- Freitag, 27. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674807120/2899/
-- Freitag, 27. Januar 2023 09:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674807840/167/
-- Freitag, 27. Januar 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674807840/2899/
+- Freitag, 27. Januar 2023 09:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674807120/2899/
 - Freitag, 27. Januar 2023 09:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674808560/3238/
 - Freitag, 27. Januar 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1674808560/167/
-- Freitag, 27. Januar 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1674808560/192/
-- Freitag, 27. Januar 2023 10:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674810720/2857/
-- Freitag, 27. Januar 2023 10:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674811440/2857/
-- Freitag, 27. Januar 2023 10:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674812160/2857/
-- Freitag, 27. Januar 2023 10:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674812880/2857/
-- Freitag, 27. Januar 2023 11:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1674814320/2857/
