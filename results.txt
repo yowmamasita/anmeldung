@@ -1,6 +1,0 @@
-- Dienstag, 31. Januar 2023 09:50 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1675155000/103/
-- Dienstag, 31. Januar 2023 13:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675167120/2896/
-- Dienstag, 31. Januar 2023 14:42 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675172520/2836/
-- Mittwoch, 1. Februar 2023 07:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1675233720/191/
-- Mittwoch, 8. Februar 2023 13:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675860120/2914/
-- Dienstag, 21. Februar 2023 12:12 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1676977920/2911/
