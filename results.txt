@@ -1,8 +1,0 @@
-- Dienstag, 31. Januar 2023 12:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675163520/2863/
-- Dienstag, 31. Januar 2023 12:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675164240/922/
-- Dienstag, 31. Januar 2023 12:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675164960/2863/
-- Dienstag, 31. Januar 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675164960/922/
-- Dienstag, 31. Januar 2023 12:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675165680/2863/
-- Dienstag, 31. Januar 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675165680/922/
-- Dienstag, 31. Januar 2023 13:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675167120/2863/
-- Dienstag, 31. Januar 2023 13:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675167840/2863/
