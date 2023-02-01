@@ -1,9 +1,6 @@
-- Mittwoch, 29. März 2023 08:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680070680/2914/
 - Mittwoch, 29. März 2023 08:30 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680071400/2911/
-- Mittwoch, 29. März 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680071400/844/
+- Mittwoch, 29. März 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680071400/2941/
 - Mittwoch, 29. März 2023 08:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680072120/2911/
-- Mittwoch, 29. März 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680072120/841/
-- Mittwoch, 29. März 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680072120/898/
 - Mittwoch, 29. März 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680072120/904/
 - Mittwoch, 29. März 2023 08:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680072840/2914/
 - Mittwoch, 29. März 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680072840/904/
@@ -14,21 +11,16 @@
 - Mittwoch, 29. März 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680074280/904/
 - Mittwoch, 29. März 2023 09:30 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680075000/841/
 - Mittwoch, 29. März 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680075000/904/
-- Mittwoch, 29. März 2023 09:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680075720/2911/
-- Mittwoch, 29. März 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680075720/844/
+- Mittwoch, 29. März 2023 09:42 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680075720/844/
 - Mittwoch, 29. März 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680075720/898/
 - Mittwoch, 29. März 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680075720/904/
 - Mittwoch, 29. März 2023 09:54 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680076440/844/
+- Mittwoch, 29. März 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680076440/841/
 - Mittwoch, 29. März 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680076440/898/
-- Mittwoch, 29. März 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680076440/904/
-- Mittwoch, 29. März 2023 10:06 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680077160/841/
 - Mittwoch, 29. März 2023 10:18 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680077880/844/
-- Mittwoch, 29. März 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680077880/841/
 - Mittwoch, 29. März 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680077880/898/
 - Mittwoch, 29. März 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680077880/904/
 - Mittwoch, 29. März 2023 10:30 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680078600/898/
 - Mittwoch, 29. März 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680078600/904/
-- Mittwoch, 29. März 2023 10:42 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680079320/844/
-- Mittwoch, 29. März 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680079320/898/
+- Mittwoch, 29. März 2023 10:42 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680079320/898/
 - Mittwoch, 29. März 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680079320/904/
-- Mittwoch, 29. März 2023 11:06 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680080760/904/
