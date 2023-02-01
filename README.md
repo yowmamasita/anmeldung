@@ -1,36 +1,27 @@
-# list of available Anmeldung appointments as of Wed Feb  1 08:05:32 CET 2023
+# list of available Anmeldung appointments as of Wed Feb  1 08:06:38 CET 2023
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=0&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122252,329742,122260,329745,122262,329748,122254,329751,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,327539,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122301,327282,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,122281,327352,122279,329772,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300,121362,121364&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
-- Mittwoch, 29. März 2023 08:00 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680069600/2923/
 - Mittwoch, 29. März 2023 08:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680070200/2923/
 - Mittwoch, 29. März 2023 08:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680070320/170/
 - Mittwoch, 29. März 2023 08:20 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680070800/2923/
 - Mittwoch, 29. März 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680070800/2884/
-- Mittwoch, 29. März 2023 08:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1680071040/381/
-- Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680071040/170/
+- Mittwoch, 29. März 2023 08:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680071040/2845/
 - Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680071040/2866/
-- Mittwoch, 29. März 2023 08:30 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680071400/2923/
-- Mittwoch, 29. März 2023 08:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680071760/2845/
-- Mittwoch, 29. März 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680071760/2857/
-- Mittwoch, 29. März 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1680071760/381/
+- Mittwoch, 29. März 2023 08:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680071760/2857/
 - Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680071760/170/
 - Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680071760/2866/
 - Mittwoch, 29. März 2023 08:40 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680072000/2923/
 - Mittwoch, 29. März 2023 08:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1680072480/381/
 - Mittwoch, 29. März 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680072480/2938/
 - Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680072480/170/
-- Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680072480/2866/
 - Mittwoch, 29. März 2023 08:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680072600/2923/
-- Mittwoch, 29. März 2023 09:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680073200/2845/
-- Mittwoch, 29. März 2023  Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1680073200/147/
+- Mittwoch, 29. März 2023 09:00 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1680073200/147/
 - Mittwoch, 29. März 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680073200/2884/
 - Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680073200/170/
 - Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680073200/2866/
-- Mittwoch, 29. März 2023 09:06 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680073560/841/
 - Mittwoch, 29. März 2023 09:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1680073800/147/
 - Mittwoch, 29. März 2023  Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680073800/2923/
 - Mittwoch, 29. März 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680073800/2884/
 - Mittwoch, 29. März 2023 09:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680073920/2845/
-- Mittwoch, 29. März 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1680073920/169/
 - Mittwoch, 29. März 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680073920/2857/
 - Mittwoch, 29. März 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680073920/2938/
 - Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680073920/170/
@@ -40,20 +31,17 @@
 - Mittwoch, 29. März 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1680074400/150/
 - Mittwoch, 29. März 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680074400/2884/
 - Mittwoch, 29. März 2023 09:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680074640/2845/
-- Mittwoch, 29. März 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680074640/2848/
 - Mittwoch, 29. März 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1680074640/169/
 - Mittwoch, 29. März 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680074640/2938/
 - Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680074640/170/
 - Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680074640/2866/
 - Mittwoch, 29. März 2023 09:30 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1680075000/147/
 - Mittwoch, 29. März 2023  Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680075000/2923/
-- Mittwoch, 29. März 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1680075000/150/
 - Mittwoch, 29. März 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680075000/2884/
 - Mittwoch, 29. März 2023 09:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680075360/2845/
 - Mittwoch, 29. März 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680075360/2848/
 - Mittwoch, 29. März 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1680075360/169/
 - Mittwoch, 29. März 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680075360/2857/
-- Mittwoch, 29. März 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1680075360/381/
 - Mittwoch, 29. März 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680075360/2938/
 - Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680075360/170/
 - Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680075360/2866/
@@ -77,11 +65,9 @@
 - Mittwoch, 29. März 2023 10:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680077400/2923/
 - Mittwoch, 29. März 2023 10:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1680077520/169/
 - Mittwoch, 29. März 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680077520/2857/
-- Mittwoch, 29. März 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680077520/2938/
 - Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680077520/170/
 - Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680077520/2866/
-- Mittwoch, 29. März 2023 10:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1680078000/147/
-- Mittwoch, 29. März 2023  Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680078000/2923/
+- Mittwoch, 29. März 2023 10:20 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680078000/2923/
 - Mittwoch, 29. März 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680078000/2884/
 - Mittwoch, 29. März 2023 10:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1680078240/169/
 - Mittwoch, 29. März 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680078240/2857/
@@ -121,7 +107,6 @@
 - Mittwoch, 29. März 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680081600/2884/
 - Mittwoch, 29. März 2023 11:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680081840/2857/
 - Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680081840/170/
-- Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680081840/2866/
 - Mittwoch, 29. März 2023 11:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1680082560/169/
 - Mittwoch, 29. März 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680082560/2857/
 - Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680082560/170/
@@ -129,21 +114,14 @@
 - Mittwoch, 29. März 2023 11:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680083280/2857/
 - Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680083280/170/
 - Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680083280/2866/
-- Mittwoch, 29. März 2023 11:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1680083400/150/
-- Mittwoch, 29. März 2023 12:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680084000/170/
-- Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680084000/2866/
+- Mittwoch, 29. März 2023 12:00 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680084000/2866/
 - Mittwoch, 29. März 2023 12:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680084720/2857/
 - Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680084720/170/
 - Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680084720/2866/
-- Mittwoch, 29. März 2023 12:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1680085200/150/
-- Mittwoch, 29. März 2023 12:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680085440/2857/
-- Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680085440/170/
+- Mittwoch, 29. März 2023 12:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680085440/170/
 - Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680085440/2866/
-- Mittwoch, 29. März 2023 12:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1680085800/150/
 - Mittwoch, 29. März 2023 12:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680086160/2857/
 - Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680086160/170/
-- Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680086160/2866/
-- Mittwoch, 29. März 2023 12:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1680086400/150/
 - Mittwoch, 29. März 2023 12:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1680086880/169/
 - Mittwoch, 29. März 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680086880/2857/
 - Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680086880/2866/
@@ -152,19 +130,13 @@
 - Mittwoch, 29. März 2023  Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680088800/2923/
 - Mittwoch, 29. März 2023 13:30 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1680089400/147/
 - Mittwoch, 29. März 2023 13:40 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680090000/2923/
-- Mittwoch, 29. März 2023 13:48 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1680090480/145/
 - Mittwoch, 29. März 2023 13:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680090600/2923/
 - Mittwoch, 29. März 2023 14:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680091800/2923/
 - Mittwoch, 29. März 2023 14:20 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680092400/2923/
-- Mittwoch, 29. März 2023 14:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680094200/2923/
-- Freitag, 31. März 2023 08:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680242400/2899/
 - Freitag, 31. März 2023 08:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680243120/2899/
 - Freitag, 31. März 2023 08:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680243840/2899/
 - Freitag, 31. März 2023 08:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680244560/2899/
-- Freitag, 31. März 2023 08:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680245280/2896/
-- Freitag, 31. März 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680245280/2899/
-- Freitag, 31. März 2023 09:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680246000/2896/
-- Freitag, 31. März 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680246000/2899/
+- Freitag, 31. März 2023 08:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680245280/2899/
 - Freitag, 31. März 2023 09:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680246720/2896/
 - Freitag, 31. März 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680246720/2899/
 - Freitag, 31. März 2023 09:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680247440/2896/
@@ -173,11 +145,8 @@
 - Freitag, 31. März 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680248160/2899/
 - Freitag, 31. März 2023 09:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680248880/2896/
 - Freitag, 31. März 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680248880/2899/
-- Freitag, 31. März 2023 10:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680249600/2896/
-- Freitag, 31. März 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680249600/2899/
 - Freitag, 31. März 2023 10:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680250320/2896/
 - Freitag, 31. März 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680250320/2899/
 - Freitag, 31. März 2023 10:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680251040/2896/
 - Freitag, 31. März 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680251040/2899/
-- Freitag, 31. März 2023 10:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680251760/2896/
-- Freitag, 31. März 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680251760/2899/
+- Freitag, 31. März 2023 10:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680252480/2899/
