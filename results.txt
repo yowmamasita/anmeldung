@@ -1,33 +1,21 @@
-- Mittwoch, 1. Februar 2023 07:54 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1675234440/133/
 - Mittwoch, 1. Februar 2023 08:06 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1675235160/133/
 - Mittwoch, 1. Februar 2023 08:18 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1675235880/133/
 - Mittwoch, 1. Februar 2023 08:30 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1675236600/133/
 - Mittwoch, 1. Februar 2023 08:42 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1675237320/133/
 - Mittwoch, 1. Februar 2023 08:54 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1675238040/133/
-- Mittwoch, 1. Februar 2023 09:06 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1675238760/133/
 - Mittwoch, 1. Februar 2023 09:18 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1675239480/133/
+- Mittwoch, 1. Februar 2023 09:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675239840/2854/
 - Mittwoch, 1. Februar 2023 09:30 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1675240200/133/
 - Mittwoch, 1. Februar 2023 09:42 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1675240920/133/
 - Mittwoch, 1. Februar 2023 09:54 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1675241640/133/
-- Mittwoch, 1. Februar 2023 10:06 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1675242360/133/
 - Mittwoch, 1. Februar 2023 10:18 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1675243080/133/
-- Mittwoch, 1. Februar 2023 10:30 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1675243800/133/
-- Mittwoch, 1. Februar 2023 10:42 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1675244520/133/
 - Mittwoch, 1. Februar 2023 10:54 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1675245240/133/
-- Mittwoch, 1. Februar 2023 11:06 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1675245960/133/
-- Mittwoch, 1. Februar 2023 11:18 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1675246680/133/
-- Mittwoch, 1. Februar 2023 12:18 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1675250280/133/
-- Mittwoch, 1. Februar 2023 12:30 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1675251000/133/
-- Mittwoch, 1. Februar 2023 12:42 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1675251720/133/
 - Mittwoch, 1. Februar 2023 12:54 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1675252440/133/
 - Mittwoch, 1. Februar 2023 13:06 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1675253160/133/
-- Mittwoch, 1. Februar 2023 13:18 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1675253880/133/
-- Mittwoch, 1. Februar 2023 13:30 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1675254600/133/
-- Mittwoch, 1. Februar 2023 13:42 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1675255320/133/
-- Mittwoch, 1. Februar 2023 13:54 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1675256040/133/
-- Mittwoch, 1. Februar 2023 14:06 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1675256760/133/
-- Mittwoch, 1. Februar 2023 14:18 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1675257480/133/
-- Mittwoch, 1. Februar 2023 14:30 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1675258200/133/
-- Mittwoch, 1. Februar 2023 14:42 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1675258920/133/
-- Mittwoch, 1. Februar 2023 14:54 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1675259640/133/
-- Mittwoch, 1. Februar 2023 15:18 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1675261080/133/
+- Mittwoch, 29. März 2023 08:06 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680069960/2911/
+- Mittwoch, 29. März 2023 08:30 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680071400/2911/
+- Mittwoch, 29. März 2023 09:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680074640/3238/
+- Mittwoch, 29. März 2023 09:40 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680075600/2941/
+- Mittwoch, 29. März 2023 09:42 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680075720/841/
+- Mittwoch, 29. März 2023 11:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680080400/3238/
+- Mittwoch, 29. März 2023 12:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680084600/2941/
