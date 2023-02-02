@@ -1,119 +1,173 @@
-- Donnerstag, 30. März 2023 10:00 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680163200/844/
-- Donnerstag, 30. März 2023 10:12 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680163920/844/
-- Donnerstag, 30. März 2023 10:24 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680164640/844/
-- Donnerstag, 30. März 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1680164640/381/
-- Donnerstag, 30. März 2023 10:36 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680165360/844/
-- Donnerstag, 30. März 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1680165360/381/
-- Donnerstag, 30. März 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1680165360/111/
-- Donnerstag, 30. März 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680165360/313/
-- Donnerstag, 30. März 2023 10:40 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1680165600/151/
-- Donnerstag, 30. März 2023 10:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1680166080/136/
-- Donnerstag, 30. März 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1680166080/108/
+- Donnerstag, 30. März 2023 10:00 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680163200/2911/
+- Donnerstag, 30. März 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680163200/2914/
+- Donnerstag, 30. März 2023 10:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680163920/2845/
+- Donnerstag, 30. März 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680163920/2911/
+- Donnerstag, 30. März 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680163920/2914/
+- Donnerstag, 30. März 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680163920/2848/
+- Donnerstag, 30. März 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680163920/844/
+- Donnerstag, 30. März 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680163920/904/
+- Donnerstag, 30. März 2023 10:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680164640/2845/
+- Donnerstag, 30. März 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680164640/2911/
+- Donnerstag, 30. März 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680164640/2914/
+- Donnerstag, 30. März 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680164640/2848/
+- Donnerstag, 30. März 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680164640/844/
+- Donnerstag, 30. März 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680164640/898/
+- Donnerstag, 30. März 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680164640/904/
+- Donnerstag, 30. März 2023 10:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680165360/2845/
+- Donnerstag, 30. März 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680165360/2911/
+- Donnerstag, 30. März 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680165360/2914/
+- Donnerstag, 30. März 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680165360/2848/
+- Donnerstag, 30. März 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680165360/898/
+- Donnerstag, 30. März 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680165360/2887/
+- Donnerstag, 30. März 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680165360/904/
+- Donnerstag, 30. März 2023 10:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680166080/2845/
+- Donnerstag, 30. März 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680166080/2911/
+- Donnerstag, 30. März 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680166080/2914/
+- Donnerstag, 30. März 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680166080/2848/
 - Donnerstag, 30. März 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680166080/844/
 - Donnerstag, 30. März 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1680166080/381/
+- Donnerstag, 30. März 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680166080/898/
+- Donnerstag, 30. März 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680166080/2887/
 - Donnerstag, 30. März 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1680166080/111/
 - Donnerstag, 30. März 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680166080/313/
-- Donnerstag, 30. März 2023 10:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1680166200/147/
-- Donnerstag, 30. März 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1680166200/151/
-- Donnerstag, 30. März 2023 11:00 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1680166800/151/
-- Donnerstag, 30. März 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1680166800/111/
+- Donnerstag, 30. März 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680166080/904/
+- Donnerstag, 30. März 2023 10:50 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680166200/2884/
+- Donnerstag, 30. März 2023 11:00 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680166800/2911/
+- Donnerstag, 30. März 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680166800/2914/
+- Donnerstag, 30. März 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680166800/2848/
+- Donnerstag, 30. März 2023  Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1680166800/147/
+- Donnerstag, 30. März 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680166800/898/
+- Donnerstag, 30. März 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1680166800/151/
+- Donnerstag, 30. März 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680166800/904/
+- Donnerstag, 30. März 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680166800/2884/
 - Donnerstag, 30. März 2023 11:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1680167400/147/
 - Donnerstag, 30. März 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1680167400/151/
-- Donnerstag, 30. März 2023 11:12 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1680167520/106/
-- Donnerstag, 30. März 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1680167520/136/
+- Donnerstag, 30. März 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680167400/2884/
+- Donnerstag, 30. März 2023 11:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680167520/2845/
+- Donnerstag, 30. März 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680167520/2911/
+- Donnerstag, 30. März 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680167520/2914/
+- Donnerstag, 30. März 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680167520/2848/
+- Donnerstag, 30. März 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680167520/898/
+- Donnerstag, 30. März 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680167520/2887/
 - Donnerstag, 30. März 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1680167520/111/
 - Donnerstag, 30. März 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680167520/313/
+- Donnerstag, 30. März 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680167520/904/
 - Donnerstag, 30. März 2023 11:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1680168000/147/
 - Donnerstag, 30. März 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1680168000/151/
-- Donnerstag, 30. März 2023 11:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1680168240/136/
-- Donnerstag, 30. März 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1680168240/108/
-- Donnerstag, 30. März 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1680168240/381/
+- Donnerstag, 30. März 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680168000/2884/
+- Donnerstag, 30. März 2023 11:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680168240/2845/
+- Donnerstag, 30. März 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680168240/2911/
+- Donnerstag, 30. März 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680168240/2914/
+- Donnerstag, 30. März 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680168240/2848/
+- Donnerstag, 30. März 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680168240/898/
+- Donnerstag, 30. März 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680168240/2887/
 - Donnerstag, 30. März 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1680168240/111/
-- Donnerstag, 30. März 2023 11:30 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1680168600/147/
-- Donnerstag, 30. März 2023 11:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1680168960/108/
+- Donnerstag, 30. März 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680168240/904/
+- Donnerstag, 30. März 2023 11:30 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680168600/2884/
+- Donnerstag, 30. März 2023 11:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680168960/2845/
+- Donnerstag, 30. März 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680168960/2911/
+- Donnerstag, 30. März 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680168960/2914/
+- Donnerstag, 30. März 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680168960/2848/
 - Donnerstag, 30. März 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1680168960/381/
 - Donnerstag, 30. März 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1680168960/312/
+- Donnerstag, 30. März 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680168960/898/
+- Donnerstag, 30. März 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680168960/2887/
 - Donnerstag, 30. März 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1680168960/111/
 - Donnerstag, 30. März 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680168960/313/
-- Donnerstag, 30. März 2023 11:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1680169200/147/
-- Donnerstag, 30. März 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1680169200/151/
-- Donnerstag, 30. März 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1680169200/150/
-- Donnerstag, 30. März 2023 11:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1680169680/136/
+- Donnerstag, 30. März 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680168960/904/
+- Donnerstag, 30. März 2023 11:40 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1680169200/151/
+- Donnerstag, 30. März 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680169200/2884/
+- Donnerstag, 30. März 2023 11:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680169680/2845/
+- Donnerstag, 30. März 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680169680/2911/
+- Donnerstag, 30. März 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680169680/2914/
+- Donnerstag, 30. März 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680169680/2848/
 - Donnerstag, 30. März 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680169680/844/
 - Donnerstag, 30. März 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1680169680/381/
-- Donnerstag, 30. März 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1680169680/312/
+- Donnerstag, 30. März 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680169680/898/
+- Donnerstag, 30. März 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680169680/2887/
 - Donnerstag, 30. März 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1680169680/111/
 - Donnerstag, 30. März 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680169680/313/
+- Donnerstag, 30. März 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680169680/904/
 - Donnerstag, 30. März 2023 11:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1680169800/147/
 - Donnerstag, 30. März 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1680169800/151/
-- Donnerstag, 30. März 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1680169800/150/
-- Donnerstag, 30. März 2023 12:00 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1680170400/136/
+- Donnerstag, 30. März 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680169800/2884/
+- Donnerstag, 30. März 2023 12:00 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680170400/2911/
+- Donnerstag, 30. März 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680170400/2914/
 - Donnerstag, 30. März 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680170400/844/
+- Donnerstag, 30. März 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680170400/898/
 - Donnerstag, 30. März 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1680170400/111/
 - Donnerstag, 30. März 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680170400/313/
-- Donnerstag, 30. März 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1680170400/150/
+- Donnerstag, 30. März 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680170400/904/
 - Donnerstag, 30. März 2023 12:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1680171000/147/
 - Donnerstag, 30. März 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1680171000/151/
 - Donnerstag, 30. März 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1680171000/150/
-- Donnerstag, 30. März 2023 12:12 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1680171120/135/
+- Donnerstag, 30. März 2023 12:12 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680171120/2911/
 - Donnerstag, 30. März 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1680171120/136/
+- Donnerstag, 30. März 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680171120/2914/
 - Donnerstag, 30. März 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680171120/844/
 - Donnerstag, 30. März 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1680171120/381/
+- Donnerstag, 30. März 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680171120/898/
 - Donnerstag, 30. März 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1680171120/111/
 - Donnerstag, 30. März 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680171120/313/
+- Donnerstag, 30. März 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680171120/904/
 - Donnerstag, 30. März 2023 12:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1680171600/147/
 - Donnerstag, 30. März 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1680171600/151/
 - Donnerstag, 30. März 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1680171600/150/
-- Donnerstag, 30. März 2023 12:24 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1680171840/135/
-- Donnerstag, 30. März 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1680171840/136/
-- Donnerstag, 30. März 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680171840/844/
+- Donnerstag, 30. März 2023 12:24 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680171840/2911/
+- Donnerstag, 30. März 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680171840/2914/
 - Donnerstag, 30. März 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1680171840/381/
-- Donnerstag, 30. März 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1680171840/312/
-- Donnerstag, 30. März 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680171840/313/
-- Donnerstag, 30. März 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1680171840/103/
+- Donnerstag, 30. März 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680171840/898/
+- Donnerstag, 30. März 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680171840/904/
 - Donnerstag, 30. März 2023 12:30 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1680172200/151/
-- Donnerstag, 30. März 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1680172200/150/
-- Donnerstag, 30. März 2023 12:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1680172560/136/
+- Donnerstag, 30. März 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680172200/2884/
+- Donnerstag, 30. März 2023 12:36 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680172560/2911/
+- Donnerstag, 30. März 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680172560/2914/
 - Donnerstag, 30. März 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1680172560/381/
-- Donnerstag, 30. März 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680172560/313/
-- Donnerstag, 30. März 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1680172560/103/
+- Donnerstag, 30. März 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680172560/898/
+- Donnerstag, 30. März 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680172560/2887/
+- Donnerstag, 30. März 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680172560/904/
 - Donnerstag, 30. März 2023 12:40 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1680172800/151/
 - Donnerstag, 30. März 2023 12:48 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1680173280/135/
+- Donnerstag, 30. März 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680173280/2911/
+- Donnerstag, 30. März 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680173280/2914/
 - Donnerstag, 30. März 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1680173280/381/
-- Donnerstag, 30. März 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680173280/313/
-- Donnerstag, 30. März 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1680173280/103/
+- Donnerstag, 30. März 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680173280/898/
+- Donnerstag, 30. März 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680173280/2887/
+- Donnerstag, 30. März 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680173280/904/
 - Donnerstag, 30. März 2023 12:50 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1680173400/151/
 - Donnerstag, 30. März 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1680173400/150/
-- Donnerstag, 30. März 2023 13:00 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1680174000/151/
+- Donnerstag, 30. März 2023 13:00 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680174000/2911/
+- Donnerstag, 30. März 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680174000/898/
+- Donnerstag, 30. März 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1680174000/151/
+- Donnerstag, 30. März 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680174000/904/
 - Donnerstag, 30. März 2023 13:10 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1680174600/151/
+- Donnerstag, 30. März 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680174600/2884/
 - Donnerstag, 30. März 2023 13:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1680174720/136/
 - Donnerstag, 30. März 2023 13:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1680175200/150/
+- Donnerstag, 30. März 2023 13:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680175440/2914/
+- Donnerstag, 30. März 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680175440/2887/
 - Donnerstag, 30. März 2023 13:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1680175800/150/
+- Donnerstag, 30. März 2023 13:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680176160/2887/
 - Donnerstag, 30. März 2023 13:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1680176400/150/
+- Donnerstag, 30. März 2023 13:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680176880/2887/
+- Donnerstag, 30. März 2023 13:50 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680177000/2884/
 - Donnerstag, 30. März 2023 14:00 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1680177600/150/
 - Donnerstag, 30. März 2023 14:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1680178200/147/
 - Donnerstag, 30. März 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1680178200/150/
 - Donnerstag, 30. März 2023 14:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1680178800/147/
 - Donnerstag, 30. März 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1680178800/150/
-- Donnerstag, 30. März 2023 14:30 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1680179400/147/
-- Donnerstag, 30. März 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1680179400/150/
+- Donnerstag, 30. März 2023 14:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1680179400/150/
+- Donnerstag, 30. März 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680179400/2884/
 - Donnerstag, 30. März 2023 14:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1680180000/147/
 - Donnerstag, 30. März 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1680180000/150/
 - Donnerstag, 30. März 2023 14:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1680180600/147/
 - Donnerstag, 30. März 2023 15:00 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1680181200/147/
-- Donnerstag, 30. März 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1680181200/150/
 - Donnerstag, 30. März 2023 15:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1680181800/147/
 - Donnerstag, 30. März 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1680181800/150/
+- Donnerstag, 30. März 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680181800/2884/
 - Donnerstag, 30. März 2023 15:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1680182400/147/
+- Donnerstag, 30. März 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680182400/2884/
 - Donnerstag, 30. März 2023 15:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1680184200/147/
-- Donnerstag, 30. März 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1680184200/150/
-- Donnerstag, 30. März 2023 16:00 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1680184800/151/
-- Donnerstag, 30. März 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1680184800/150/
-- Donnerstag, 30. März 2023 16:10 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1680185400/151/
-- Donnerstag, 30. März 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1680185400/150/
 - Donnerstag, 30. März 2023 16:20 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1680186000/151/
 - Donnerstag, 30. März 2023 16:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1680187200/147/
 - Donnerstag, 30. März 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1680187200/151/
-- Donnerstag, 30. März 2023 16:50 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1680187800/151/
-- Donnerstag, 30. März 2023 17:20 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1680189600/151/
-- Donnerstag, 30. März 2023 17:40 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1680190800/151/
