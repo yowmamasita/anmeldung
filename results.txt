@@ -1,4 +1,1 @@
-- Freitag, 3. Februar 2023 08:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675408320/2863/
-- Freitag, 3. Februar 2023 08:18 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675408680/2911/
-- Freitag, 3. Februar 2023 08:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675409040/2863/
-- Freitag, 3. Februar 2023 08:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675409760/2863/
+
