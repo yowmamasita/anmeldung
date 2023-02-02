@@ -1,17 +1,1 @@
-- Freitag, 3. Februar 2023 08:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1675409040/167/
-- Freitag, 3. Februar 2023 08:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1675409760/167/
-- Freitag, 3. Februar 2023 08:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1675410480/168/
-- Freitag, 3. Februar 2023 09:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1675411920/167/
-- Freitag, 3. Februar 2023 09:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1675412640/167/
-- Freitag, 3. Februar 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675412640/2863/
-- Freitag, 3. Februar 2023 09:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1675413360/167/
-- Freitag, 3. Februar 2023 09:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1675414080/167/
-- Freitag, 3. Februar 2023 10:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1675415520/167/
-- Freitag, 3. Februar 2023 10:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1675416240/167/
-- Freitag, 3. Februar 2023 10:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1675417680/167/
-- Freitag, 3. Februar 2023 11:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1675418400/167/
-- Freitag, 3. Februar 2023 11:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1675419120/167/
-- Freitag, 3. Februar 2023 11:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1675419840/167/
-- Freitag, 3. Februar 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1675419840/168/
-- Freitag, 3. Februar 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1675419840/170/
-- Mittwoch, 1. März 2023 11:30 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677666600/898/
+- Freitag, 3. Februar 2023 09:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675412640/2863/
