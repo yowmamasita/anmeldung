@@ -1,7 +1,1 @@
-- Donnerstag, 2. Februar 2023 12:24 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675337040/2911/
-- Donnerstag, 2. Februar 2023 15:12 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675347120/2911/
-- Donnerstag, 2. Februar 2023 15:24 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675347840/2911/
-- Donnerstag, 2. Februar 2023 15:48 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1675349280/2911/
-- Donnerstag, 2. März 2023 12:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1677754800/169/
-- Mittwoch, 22. März 2023 08:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1679470560/170/
-- Mittwoch, 29. März 2023 13:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1680090840/112/
+
