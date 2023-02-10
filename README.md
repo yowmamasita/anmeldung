@@ -1,2 +1,51 @@
-# list of available Anmeldung appointments as of Fri Feb 10 07:54:33 CET 2023
+# list of available Anmeldung appointments as of Fri Feb 10 07:55:24 CET 2023
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122254,122252,329742,122260,329745,122262,329748,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,317869,122281,327352,122279,329772,122283,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
+- Freitag, 10. Februar 2023 08:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1676012400/167/
+- Freitag, 10. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1676012400/191/
+- Freitag, 10. Februar 2023 08:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1676013120/167/
+- Freitag, 10. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1676013120/191/
+- Freitag, 10. Februar 2023 08:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1676013840/167/
+- Freitag, 10. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1676013840/191/
+- Freitag, 10. Februar 2023 08:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1676014560/167/
+- Freitag, 10. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1676014560/191/
+- Freitag, 10. Februar 2023 08:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1676015280/167/
+- Freitag, 10. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1676015280/191/
+- Freitag, 10. Februar 2023 09:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1676016000/167/
+- Freitag, 10. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1676016000/191/
+- Freitag, 10. Februar 2023 09:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1676016720/167/
+- Freitag, 10. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1676016720/191/
+- Freitag, 10. Februar 2023 09:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1676017440/167/
+- Freitag, 10. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1676017440/191/
+- Freitag, 10. Februar 2023 09:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1676018160/167/
+- Freitag, 10. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1676018160/191/
+- Freitag, 10. Februar 2023 09:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1676018880/167/
+- Freitag, 10. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1676018880/191/
+- Freitag, 10. Februar 2023 10:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1676019600/167/
+- Freitag, 10. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1676019600/191/
+- Freitag, 10. Februar 2023 10:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1676020320/167/
+- Freitag, 10. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1676020320/191/
+- Freitag, 10. Februar 2023 10:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1676021040/167/
+- Freitag, 10. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1676021040/191/
+- Freitag, 10. Februar 2023 10:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1676021760/167/
+- Freitag, 10. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1676021760/191/
+- Freitag, 10. Februar 2023 10:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1676022480/167/
+- Freitag, 10. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1676022480/191/
+- Freitag, 10. Februar 2023 11:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1676023200/167/
+- Freitag, 10. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1676023200/191/
+- Freitag, 10. Februar 2023 11:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1676023920/167/
+- Freitag, 10. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1676023920/191/
+- Freitag, 10. Februar 2023 11:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1676024640/167/
+- Freitag, 10. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1676024640/191/
+- Freitag, 10. Februar 2023 11:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1676025360/167/
+- Freitag, 10. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1676025360/191/
+- Freitag, 10. Februar 2023 11:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1676026080/167/
+- Freitag, 10. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1676026080/191/
+- Freitag, 10. Februar 2023 12:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1676026800/191/
+- Freitag, 10. Februar 2023 12:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1676027520/167/
+- Freitag, 10. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1676027520/191/
+- Freitag, 10. Februar 2023 12:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1676028240/167/
+- Freitag, 10. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1676028240/191/
+- Freitag, 10. Februar 2023 12:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1676028960/167/
+- Freitag, 10. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1676028960/191/
+- Freitag, 10. Februar 2023 12:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1676029680/167/
+- Freitag, 10. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1676029680/191/
