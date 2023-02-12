@@ -10,7 +10,7 @@ async function processAppointmentURL(browser, elem) {
 		await page.goto(appointmentURL);
 		await page.waitForNavigation('networkidle2');
 
-		appointmentURL = page.url();
+		appointmentURL = await page.url();
 	}
 	return `${elem.innerText.replace('\t', ' ')} ${appointmentURL}`;
 }
@@ -28,7 +28,10 @@ async function getAppointmentSlots(browser, dateUrl) {
 
 		return Array
 			.from(document.querySelectorAll('tr'))
-			.map(async (e) => `- ${appointmentSchedule} ${await processAppointmentURL(browser, e)}`);
+			.map(async (e) => {
+				const appointmentURL = await processAppointmentURL(browser, e);
+				return `- ${appointmentSchedule} ${appointmentURL}`;
+			});
 	});
 
 	// await page.screenshot({ path: 'anmeldung.png' });
