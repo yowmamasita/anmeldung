@@ -12,6 +12,7 @@ async function processAppointmentURL(browser, elem) {
 
 		appointmentURL = await page.url();
 	}
+	console.log(`processAppointmentURL > ${elem.innerText.replace('\t', ' ')} ${appointmentURL}`);
 	return `${elem.innerText.replace('\t', ' ')} ${appointmentURL}`;
 }
 
@@ -30,6 +31,7 @@ async function getAppointmentSlots(browser, dateUrl) {
 			.from(document.querySelectorAll('tr'))
 			.map(async (e) => {
 				const appointmentURL = await processAppointmentURL(browser, e);
+				console.log('appointmentURL', appointmentURL);
 				return `- ${appointmentSchedule} ${appointmentURL}`;
 			});
 	});
@@ -57,6 +59,7 @@ async function getAppointmentSlots(browser, dateUrl) {
 
 	if (bookable.length > 0) {
 		const appointmentsByDay = await Promise.all(bookable.map(async (e) => await getAppointmentSlots(browser, e)));
+		console.log('appointmentsByDay', appointmentsByDay);
 		const appointments = appointmentsByDay.flat();
 
 		console.log('appointments', appointments);
