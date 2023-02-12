@@ -23,3 +23,5 @@ cat results.txt >> README.md
 git add -A
 git commit -m "latest data: ${timestamp}, slots: ${appointmentCount}" || exit 0
 git push
+
+wget --spider "https://sm.hetrixtools.net/hb/?s=49af524700d95e59166d708d3b1b5359"
