@@ -28,7 +28,8 @@ function scrapeAppointments() {
 
 function appointmentProcessor(browser) {
 	return async (appointment) => {
-		if (/(Schöneweide|Köpenick|Blaschkoallee|Neukölln|Sonnenallee|Zwickauer|Rudow)/.test(appointment)) {
+		// if (/(Schöneweide|Köpenick|Blaschkoallee|Neukölln|Sonnenallee|Zwickauer|Rudow)/.test(appointment)) {
+		if (true) {
 			const urlIndex = appointment.indexOf("https://");
 			const url = appointment.substr(urlIndex);
 
