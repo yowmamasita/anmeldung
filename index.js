@@ -1,7 +1,7 @@
 import puppeteer from 'puppeteer';
 import * as fs from 'fs';
 
-const ANMELDUNG_URL = 'https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122254,122252,329742,122260,329745,122262,329748,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,317869,122281,327352,122279,329772,122283,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F';
+const ANMELDUNG_URL = 'https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122254,122252,329742,122260,329745,122262,329748,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,317869,122281,327352,122279,329772,122283,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F';
 
 function scrapeBookable() {
 	return Array
@@ -18,31 +18,32 @@ function scrapeAppointments() {
 
 	return Array
 		.from(document.querySelectorAll('tr'))
-		.map(async (e) => {
+		.map(e => {
 			const url = e.querySelector('a').href;
 			const location = e.innerText.replace('\t', ' ');
-
 			return `- ${schedule} ${location} ${url}`;
 		});
 }
 
-function appointmentProcessor(browser) {
+async function appointmentProcessor() {
+	const browser2 = await puppeteer.launch();
 	return async (appointment) => {
 		console.log('old url', appointment);
 		// if (/(Schöneweide|Köpenick|Blaschkoallee|Neukölln|Sonnenallee|Zwickauer|Rudow)/.test(appointment)) {
-		if (true) {
-			const urlIndex = appointment.indexOf("https://");
-			const url = appointment.substr(urlIndex);
+		// if (true) {
+		const urlIndex = appointment.indexOf("https://");
+		const url = appointment.substr(urlIndex);
 
-			const page = await browser.newPage();
-			await page.goto(url);
+		console.log(url);
+		const page = await browser2.newPage();
+		await page.goto(url);
 
-			const newUrl = page.url();
-			appointment = appointment.substring(0, urlIndex) + newUrl;
-			console.log('new url', appointment);
+		const newUrl = page.url();
+		appointment = appointment.substring(0, urlIndex) + newUrl;
+		console.log('new url', appointment);
 
-			await page.close();
-		}
+		await page.close();
+		// }
 		return appointment;
 	}
 }
@@ -58,7 +59,7 @@ async function getAppointments(browser, dateUrl) {
 	return appointments;
 }
 
-(async () => {
+setInterval(async () => {
 	const browser = await puppeteer.launch();
 
 	const page = await browser.newPage();
@@ -71,17 +72,24 @@ async function getAppointments(browser, dateUrl) {
 	// await page.screenshot({ path: 'anmeldung.png' });
 
 	if (bookable.length > 0) {
+		console.log('found available dates', bookable.length);
+
 		const appointmentsByDay = await Promise.all(bookable.map(async (e) => await getAppointments(browser, e)));
 		const appointments = appointmentsByDay.flat();
+		console.log('appointments', appointments);
+		console.log('found appointments', appointments.length);
 
-		const processAppointment = appointmentProcessor(browser);
+		const processAppointment = await appointmentProcessor();
 
-		appointments.map(processAppointment);
+		const processed = await appointments
+			.map(processAppointment)
+			.map(console.log)
+			.filter(u => u.indexOf('termin/stop') === -1);
 
-		fs.writeFileSync('results.txt', appointments.join('\n') + '\n');
+		fs.writeFileSync('results.txt', processed.join('\n') + '\n');
 	} else {
 		fs.writeFileSync('results.txt', '');
 	}
 
 	await browser.close();
-})();
+}, 1000 * 30);
