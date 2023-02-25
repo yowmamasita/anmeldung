@@ -59,7 +59,7 @@ async function getAppointments(browser, dateUrl) {
 	return appointments;
 }
 
-setInterval(async () => {
+(async () => {
 	const browser = await puppeteer.launch();
 
 	const page = await browser.newPage();
@@ -92,4 +92,4 @@ setInterval(async () => {
 	}
 
 	await browser.close();
-}, 1000 * 30);
+})();
