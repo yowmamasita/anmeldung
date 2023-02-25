@@ -64,8 +64,8 @@ async function appointmentProcessor(browser) {
 			dropdown.value = '1';
 			dropdown.dispatchEvent(new Event('change'));
 		});
-		await page.$eval('#register_submit', submit => submit.click());
-		await page.waitForNavigation();
+		// await page.$eval('#register_submit', submit => submit.click());
+		// await page.waitForNavigation();
 
 		// await page.screenshot({ path: `STEP2-${appointmentId}.png` }, { fullPage: true });
 
