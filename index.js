@@ -30,8 +30,8 @@ async function appointmentProcessor() {
 	const browser2 = await puppeteer.launch();
 
 	return async (appointment) => {
-		// if (/(Schöneweide|Köpenick|Blaschkoallee|Neukölln|Sonnenallee|Zwickauer|Rudow)/.test(appointment)) {
-		// if (true) {
+		if (!(/(Schöneweide|Köpenick|Blaschkoallee|Neukölln|Sonnenallee|Zwickauer|Rudow)/.test(appointment))) return;
+
 		const urlIndex = appointment.indexOf("https://");
 		const url = appointment.substr(urlIndex);
 
@@ -109,7 +109,7 @@ async function main() {
 			await Promise.all(
 				appointments.map(processAppointment)
 			)
-		).filter(a => a.indexOf('termin/stop') === -1);
+		).filter(a => a && a.indexOf('termin/stop') === -1);
 
 	if (processed.length > 0) {
 		fs.writeFileSync('results.txt', processed.join('\n') + '\n');
@@ -121,13 +121,12 @@ async function main() {
 	await executeCommand('./update.sh');
 }
 
-async function repeatUntilTimeout(asyncFunction, delayMs, timeoutMs) {
-	const startTime = Date.now();
-	while (Date.now() - startTime < timeoutMs) {
+async function repeatWithDelay(asyncFunction, delayMs) {
+	while (true) {
 		await asyncFunction();
 		await new Promise(resolve => setTimeout(resolve, delayMs));
 	}
 }
 (async () => {
-	await repeatUntilTimeout(main, 500, 60000);
+	await repeatWithDelay(main, 500);
 })();
