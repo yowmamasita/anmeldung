@@ -29,9 +29,6 @@ function scrapeAppointments() {
 
 async function appointmentProcessor(browser) {
 	return async (appointment) => {
-		const PERSON_NAME = 'Paul Murdaugh';
-		const PERSON_EMAIL = 'noyetor686@pubpng.com';
-		const PERSON_TELEPHONE = '+4912345678910';
 		// return appointment;
 		// if (!(/(Schöneweide|Köpenick|Blaschkoallee|Neukölln|Sonnenallee|Zwickauer|Rudow)/.test(appointment))) return appointment;
 
@@ -57,10 +54,10 @@ async function appointmentProcessor(browser) {
 		const cookies = await page.cookies();
 		console.log('Cookies for ' + finalUrl, cookies);
 
-		await page.$eval('#familyName', el => el.value = PERSON_NAME);
-		await page.$eval('#email', el => el.value = PERSON_EMAIL);
+		await page.$eval('#familyName', el => el.value = 'Paul Murdaugh');
+		await page.$eval('#email', el => el.value = 'noyetor686@pubpng.com');
 		const telephone = await page.$('#telephone');
-		if (telephone) await telephone.type(PERSON_TELEPHONE);
+		if (telephone) await telephone.type('+4912345678910');
 
 		await page.$eval('#agbgelesen', checkbox => checkbox.click());
 		await page.$eval('select[name="surveyAccepted"]', dropdown => {
