@@ -26,16 +26,14 @@ function scrapeAppointments() {
 		});
 }
 
-async function appointmentProcessor() {
-	const browser2 = await puppeteer.launch();
-
+async function appointmentProcessor(browser) {
 	return async (appointment) => {
 		if (!(/(Schöneweide|Köpenick|Blaschkoallee|Neukölln|Sonnenallee|Zwickauer|Rudow)/.test(appointment))) return;
 
 		const urlIndex = appointment.indexOf("https://");
 		const url = appointment.substr(urlIndex);
 
-		const page = await browser2.newPage();
+		const page = await browser.newPage();
 		await page.setRequestInterception(true);
 
 		let finalUrl;
@@ -61,6 +59,7 @@ async function getAppointments(browser, dateUrl) {
 	const appointments = await page.evaluate(scrapeAppointments);
 
 	// await page.screenshot({ path: 'anmeldung.png' });
+	await page.close();
 
 	return appointments;
 }
@@ -98,18 +97,22 @@ async function main() {
 
 	const bookable = await page.evaluate(scrapeBookable);
 	// await page.screenshot({ path: 'anmeldung.png' });
+	await page.close();
 
 	if (bookable.length === 0) return;
+	console.log('Found ' + bookable.length + ' bookable dates.', bookable);
+
 	const appointmentsByDay = await Promise.all(bookable.map(async (e) => await getAppointments(browser, e)));
 	const appointments = appointmentsByDay.flat();
 
-	const processAppointment = await appointmentProcessor();
+	const processAppointment = await appointmentProcessor(browser);
 
 	const processed = (
 			await Promise.all(
 				appointments.map(processAppointment)
 			)
 		).filter(a => a && a.indexOf('termin/stop') === -1);
+	console.log('Found ' + processed.length + ' appointments.', processed);
 
 	if (processed.length > 0) {
 		fs.writeFileSync('results.txt', processed.join('\n') + '\n');
@@ -121,12 +124,9 @@ async function main() {
 	await executeCommand('./update.sh');
 }
 
-async function repeatWithDelay(asyncFunction, delayMs) {
+(async () => {
 	while (true) {
-		await asyncFunction();
+		await repeatWithDelay(main, 500);
 		await new Promise(resolve => setTimeout(resolve, delayMs));
 	}
-}
-(async () => {
-	await repeatWithDelay(main, 500);
 })();
