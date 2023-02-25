@@ -20,5 +20,3 @@ jobs:
         run: npm ci
       - name: fetch latest data
         run: npm start
-      - name: commit and push if it changed
-        run: ./update.sh
