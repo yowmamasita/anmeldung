@@ -50,8 +50,10 @@ async function appointmentProcessor(browser) {
 		});
 
 		page.on('response', async (res) => {
-			if (res.headers()['status'] !== '200') return;
-			await fse.outputFile('appointment.html', await res.buffer());
+			const statusCode = res.status();
+			if (!(statusCode >= 300 && statusCode < 400)) {
+				await fse.outputFile('appointment.html', await res.buffer());
+			}
 		});
 
 		await page.goto(url, { waitUntil: 'networkidle2' });
@@ -122,10 +124,10 @@ async function main(browser) {
 	const processAppointment = await appointmentProcessor(browser);
 
 	const processed = (
-			await Promise.all(
-				appointments.map(processAppointment)
-			)
-		).filter(a => a && a.indexOf('termin/stop') === -1);
+		await Promise.all(
+			appointments.map(processAppointment)
+		)
+	).filter(a => a && a.indexOf('termin/stop') === -1);
 	console.log('Found ' + processed.length + ' appointments.', processed);
 
 	if (processed.length > 0) {
