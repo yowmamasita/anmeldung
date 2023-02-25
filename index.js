@@ -28,35 +28,34 @@ function scrapeAppointments() {
 
 async function appointmentProcessor() {
 	const browser2 = await puppeteer.launch();
+
 	return async (appointment) => {
-		console.log('old url', appointment);
+		console.log('>>>>> old url', appointment);
 		// if (/(Schöneweide|Köpenick|Blaschkoallee|Neukölln|Sonnenallee|Zwickauer|Rudow)/.test(appointment)) {
 		// if (true) {
 		const urlIndex = appointment.indexOf("https://");
 		const url = appointment.substr(urlIndex);
 
 		const page = await browser2.newPage();
+		await page.setRequestInterception(true);
+
 		let finalUrl;
 
-		// Listen for the 'requestfinished' event to get the final URL
-		page.on('requestfinished', request => {
-			if (request.url() === url) {
+		// get final url after redirects
+		page.on('request', (request) => {
+			if (request.isNavigationRequest()) {
 				finalUrl = request.url();
 			}
+			request.continue();
 		});
-
-		// Navigate to the initial URL and wait for all redirects to complete
 		await page.goto(url, { waitUntil: 'networkidle2' });
 
-		// Close the page and return the final URL
 		await page.close();
 
-		appointment = appointment.substring(0, urlIndex) + finalUrl;
-		console.log('new url', appointment);
+		console.log('>>>>>> new url', finalUrl);
+		console.log('>>>>>>> prefix', appointment.substring(0, urlIndex));
 
-		await page.close();
-		// }
-		return appointment;
+		return appointment.substring(0, urlIndex) + finalUrl;
 	}
 }
 
@@ -104,24 +103,23 @@ async function main() {
 
 	const bookable = await page.evaluate(scrapeBookable);
 
-	console.log('dates', bookable);
+	console.log('> dates', bookable);
 
 	// await page.screenshot({ path: 'anmeldung.png' });
 
 	if (bookable.length > 0) {
-		console.log('found available dates', bookable.length);
+		console.log('>> found available dates', bookable.length);
 
 		const appointmentsByDay = await Promise.all(bookable.map(async (e) => await getAppointments(browser, e)));
 		const appointments = appointmentsByDay.flat();
-		console.log('appointments', appointments);
-		console.log('found appointments', appointments.length);
+		console.log('>>> appointments', appointments);
+		console.log('>>>> found appointments', appointments.length);
 
 		const processAppointment = await appointmentProcessor();
 
 		const processed = appointments
-			.map(processAppointment)
-			.map(console.log)
-			.filter(u => u.indexOf('termin/stop') === -1);
+			.map(a => processAppointment(a))
+			.filter(a => a.indexOf('termin/stop') === -1);
 
 		fs.writeFileSync('results.txt', processed.join('\n') + '\n');
 	} else {
