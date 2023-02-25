@@ -33,7 +33,7 @@
 
 <!--
   layout: ohne
-  url: /service.berlin.de/terminvereinbarung/layout/__i9/ohne/head.inc  created on: Sat, 25 Feb 2023 16:54:33 +0100
+  url: /service.berlin.de/terminvereinbarung/layout/__i9/ohne/head.inc  created on: Sat, 25 Feb 2023 17:24:46 +0100
 -->
 
     <link rel="stylesheet" type="text/css" href="/terminvereinbarung/termin/_css/appointment.css">
@@ -96,7 +96,7 @@
             <span class="text">Barrierefrei</span>
         </button>
     </div>
-        <div class="service-button-overlay__overlay overlay js-overlay-container" aria-modal="true" role="dialog" hidden="hidden" style="transition: all 200ms ease-in-out 0s; display: none;">
+        <div class="service-button-overlay__overlay overlay js-overlay-container" aria-modal="true" role="dialog" style="transition: all 200ms ease-in-out 0s;">
         <div class="overlay__header">
             <h2 class="heading">Barrierefreiheit</h2>
             <button type="button" class="close-button js-button-overlay-close">
@@ -124,7 +124,7 @@
                     <span class="text">Suche</span>
                 </button>
             </div>
-                        <div class="service-button-overlay__overlay overlay js-overlay-container" aria-modal="true" role="dialog" hidden="hidden" style="transition: all 200ms ease-in-out 0s; display: none;">
+                        <div class="service-button-overlay__overlay overlay js-overlay-container" aria-modal="true" role="dialog" style="transition: all 200ms ease-in-out 0s;">
                 <div class="overlay__header">
                     <h2 class="heading"><span class="aural">Suche</span></h2>
                     <button type="button" class="close-button js-button-overlay-close"><i class="fas fa-times" aria-hidden="true"></i><span class="aural">Menü schließen</span></button>
@@ -153,7 +153,7 @@
                     <span class="text">Menü</span>
                 </button>
             </div>
-            <div class="service-button-overlay__overlay overlay js-overlay-container" aria-modal="true" role="dialog" hidden="hidden" style="transition: all 200ms ease-in-out 0s; display: none;">
+            <div class="service-button-overlay__overlay overlay js-overlay-container" aria-modal="true" role="dialog" style="transition: all 200ms ease-in-out 0s;">
                 <div class="overlay__header">
                     <h2 class="heading">Hauptnavigation</h2>
                     <button type="button" class="close-button js-button-overlay-close"><i class="fas fa-times" aria-hidden="true"></i><span class="aural">Menü schließen</span></button>
@@ -392,10 +392,10 @@
         <div class="table-cell collapsible-counter span1">2</div>
         <div class="table-cell collapsible-title span3">Standort</div>
         <div class="table-cell collapsible-description span7">
-        					    	        Bürgeramt 2 (Lichtenberg) - Vorzugstermine - Normannenstr. 1-2, 10367 Berlin
+        					    	        Bürgeramt Schöneweide - Vorzugstermine - Michael-Brückner-Str. 1, 12439 Berlin
                   <br>
     	    <strong>Zahlungshinweis:</strong><br>
-          Am Standort kann nur mit girocard (mit PIN) (ehemals EC Karte) bezahlt werden. (keine Barzahlung)
+          Am Standort kann bar und mit girocard (mit PIN) (ehemals EC-Karte) bezahlt werden.
            	
 	
         </div>
@@ -413,7 +413,7 @@
         <div class="table-cell collapsible-counter span1">3</div>
         <div class="table-cell collapsible-title span3">Datum</div>
         <div class="table-cell collapsible-description span7">
-        	Mi. 22. März 2023
+        	Mo. 27. Februar 2023
         </div>
                 <div class="table-cell collapsible-options span1">
         	<a href="/terminvereinbarung/termin/day/" class="edit icon-pencil" title="Zurück zur Auswahl des Tages">Bearbeiten</a>
@@ -429,7 +429,7 @@
         <div class="table-cell collapsible-counter span1">4</div>
         <div class="table-cell collapsible-title span3">Uhrzeit</div>
         <div class="table-cell collapsible-description span7">
-        	13:42
+        	13:54
         </div>
                 <div class="table-cell collapsible-options span1">
         	<a href="/terminvereinbarung/termin/time/" class="edit icon-pencil" title="">Bearbeiten</a>
@@ -454,6 +454,17 @@
 
     
     
+	<br>
+	<div class="alert alert-error noprint">
+    	<p>
+    	Bei der Eingabe der Daten scheint Ihnen ein Fehler unterlaufen zu sein. Bitte prüfen Sie die Hinweise an den markierten Formularfeldern.    	</p>
+    	    			    			    	<label><strong>Fehlende Bestätigung der Nutzungsbedingungen</strong></label>
+            <ul class="list error">
+                <li>Bitte akzeptieren Sie die Nutzungsbedingungen um einen Termin zu vereinbaren!</li>
+            </ul>
+
+    	
+	</div>
 
 <h2 class="title">Bitte geben Sie Ihre Kundendaten an:</h2>
 <form class="form-zms" action="/terminvereinbarung/termin/register/" method="post" autocomplete="on">
@@ -462,7 +473,7 @@
                 <div class="control-group ">
             	                <label for="familyName" class="control-label">Ihr Vor- und Nachname <span class="required-symbol">*</span></label>
                                 <div class="controls">
-                    <input autofocus="" tabindex="1" class="" type="text" name="familyName" id="familyName" value="">
+                    <input autofocus="" tabindex="1" class="" type="text" name="familyName" id="familyName" value="Ben Adrian Sarmiento">
                                     </div>
             </div>
         </div>
@@ -472,7 +483,7 @@
                 <div class="control-group ">
             	                <label for="email" class="control-label">Ihre E-Mail Adresse <span class="required-symbol">*</span></label>
                                 <div class="controls">
-                    <input tabindex="2" class="" type="text" name="email" id="email" value="">
+                    <input tabindex="2" class="" type="text" name="email" id="email" value="me@bensarmiento.com">
                                     </div>
             </div>
         </div>
@@ -481,34 +492,41 @@
         										        	        <div class="row-fluid">
     	<div class="span12">
                 <div class="control-group ">
-            	                <label for="telephone" class="control-label">Ihre Telefonnummer oder Mobilfunknummer </label>
+            	                <label for="telephone" class="control-label">Ihre Telefonnummer oder Mobilfunknummer <span class="required-symbol">*</span></label>
                                 <div class="controls">
-                    <input tabindex="3" class="" type="text" name="telephone" id="telephone" value="">
+                    <input tabindex="3" class="" type="text" name="telephone" id="telephone" value="+4915774990994">
                                     </div>
             </div>
         </div>
         </div>
     
         
-                            <input tabindex="" class="" type="hidden" name="process" id="process" value="154392">
+                            <input tabindex="" class="" type="hidden" name="process" id="process" value="152970">
                     
                             <input tabindex="" class="" type="hidden" name="form_validate" id="form_validate" value="1">
                     
-		                    <input tabindex="" class="" type="hidden" name="reserved" id="reserved" value="165521">
+		                    <input tabindex="" class="" type="hidden" name="reserved" id="reserved" value="172534">
                     
 
-				
+																        <div class="control-group ">
+	    <label class="control-label">Anmerkung </label>
+        <div class="controls">
+        <textarea class="maxchars" name="amendment" rows="3" maxlength="300"></textarea><span class="formcharquota-status" style="display:block;text-align:right;background-color:grey;padding-right:3px;color:white">0/300 Zeichen</span>
+            </div>
+</div>
+
+        
 		    		</fieldset>
    	<fieldset>
 		   
 				
 				  <div class="control-group">
-  	  	<label class="control-label">Möchten Sie die Arbeit des Bürgeramtes Lichtenberg bewerten? <span class="required-symbol">*</span></label>
+  	  	<label class="control-label">Möchten Sie die Arbeit des Bürgeramtes II in Schöneweide bewerten? <span class="required-symbol">*</span></label>
   	      <div class="controls">
           <select tabindex="8" name="surveyAccepted" class="field-type-select">
           	          	<option value="required">Bitte auswählen</option>
           	          	<option value="0">Nicht zustimmen</option>
-          	          	<option value="1">Ich stimme zu</option>
+          	          	<option selected="selected" value="1">Ich stimme zu</option>
           	          </select>
                 </div>
   </div>
@@ -521,9 +539,13 @@
 
 		<label>Allgemeine Nutzungsbedingungen <span class="required">*</span></label>
 							
-						            <div class="control-group ">
+						            <div class="control-group error">
         <label class="checkbox control-label">
-            <input tabindex="9" id="agbgelesen" name="agbgelesen" type="checkbox" value="1">Ich erkläre mich mit den <a href="https://service.berlin.de/terminvereinbarung/nutzungsbedingungen/" target="_blank" class="extern">Nutzungsbedingungen</a> einverstanden und akzeptiere diese. (Pflichtangabe. Termineintrag nur bei Einverständnis möglich) <span class="required-symbol">*</span>                    </label>
+            <input tabindex="9" id="agbgelesen" name="agbgelesen" type="checkbox" value="1">Ich erkläre mich mit den <a href="https://service.berlin.de/terminvereinbarung/nutzungsbedingungen/" target="_blank" class="extern">Nutzungsbedingungen</a> einverstanden und akzeptiere diese. (Pflichtangabe. Termineintrag nur bei Einverständnis möglich) <span class="required-symbol">*</span>                        	    <ul class="list error">
+                <li>Bitte akzeptieren Sie die Nutzungsbedingungen um einen Termin zu vereinbaren!</li>
+            </ul>
+
+                    </label>
     </div>
 
    	</fieldset>
