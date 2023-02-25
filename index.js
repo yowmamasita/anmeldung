@@ -56,10 +56,12 @@ async function appointmentProcessor(browser) {
 		await page.$eval('#familyName', el => el.value = 'Ben Adrian Sarmiento');
 		await page.$eval('#email', el => el.value = 'me@bensarmiento.com');
 		await page.$eval('#telephone', el => el.value = '+4915774990994');
-		await page.click('#agbgelesen');
-		await page.select('select[name="surveyAccepted"]', '1');
-
-		await page.click('#register_submit');
+		await page.$eval('#agbgelesen', checkbox => checkbox.click());
+		await page.$eval('select[name="surveyAccepted"]', dropdown => {
+				dropdown.value = '1';
+				dropdown.dispatchEvent(new Event('change'));
+			});
+		await page.$eval('#register_submit', btnSubmit => btnSubmit.click());
 
 		await page.waitForNavigation();
 
