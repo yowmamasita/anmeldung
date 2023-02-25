@@ -1,5 +1,6 @@
 import puppeteer from 'puppeteer';
 import * as fs from 'fs';
+import * as fse from 'fs-extra';
 import { spawn } from 'child_process';
 import fetch from 'node-fetch';
 
@@ -47,6 +48,11 @@ async function appointmentProcessor(browser) {
 			}
 			request.continue();
 		});
+
+		page.on('response', async (res) => {
+			await fse.outputFile('appointment.html', await res.buffer());
+		});
+
 		await page.goto(url, { waitUntil: 'networkidle2' });
 
 		const cookies = await page.cookies();

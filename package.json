@@ -8,6 +8,7 @@
     "start": "node index.js"
   },
   "dependencies": {
+    "fs-extra": "^11.1.0",
     "node-fetch": "^3.3.0",
     "puppeteer": "^19.4.1"
   }
