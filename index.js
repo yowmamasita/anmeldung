@@ -47,6 +47,9 @@ async function appointmentProcessor(browser) {
 		});
 		await page.goto(url, { waitUntil: 'networkidle2' });
 
+		const cookies = await page._client.send('Network.getAllCookies');
+		console.log('Cookies for ' + finalUrl, cookies.cookies);
+
 		await page.close();
 		return appointment.substring(0, urlIndex) + finalUrl;
 	}
