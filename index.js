@@ -137,5 +137,5 @@ async function repeatUntilTimeout(asyncFunction, delayMs, timeoutMs) {
 
 
 (async () => {
-	await repeatUntilTimeout(main, 1000, 60000);
+	await repeatUntilTimeout(main, 1000, 70000);
 })();
