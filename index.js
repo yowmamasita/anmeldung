@@ -30,7 +30,7 @@ function scrapeAppointments() {
 
 async function appointmentProcessor(browser) {
 	return async (appointment) => {
-		// return appointment;
+		return appointment;
 		if (!(/(Schöneweide|Köpenick|Blaschkoallee|Neukölln|Sonnenallee|Zwickauer|Rudow)/.test(appointment))) return appointment;
 
 		const urlIndex = appointment.indexOf("https://");
