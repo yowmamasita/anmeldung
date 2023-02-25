@@ -25,3 +25,4 @@ git commit -m "latest data: ${timestamp}, slots: ${appointmentCount}" || exit 0
 git push
 
 wget --spider "https://sm.hetrixtools.net/hb/?s=49af524700d95e59166d708d3b1b5359"
+# https://sm.hetrixtools.net/hb/?s=20a7474fe2f8c2aaac199277166985c8
