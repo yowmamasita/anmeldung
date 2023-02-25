@@ -140,6 +140,8 @@ async function main(browser) {
 	const appointmentsByDay = await Promise.all(bookable.map(async (e) => await getAppointments(browser, e)));
 	const appointments = appointmentsByDay.flat();
 
+	console.log('Found ' + appointments.length + ' appointments.', appointments);
+
 	const processAppointment = await appointmentProcessor(browser);
 
 	const processed = (
@@ -147,7 +149,7 @@ async function main(browser) {
 			appointments.map(processAppointment)
 		)
 	).filter(a => a && a.indexOf('termin/stop') === -1);
-	console.log('Found ' + processed.length + ' appointments.', processed);
+	console.log('Found ' + processed.length + ' processed appointments.', processed);
 
 	if (processed.length > 0) {
 		fs.writeFileSync('results.txt', processed.join('\n') + '\n');
