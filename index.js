@@ -51,7 +51,11 @@ async function appointmentProcessor(browser) {
 
 		await page.goto(url, { waitUntil: 'networkidle2' });
 
-		await page.screenshot({ path: `STEP1-${Date.now().toString(36) + Math.random().toString(36)}.png` }, { fullPage: true });
+		const appointmentId = Date.now().toString(36) + Math.random().toString(36);
+
+		await page.screenshot({ path: `STEP1-${appointmentId}.png` }, { fullPage: true });
+		const step1appointmentHtml = await page.evaluate(() => document.querySelector('*').outerHTML);
+		fs.writeFileSync(`STEP2-${appointmentId}.html`, step1appointmentHtml);
 
 		await page.$eval('#familyName', el => el.value = 'Ben Adrian Sarmiento');
 		await page.$eval('#email', el => el.value = 'me@bensarmiento.com');
@@ -62,7 +66,6 @@ async function appointmentProcessor(browser) {
 				dropdown.dispatchEvent(new Event('change'));
 			});
 		await page.$eval('#register_submit', btnSubmit => btnSubmit.click());
-
 		await page.waitForNavigation();
 
 		// #familyName
@@ -79,9 +82,9 @@ async function appointmentProcessor(browser) {
 
 		const cookies = await page.cookies();
 		console.log('Cookies for ' + finalUrl, cookies);
-		await page.screenshot({ path: `STEP2-${Date.now().toString(36) + Math.random().toString(36)}.png` });
-		const appointmentHtml = await page.evaluate(() => document.querySelector('*').outerHTML);
-		fs.writeFileSync('appointment.html', appointmentHtml);
+		await page.screenshot({ path: `STEP2-${appointmentId}.png` }, { fullPage: true });
+		const step2appointmentHtml = await page.evaluate(() => document.querySelector('*').outerHTML);
+		fs.writeFileSync(`STEP2-${appointmentId}.html`, step2appointmentHtml);
 
 		await page.close();
 		return appointment.substring(0, urlIndex) + finalUrl;
