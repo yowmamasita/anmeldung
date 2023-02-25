@@ -127,7 +127,23 @@ async function main() {
 	}
 }
 
+async function repeatUntilTimeout(fn, delay, timeout) {
+	const startTime = Date.now();
+
+	while (true) {
+		try {
+			const result = await fn();
+			return result;
+		} catch (err) {
+			const elapsedTime = Date.now() - startTime;
+			if (elapsedTime >= timeout) {
+				break;
+			}
+			await new Promise(resolve => setTimeout(resolve, delay));
+		}
+	}
+}
+
 (async () => {
-	await main();
-	await main();
+	await repeatUntilTimeout(main, 1000, 60000);
 })();
