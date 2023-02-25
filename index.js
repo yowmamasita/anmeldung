@@ -120,7 +120,7 @@ async function main() {
 	await browser.close();
 
 	try {
-		const output = await executeCommand('update.sh');
+		const output = await executeCommand('./update.sh');
 		console.log(output);
 	} catch (err) {
 		console.error(err);
