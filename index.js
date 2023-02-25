@@ -35,12 +35,23 @@ async function appointmentProcessor() {
 		const urlIndex = appointment.indexOf("https://");
 		const url = appointment.substr(urlIndex);
 
-		console.log(url);
 		const page = await browser2.newPage();
-		await page.goto(url);
+		let finalUrl;
 
-		const newUrl = await page.url();
-		appointment = appointment.substring(0, urlIndex) + newUrl;
+		// Listen for the 'requestfinished' event to get the final URL
+		page.on('requestfinished', request => {
+			if (request.url() === url) {
+				finalUrl = request.url();
+			}
+		});
+
+		// Navigate to the initial URL and wait for all redirects to complete
+		await page.goto(url, { waitUntil: 'networkidle2' });
+
+		// Close the page and return the final URL
+		await page.close();
+
+		appointment = appointment.substring(0, urlIndex) + finalUrl;
 		console.log('new url', appointment);
 
 		await page.close();
@@ -107,7 +118,7 @@ async function main() {
 
 		const processAppointment = await appointmentProcessor();
 
-		const processed = await appointments
+		const processed = appointments
 			.map(processAppointment)
 			.map(console.log)
 			.filter(u => u.indexOf('termin/stop') === -1);
@@ -130,10 +141,10 @@ async function main() {
 async function repeatUntilTimeout(asyncFunction, delayMs, timeoutMs) {
 	const startTime = Date.now();
 	while (Date.now() - startTime < timeoutMs) {
-	  await asyncFunction();
-	  await new Promise(resolve => setTimeout(resolve, delayMs));
+		await asyncFunction();
+		await new Promise(resolve => setTimeout(resolve, delayMs));
 	}
-  }
+}
 
 
 (async () => {
