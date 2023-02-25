@@ -16,7 +16,7 @@ if [ "${appointmentCount}" -ne "0" ]; then
 fi
 
 rm -f README.md
-echo "# List of available Anmeldung appointments as of ${timestamp}" > README.md
+echo "# List of available Anmeldung appointments as of $NOW" > README.md
 echo "[Link to Anmeldung website](${anmeldungUrl})" >> README.md
 cat results.txt >> README.md
 
