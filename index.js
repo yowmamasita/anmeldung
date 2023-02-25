@@ -127,15 +127,7 @@ async function main() {
 	}
 }
 
-function runWithTimeout(fn, timeout) {
-	return Promise.race([
-		fn(),
-		new Promise(resolve => setTimeout(() => resolve(), timeout))
-	]);
-}
-
-try {
-	await runWithTimeout(() => { while (true) {main()}}, 59999); // run the function with a 60 second timeout
-} catch (err) {
-	console.log('Finished!')
-}
+(async () => {
+	await main();
+	await main();
+})();
