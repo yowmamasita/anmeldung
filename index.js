@@ -51,6 +51,28 @@ async function appointmentProcessor(browser) {
 
 		await page.goto(url, { waitUntil: 'networkidle2' });
 
+		await page.$eval('#familyName', el => el.value = 'Ben Adrian Sarmiento');
+		await page.$eval('#email', el => el.value = 'me@bensarmiento.com');
+		await page.$eval('#telephone', el => el.value = '+4915774990994');
+		await page.click('#agbgelesen');
+		await page.select('select[name="surveyAccepted"]', '1');
+
+		await page.click('#register_submit');
+
+		await page.waitForNavigation();
+
+		// #familyName
+		// #email
+		// #telephone
+
+		// #layout-grid__area--maincontent > div > div > div:nth-child(2) > div.span7.column-content > div > div > form > fieldset:nth-child(2) > div:nth-child(1) > div > select
+		// await page.select('#telCountryInput', '1')
+		// document.querySelector("#layout-grid__area--maincontent > div > div > div:nth-child(2) > div.span7.column-content > div > div > form > fieldset:nth-child(2) > div:nth-child(1) > div > select")
+
+		// #agbgelesen
+
+		// #register_submit
+
 		const cookies = await page.cookies();
 		console.log('Cookies for ' + finalUrl, cookies);
 		await page.screenshot({ path: `${Date.now().toString(36) + Math.random().toString(36)}.png` });
