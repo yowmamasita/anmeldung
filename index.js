@@ -150,5 +150,8 @@ async function repeatUntilTimeout(asyncFunction, delayMs, timeoutMs) {
 
 
 (async () => {
-	await repeatUntilTimeout(main, 500, 60000);
+	await Promise.race([
+		repeatUntilTimeout(main, 500, 60000),
+		new Promise((resolve) => setTimeout(resolve, 60000))
+	]);
 })();
