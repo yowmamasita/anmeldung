@@ -67,7 +67,6 @@ async function getAppointments(browser, dateUrl) {
 
 function executeCommand(command, args) {
 	return new Promise((resolve, reject) => {
-		console.log('executeCommand start');
 		const process = spawn(command, args);
 
 		let output = '';
@@ -82,7 +81,6 @@ function executeCommand(command, args) {
 		});
 
 		process.on('close', (code) => {
-			console.log('executeCommand end', code);
 			if (code === 0) {
 				resolve(output.trim());
 			} else {
@@ -112,39 +110,24 @@ async function main() {
 				appointments.map(processAppointment)
 			)
 		).filter(a => a.indexOf('termin/stop') === -1);
-		if (processed.length > 0) {
+
+	if (processed.length > 0) {
 		fs.writeFileSync('results.txt', processed.join('\n') + '\n');
 	} else {
 		fs.writeFileSync('results.txt', '');
 	}
 
 	await browser.close();
-
-	try {
-		await Promise.race([
-			await executeCommand('./update.sh'),
-			new Promise((resolve) => setTimeout(resolve, 10000))
-		]);
-	} catch (err) {
-		console.error(err);
-	}
+	await executeCommand('./update.sh');
 }
 
 async function repeatUntilTimeout(asyncFunction, delayMs, timeoutMs) {
-	console.log('repeatUntilTimeout start');
 	const startTime = Date.now();
 	while (Date.now() - startTime < timeoutMs) {
-		console.log('asyncFunction start');
 		await asyncFunction();
-		console.log('asyncFunction done');
 		await new Promise(resolve => setTimeout(resolve, delayMs));
 	}
-	console.log('repeatUntilTimeout end');
 }
 (async () => {
-	await Promise.race([
-		repeatUntilTimeout(main, 500, 60000),
-		new Promise((resolve) => setTimeout(resolve, 60000))
-	]);
-	return;
+	await repeatUntilTimeout(main, 500, 60000);
 })();

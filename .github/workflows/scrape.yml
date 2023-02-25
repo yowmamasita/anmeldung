@@ -15,6 +15,7 @@ jobs:
           path: |
             node_modules
             /home/runner/.cache/puppeteer
+            /var/cache/apt/archives
           key: node_modules-${{ hashfiles('package-lock.json') }}
       - name: install timelimit
         run: sudo apt update && sudo apt install -y timelimit
