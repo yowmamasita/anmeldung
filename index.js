@@ -51,6 +51,8 @@ async function appointmentProcessor(browser) {
 
 		await page.goto(url, { waitUntil: 'networkidle2' });
 
+		await page.screenshot({ path: `STEP1-${Date.now().toString(36) + Math.random().toString(36)}.png` }, { fullPage: true });
+
 		await page.$eval('#familyName', el => el.value = 'Ben Adrian Sarmiento');
 		await page.$eval('#email', el => el.value = 'me@bensarmiento.com');
 		await page.$eval('#telephone', el => el.value = '+4915774990994');
@@ -75,7 +77,7 @@ async function appointmentProcessor(browser) {
 
 		const cookies = await page.cookies();
 		console.log('Cookies for ' + finalUrl, cookies);
-		await page.screenshot({ path: `${Date.now().toString(36) + Math.random().toString(36)}.png` });
+		await page.screenshot({ path: `STEP2-${Date.now().toString(36) + Math.random().toString(36)}.png` });
 		const appointmentHtml = await page.evaluate(() => document.querySelector('*').outerHTML);
 		fs.writeFileSync('appointment.html', appointmentHtml);
 
