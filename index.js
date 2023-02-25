@@ -123,6 +123,8 @@ async function main() {
 				)
 			).filter(a => a.indexOf('termin/stop') === -1);
 
+		console.log('>>>>>>>> processed', processed);
+
 		fs.writeFileSync('results.txt', processed.join('\n') + '\n');
 	} else {
 		fs.writeFileSync('results.txt', '');
