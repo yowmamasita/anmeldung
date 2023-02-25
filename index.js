@@ -89,9 +89,7 @@ function executeCommand(command, args) {
 	});
 }
 
-async function main() {
-	const browser = await puppeteer.launch();
-
+async function main(browser) {
 	const page = await browser.newPage();
 	await page.goto(ANMELDUNG_URL);
 
@@ -120,13 +118,14 @@ async function main() {
 		fs.writeFileSync('results.txt', '');
 	}
 
-	await browser.close();
 	await executeCommand('./update.sh');
 }
 
 (async () => {
+	const browser = await puppeteer.launch();
+
 	while (true) {
-		await repeatWithDelay(main, 500);
-		await new Promise(resolve => setTimeout(resolve, delayMs));
+		await main(browser);
+		await new Promise(resolve => setTimeout(resolve, 500));
 	}
 })();
