@@ -30,8 +30,8 @@ function scrapeAppointments() {
 
 async function appointmentProcessor(browser) {
 	return async (appointment) => {
-		return appointment;
-		if (!(/(Schöneweide|Köpenick|Blaschkoallee|Neukölln|Sonnenallee|Zwickauer|Rudow)/.test(appointment))) return appointment;
+		// return appointment;
+		// if (!(/(Schöneweide|Köpenick|Blaschkoallee|Neukölln|Sonnenallee|Zwickauer|Rudow)/.test(appointment))) return appointment;
 
 		const urlIndex = appointment.indexOf("https://");
 		const url = appointment.substr(urlIndex);
@@ -53,38 +53,28 @@ async function appointmentProcessor(browser) {
 
 		const appointmentId = Date.now().toString(36) + Math.random().toString(36);
 
-		await page.screenshot({ path: `STEP1-${appointmentId}.png` }, { fullPage: true });
+		// await page.screenshot({ path: `STEP1-${appointmentId}.png` }, { fullPage: true });
 		const step1appointmentHtml = await page.evaluate(() => document.querySelector('*').outerHTML);
-		fs.writeFileSync(`STEP2-${appointmentId}.html`, step1appointmentHtml);
+		fs.writeFileSync(`STEP1-${appointmentId}.html`, step1appointmentHtml);
 
-		await page.$eval('#familyName', el => el.value = 'Ben Adrian Sarmiento');
-		await page.$eval('#email', el => el.value = 'me@bensarmiento.com');
-		await page.$eval('#telephone', el => el.value = '+4915774990994');
-		await page.$eval('#agbgelesen', checkbox => checkbox.click());
-		await page.$eval('select[name="surveyAccepted"]', dropdown => {
-				dropdown.value = '1';
-				dropdown.dispatchEvent(new Event('change'));
-			});
-		await page.$eval('#register_submit', btnSubmit => btnSubmit.click());
-		await page.waitForNavigation();
+		// await page.$eval('#familyName', el => el.value = 'Ben Adrian Sarmiento');
+		// await page.$eval('#email', el => el.value = 'me@bensarmiento.com');
+		// await page.$eval('#telephone', el => el.value = '+4915774990994');
+		// await page.$eval('#agbgelesen', checkbox => checkbox.click());
+		// await page.$eval('select[name="surveyAccepted"]', dropdown => {
+		// 		dropdown.value = '1';
+		// 		dropdown.dispatchEvent(new Event('change'));
+		// 	});
+		// await page.$eval('#register_submit', btnSubmit => btnSubmit.click());
+		// await page.waitForNavigation();
 
-		// #familyName
-		// #email
-		// #telephone
+		// const cookies = await page.cookies();
+		// console.log('Cookies for ' + finalUrl, cookies);
 
-		// #layout-grid__area--maincontent > div > div > div:nth-child(2) > div.span7.column-content > div > div > form > fieldset:nth-child(2) > div:nth-child(1) > div > select
-		// await page.select('#telCountryInput', '1')
-		// document.querySelector("#layout-grid__area--maincontent > div > div > div:nth-child(2) > div.span7.column-content > div > div > form > fieldset:nth-child(2) > div:nth-child(1) > div > select")
+		// await page.screenshot({ path: `STEP2-${appointmentId}.png` }, { fullPage: true });
 
-		// #agbgelesen
-
-		// #register_submit
-
-		const cookies = await page.cookies();
-		console.log('Cookies for ' + finalUrl, cookies);
-		await page.screenshot({ path: `STEP2-${appointmentId}.png` }, { fullPage: true });
-		const step2appointmentHtml = await page.evaluate(() => document.querySelector('*').outerHTML);
-		fs.writeFileSync(`STEP2-${appointmentId}.html`, step2appointmentHtml);
+		// const step2appointmentHtml = await page.evaluate(() => document.querySelector('*').outerHTML);
+		// fs.writeFileSync(`STEP2-${appointmentId}.html`, step2appointmentHtml);
 
 		await page.close();
 		return appointment.substring(0, urlIndex) + finalUrl;
