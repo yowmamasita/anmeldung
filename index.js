@@ -49,18 +49,13 @@ async function appointmentProcessor(browser) {
 			request.continue();
 		});
 
-		page.on('response', async (res) => {
-			const statusCode = res.status();
-			if (!(statusCode >= 300 && statusCode < 400)) {
-				await fse.outputFile('appointment.html', await res.buffer());
-			}
-		});
-
 		await page.goto(url, { waitUntil: 'networkidle2' });
 
 		const cookies = await page.cookies();
 		console.log('Cookies for ' + finalUrl, cookies);
 		await page.screenshot({ path: `${Date.now().toString(36) + Math.random().toString(36)}.png` });
+		const appointmentHtml = await page.evaluate(() => document.querySelector('*').outerHTML);
+		fs.writeFileSync('appointment.html', appointmentHtml);
 
 		await page.close();
 		return appointment.substring(0, urlIndex) + finalUrl;
