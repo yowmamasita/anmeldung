@@ -22,4 +22,4 @@ jobs:
       - name: install dependencies
         run: npm ci
       - name: fetch latest data
-        run: timelimit -S 0 -t60 npm start
+        run: timelimit --signal=TERM -t60 npm start || [ $? -eq 143 ]
