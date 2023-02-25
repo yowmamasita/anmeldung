@@ -1,10 +1,13 @@
 import puppeteer from 'puppeteer';
 import * as fs from 'fs';
-import * as fse from 'fs-extra';
 import { spawn } from 'child_process';
 import fetch from 'node-fetch';
 
 const ANMELDUNG_URL = 'https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122254,122252,329742,122260,329745,122262,329748,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,317869,122281,327352,122279,329772,122283,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F';
+
+const PERSON_NAME = 'Paul Murdaugh';
+const PERSON_EMAIL = 'noyetor686@pubpng.com';
+const PERSON_TELEPHONE = '+4912345678910';
 
 function scrapeBookable() {
 	return Array
@@ -48,33 +51,27 @@ async function appointmentProcessor(browser) {
 			}
 			request.continue();
 		});
-
 		await page.goto(url, { waitUntil: 'networkidle2' });
 
-		const appointmentId = Date.now().toString(36) + Math.random().toString(36);
+		// const appointmentId = Date.now().toString(36) + Math.random().toString(36);
 
-		// await page.screenshot({ path: `STEP1-${appointmentId}.png` }, { fullPage: true });
-		// const step1appointmentHtml = await page.evaluate(() => document.querySelector('*').outerHTML);
-		// fs.writeFileSync(`STEP1-${appointmentId}.html`, step1appointmentHtml);
+		const cookies = await page.cookies();
+		console.log('Cookies for ' + finalUrl, cookies);
 
-		await page.$eval('#familyName', el => el.value = 'Ben Adrian Sarmiento');
-		await page.$eval('#email', el => el.value = 'me@bensarmiento.com');
+		await page.$eval('#familyName', el => el.value = PERSON_NAME);
+		await page.$eval('#email', el => el.value = PERSON_EMAIL);
 		const telephone = await page.$('#telephone');
-		if (telephone) {
-			await telephone.type('+4915774990994');
-		}
+		if (telephone) await telephone.type(PERSON_TELEPHONE);
+
 		await page.$eval('#agbgelesen', checkbox => checkbox.click());
 		await page.$eval('select[name="surveyAccepted"]', dropdown => {
-				dropdown.value = '1';
-				dropdown.dispatchEvent(new Event('change'));
-			});
-		// await page.$eval('#register_submit', btnSubmit => btnSubmit.click());
-		// await page.waitForNavigation();
+			dropdown.value = '1';
+			dropdown.dispatchEvent(new Event('change'));
+		});
+		await page.$eval('#register_submit', submit => submit.click());
+		await page.waitForNavigation();
 
-		// const cookies = await page.cookies();
-		// console.log('Cookies for ' + finalUrl, cookies);
-
-		await page.screenshot({ path: `STEP2-${appointmentId}.png` }, { fullPage: true });
+		// await page.screenshot({ path: `STEP2-${appointmentId}.png` }, { fullPage: true });
 
 		// const step2appointmentHtml = await page.evaluate(() => document.querySelector('*').outerHTML);
 		// fs.writeFileSync(`STEP2-${appointmentId}.html`, step2appointmentHtml);
