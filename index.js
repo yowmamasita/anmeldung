@@ -39,7 +39,7 @@ async function appointmentProcessor() {
 		const page = await browser2.newPage();
 		await page.goto(url);
 
-		const newUrl = page.url();
+		const newUrl = await page.url();
 		appointment = appointment.substring(0, urlIndex) + newUrl;
 		console.log('new url', appointment);
 
