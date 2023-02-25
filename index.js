@@ -117,9 +117,11 @@ async function main() {
 
 		const processAppointment = await appointmentProcessor();
 
-		const processed = appointments
-			.map(a => processAppointment(a))
-			.filter(a => a.indexOf('termin/stop') === -1);
+		const processed = (
+				await Promise.all(
+					appointments.map(processAppointment)
+				)
+			).filter(a => a.indexOf('termin/stop') === -1);
 
 		fs.writeFileSync('results.txt', processed.join('\n') + '\n');
 	} else {
