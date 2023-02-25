@@ -16,7 +16,9 @@ jobs:
             node_modules
             /home/runner/.cache/puppeteer
           key: node_modules-${{ hashfiles('package-lock.json') }}
+      - name: install timelimit
+        run: sudo apt update && sudo apt install -y timelimit
       - name: install dependencies
         run: npm ci
       - name: fetch latest data
-        run: npm start
+        run: timelimit -S 0 -t60 npm start

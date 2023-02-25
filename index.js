@@ -146,4 +146,5 @@ async function repeatUntilTimeout(asyncFunction, delayMs, timeoutMs) {
 		repeatUntilTimeout(main, 500, 60000),
 		new Promise((resolve) => setTimeout(resolve, 60000))
 	]);
+	return;
 })();
