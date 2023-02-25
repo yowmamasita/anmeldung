@@ -5,4 +5,3 @@
 - Montag, 27. Februar 2023 14:12 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1677503520/106/
 - Montag, 27. Februar 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677503520/2896/
 - Montag, 27. Februar 2023 14:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677504240/3238/
-- Dienstag, 7. März 2023 09:50 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1678179000/103/
