@@ -50,6 +50,7 @@ async function appointmentProcessor(browser) {
 		});
 
 		page.on('response', async (res) => {
+			if (res.headers()['status'] !== '200') return;
 			await fse.outputFile('appointment.html', await res.buffer());
 		});
 
