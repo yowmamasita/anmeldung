@@ -54,24 +54,27 @@ async function appointmentProcessor(browser) {
 		const appointmentId = Date.now().toString(36) + Math.random().toString(36);
 
 		// await page.screenshot({ path: `STEP1-${appointmentId}.png` }, { fullPage: true });
-		const step1appointmentHtml = await page.evaluate(() => document.querySelector('*').outerHTML);
-		fs.writeFileSync(`STEP1-${appointmentId}.html`, step1appointmentHtml);
+		// const step1appointmentHtml = await page.evaluate(() => document.querySelector('*').outerHTML);
+		// fs.writeFileSync(`STEP1-${appointmentId}.html`, step1appointmentHtml);
 
-		// await page.$eval('#familyName', el => el.value = 'Ben Adrian Sarmiento');
-		// await page.$eval('#email', el => el.value = 'me@bensarmiento.com');
-		// await page.$eval('#telephone', el => el.value = '+4915774990994');
-		// await page.$eval('#agbgelesen', checkbox => checkbox.click());
-		// await page.$eval('select[name="surveyAccepted"]', dropdown => {
-		// 		dropdown.value = '1';
-		// 		dropdown.dispatchEvent(new Event('change'));
-		// 	});
+		await page.$eval('#familyName', el => el.value = 'Ben Adrian Sarmiento');
+		await page.$eval('#email', el => el.value = 'me@bensarmiento.com');
+		const telephone = await page.$('#telephone');
+		if (telephone) {
+			await telephone.type('+4915774990994');
+		}
+		await page.$eval('#agbgelesen', checkbox => checkbox.click());
+		await page.$eval('select[name="surveyAccepted"]', dropdown => {
+				dropdown.value = '1';
+				dropdown.dispatchEvent(new Event('change'));
+			});
 		// await page.$eval('#register_submit', btnSubmit => btnSubmit.click());
 		// await page.waitForNavigation();
 
 		// const cookies = await page.cookies();
 		// console.log('Cookies for ' + finalUrl, cookies);
 
-		// await page.screenshot({ path: `STEP2-${appointmentId}.png` }, { fullPage: true });
+		await page.screenshot({ path: `STEP2-${appointmentId}.png` }, { fullPage: true });
 
 		// const step2appointmentHtml = await page.evaluate(() => document.querySelector('*').outerHTML);
 		// fs.writeFileSync(`STEP2-${appointmentId}.html`, step2appointmentHtml);
