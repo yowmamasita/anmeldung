@@ -30,7 +30,6 @@ async function appointmentProcessor() {
 	const browser2 = await puppeteer.launch();
 
 	return async (appointment) => {
-		console.log('>>>>> old url', appointment);
 		// if (/(Schöneweide|Köpenick|Blaschkoallee|Neukölln|Sonnenallee|Zwickauer|Rudow)/.test(appointment)) {
 		// if (true) {
 		const urlIndex = appointment.indexOf("https://");
@@ -51,10 +50,6 @@ async function appointmentProcessor() {
 		await page.goto(url, { waitUntil: 'networkidle2' });
 
 		await page.close();
-
-		console.log('>>>>>> new url', finalUrl);
-		console.log('>>>>>>> prefix', appointment.substring(0, urlIndex));
-
 		return appointment.substring(0, urlIndex) + finalUrl;
 	}
 }
@@ -72,6 +67,7 @@ async function getAppointments(browser, dateUrl) {
 
 function executeCommand(command, args) {
 	return new Promise((resolve, reject) => {
+		console.log('executeCommand start');
 		const process = spawn(command, args);
 
 		let output = '';
@@ -86,6 +82,7 @@ function executeCommand(command, args) {
 		});
 
 		process.on('close', (code) => {
+			console.log('executeCommand end', code);
 			if (code === 0) {
 				resolve(output.trim());
 			} else {
@@ -102,29 +99,20 @@ async function main() {
 	await page.goto(ANMELDUNG_URL);
 
 	const bookable = await page.evaluate(scrapeBookable);
-
-	console.log('> dates', bookable);
-
 	// await page.screenshot({ path: 'anmeldung.png' });
 
-	if (bookable.length > 0) {
-		console.log('>> found available dates', bookable.length);
+	if (bookable.length === 0) return;
+	const appointmentsByDay = await Promise.all(bookable.map(async (e) => await getAppointments(browser, e)));
+	const appointments = appointmentsByDay.flat();
 
-		const appointmentsByDay = await Promise.all(bookable.map(async (e) => await getAppointments(browser, e)));
-		const appointments = appointmentsByDay.flat();
-		console.log('>>> appointments', appointments);
-		console.log('>>>> found appointments', appointments.length);
+	const processAppointment = await appointmentProcessor();
 
-		const processAppointment = await appointmentProcessor();
-
-		const processed = (
-				await Promise.all(
-					appointments.map(processAppointment)
-				)
-			).filter(a => a.indexOf('termin/stop') === -1);
-
-		console.log('>>>>>>>> processed', processed);
-
+	const processed = (
+			await Promise.all(
+				appointments.map(processAppointment)
+			)
+		).filter(a => a.indexOf('termin/stop') === -1);
+		if (processed.length > 0) {
 		fs.writeFileSync('results.txt', processed.join('\n') + '\n');
 	} else {
 		fs.writeFileSync('results.txt', '');
@@ -133,22 +121,26 @@ async function main() {
 	await browser.close();
 
 	try {
-		const output = await executeCommand('./update.sh');
-		console.log(output);
+		await Promise.race([
+			await executeCommand('./update.sh'),
+			new Promise((resolve) => setTimeout(resolve, 10000))
+		]);
 	} catch (err) {
 		console.error(err);
 	}
 }
 
 async function repeatUntilTimeout(asyncFunction, delayMs, timeoutMs) {
+	console.log('repeatUntilTimeout start');
 	const startTime = Date.now();
 	while (Date.now() - startTime < timeoutMs) {
+		console.log('asyncFunction start');
 		await asyncFunction();
+		console.log('asyncFunction done');
 		await new Promise(resolve => setTimeout(resolve, delayMs));
 	}
+	console.log('repeatUntilTimeout end');
 }
-
-
 (async () => {
 	await Promise.race([
 		repeatUntilTimeout(main, 500, 60000),
