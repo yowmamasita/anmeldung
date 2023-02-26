@@ -115,7 +115,10 @@ async function main(browser) {
 	// await page.screenshot({ path: 'anmeldung.png' });
 	await page.close();
 
-	if (bookable.length === 0) return;
+	if (bookable.length === 0) {
+		fs.writeFileSync('results.txt', '');
+		return;
+	}
 
 	await fetch('https://sm.hetrixtools.net/hb/?s=49af524700d95e59166d708d3b1b5359');
 
