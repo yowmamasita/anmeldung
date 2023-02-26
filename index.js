@@ -29,7 +29,7 @@ function scrapeAppointments() {
 
 async function appointmentProcessor(browser) {
 	return async (appointment) => {
-		// return appointment;
+		return appointment;
 		// if (!(/(Schöneweide|Köpenick|Blaschkoallee|Neukölln|Sonnenallee|Zwickauer|Rudow)/.test(appointment))) return appointment;
 
 		const urlIndex = appointment.indexOf("https://");
@@ -49,8 +49,6 @@ async function appointmentProcessor(browser) {
 		});
 		await page.goto(url, { waitUntil: 'networkidle2' });
 
-		// const appointmentId = Date.now().toString(36) + Math.random().toString(36);
-
 		const cookies = await page.cookies();
 		console.log('Cookies for ' + finalUrl, cookies);
 
@@ -66,11 +64,6 @@ async function appointmentProcessor(browser) {
 		});
 		// await page.$eval('#register_submit', submit => submit.click());
 		// await page.waitForNavigation();
-
-		// await page.screenshot({ path: `STEP2-${appointmentId}.png` }, { fullPage: true });
-
-		// const step2appointmentHtml = await page.evaluate(() => document.querySelector('*').outerHTML);
-		// fs.writeFileSync(`STEP2-${appointmentId}.html`, step2appointmentHtml);
 
 		await page.close();
 		return appointment.substring(0, urlIndex) + finalUrl;
