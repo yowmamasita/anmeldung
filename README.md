@@ -3,7 +3,6 @@
 - Montag, 27. Februar 2023 08:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677481920/2851/
 - Montag, 27. Februar 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677481920/167/
 - Montag, 27. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1677481920/191/
-- Montag, 27. Februar 2023 08:18 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677482280/898/
 - Montag, 27. Februar 2023 08:20 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677482400/2878/
 - Montag, 27. Februar 2023 08:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677482640/2872/
 - Montag, 27. Februar 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677482640/2851/
@@ -15,6 +14,7 @@
 - Montag, 27. Februar 2023 08:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677484080/2851/
 - Montag, 27. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1677484080/191/
 - Montag, 27. Februar 2023 08:50 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677484200/2878/
+- Montag, 27. Februar 2023 08:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1677484440/136/
 - Montag, 27. Februar 2023 09:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677484800/2851/
 - Montag, 27. Februar 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677484800/167/
 - Montag, 27. Februar 2023 09:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677485520/2851/
@@ -49,13 +49,10 @@
 - Montag, 27. Februar 2023 11:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677494880/2851/
 - Montag, 27. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1677494880/191/
 - Montag, 27. Februar 2023 12:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677496320/2851/
-- Montag, 27. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1677496320/191/
 - Montag, 27. Februar 2023 12:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677497040/2851/
-- Montag, 27. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1677497040/191/
 - Montag, 27. Februar 2023 12:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677497760/2851/
 - Montag, 27. Februar 2023 12:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1677498480/191/
-- Montag, 27. Februar 2023 13:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677499200/2851/
-- Montag, 27. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1677499200/191/
+- Montag, 27. Februar 2023 13:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1677499200/191/
 - Montag, 27. Februar 2023 13:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677499920/2851/
 - Montag, 27. Februar 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677499920/167/
 - Montag, 27. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1677499920/191/
@@ -64,7 +61,6 @@
 - Montag, 27. Februar 2023 13:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677501360/2872/
 - Montag, 27. Februar 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677501360/2851/
 - Montag, 27. Februar 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677501360/167/
-- Montag, 27. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1677501360/191/
 - Montag, 27. Februar 2023 13:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677502080/2872/
 - Montag, 27. Februar 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677502080/2851/
 - Montag, 27. Februar 2023 14:00 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677502800/2872/
@@ -72,9 +68,7 @@
 - Montag, 27. Februar 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677502800/2875/
 - Montag, 27. Februar 2023 14:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677503520/2872/
 - Montag, 27. Februar 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677503520/2851/
-- Montag, 27. Februar 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677503520/167/
 - Montag, 27. Februar 2023 14:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677504240/2872/
-- Montag, 27. Februar 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677504240/2851/
 - Montag, 27. Februar 2023 14:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677504960/2872/
 - Montag, 27. Februar 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677504960/2851/
 - Montag, 27. Februar 2023 14:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677505680/2872/
