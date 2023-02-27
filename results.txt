@@ -1,6 +1,2 @@
-- Montag, 27. Februar 2023 10:18 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1677489480/154/
-- Montag, 27. Februar 2023 11:18 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1677493080/154/
-- Dienstag, 7. März 2023 09:54 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1678179240/142/
 - Freitag, 17. März 2023 09:48 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679042880/2860/
-- Freitag, 17. März 2023 12:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679052240/2863/
 - Dienstag, 21. März 2023 15:24 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679408640/2893/
