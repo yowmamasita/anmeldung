@@ -1,6 +1,0 @@
-- Montag, 27. Februar 2023 08:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677483360/2854/
-- Montag, 27. Februar 2023 10:00 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677488400/2854/
-- Montag, 27. Februar 2023 10:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677490560/192/
-- Montag, 27. Februar 2023 11:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677492720/192/
-- Montag, 27. Februar 2023 11:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677493440/192/
-- Montag, 27. Februar 2023 12:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677497760/192/
