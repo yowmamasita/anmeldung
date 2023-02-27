@@ -7,14 +7,8 @@
 - Montag, 27. Februar 2023 08:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677483360/2851/
 - Montag, 27. Februar 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677483360/167/
 - Montag, 27. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1677483360/191/
-- Montag, 27. Februar 2023 09:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677484800/2851/
-- Montag, 27. Februar 2023 09:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677485520/2851/
-- Montag, 27. Februar 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677485520/167/
+- Montag, 27. Februar 2023 09:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677485520/167/
 - Montag, 27. Februar 2023 09:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677486240/167/
-- Montag, 27. Februar 2023 09:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677486960/2851/
-- Montag, 27. Februar 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677486960/167/
+- Montag, 27. Februar 2023 09:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677486960/167/
 - Montag, 27. Februar 2023 09:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677487680/167/
-- Montag, 27. Februar 2023 10:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677489840/167/
-- Montag, 27. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1677489840/191/
 - Montag, 27. Februar 2023 10:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677490560/167/
-- Montag, 27. Februar 2023 10:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677491280/167/
