@@ -6,29 +6,36 @@
 - Montag, 27. Februar 2023 09:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1677486960/168/
 - Montag, 27. Februar 2023 09:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1677487680/168/
 - Montag, 27. Februar 2023 10:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677488400/192/
-- Montag, 27. Februar 2023 10:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1677489120/168/
+- Montag, 27. Februar 2023 10:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677489120/2848/
+- Montag, 27. Februar 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1677489120/168/
 - Montag, 27. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1677489120/191/
 - Montag, 27. Februar 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677489120/192/
-- Montag, 27. Februar 2023 10:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1677489840/168/
+- Montag, 27. Februar 2023 10:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677489840/2848/
+- Montag, 27. Februar 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1677489840/168/
 - Montag, 27. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1677489840/191/
 - Montag, 27. Februar 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677489840/192/
-- Montag, 27. Februar 2023 10:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1677490560/168/
+- Montag, 27. Februar 2023 10:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677490560/2848/
+- Montag, 27. Februar 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1677490560/168/
 - Montag, 27. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1677490560/191/
 - Montag, 27. Februar 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677490560/192/
-- Montag, 27. Februar 2023 10:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1677491280/168/
+- Montag, 27. Februar 2023 10:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677491280/2848/
+- Montag, 27. Februar 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1677491280/168/
 - Montag, 27. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1677491280/191/
 - Montag, 27. Februar 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677491280/192/
 - Montag, 27. Februar 2023 11:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1677492000/191/
 - Montag, 27. Februar 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677492000/192/
 - Montag, 27. Februar 2023 11:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1677492720/191/
 - Montag, 27. Februar 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677492720/192/
-- Montag, 27. Februar 2023 11:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1677493440/191/
+- Montag, 27. Februar 2023 11:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677493440/2848/
+- Montag, 27. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1677493440/191/
 - Montag, 27. Februar 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677493440/192/
-- Montag, 27. Februar 2023 11:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1677494160/191/
+- Montag, 27. Februar 2023 11:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677494160/2848/
+- Montag, 27. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1677494160/191/
 - Montag, 27. Februar 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677494160/192/
-- Montag, 27. Februar 2023 11:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1677494880/191/
+- Montag, 27. Februar 2023 11:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677494880/2848/
+- Montag, 27. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1677494880/191/
 - Montag, 27. Februar 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677494880/192/
-- Montag, 27. Februar 2023 12:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1677495600/191/
+- Montag, 27. Februar 2023 12:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677495600/167/
 - Montag, 27. Februar 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677495600/192/
 - Montag, 27. Februar 2023 12:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677496320/167/
 - Montag, 27. Februar 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1677496320/191/
@@ -59,11 +66,8 @@
 - Dienstag, 28. Februar 2023 11:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677579840/167/
 - Dienstag, 28. Februar 2023 11:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677580560/167/
 - Dienstag, 28. Februar 2023 11:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677581280/167/
-- Dienstag, 28. Februar 2023 12:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677582720/167/
 - Dienstag, 28. Februar 2023 12:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677583440/167/
 - Dienstag, 28. Februar 2023 12:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677584160/167/
-- Dienstag, 28. Februar 2023 12:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677584880/167/
 - Dienstag, 28. Februar 2023 13:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677586320/167/
 - Dienstag, 28. Februar 2023 13:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677587040/167/
 - Dienstag, 28. Februar 2023 13:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677587760/167/
-- Dienstag, 28. Februar 2023 14:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677589920/167/
