@@ -1,6 +1,0 @@
-- Montag, 27. Februar 2023 12:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677495600/167/
-- Dienstag, 28. Februar 2023 13:12 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677586320/2860/
-- Dienstag, 28. Februar 2023 16:00 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677596400/898/
-- Mittwoch, 1. März 2023 11:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677666240/3238/
-- Montag, 6. März 2023 08:06 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678086360/844/
-- Donnerstag, 23. März 2023 09:54 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1679561640/142/
