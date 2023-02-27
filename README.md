@@ -4,4 +4,3 @@
 - Montag, 27. Februar 2023 15:10 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677507000/2884/
 - Montag, 27. Februar 2023 15:20 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677507600/2884/
 - Montag, 27. Februar 2023 15:30 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677508200/2884/
-- Montag, 27. Februar 2023 15:40 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677508800/2884/
