@@ -7,6 +7,5 @@
 - Mittwoch, 1. März 2023 11:36 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677666960/2866/
 - Mittwoch, 1. März 2023 14:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1677675600/146/
 - Donnerstag, 2. März 2023 16:48 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1677772080/103/
-- Donnerstag, 16. März 2023 16:48 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678981680/2893/
 - Freitag, 17. März 2023 12:00 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1679050800/102/
 - Mittwoch, 22. März 2023 08:18 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679469480/844/
