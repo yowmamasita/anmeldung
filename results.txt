@@ -1,4 +1,2 @@
-- Montag, 27. Februar 2023 13:18 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677500280/898/
-- Montag, 27. Februar 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677500280/904/
-- Dienstag, 28. Februar 2023 11:12 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677579120/844/
+- Montag, 27. Februar 2023 13:18 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677500280/904/
 - Dienstag, 28. Februar 2023 14:48 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677592080/898/
