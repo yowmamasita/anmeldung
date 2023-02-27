@@ -5,11 +5,8 @@
 - Montag, 27. Februar 2023 08:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1677482640/231/
 - Montag, 27. Februar 2023 08:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1677483000/136/
 - Montag, 27. Februar 2023 08:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1677483360/231/
-- Montag, 27. Februar 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1677483360/170/
 - Montag, 27. Februar 2023 08:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1677483720/136/
-- Montag, 27. Februar 2023 08:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1677484080/231/
 - Montag, 27. Februar 2023 08:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1677484440/136/
-- Montag, 27. Februar 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1677484440/109/
 - Montag, 27. Februar 2023 09:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1677486240/231/
 - Montag, 27. Februar 2023 09:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1677486600/136/
 - Montag, 27. Februar 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1677486600/109/
@@ -19,7 +16,6 @@
 - Montag, 27. Februar 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1677488040/109/
 - Montag, 27. Februar 2023 10:06 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1677488760/109/
 - Montag, 27. Februar 2023 10:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1677489480/109/
-- Montag, 27. Februar 2023 10:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1677489840/231/
 - Montag, 27. Februar 2023 10:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1677490200/136/
 - Montag, 27. Februar 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1677490200/109/
 - Montag, 27. Februar 2023 10:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1677490560/231/
@@ -28,4 +24,3 @@
 - Montag, 27. Februar 2023 14:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1677503520/231/
 - Montag, 27. Februar 2023 14:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1677504240/231/
 - Montag, 27. Februar 2023 14:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1677504960/231/
-- Montag, 27. Februar 2023 14:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1677506040/136/
