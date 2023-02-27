@@ -8,8 +8,7 @@
 - Dienstag, 28. Februar 2023 11:36 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677580560/2911/
 - Dienstag, 28. Februar 2023 11:48 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677581280/2911/
 - Dienstag, 28. Februar 2023 12:12 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677582720/2911/
-- Dienstag, 28. Februar 2023 12:24 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1677583440/135/
-- Dienstag, 28. Februar 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677583440/2911/
+- Dienstag, 28. Februar 2023 12:24 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677583440/2911/
 - Dienstag, 28. Februar 2023 12:36 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1677584160/135/
 - Dienstag, 28. Februar 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677584160/2911/
 - Dienstag, 28. Februar 2023 12:48 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677584880/2911/
@@ -17,17 +16,13 @@
 - Dienstag, 28. Februar 2023 14:12 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1677589920/135/
 - Dienstag, 28. Februar 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677589920/2911/
 - Dienstag, 28. Februar 2023 14:24 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677590640/2911/
-- Dienstag, 28. Februar 2023 14:36 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1677591360/135/
-- Dienstag, 28. Februar 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677591360/2911/
+- Dienstag, 28. Februar 2023 14:36 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677591360/2911/
 - Dienstag, 28. Februar 2023 14:48 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677592080/2911/
 - Dienstag, 28. Februar 2023 15:00 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677592800/2911/
-- Dienstag, 28. Februar 2023 15:12 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1677593520/135/
-- Dienstag, 28. Februar 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677593520/2911/
+- Dienstag, 28. Februar 2023 15:12 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677593520/2911/
 - Dienstag, 28. Februar 2023 15:24 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677594240/2911/
 - Dienstag, 28. Februar 2023 15:36 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677594960/2911/
-- Dienstag, 28. Februar 2023 16:00 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677596400/2911/
 - Dienstag, 28. Februar 2023 16:12 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677597120/2911/
 - Dienstag, 28. Februar 2023 16:24 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677597840/2911/
 - Dienstag, 28. Februar 2023 16:36 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677598560/2911/
-- Dienstag, 28. Februar 2023 16:48 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677599280/2911/
 - Dienstag, 28. Februar 2023 17:24 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677601440/2911/
