@@ -4,9 +4,7 @@
 - Dienstag, 28. Februar 2023 14:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677589200/2845/
 - Dienstag, 28. Februar 2023 14:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677589920/2845/
 - Dienstag, 28. Februar 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1677589920/168/
-- Dienstag, 28. Februar 2023 14:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677590640/2845/
 - Dienstag, 28. Februar 2023 14:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677591360/2845/
 - Dienstag, 28. Februar 2023 15:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677593520/2914/
-- Donnerstag, 9. März 2023 15:48 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1678373280/103/
 - Montag, 20. März 2023 09:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679299200/3238/
 - Mittwoch, 29. März 2023 13:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1680088680/109/
