@@ -1,18 +1,11 @@
-- Dienstag, 28. Februar 2023 12:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1677582720/168/
-- Dienstag, 28. Februar 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677582720/2863/
+- Dienstag, 28. Februar 2023 12:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677582720/2863/
 - Dienstag, 28. Februar 2023 12:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677583440/2863/
-- Dienstag, 28. Februar 2023 12:36 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1677584160/135/
-- Dienstag, 28. Februar 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1677584160/168/
-- Dienstag, 28. Februar 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677584160/2863/
+- Dienstag, 28. Februar 2023 12:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677584160/2863/
 - Dienstag, 28. Februar 2023 12:48 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1677584880/135/
 - Dienstag, 28. Februar 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1677584880/168/
 - Dienstag, 28. Februar 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677584880/2863/
 - Dienstag, 28. Februar 2023 13:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677585600/2863/
 - Dienstag, 28. Februar 2023 13:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677586320/2863/
 - Dienstag, 28. Februar 2023 13:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677587040/2863/
-- Dienstag, 28. Februar 2023 14:24 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1677590640/135/
 - Dienstag, 28. Februar 2023 14:36 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1677591360/135/
 - Dienstag, 28. Februar 2023 14:48 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1677592080/135/
-- Dienstag, 28. Februar 2023 15:36 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1677594960/135/
-- Dienstag, 28. Februar 2023 15:48 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1677595680/135/
-- Dienstag, 28. Februar 2023 16:48 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1677599280/135/
