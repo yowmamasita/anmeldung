@@ -23,7 +23,6 @@
 - Dienstag, 28. Februar 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677588480/922/
 - Dienstag, 28. Februar 2023 14:00 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677589200/922/
 - Dienstag, 28. Februar 2023 14:12 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677589920/2893/
-- Dienstag, 28. Februar 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677589920/922/
 - Dienstag, 28. Februar 2023 14:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1677590400/150/
 - Dienstag, 28. Februar 2023 14:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1677591000/150/
 - Dienstag, 28. Februar 2023 14:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677592080/2845/
@@ -31,3 +30,4 @@
 - Dienstag, 28. Februar 2023 14:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1677592200/150/
 - Dienstag, 28. Februar 2023 16:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1677599400/150/
 - Dienstag, 28. Februar 2023 17:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1677601200/150/
+- Freitag, 31. März 2023 08:24 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680243840/2932/
