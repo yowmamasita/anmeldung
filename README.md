@@ -1,18 +1,12 @@
 # List of available Anmeldung appointments as of $NOW
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122254,122252,329742,122260,329745,122262,329748,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,317869,122281,327352,122279,329772,122283,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
 - Dienstag, 21. März 2023 07:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679380560/153/
-- Dienstag, 21. März 2023 08:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679384160/153/
-- Dienstag, 21. März 2023 08:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679384880/153/
 - Dienstag, 21. März 2023 09:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679386320/153/
 - Dienstag, 21. März 2023 09:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679387760/153/
 - Dienstag, 21. März 2023 09:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679388480/153/
-- Dienstag, 21. März 2023 10:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679390640/153/
-- Dienstag, 21. März 2023 10:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679392080/153/
 - Dienstag, 21. März 2023 11:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679393520/153/
-- Dienstag, 21. März 2023 12:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679398560/153/
 - Mittwoch, 22. März 2023 09:42 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679474520/153/
 - Mittwoch, 22. März 2023 10:18 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679476680/153/
-- Mittwoch, 22. März 2023 10:30 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679477400/153/
 - Mittwoch, 22. März 2023 10:42 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679478120/153/
 - Mittwoch, 22. März 2023 11:06 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679479560/153/
 - Mittwoch, 22. März 2023 11:18 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679480280/153/
@@ -26,17 +20,11 @@
 - Mittwoch, 22. März 2023 14:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679491440/153/
 - Mittwoch, 22. März 2023 14:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679492160/153/
 - Mittwoch, 22. März 2023 14:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679492880/153/
-- Mittwoch, 22. März 2023 15:00 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679493600/153/
 - Mittwoch, 22. März 2023 15:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679494320/153/
 - Mittwoch, 22. März 2023 15:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679495040/153/
 - Mittwoch, 22. März 2023 15:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679496480/153/
-- Mittwoch, 22. März 2023 16:00 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679497200/153/
-- Mittwoch, 22. März 2023 16:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679497920/153/
-- Mittwoch, 22. März 2023 16:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679498640/153/
 - Mittwoch, 22. März 2023 16:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679499360/153/
 - Mittwoch, 22. März 2023 17:00 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679500800/153/
-- Mittwoch, 22. März 2023 17:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679503680/153/
-- Donnerstag, 23. März 2023 09:30 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679560200/153/
 - Donnerstag, 23. März 2023 09:42 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679560920/153/
 - Donnerstag, 23. März 2023 09:54 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679561640/153/
 - Donnerstag, 23. März 2023 10:06 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679562360/153/
@@ -50,7 +38,6 @@
 - Donnerstag, 23. März 2023 12:30 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679571000/153/
 - Donnerstag, 23. März 2023 12:42 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679571720/153/
 - Donnerstag, 23. März 2023 12:54 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679572440/153/
-- Donnerstag, 23. März 2023 14:00 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679576400/153/
 - Donnerstag, 23. März 2023 14:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679577120/153/
 - Donnerstag, 23. März 2023 14:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679577840/153/
 - Donnerstag, 23. März 2023 14:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679578560/153/
@@ -71,7 +58,6 @@
 - Freitag, 24. März 2023 08:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679642640/153/
 - Freitag, 24. März 2023 08:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679643360/153/
 - Freitag, 24. März 2023 08:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679644080/153/
-- Freitag, 24. März 2023 09:00 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679644800/153/
 - Freitag, 24. März 2023 09:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679645520/153/
 - Freitag, 24. März 2023 09:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679646240/153/
 - Freitag, 24. März 2023 09:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1679646960/153/
@@ -145,12 +131,10 @@
 - Donnerstag, 30. März 2023 10:18 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1680164280/153/
 - Donnerstag, 30. März 2023 10:42 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1680165720/153/
 - Donnerstag, 30. März 2023 10:54 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1680166440/153/
-- Donnerstag, 30. März 2023 11:06 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1680167160/153/
 - Donnerstag, 30. März 2023 11:18 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1680167880/153/
 - Donnerstag, 30. März 2023 11:30 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1680168600/153/
 - Donnerstag, 30. März 2023 11:42 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1680169320/153/
 - Donnerstag, 30. März 2023 11:54 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1680170040/153/
-- Donnerstag, 30. März 2023 12:06 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1680170760/153/
 - Donnerstag, 30. März 2023 12:18 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1680171480/153/
 - Donnerstag, 30. März 2023 12:30 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1680172200/153/
 - Donnerstag, 30. März 2023 12:42 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1680172920/153/
@@ -184,4 +168,3 @@
 - Freitag, 31. März 2023 11:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1680253920/153/
 - Freitag, 31. März 2023 11:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1680256080/153/
 - Freitag, 31. März 2023 12:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1680257520/153/
-- Freitag, 31. März 2023 12:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1680258240/153/
