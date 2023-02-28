@@ -8,6 +8,4 @@
 - Dienstag, 28. Februar 2023 17:36 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677602160/2860/
 - Donnerstag, 2. März 2023 11:00 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1677751200/381/
 - Donnerstag, 2. März 2023 13:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1677759120/136/
-- Donnerstag, 2. März 2023 13:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677759840/2845/
-- Dienstag, 7. März 2023 16:36 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678203360/904/
 - Donnerstag, 30. März 2023 11:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1680169800/147/
