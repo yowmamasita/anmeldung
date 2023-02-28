@@ -9,6 +9,3 @@
 - Dienstag, 28. Februar 2023 13:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1677586200/150/
 - Dienstag, 28. Februar 2023 13:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1677586800/150/
 - Dienstag, 28. Februar 2023 13:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1677587400/150/
-- Mittwoch, 1. März 2023 13:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677674880/2938/
-- Donnerstag, 2. März 2023 11:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677753720/2839/
-- Mittwoch, 22. März 2023 12:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679483520/2899/
