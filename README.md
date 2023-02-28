@@ -9,7 +9,6 @@
 - Mittwoch, 1. März 2023 08:18 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677655080/2911/
 - Mittwoch, 1. März 2023 08:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1677655440/168/
 - Mittwoch, 1. März 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677655440/2863/
-- Mittwoch, 1. März 2023 08:30 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677655800/2911/
 - Mittwoch, 1. März 2023 08:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1677656160/168/
 - Mittwoch, 1. März 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677656160/2863/
 - Mittwoch, 1. März 2023 08:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677656520/2911/
@@ -26,6 +25,7 @@
 - Mittwoch, 1. März 2023 09:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677659040/2854/
 - Mittwoch, 1. März 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1677659040/168/
 - Mittwoch, 1. März 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677659040/2863/
+- Mittwoch, 1. März 2023 09:30 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677659400/2911/
 - Mittwoch, 1. März 2023 09:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1677659760/168/
 - Mittwoch, 1. März 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677659760/2863/
 - Mittwoch, 1. März 2023 09:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677660120/2911/
