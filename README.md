@@ -1,10 +1,48 @@
 # List of available Anmeldung appointments as of $NOW
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122254,122252,329742,122260,329745,122262,329748,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,317869,122281,327352,122279,329772,122283,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
 - Dienstag, 28. Februar 2023 08:54 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1677570840/133/
-- Dienstag, 28. Februar 2023 09:00 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1677571200/143/
-- Dienstag, 28. Februar 2023 09:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677572640/2854/
-- Dienstag, 28. Februar 2023 09:36 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1677573360/143/
-- Dienstag, 28. Februar 2023 09:42 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1677573720/133/
-- Dienstag, 28. Februar 2023 10:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1677577680/143/
-- Dienstag, 28. Februar 2023 11:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1677579120/143/
-- Dienstag, 28. Februar 2023 14:00 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677589200/2854/
+- Montag, 13. März 2023 08:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678691520/2932/
+- Montag, 13. März 2023 10:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678698720/2932/
+- Montag, 13. März 2023 10:24 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678699440/2932/
+- Montag, 13. März 2023 11:24 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678703040/2932/
+- Montag, 13. März 2023 12:48 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678708080/2932/
+- Montag, 13. März 2023 14:48 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678715280/2932/
+- Dienstag, 14. März 2023 08:36 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678779360/2932/
+- Dienstag, 14. März 2023 08:48 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678780080/2932/
+- Dienstag, 14. März 2023 09:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678781520/2932/
+- Dienstag, 14. März 2023 09:48 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678783680/2932/
+- Dienstag, 14. März 2023 10:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678785120/2932/
+- Dienstag, 14. März 2023 10:36 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678786560/2932/
+- Dienstag, 14. März 2023 11:24 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678789440/2932/
+- Dienstag, 14. März 2023 11:36 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678790160/2932/
+- Dienstag, 14. März 2023 11:54 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678791240/2938/
+- Dienstag, 14. März 2023 13:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678795920/2932/
+- Dienstag, 14. März 2023 13:24 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678796640/2932/
+- Dienstag, 14. März 2023 13:36 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678797360/2932/
+- Dienstag, 21. März 2023 08:00 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679382000/2932/
+- Dienstag, 21. März 2023 08:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679382720/2932/
+- Dienstag, 21. März 2023 08:36 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679384160/2932/
+- Dienstag, 21. März 2023 08:48 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679384880/2932/
+- Dienstag, 21. März 2023 09:24 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679387040/2932/
+- Dienstag, 21. März 2023 09:36 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679387760/2932/
+- Dienstag, 21. März 2023 10:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679389920/2932/
+- Dienstag, 21. März 2023 10:48 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679392080/2932/
+- Dienstag, 21. März 2023 11:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679393520/2932/
+- Dienstag, 21. März 2023 11:36 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679394960/2932/
+- Dienstag, 21. März 2023 12:36 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679398560/2932/
+- Dienstag, 21. März 2023 13:36 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679402160/2932/
+- Dienstag, 28. März 2023 07:48 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679982480/2932/
+- Dienstag, 28. März 2023 08:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679983920/2932/
+- Dienstag, 28. März 2023 08:24 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679984640/2932/
+- Dienstag, 28. März 2023 08:36 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679985360/2932/
+- Dienstag, 28. März 2023 09:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679987520/2932/
+- Dienstag, 28. März 2023 09:24 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679988240/2932/
+- Dienstag, 28. März 2023 10:00 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679990400/2932/
+- Dienstag, 28. März 2023 11:36 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679996160/2932/
+- Dienstag, 28. März 2023 11:48 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679996880/2932/
+- Dienstag, 28. März 2023 12:48 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680000480/2932/
+- Dienstag, 28. März 2023 13:00 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680001200/2932/
+- Dienstag, 28. März 2023 13:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680001920/2932/
+- Dienstag, 28. März 2023 13:24 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680002640/2932/
+- Dienstag, 28. März 2023 13:36 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680003360/2932/
+- Mittwoch, 29. März 2023 12:54 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1680087240/153/
