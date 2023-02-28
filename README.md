@@ -6,7 +6,6 @@
 - Mittwoch, 1. März 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677655440/2863/
 - Mittwoch, 1. März 2023 08:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677656160/2863/
 - Mittwoch, 1. März 2023 08:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677656880/2863/
-- Mittwoch, 1. März 2023 09:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677657600/2863/
 - Mittwoch, 1. März 2023 09:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677658320/2863/
 - Mittwoch, 1. März 2023 09:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677659040/2863/
 - Mittwoch, 1. März 2023 09:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1677659760/168/
@@ -23,4 +22,3 @@
 - Mittwoch, 1. März 2023 11:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677666960/2863/
 - Mittwoch, 1. März 2023 12:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677669120/2863/
 - Mittwoch, 1. März 2023 12:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677669840/2863/
-- Mittwoch, 1. März 2023 12:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677670560/2863/
