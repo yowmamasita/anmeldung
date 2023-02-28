@@ -1,8 +1,23 @@
-- Dienstag, 28. Februar 2023 09:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677571920/2845/
-- Dienstag, 28. Februar 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677571920/2848/
 - Dienstag, 28. Februar 2023 09:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677572640/2845/
 - Dienstag, 28. Februar 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677572640/2848/
 - Dienstag, 28. Februar 2023 09:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677573360/2845/
 - Dienstag, 28. Februar 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677573360/2848/
-- Dienstag, 28. Februar 2023 09:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677574080/2845/
-- Dienstag, 28. Februar 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677574080/2848/
+- Dienstag, 28. Februar 2023 15:36 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677594960/898/
+- Mittwoch, 1. März 2023 11:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677665520/2896/
+- Donnerstag, 9. März 2023 14:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678368240/2872/
+- Donnerstag, 9. März 2023 15:12 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678371120/898/
+- Dienstag, 14. März 2023 13:48 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678798080/2932/
+- Donnerstag, 16. März 2023 12:42 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678966920/2932/
+- Freitag, 17. März 2023 08:36 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679038560/2932/
+- Freitag, 17. März 2023 11:36 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679049360/2932/
+- Dienstag, 21. März 2023 08:24 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679383440/2932/
+- Dienstag, 21. März 2023 09:24 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679387040/2932/
+- Dienstag, 21. März 2023 10:48 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679392080/2932/
+- Mittwoch, 22. März 2023 12:30 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679484600/2932/
+- Mittwoch, 22. März 2023 12:42 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679485320/2932/
+- Mittwoch, 22. März 2023 16:00 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679497200/2932/
+- Freitag, 24. März 2023 09:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679645520/2932/
+- Freitag, 24. März 2023 11:24 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679653440/2932/
+- Freitag, 24. März 2023 12:48 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679658480/2932/
+- Mittwoch, 29. März 2023 11:20 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680081600/2884/
+- Mittwoch, 29. März 2023 16:00 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680098400/2932/
