@@ -24,12 +24,10 @@
 - Dienstag, 28. Februar 2023 16:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1677599280/168/
 - Dienstag, 28. Februar 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677599280/2863/
 - Dienstag, 28. Februar 2023 16:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1677599400/150/
-- Dienstag, 28. Februar 2023 17:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1677600000/168/
-- Dienstag, 28. Februar 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677600000/2863/
+- Dienstag, 28. Februar 2023 17:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677600000/2863/
 - Dienstag, 28. Februar 2023 17:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1677600600/150/
 - Dienstag, 28. Februar 2023 17:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1677600720/168/
 - Dienstag, 28. Februar 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677600720/2863/
-- Dienstag, 28. Februar 2023 17:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1677601440/168/
-- Dienstag, 28. Februar 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677601440/2863/
+- Dienstag, 28. Februar 2023 17:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677601440/2863/
 - Dienstag, 28. Februar 2023 17:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677602160/2863/
 - Dienstag, 28. Februar 2023 17:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677602880/2863/
