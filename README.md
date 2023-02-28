@@ -8,4 +8,3 @@
 - Dienstag, 28. Februar 2023 12:00 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677582000/2860/
 - Dienstag, 28. Februar 2023 12:24 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677583440/2860/
 - Dienstag, 28. Februar 2023 12:48 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677584880/922/
-- Dienstag, 28. Februar 2023 13:48 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677588480/2860/
