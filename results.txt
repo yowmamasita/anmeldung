@@ -1,9 +1,5 @@
-- Dienstag, 28. Februar 2023 09:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677573360/2845/
-- Dienstag, 28. Februar 2023 16:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677598560/2872/
-- Mittwoch, 15. März 2023 12:30 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678879800/2932/
 - Freitag, 17. März 2023 08:36 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679038560/2932/
 - Mittwoch, 22. März 2023 12:30 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679484600/2932/
 - Freitag, 24. März 2023 11:24 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679653440/2932/
 - Freitag, 24. März 2023 12:48 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679658480/2932/
 - Dienstag, 28. März 2023 09:00 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679986800/2932/
-- Donnerstag, 30. März 2023 12:54 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1680173640/153/
