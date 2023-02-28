@@ -11,4 +11,3 @@
 - Dienstag, 28. Februar 2023 13:12 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677586320/922/
 - Dienstag, 28. Februar 2023 13:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677587040/922/
 - Dienstag, 28. Februar 2023 13:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677587760/922/
-- Dienstag, 28. Februar 2023 14:12 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677589920/922/
