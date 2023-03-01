@@ -1,7 +1,8 @@
+- Mittwoch, 1. März 2023 08:06 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1677654360/109/
+- Mittwoch, 1. März 2023 09:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1677659400/109/
 - Mittwoch, 26. April 2023 07:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682487720/2911/
 - Mittwoch, 26. April 2023 07:54 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682488440/898/
 - Mittwoch, 26. April 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682488440/904/
-- Mittwoch, 26. April 2023 08:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682488800/3238/
 - Mittwoch, 26. April 2023 08:06 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682489160/904/
 - Mittwoch, 26. April 2023 08:18 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682489880/2911/
 - Mittwoch, 26. April 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682489880/847/
@@ -11,7 +12,7 @@
 - Mittwoch, 26. April 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682490600/847/
 - Mittwoch, 26. April 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682490600/904/
 - Mittwoch, 26. April 2023 08:40 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682491200/2941/
-- Mittwoch, 26. April 2023 08:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682491320/2911/
+- Mittwoch, 26. April 2023 08:42 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682491320/844/
 - Mittwoch, 26. April 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682491320/898/
 - Mittwoch, 26. April 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682491320/847/
 - Mittwoch, 26. April 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682491320/904/
@@ -28,7 +29,6 @@
 - Mittwoch, 26. April 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682492760/847/
 - Mittwoch, 26. April 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682492760/904/
 - Mittwoch, 26. April 2023 09:18 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682493480/2911/
-- Mittwoch, 26. April 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682493480/2914/
 - Mittwoch, 26. April 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682493480/844/
 - Mittwoch, 26. April 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682493480/898/
 - Mittwoch, 26. April 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682493480/847/
@@ -85,6 +85,4 @@
 - Mittwoch, 26. April 2023 12:42 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682505720/847/
 - Mittwoch, 26. April 2023 12:54 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682506440/841/
 - Mittwoch, 26. April 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682506440/847/
-- Mittwoch, 26. April 2023 13:06 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682507160/841/
-- Mittwoch, 26. April 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682507160/847/
-- Mittwoch, 26. April 2023 13:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682507400/2941/
+- Mittwoch, 26. April 2023 13:06 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682507160/847/
