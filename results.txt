@@ -1,6 +1,2 @@
-- Mittwoch, 1. März 2023 12:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677670560/2863/
-- Montag, 24. April 2023 14:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682340480/3238/
-- Mittwoch, 26. April 2023 13:12 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1682507520/381/
 - Mittwoch, 26. April 2023 13:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1682508240/381/
 - Mittwoch, 26. April 2023 13:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1682508960/381/
-- Mittwoch, 26. April 2023 13:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1682509680/381/
