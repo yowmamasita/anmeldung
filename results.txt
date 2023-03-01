@@ -1,49 +1,27 @@
 - Mittwoch, 1. März 2023 08:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1677655440/143/
-- Mittwoch, 1. März 2023 08:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1677656160/106/
-- Mittwoch, 1. März 2023  Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1677656160/143/
-- Mittwoch, 1. März 2023 08:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1677656880/143/
-- Mittwoch, 1. März 2023 09:30 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677659400/192/
-- Mittwoch, 1. März 2023 09:36 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1677659760/143/
 - Mittwoch, 1. März 2023 09:42 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677660120/192/
-- Mittwoch, 1. März 2023 09:54 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677660840/192/
-- Mittwoch, 1. März 2023 10:06 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677661560/192/
+- Mittwoch, 1. März 2023 09:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1677660600/150/
 - Mittwoch, 1. März 2023 10:18 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677662280/192/
 - Mittwoch, 1. März 2023 10:30 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677663000/192/
 - Mittwoch, 1. März 2023 10:42 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677663720/192/
 - Mittwoch, 1. März 2023 10:54 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677664440/192/
-- Mittwoch, 1. März 2023 11:06 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1677665160/135/
-- Mittwoch, 1. März 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677665160/192/
+- Mittwoch, 1. März 2023 11:06 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677665160/192/
 - Mittwoch, 1. März 2023 11:18 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677665880/192/
-- Mittwoch, 1. März 2023 11:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1677666240/143/
 - Mittwoch, 1. März 2023 11:30 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677666600/192/
-- Mittwoch, 1. März 2023 11:42 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677667320/192/
-- Mittwoch, 1. März 2023 11:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1677668040/135/
-- Mittwoch, 1. März 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677668040/192/
-- Mittwoch, 1. März 2023 12:06 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677668760/192/
-- Mittwoch, 1. März 2023 12:18 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677669480/192/
+- Mittwoch, 1. März 2023 11:54 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677668040/192/
 - Mittwoch, 1. März 2023 12:30 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677670200/192/
-- Mittwoch, 1. März 2023 12:42 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677670920/192/
-- Mittwoch, 1. März 2023 12:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1677671640/135/
-- Mittwoch, 1. März 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677671640/192/
+- Mittwoch, 1. März 2023 12:54 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677671640/192/
 - Mittwoch, 1. März 2023 13:06 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677672360/192/
 - Mittwoch, 1. März 2023 13:18 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677673080/192/
-- Mittwoch, 1. März 2023 13:30 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677673800/192/
-- Mittwoch, 1. März 2023 13:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1677674520/135/
-- Mittwoch, 1. März 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677674520/192/
+- Mittwoch, 1. März 2023 13:42 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677674520/192/
 - Mittwoch, 1. März 2023 13:54 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677675240/192/
-- Mittwoch, 1. März 2023 14:06 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677675960/192/
-- Mittwoch, 1. März 2023 14:18 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677676680/192/
 - Montag, 24. April 2023 08:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682318160/168/
 - Montag, 24. April 2023 08:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682318880/168/
-- Montag, 24. April 2023 09:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682321760/168/
 - Montag, 24. April 2023 09:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682322480/168/
-- Montag, 24. April 2023 10:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682323920/168/
 - Montag, 24. April 2023 10:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682325360/168/
 - Montag, 24. April 2023 10:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682326080/168/
-- Montag, 24. April 2023 11:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682327520/168/
 - Montag, 24. April 2023 11:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682328240/168/
 - Montag, 24. April 2023 11:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682329680/168/
-- Montag, 24. April 2023 12:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682331120/168/
 - Montag, 24. April 2023 12:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682331840/168/
 - Montag, 24. April 2023 12:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682332560/168/
 - Montag, 24. April 2023 12:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682333280/168/
@@ -61,7 +39,6 @@
 - Dienstag, 25. April 2023 14:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682425440/168/
 - Dienstag, 25. April 2023 14:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682426160/168/
 - Dienstag, 25. April 2023 14:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682426880/168/
-- Dienstag, 25. April 2023 15:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682428320/168/
 - Dienstag, 25. April 2023 15:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682429040/168/
 - Dienstag, 25. April 2023 15:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682429760/168/
 - Dienstag, 25. April 2023 16:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682431920/168/
@@ -69,14 +46,12 @@
 - Mittwoch, 26. April 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1682488800/108/
 - Mittwoch, 26. April 2023  Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1682488800/141/
 - Mittwoch, 26. April 2023  Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1682488800/147/
-- Mittwoch, 26. April 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682488800/167/
 - Mittwoch, 26. April 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682488800/168/
-- Mittwoch, 26. April 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1682488800/145/
-- Mittwoch, 26. April 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1682488800/142/
 - Mittwoch, 26. April 2023 08:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682489520/169/
-- Mittwoch, 26. April 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1682489520/103/
-- Mittwoch, 26. April 2023 08:48 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1682491680/102/
-- Mittwoch, 26. April 2023 08:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682491800/150/
+- Mittwoch, 26. April 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682489520/167/
+- Mittwoch, 26. April 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1682489520/145/
+- Mittwoch, 26. April 2023 08:24 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1682490240/103/
+- Mittwoch, 26. April 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1682490240/142/
 - Mittwoch, 26. April 2023 09:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1682492400/106/
 - Mittwoch, 26. April 2023  Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1682492400/141/
 - Mittwoch, 26. April 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1682492400/102/
@@ -98,9 +73,8 @@
 - Mittwoch, 26. April 2023 10:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1682496600/147/
 - Mittwoch, 26. April 2023 10:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682496720/169/
 - Mittwoch, 26. April 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682496720/167/
-- Mittwoch, 26. April 2023 10:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682497440/154/
-- Mittwoch, 26. April 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1682497440/145/
-- Mittwoch, 26. April 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1682497440/142/
+- Mittwoch, 26. April 2023 10:24 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1682497440/142/
+- Mittwoch, 26. April 2023 10:36 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1682498160/145/
 - Mittwoch, 26. April 2023 11:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682499600/168/
 - Mittwoch, 26. April 2023 11:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1682500200/147/
 - Mittwoch, 26. April 2023 11:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682500320/169/
