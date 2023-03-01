@@ -8,5 +8,3 @@
 - Mittwoch, 1. März 2023 12:06 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1677668760/111/
 - Mittwoch, 1. März 2023 12:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1677669480/111/
 - Mittwoch, 1. März 2023 12:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1677670200/111/
-- Mittwoch, 1. März 2023 12:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1677670920/111/
-- Mittwoch, 1. März 2023 12:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1677671640/111/
