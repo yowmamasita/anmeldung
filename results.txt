@@ -1,9 +1,7 @@
-- Donnerstag, 2. März 2023 11:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1677751200/231/
-- Donnerstag, 2. März 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677751200/167/
+- Donnerstag, 2. März 2023 11:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677751200/167/
 - Donnerstag, 2. März 2023 11:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1677751920/231/
 - Donnerstag, 2. März 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677751920/167/
-- Donnerstag, 2. März 2023 11:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1677752640/231/
-- Donnerstag, 2. März 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677752640/167/
+- Donnerstag, 2. März 2023 11:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677752640/167/
 - Donnerstag, 2. März 2023 11:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677753360/167/
 - Donnerstag, 2. März 2023 11:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677754080/167/
 - Donnerstag, 2. März 2023 12:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1677754800/167/
