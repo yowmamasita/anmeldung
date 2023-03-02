@@ -1,7 +1,6 @@
 # List of available Anmeldung appointments as of $NOW
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122254,122252,329742,122260,329745,122262,329748,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,317869,122281,327352,122279,329772,122283,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
-- Donnerstag, 27. April 2023 10:24 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682583840/898/
-- Donnerstag, 27. April 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682583840/904/
+- Donnerstag, 27. April 2023 10:24 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682583840/904/
 - Donnerstag, 27. April 2023 10:30 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682584200/2923/
 - Donnerstag, 27. April 2023 10:36 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682584560/2911/
 - Donnerstag, 27. April 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682584560/2914/
@@ -12,9 +11,7 @@
 - Donnerstag, 27. April 2023 10:48 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682585280/2911/
 - Donnerstag, 27. April 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682585280/898/
 - Donnerstag, 27. April 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682585280/904/
-- Donnerstag, 27. April 2023 10:50 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682585400/2941/
 - Donnerstag, 27. April 2023 11:00 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682586000/2911/
-- Donnerstag, 27. April 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682586000/844/
 - Donnerstag, 27. April 2023  Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682586000/2923/
 - Donnerstag, 27. April 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682586000/898/
 - Donnerstag, 27. April 2023 11:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682586600/2923/
@@ -22,7 +19,6 @@
 - Donnerstag, 27. April 2023 11:12 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682586720/2911/
 - Donnerstag, 27. April 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682586720/2914/
 - Donnerstag, 27. April 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682586720/2848/
-- Donnerstag, 27. April 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682586720/844/
 - Donnerstag, 27. April 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682586720/898/
 - Donnerstag, 27. April 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682586720/847/
 - Donnerstag, 27. April 2023 11:20 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682587200/2923/
@@ -35,8 +31,7 @@
 - Donnerstag, 27. April 2023 11:30 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1682587800/147/
 - Donnerstag, 27. April 2023  Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682587800/2923/
 - Donnerstag, 27. April 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682587800/2941/
-- Donnerstag, 27. April 2023 11:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682588160/2845/
-- Donnerstag, 27. April 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682588160/2911/
+- Donnerstag, 27. April 2023 11:36 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682588160/2911/
 - Donnerstag, 27. April 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682588160/844/
 - Donnerstag, 27. April 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682588160/898/
 - Donnerstag, 27. April 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682588160/847/
@@ -46,11 +41,11 @@
 - Donnerstag, 27. April 2023 11:48 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682588880/2911/
 - Donnerstag, 27. April 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682588880/2914/
 - Donnerstag, 27. April 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682588880/844/
-- Donnerstag, 27. April 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1682588880/381/
 - Donnerstag, 27. April 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682588880/898/
 - Donnerstag, 27. April 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682588880/847/
 - Donnerstag, 27. April 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682588880/904/
 - Donnerstag, 27. April 2023 11:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682589000/2923/
+- Donnerstag, 27. April 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1682589000/151/
 - Donnerstag, 27. April 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682589000/2941/
 - Donnerstag, 27. April 2023 12:00 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1682589600/147/
 - Donnerstag, 27. April 2023  Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682589600/2923/
@@ -64,20 +59,19 @@
 - Donnerstag, 27. April 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682590320/844/
 - Donnerstag, 27. April 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682590320/898/
 - Donnerstag, 27. April 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682590320/847/
-- Donnerstag, 27. April 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1682590320/313/
 - Donnerstag, 27. April 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682590320/904/
 - Donnerstag, 27. April 2023 12:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1682590800/147/
 - Donnerstag, 27. April 2023  Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682590800/2923/
 - Donnerstag, 27. April 2023 12:24 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682591040/2911/
 - Donnerstag, 27. April 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682591040/2914/
 - Donnerstag, 27. April 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682591040/844/
+- Donnerstag, 27. April 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682591040/312/
 - Donnerstag, 27. April 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682591040/898/
 - Donnerstag, 27. April 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682591040/847/
 - Donnerstag, 27. April 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1682591040/313/
 - Donnerstag, 27. April 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682591040/904/
 - Donnerstag, 27. April 2023 12:30 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682591400/2941/
 - Donnerstag, 27. April 2023 12:36 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682591760/2911/
-- Donnerstag, 27. April 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682591760/312/
 - Donnerstag, 27. April 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682591760/898/
 - Donnerstag, 27. April 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682591760/847/
 - Donnerstag, 27. April 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682591760/904/
@@ -107,7 +101,8 @@
 - Donnerstag, 27. April 2023 14:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1682597400/147/
 - Donnerstag, 27. April 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682597400/2941/
 - Donnerstag, 27. April 2023 14:12 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682597520/847/
-- Donnerstag, 27. April 2023 14:20 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682598000/2941/
+- Donnerstag, 27. April 2023 14:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1682598000/147/
+- Donnerstag, 27. April 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682598000/2941/
 - Donnerstag, 27. April 2023 14:24 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682598240/847/
 - Donnerstag, 27. April 2023 14:30 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682598600/2923/
 - Donnerstag, 27. April 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682598600/2941/
@@ -117,8 +112,6 @@
 - Donnerstag, 27. April 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682599800/2941/
 - Donnerstag, 27. April 2023 15:00 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682600400/2923/
 - Donnerstag, 27. April 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682600400/2941/
-- Donnerstag, 27. April 2023 15:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682601000/2923/
-- Donnerstag, 27. April 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682601000/2941/
-- Donnerstag, 27. April 2023 15:20 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682601600/2923/
-- Donnerstag, 27. April 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682601600/2941/
-- Donnerstag, 27. April 2023 15:30 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1682602200/147/
+- Donnerstag, 27. April 2023 15:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682601000/2941/
+- Donnerstag, 27. April 2023 15:20 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682601600/2941/
+- Donnerstag, 27. April 2023 15:50 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682603400/2941/
