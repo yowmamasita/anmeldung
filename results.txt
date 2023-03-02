@@ -1,9 +1,6 @@
-- Donnerstag, 2. März 2023 09:36 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1677746160/102/
-- Donnerstag, 2. März 2023 09:48 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1677746880/102/
 - Donnerstag, 27. April 2023 09:30 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1682580600/103/
 - Donnerstag, 27. April 2023 09:40 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1682581200/103/
-- Donnerstag, 27. April 2023 09:42 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1682581320/141/
-- Donnerstag, 27. April 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1682581320/153/
+- Donnerstag, 27. April 2023 09:42 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1682581320/153/
 - Donnerstag, 27. April 2023 09:50 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1682581800/103/
 - Donnerstag, 27. April 2023 09:54 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1682582040/141/
 - Donnerstag, 27. April 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1682582040/153/
@@ -54,7 +51,6 @@
 - Donnerstag, 27. April 2023 13:18 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1682594280/140/
 - Donnerstag, 27. April 2023 13:30 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1682595000/140/
 - Donnerstag, 27. April 2023 13:42 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1682595720/140/
-- Donnerstag, 27. April 2023 13:54 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1682596440/140/
 - Donnerstag, 27. April 2023 14:06 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1682597160/140/
 - Donnerstag, 27. April 2023 14:18 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1682597880/140/
 - Donnerstag, 27. April 2023 14:30 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1682598600/140/
@@ -64,4 +60,3 @@
 - Donnerstag, 27. April 2023 15:30 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1682602200/140/
 - Donnerstag, 27. April 2023 15:42 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1682602920/140/
 - Donnerstag, 27. April 2023 15:54 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1682603640/140/
-- Donnerstag, 27. April 2023 16:54 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1682607240/140/
