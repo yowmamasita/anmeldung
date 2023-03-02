@@ -1,12 +1,5 @@
-- Donnerstag, 2. März 2023 10:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677748320/192/
-- Donnerstag, 2. März 2023 10:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677749040/192/
+- Donnerstag, 2. März 2023 10:12 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1677748320/111/
 - Donnerstag, 2. März 2023 10:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1677749760/231/
 - Donnerstag, 2. März 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677749760/192/
-- Donnerstag, 2. März 2023 11:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677751200/192/
-- Donnerstag, 2. März 2023 11:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677751920/192/
 - Donnerstag, 2. März 2023 11:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677752640/192/
-- Donnerstag, 2. März 2023 11:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677754080/192/
-- Donnerstag, 2. März 2023 14:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677764160/192/
-- Donnerstag, 2. März 2023 15:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677766320/192/
-- Donnerstag, 2. März 2023 15:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677767760/192/
-- Donnerstag, 2. März 2023 16:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1677770640/231/
+- Donnerstag, 2. März 2023 13:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677760560/192/
