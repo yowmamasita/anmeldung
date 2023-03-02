@@ -1,1 +1,29 @@
-- Donnerstag, 2. März 2023 12:24 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1677756240/111/
+- Donnerstag, 2. März 2023 10:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1677749760/192/
+- Donnerstag, 27. April 2023 10:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1682583120/108/
+- Donnerstag, 27. April 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1682583120/103/
+- Donnerstag, 27. April 2023 10:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1682583840/106/
+- Donnerstag, 27. April 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1682583840/108/
+- Donnerstag, 27. April 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1682583840/103/
+- Donnerstag, 27. April 2023 10:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1682584560/106/
+- Donnerstag, 27. April 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1682584560/108/
+- Donnerstag, 27. April 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1682584560/103/
+- Donnerstag, 27. April 2023 10:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1682585280/106/
+- Donnerstag, 27. April 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1682585280/108/
+- Donnerstag, 27. April 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1682585280/103/
+- Donnerstag, 27. April 2023 11:00 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1682586000/103/
+- Donnerstag, 27. April 2023 11:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1682586720/108/
+- Donnerstag, 27. April 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1682586720/103/
+- Donnerstag, 27. April 2023 11:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1682587440/108/
+- Donnerstag, 27. April 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1682587440/103/
+- Donnerstag, 27. April 2023 11:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1682588160/106/
+- Donnerstag, 27. April 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1682588160/108/
+- Donnerstag, 27. April 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1682588160/103/
+- Donnerstag, 27. April 2023 11:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1682588880/106/
+- Donnerstag, 27. April 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1682588880/108/
+- Donnerstag, 27. April 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1682588880/103/
+- Donnerstag, 27. April 2023 12:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682590320/109/
+- Donnerstag, 27. April 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1682590320/103/
+- Donnerstag, 27. April 2023 12:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682591040/109/
+- Donnerstag, 27. April 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1682591040/103/
+- Donnerstag, 27. April 2023 12:36 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1682591760/103/
+- Donnerstag, 27. April 2023 12:48 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1682592480/103/
