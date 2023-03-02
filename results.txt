@@ -1,6 +1,1 @@
-- Donnerstag, 2. März 2023 14:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677764880/2851/
-- Donnerstag, 2. März 2023 17:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1677775680/170/
-- Freitag, 3. März 2023 09:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677831000/2923/
-- Freitag, 10. März 2023 12:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1678448160/169/
-- Freitag, 21. April 2023 09:12 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1682061120/103/
 - Donnerstag, 27. April 2023 13:42 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1682595720/140/
