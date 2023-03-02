@@ -3,7 +3,6 @@
 - Donnerstag, 2. März 2023 10:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677750480/2851/
 - Donnerstag, 2. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677750480/922/
 - Donnerstag, 2. März 2023 11:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677751200/2851/
-- Donnerstag, 2. März 2023 11:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677751920/2851/
 - Donnerstag, 2. März 2023 11:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677752640/2851/
 - Donnerstag, 2. März 2023 11:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677753360/2851/
 - Donnerstag, 2. März 2023 12:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677755520/2851/
@@ -14,10 +13,5 @@
 - Donnerstag, 2. März 2023 13:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677759840/2851/
 - Donnerstag, 2. März 2023 13:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677760560/2851/
 - Donnerstag, 2. März 2023 13:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677761280/2851/
-- Donnerstag, 2. März 2023 14:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677762000/2851/
-- Donnerstag, 2. März 2023 14:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677762720/2851/
 - Donnerstag, 2. März 2023 14:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677763440/2851/
 - Donnerstag, 2. März 2023 14:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677764160/2851/
-- Donnerstag, 2. März 2023 15:00 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677765600/2914/
-- Donnerstag, 2. März 2023 16:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677769920/2851/
-- Donnerstag, 2. März 2023 16:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677770640/2851/
