@@ -1,2 +1,140 @@
 # List of available Anmeldung appointments as of $NOW
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122254,122252,329742,122260,329745,122262,329748,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,317869,122281,327352,122279,329772,122283,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
+- Freitag, 3. März 2023 08:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677827520/3238/
+- Freitag, 3. März 2023 08:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677828240/3238/
+- Freitag, 3. März 2023 08:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677828960/3238/
+- Freitag, 3. März 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677828960/2872/
+- Freitag, 3. März 2023 08:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677829680/3238/
+- Freitag, 3. März 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677829680/2872/
+- Freitag, 3. März 2023 09:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677830400/3238/
+- Freitag, 3. März 2023 09:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677831120/3238/
+- Freitag, 3. März 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677831120/2872/
+- Freitag, 3. März 2023 09:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677831840/3238/
+- Freitag, 3. März 2023 09:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677832560/3238/
+- Freitag, 3. März 2023 09:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677833280/3238/
+- Freitag, 3. März 2023 10:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677835440/3238/
+- Freitag, 3. März 2023 10:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677836160/3238/
+- Freitag, 3. März 2023 10:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677836880/3238/
+- Freitag, 3. März 2023 11:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677837600/3238/
+- Freitag, 3. März 2023 11:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677838320/3238/
+- Freitag, 3. März 2023 11:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677839040/3238/
+- Freitag, 3. März 2023 11:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677839760/3238/
+- Freitag, 3. März 2023 11:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677840480/3238/
+- Freitag, 3. März 2023 12:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677844080/3238/
+- Freitag, 3. März 2023 13:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677845520/3238/
+- Freitag, 3. März 2023 13:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677846240/3238/
+- Freitag, 3. März 2023 13:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677846960/3238/
+- Dienstag, 25. April 2023 08:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682403120/2851/
+- Dienstag, 25. April 2023 08:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682403840/2851/
+- Dienstag, 25. April 2023 08:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682404560/2851/
+- Dienstag, 25. April 2023 08:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682405280/2851/
+- Dienstag, 25. April 2023 09:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682407440/2851/
+- Dienstag, 25. April 2023 09:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682408160/2851/
+- Dienstag, 25. April 2023 09:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682408880/2851/
+- Dienstag, 25. April 2023 10:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682411760/2851/
+- Dienstag, 25. April 2023 12:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682417520/2851/
+- Dienstag, 25. April 2023 12:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682418240/2851/
+- Dienstag, 25. April 2023 12:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682418960/2851/
+- Dienstag, 25. April 2023 12:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682419680/2851/
+- Dienstag, 25. April 2023 13:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682421120/2851/
+- Dienstag, 25. April 2023 13:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682421840/2851/
+- Dienstag, 25. April 2023 13:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682422560/2851/
+- Dienstag, 25. April 2023 13:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682423280/2851/
+- Dienstag, 25. April 2023 14:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682424000/2851/
+- Dienstag, 25. April 2023 14:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682424720/2851/
+- Dienstag, 25. April 2023 14:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682425440/2851/
+- Freitag, 28. April 2023 08:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682661600/2845/
+- Freitag, 28. April 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682661600/2836/
+- Freitag, 28. April 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682661600/2860/
+- Freitag, 28. April 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682661600/2932/
+- Freitag, 28. April 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682661600/2863/
+- Freitag, 28. April 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682661600/2866/
+- Freitag, 28. April 2023 08:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682662200/2941/
+- Freitag, 28. April 2023 08:12 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1682662320/106/
+- Freitag, 28. April 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682662320/2848/
+- Freitag, 28. April 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682662320/169/
+- Freitag, 28. April 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682662320/2857/
+- Freitag, 28. April 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682662320/168/
+- Freitag, 28. April 2023 08:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682663040/2887/
+- Freitag, 28. April 2023 08:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1682663760/381/
+- Freitag, 28. April 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1682663760/153/
+- Freitag, 28. April 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1682663760/142/
+- Freitag, 28. April 2023 08:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682664480/167/
+- Freitag, 28. April 2023 08:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1682664600/147/
+- Freitag, 28. April 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682664600/2884/
+- Freitag, 28. April 2023 09:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682665200/2845/
+- Freitag, 28. April 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682665200/2836/
+- Freitag, 28. April 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682665200/2941/
+- Freitag, 28. April 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682665200/167/
+- Freitag, 28. April 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682665200/2860/
+- Freitag, 28. April 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682665200/168/
+- Freitag, 28. April 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682665200/2863/
+- Freitag, 28. April 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682665200/2866/
+- Freitag, 28. April 2023 09:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682665800/2923/
+- Freitag, 28. April 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682665800/2884/
+- Freitag, 28. April 2023 09:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682665920/2848/
+- Freitag, 28. April 2023  Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1682665920/141/
+- Freitag, 28. April 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1682665920/381/
+- Freitag, 28. April 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1682665920/153/
+- Freitag, 28. April 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682665920/2932/
+- Freitag, 28. April 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1682665920/103/
+- Freitag, 28. April 2023 09:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682666640/2857/
+- Freitag, 28. April 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1682666640/145/
+- Freitag, 28. April 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1682666640/142/
+- Freitag, 28. April 2023 09:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682667360/169/
+- Freitag, 28. April 2023 09:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1682667600/147/
+- Freitag, 28. April 2023 10:00 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1682668800/141/
+- Freitag, 28. April 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682668800/2836/
+- Freitag, 28. April 2023  Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1682668800/147/
+- Freitag, 28. April 2023  Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682668800/2923/
+- Freitag, 28. April 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682668800/2860/
+- Freitag, 28. April 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1682668800/153/
+- Freitag, 28. April 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682668800/2932/
+- Freitag, 28. April 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682668800/168/
+- Freitag, 28. April 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682668800/2863/
+- Freitag, 28. April 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1682668800/145/
+- Freitag, 28. April 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682668800/2866/
+- Freitag, 28. April 2023 10:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682669400/2941/
+- Freitag, 28. April 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682669400/2884/
+- Freitag, 28. April 2023 10:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682669520/2857/
+- Freitag, 28. April 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1682669520/381/
+- Freitag, 28. April 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682669520/167/
+- Freitag, 28. April 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1682669520/103/
+- Freitag, 28. April 2023 10:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682670240/169/
+- Freitag, 28. April 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1682670240/142/
+- Freitag, 28. April 2023 10:30 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1682670600/151/
+- Freitag, 28. April 2023 11:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682672400/2857/
+- Freitag, 28. April 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682672400/2836/
+- Freitag, 28. April 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682672400/2941/
+- Freitag, 28. April 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682672400/2860/
+- Freitag, 28. April 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682672400/168/
+- Freitag, 28. April 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682672400/2863/
+- Freitag, 28. April 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1682672400/142/
+- Freitag, 28. April 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682672400/2866/
+- Freitag, 28. April 2023 11:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1682673000/147/
+- Freitag, 28. April 2023  Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682673000/2923/
+- Freitag, 28. April 2023 11:12 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1682673120/145/
+- Freitag, 28. April 2023 11:20 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1682673600/151/
+- Freitag, 28. April 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682673600/150/
+- Freitag, 28. April 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682673600/2884/
+- Freitag, 28. April 2023 11:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682673840/169/
+- Freitag, 28. April 2023  Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1682673840/141/
+- Freitag, 28. April 2023 11:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682674560/167/
+- Freitag, 28. April 2023 12:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682676000/2857/
+- Freitag, 28. April 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682676000/2836/
+- Freitag, 28. April 2023  Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682676000/2923/
+- Freitag, 28. April 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682676000/2941/
+- Freitag, 28. April 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682676000/2860/
+- Freitag, 28. April 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682676000/168/
+- Freitag, 28. April 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682676000/2863/
+- Freitag, 28. April 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682676000/2884/
+- Freitag, 28. April 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682676000/2866/
+- Freitag, 28. April 2023 12:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1682676600/147/
+- Freitag, 28. April 2023 12:12 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1682676720/141/
+- Freitag, 28. April 2023 12:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682677440/169/
+- Freitag, 28. April 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682677440/167/
+- Freitag, 28. April 2023 12:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682677800/150/
+- Freitag, 28. April 2023 12:36 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1682678160/142/
+- Freitag, 28. April 2023 12:48 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1682678880/145/
+- Freitag, 28. April 2023 13:12 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1682680320/141/
+- Freitag, 28. April 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682680320/2836/
