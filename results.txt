@@ -6,6 +6,7 @@
 - Freitag, 28. April 2023 08:42 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682664120/904/
 - Freitag, 28. April 2023 08:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682664480/2938/
 - Freitag, 28. April 2023 08:54 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682664840/898/
+- Freitag, 28. April 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682664840/904/
 - Freitag, 28. April 2023 09:00 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682665200/2938/
 - Freitag, 28. April 2023 09:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682665920/154/
 - Freitag, 28. April 2023 09:18 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682666280/898/
@@ -26,4 +27,3 @@
 - Freitag, 28. April 2023 11:30 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682674200/844/
 - Freitag, 28. April 2023 11:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1682674920/111/
 - Freitag, 28. April 2023 12:06 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1682676360/111/
-- Freitag, 28. April 2023 12:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1682677080/111/
