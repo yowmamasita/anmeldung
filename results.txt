@@ -22,7 +22,6 @@
 - Freitag, 28. April 2023 08:18 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682662680/2911/
 - Freitag, 28. April 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682662680/2914/
 - Freitag, 28. April 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682662680/844/
-- Freitag, 28. April 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1682662680/140/
 - Freitag, 28. April 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682662680/2839/
 - Freitag, 28. April 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682662680/898/
 - Freitag, 28. April 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682662680/904/
@@ -47,12 +46,9 @@
 - Freitag, 28. April 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682664840/2839/
 - Freitag, 28. April 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682664840/898/
 - Freitag, 28. April 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682664840/847/
-- Freitag, 28. April 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1682664840/313/
 - Freitag, 28. April 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682664840/904/
 - Freitag, 28. April 2023 09:06 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682665560/2911/
 - Freitag, 28. April 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682665560/2914/
-- Freitag, 28. April 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682665560/844/
-- Freitag, 28. April 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682665560/841/
 - Freitag, 28. April 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682665560/2839/
 - Freitag, 28. April 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682665560/847/
 - Freitag, 28. April 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682665560/904/
@@ -151,6 +147,5 @@
 - Freitag, 28. April 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682677800/2839/
 - Freitag, 28. April 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682677800/847/
 - Freitag, 28. April 2023 12:42 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682678520/841/
-- Freitag, 28. April 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682678520/2839/
 - Freitag, 28. April 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682678520/847/
 - Freitag, 28. April 2023 12:54 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682679240/844/
