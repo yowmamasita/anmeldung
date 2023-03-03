@@ -8,5 +8,3 @@
 - Freitag, 3. März 2023 11:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1677839040/168/
 - Freitag, 3. März 2023 11:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1677839760/168/
 - Freitag, 3. März 2023 11:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1677840480/168/
-- Freitag, 3. März 2023 12:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1677842640/168/
-- Freitag, 3. März 2023 12:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1677844080/168/
