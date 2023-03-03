@@ -31,7 +31,6 @@
 - Freitag, 28. April 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682678880/1018/
 - Freitag, 28. April 2023 13:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682679600/3238/
 - Freitag, 28. April 2023 13:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682680320/3238/
-- Freitag, 28. April 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682680320/1018/
 - Freitag, 28. April 2023 13:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682681040/3238/
 - Freitag, 28. April 2023 13:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682681760/3238/
 - Freitag, 28. April 2023 13:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682682480/3238/
