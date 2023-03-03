@@ -1,14 +1,18 @@
+- Freitag, 3. März 2023 11:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1677837600/168/
+- Freitag, 3. März 2023 11:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677838320/2872/
 - Freitag, 3. März 2023 12:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677841200/2848/
 - Freitag, 3. März 2023 12:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677841920/2848/
 - Freitag, 3. März 2023 12:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677842640/2848/
-- Freitag, 3. März 2023 12:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1677843360/2848/
-- Dienstag, 7. März 2023 11:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678186080/2863/
 - Dienstag, 7. März 2023 15:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678198320/2863/
 - Dienstag, 7. März 2023 15:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678199040/2863/
 - Dienstag, 7. März 2023 15:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678199760/2863/
 - Dienstag, 7. März 2023 15:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678200480/2863/
-- Dienstag, 7. März 2023 16:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678201200/2863/
 - Dienstag, 7. März 2023 16:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678201920/2863/
 - Dienstag, 7. März 2023 16:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678202640/2863/
-- Dienstag, 7. März 2023 16:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678203360/2863/
-- Dienstag, 7. März 2023 16:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678204080/2863/
+- Donnerstag, 9. März 2023 13:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678364640/3238/
+- Donnerstag, 27. April 2023 12:42 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1682592120/141/
+- Freitag, 28. April 2023 08:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682664480/169/
+- Freitag, 28. April 2023 10:24 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682670240/2836/
+- Freitag, 28. April 2023 10:54 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1682672040/140/
+- Freitag, 28. April 2023 11:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682675280/169/
+- Freitag, 28. April 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682675280/2896/
