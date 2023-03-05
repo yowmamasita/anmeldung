@@ -3,5 +3,3 @@
 - Montag, 6. März 2023 09:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678092480/2896/
 - Dienstag, 7. März 2023 09:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678178520/2839/
 - Dienstag, 7. März 2023 09:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678178880/3238/
-- Dienstag, 7. März 2023 10:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1678181040/143/
-- Mittwoch, 19. April 2023 10:40 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681893600/2941/
