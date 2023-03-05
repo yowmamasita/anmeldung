@@ -35,7 +35,6 @@
 - Donnerstag, 27. April 2023 14:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682599680/2851/
 - Donnerstag, 27. April 2023 16:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682604720/2851/
 - Donnerstag, 27. April 2023 16:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682605440/2851/
-- Donnerstag, 27. April 2023 16:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682606880/143/
-- Donnerstag, 27. April 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682606880/2851/
+- Donnerstag, 27. April 2023 16:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682606880/2851/
 - Donnerstag, 27. April 2023 17:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682608320/2851/
 - Donnerstag, 27. April 2023 17:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682609040/2851/
