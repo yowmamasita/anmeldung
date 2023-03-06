@@ -4,4 +4,3 @@
 - Montag, 6. März 2023 10:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1678093800/147/
 - Montag, 6. März 2023 10:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678095360/2854/
 - Montag, 6. März 2023 14:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678109760/2851/
-- Dienstag, 18. April 2023 15:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1681824960/109/
