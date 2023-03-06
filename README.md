@@ -4,5 +4,3 @@
 - Montag, 6. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678095360/922/
 - Montag, 6. März 2023 11:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678097520/2857/
 - Montag, 6. März 2023 12:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678103280/3238/
-- Montag, 6. März 2023 13:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678106880/2863/
-- Montag, 6. März 2023 14:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678109760/2845/
