@@ -1,14 +1,8 @@
-- Dienstag, 7. März 2023 08:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678172400/2845/
-- Dienstag, 7. März 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678172400/2887/
-- Dienstag, 7. März 2023 08:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678173120/2845/
-- Dienstag, 7. März 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678173120/2887/
-- Dienstag, 7. März 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1678173120/191/
+- Dienstag, 7. März 2023 08:12 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678173120/2887/
 - Dienstag, 7. März 2023 08:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678173840/2845/
 - Dienstag, 7. März 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678173840/2887/
-- Dienstag, 7. März 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1678173840/191/
 - Dienstag, 7. März 2023 08:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678174560/2845/
 - Dienstag, 7. März 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678174560/2887/
-- Dienstag, 7. März 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1678174560/191/
 - Dienstag, 7. März 2023 08:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678175280/2845/
 - Dienstag, 7. März 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678175280/2887/
 - Dienstag, 7. März 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1678175280/191/
@@ -25,12 +19,9 @@
 - Dienstag, 7. März 2023 09:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678178880/2845/
 - Dienstag, 7. März 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678178880/2887/
 - Dienstag, 7. März 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1678178880/191/
-- Dienstag, 7. März 2023 10:00 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678179600/190/
-- Dienstag, 7. März 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678179600/2887/
-- Dienstag, 7. März 2023 10:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678180320/190/
-- Dienstag, 7. März 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678180320/2887/
-- Dienstag, 7. März 2023 10:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678181040/190/
-- Dienstag, 7. März 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678181040/2887/
+- Dienstag, 7. März 2023 10:00 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678179600/2887/
+- Dienstag, 7. März 2023 10:12 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678180320/2887/
+- Dienstag, 7. März 2023 10:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678181040/2887/
 - Dienstag, 7. März 2023 10:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678181760/190/
 - Dienstag, 7. März 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678181760/2887/
 - Dienstag, 7. März 2023 10:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678182480/190/
@@ -40,29 +31,27 @@
 - Dienstag, 7. März 2023 11:12 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678183920/2887/
 - Dienstag, 7. März 2023 11:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678184640/190/
 - Dienstag, 7. März 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678184640/2887/
-- Dienstag, 7. März 2023 11:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678185360/190/
-- Dienstag, 7. März 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678185360/2887/
+- Dienstag, 7. März 2023 11:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678185360/2887/
 - Dienstag, 7. März 2023 11:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678186080/190/
 - Dienstag, 7. März 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678186080/2887/
-- Dienstag, 7. März 2023 12:00 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678186800/190/
-- Dienstag, 7. März 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678186800/2887/
+- Dienstag, 7. März 2023 12:00 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678186800/2887/
 - Dienstag, 7. März 2023 12:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678187520/190/
 - Dienstag, 7. März 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678187520/2887/
 - Dienstag, 7. März 2023 12:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678188240/190/
 - Dienstag, 7. März 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678188240/2887/
-- Dienstag, 7. März 2023 12:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678188960/190/
-- Dienstag, 7. März 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678188960/2887/
+- Dienstag, 7. März 2023 12:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678188960/2887/
+- Dienstag, 7. März 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1678188960/168/
 - Dienstag, 7. März 2023 12:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678189680/190/
 - Dienstag, 7. März 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678189680/2887/
-- Dienstag, 7. März 2023 13:00 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678190400/190/
-- Dienstag, 7. März 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678190400/2887/
+- Dienstag, 7. März 2023 13:00 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678190400/2887/
 - Dienstag, 7. März 2023 13:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678191120/190/
 - Dienstag, 7. März 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678191120/2887/
 - Dienstag, 7. März 2023 13:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678191840/190/
 - Dienstag, 7. März 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678191840/2887/
 - Dienstag, 7. März 2023 13:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678192560/190/
 - Dienstag, 7. März 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678192560/2887/
-- Dienstag, 7. März 2023 13:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678193280/190/
+- Dienstag, 7. März 2023 13:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678193280/2845/
+- Dienstag, 7. März 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678193280/190/
 - Dienstag, 7. März 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678193280/2887/
 - Dienstag, 7. März 2023 14:00 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678194000/190/
 - Dienstag, 7. März 2023 14:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678194720/190/
