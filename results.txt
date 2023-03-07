@@ -1,6 +1,0 @@
-- Mittwoch, 15. März 2023 08:00 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678863600/2920/
-- Dienstag, 21. März 2023 12:42 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679398920/2938/
-- Mittwoch, 29. März 2023 08:00 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680069600/2839/
-- Dienstag, 18. April 2023 12:54 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681815240/2938/
-- Donnerstag, 20. April 2023 16:12 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681999920/2911/
-- Dienstag, 25. April 2023 15:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1682430600/147/
