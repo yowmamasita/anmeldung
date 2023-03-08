@@ -5,5 +5,4 @@
 - Donnerstag, 9. März 2023 15:30 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678372200/2941/
 - Donnerstag, 9. März 2023 15:40 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678372800/2941/
 - Donnerstag, 9. März 2023 15:50 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678373400/2941/
-- Dienstag, 14. März 2023 11:00 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1678788000/381/
 - Montag, 24. April 2023 07:30 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682314200/2911/
