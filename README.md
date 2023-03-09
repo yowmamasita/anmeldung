@@ -15,20 +15,16 @@
 - Donnerstag, 9. März 2023 13:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678364640/190/
 - Donnerstag, 9. März 2023 13:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678365360/190/
 - Donnerstag, 9. März 2023 13:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678366080/190/
-- Donnerstag, 9. März 2023 14:12 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1678367520/312/
-- Donnerstag, 9. März 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678367520/190/
+- Donnerstag, 9. März 2023 14:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678367520/190/
 - Donnerstag, 9. März 2023 14:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678368240/190/
 - Donnerstag, 9. März 2023 14:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678368960/190/
 - Donnerstag, 9. März 2023 14:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1678369680/312/
 - Donnerstag, 9. März 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678369680/190/
 - Donnerstag, 9. März 2023 15:00 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678370400/190/
-- Donnerstag, 9. März 2023 15:12 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1678371120/312/
-- Donnerstag, 9. März 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678371120/190/
+- Donnerstag, 9. März 2023 15:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678371120/190/
 - Donnerstag, 9. März 2023 15:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678371840/190/
 - Donnerstag, 9. März 2023 15:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678372560/190/
 - Donnerstag, 9. März 2023 15:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678373280/190/
 - Donnerstag, 9. März 2023 16:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678374720/190/
-- Donnerstag, 9. März 2023 16:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678375440/190/
 - Donnerstag, 9. März 2023 16:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678376160/190/
 - Donnerstag, 9. März 2023 16:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678376880/190/
-- Donnerstag, 9. März 2023 17:00 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1678377600/190/
