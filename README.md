@@ -1,34 +1,35 @@
 # List of available Anmeldung appointments as of $NOW
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122254,122252,329742,122260,329745,122262,329748,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,317869,122281,327352,122279,329772,122283,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
 - Donnerstag, 9. März 2023 10:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1678353120/231/
+- Donnerstag, 9. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678353120/922/
 - Donnerstag, 9. März 2023 10:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1678353840/231/
+- Donnerstag, 9. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678353840/922/
 - Donnerstag, 9. März 2023 10:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1678354560/231/
+- Donnerstag, 9. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678354560/922/
 - Donnerstag, 9. März 2023 10:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1678355280/231/
-- Donnerstag, 9. März 2023 11:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1678356000/169/
-- Donnerstag, 9. März 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1678356000/231/
+- Donnerstag, 9. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678355280/922/
+- Donnerstag, 9. März 2023 11:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1678356000/231/
+- Donnerstag, 9. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678356000/922/
 - Donnerstag, 9. März 2023 11:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1678356720/169/
-- Donnerstag, 9. März 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1678356720/231/
+- Donnerstag, 9. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678356720/922/
 - Donnerstag, 9. März 2023 11:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1678357440/169/
 - Donnerstag, 9. März 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1678357440/231/
+- Donnerstag, 9. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678357440/922/
 - Donnerstag, 9. März 2023 11:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1678358160/169/
 - Donnerstag, 9. März 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1678358160/231/
-- Donnerstag, 9. März 2023 11:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1678358880/169/
-- Donnerstag, 9. März 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1678358880/231/
-- Donnerstag, 9. März 2023 12:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1678359600/169/
-- Donnerstag, 9. März 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1678359600/231/
-- Donnerstag, 9. März 2023 12:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1678360320/169/
-- Donnerstag, 9. März 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1678360320/231/
-- Donnerstag, 9. März 2023 12:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1678361040/169/
-- Donnerstag, 9. März 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1678361040/231/
-- Donnerstag, 9. März 2023 12:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1678361760/169/
-- Donnerstag, 9. März 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1678361760/231/
-- Donnerstag, 9. März 2023 12:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1678362480/169/
-- Donnerstag, 9. März 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1678362480/231/
-- Donnerstag, 9. März 2023 13:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1678363200/169/
-- Donnerstag, 9. März 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1678363200/231/
-- Donnerstag, 9. März 2023 13:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1678363920/169/
-- Donnerstag, 9. März 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1678363920/231/
-- Donnerstag, 9. März 2023 13:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1678364640/169/
-- Donnerstag, 9. März 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1678364640/231/
-- Donnerstag, 9. März 2023 13:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1678365360/169/
-- Donnerstag, 9. März 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1678365360/231/
+- Donnerstag, 9. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678358160/922/
+- Donnerstag, 9. März 2023 11:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1678358880/231/
+- Donnerstag, 9. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678358880/922/
+- Donnerstag, 9. März 2023 12:00 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678359600/922/
+- Donnerstag, 9. März 2023 12:12 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678360320/922/
+- Donnerstag, 9. März 2023 12:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678361040/922/
+- Donnerstag, 9. März 2023 12:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1678361760/231/
+- Donnerstag, 9. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678361760/922/
+- Donnerstag, 9. März 2023 12:48 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678362480/922/
+- Donnerstag, 9. März 2023 13:00 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678363200/922/
+- Donnerstag, 9. März 2023 13:12 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678363920/922/
+- Donnerstag, 9. März 2023 13:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678364640/922/
+- Donnerstag, 9. März 2023 13:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678365360/922/
+- Donnerstag, 9. März 2023 13:48 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678366080/922/
+- Donnerstag, 9. März 2023 14:00 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678366800/922/
+- Donnerstag, 9. März 2023 14:12 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678367520/922/
