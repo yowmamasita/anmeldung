@@ -1,7 +1,1 @@
-- Montag, 13. März 2023 11:06 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678701960/841/
-- Montag, 13. März 2023 11:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678702320/3238/
-- Montag, 13. März 2023 13:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678710960/2863/
-- Montag, 13. März 2023 14:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678713840/2863/
-- Montag, 13. März 2023 14:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1678714560/168/
-- Donnerstag, 20. April 2023 10:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1681978320/109/
 - Freitag, 21. April 2023 07:54 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682056440/841/
