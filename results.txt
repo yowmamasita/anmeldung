@@ -1,5 +1,1 @@
-- Montag, 13. März 2023 11:48 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678704480/2866/
-- Montag, 20. März 2023 09:00 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679299200/2884/
-- Mittwoch, 22. März 2023 09:40 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679474400/2884/
-- Dienstag, 18. April 2023 12:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1681812000/168/
 - Freitag, 21. April 2023 07:54 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682056440/841/
