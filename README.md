@@ -27,7 +27,6 @@
 - Montag, 13. März 2023 13:30 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1678710600/135/
 - Montag, 13. März 2023 13:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1678711320/135/
 - Montag, 13. März 2023 13:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1678712040/135/
-- Montag, 13. März 2023 14:06 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1678712760/135/
 - Montag, 13. März 2023 14:18 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1678713480/135/
 - Montag, 13. März 2023 14:30 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1678714200/135/
 - Montag, 13. März 2023 14:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1678714920/135/
