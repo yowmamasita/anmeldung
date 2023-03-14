@@ -1,4 +1,3 @@
-- Dienstag, 14. März 2023 11:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1678788000/167/
 - Dienstag, 14. März 2023 11:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1678788720/167/
 - Dienstag, 14. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1678788720/170/
 - Dienstag, 14. März 2023 11:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1678789440/167/
@@ -12,7 +11,6 @@
 - Dienstag, 14. März 2023 12:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1678792320/167/
 - Dienstag, 14. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1678792320/170/
 - Dienstag, 14. März 2023 12:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1678793040/167/
-- Dienstag, 14. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1678793040/170/
 - Dienstag, 14. März 2023 12:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1678793760/167/
 - Dienstag, 14. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1678793760/170/
 - Dienstag, 14. März 2023 12:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1678794480/167/
@@ -33,8 +31,8 @@
 - Dienstag, 14. März 2023 16:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1678807440/170/
 - Dienstag, 14. März 2023 16:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1678808160/170/
 - Dienstag, 14. März 2023 16:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1678808880/170/
-- Dienstag, 14. März 2023 17:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1678809600/170/
 - Dienstag, 14. März 2023 17:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1678810320/170/
 - Dienstag, 14. März 2023 17:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1678811040/170/
-- Dienstag, 14. März 2023 17:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1678811760/170/
-- Dienstag, 14. März 2023 17:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1678812480/170/
+- Donnerstag, 23. März 2023 12:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1679571360/172/
+- Donnerstag, 23. März 2023 12:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1679572080/172/
+- Donnerstag, 23. März 2023 13:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1679574960/172/
