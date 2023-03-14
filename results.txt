@@ -1,4 +1,5 @@
 - Dienstag, 14. März 2023 10:12 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678785120/2875/
+- Dienstag, 14. März 2023 10:24 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678785840/2875/
 - Dienstag, 14. März 2023 10:36 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678786560/2875/
 - Dienstag, 14. März 2023 11:00 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678788000/2875/
 - Dienstag, 14. März 2023 11:12 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678788720/2875/
@@ -30,8 +31,6 @@
 - Dienstag, 14. März 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678800960/2875/
 - Dienstag, 14. März 2023 14:48 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678801680/922/
 - Dienstag, 14. März 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678801680/2875/
-- Dienstag, 14. März 2023 15:00 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678802400/922/
-- Dienstag, 14. März 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678802400/2875/
 - Dienstag, 14. März 2023 15:12 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678803120/922/
 - Dienstag, 14. März 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678803120/2875/
 - Dienstag, 14. März 2023 15:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678803840/922/
@@ -42,7 +41,5 @@
 - Dienstag, 14. März 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678805280/2875/
 - Dienstag, 14. März 2023 16:00 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678806000/2875/
 - Dienstag, 14. März 2023 16:12 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678806720/2875/
-- Dienstag, 14. März 2023 16:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678807440/922/
-- Dienstag, 14. März 2023 16:48 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678808880/2875/
 - Dienstag, 14. März 2023 17:24 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678811040/2875/
-- Dienstag, 14. März 2023 17:36 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678811760/2875/
+- Dienstag, 14. März 2023 17:48 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678812480/922/
