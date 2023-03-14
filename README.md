@@ -6,8 +6,4 @@
 - Mittwoch, 15. März 2023 09:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1678867200/168/
 - Mittwoch, 15. März 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678867200/2863/
 - Mittwoch, 15. März 2023 09:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678867920/2863/
-- Mittwoch, 15. März 2023 09:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1678868640/172/
 - Mittwoch, 15. März 2023 09:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678869360/2863/
-- Mittwoch, 15. März 2023 11:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678875120/2863/
-- Donnerstag, 16. März 2023 16:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678981680/2914/
-- Donnerstag, 6. April 2023 16:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680791040/2848/
