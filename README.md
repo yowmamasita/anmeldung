@@ -12,7 +12,6 @@
 - Mittwoch, 15. März 2023 09:06 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678867560/2887/
 - Mittwoch, 15. März 2023 09:18 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678868280/2887/
 - Mittwoch, 15. März 2023 09:30 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678869000/2887/
-- Mittwoch, 15. März 2023 09:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678869360/2863/
 - Mittwoch, 15. März 2023 09:42 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678869720/2887/
 - Mittwoch, 15. März 2023 09:54 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678870440/2887/
 - Mittwoch, 15. März 2023 10:06 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678871160/2887/
@@ -36,4 +35,3 @@
 - Mittwoch, 15. März 2023 13:42 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678884120/2887/
 - Mittwoch, 15. März 2023 13:54 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678884840/2887/
 - Mittwoch, 15. März 2023 14:06 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678885560/2887/
-- Mittwoch, 15. März 2023 14:18 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678886280/2887/
