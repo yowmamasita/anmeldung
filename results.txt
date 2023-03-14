@@ -1,18 +1,7 @@
 - Dienstag, 14. März 2023 10:36 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1678786560/135/
 - Dienstag, 14. März 2023 10:48 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1678787280/135/
-- Dienstag, 14. März 2023 11:12 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1678788720/135/
 - Dienstag, 14. März 2023 11:24 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1678789440/135/
-- Dienstag, 14. März 2023 11:36 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1678790160/135/
 - Dienstag, 14. März 2023 12:24 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1678793040/135/
-- Dienstag, 14. März 2023 12:36 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1678793760/135/
-- Dienstag, 14. März 2023 13:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1678797360/106/
-- Dienstag, 14. März 2023 13:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1678798080/106/
-- Dienstag, 14. März 2023 14:12 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1678799520/135/
-- Dienstag, 14. März 2023 14:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1678800240/106/
-- Dienstag, 14. März 2023 14:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1678800960/106/
-- Dienstag, 14. März 2023  Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1678800960/135/
-- Dienstag, 14. März 2023 14:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1678801680/106/
-- Dienstag, 14. März 2023  Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1678801680/135/
+- Dienstag, 14. März 2023 14:36 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1678800960/135/
+- Dienstag, 14. März 2023 14:48 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1678801680/135/
 - Dienstag, 14. März 2023 15:24 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1678803840/135/
-- Dienstag, 14. März 2023 16:24 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1678807440/135/
-- Dienstag, 14. März 2023 16:48 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1678808880/135/
