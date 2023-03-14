@@ -1,7 +1,0 @@
-- Dienstag, 14. März 2023 14:36 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678800960/898/
-- Dienstag, 14. März 2023 14:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1678801680/136/
-- Dienstag, 14. März 2023 16:36 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678808160/2866/
-- Donnerstag, 16. März 2023 13:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678969440/2887/
-- Donnerstag, 16. März 2023 13:48 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678970880/2893/
-- Freitag, 17. März 2023 10:06 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679043960/109/
-- Donnerstag, 23. März 2023 17:45 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1679589900/380/
