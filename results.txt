@@ -1,8 +1,0 @@
-- Mittwoch, 15. März 2023 09:20 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678868400/2878/
-- Mittwoch, 15. März 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1678868400/150/
-- Mittwoch, 15. März 2023 09:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1678868640/169/
-- Mittwoch, 15. März 2023 09:54 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678870440/922/
-- Mittwoch, 15. März 2023 12:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1678880880/170/
-- Donnerstag, 16. März 2023 10:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678958640/2887/
-- Donnerstag, 16. März 2023 11:00 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678960800/2887/
-- Donnerstag, 16. März 2023 16:20 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678980000/2923/
