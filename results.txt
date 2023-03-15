@@ -1,6 +1,1 @@
-- Donnerstag, 16. März 2023 17:00 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678982400/847/
-- Freitag, 17. März 2023 08:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1679038920/312/
-- Freitag, 17. März 2023 09:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1679042880/167/
-- Freitag, 17. März 2023 11:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1679047920/167/
-- Freitag, 17. März 2023 11:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1679048640/167/
-- Montag, 3. April 2023 13:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680521040/2872/
+- Donnerstag, 16. März 2023 11:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678963680/2857/
