@@ -31,8 +31,7 @@
 - Mittwoch, 15. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678866840/922/
 - Mittwoch, 15. März 2023 09:00 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678867200/2920/
 - Mittwoch, 15. März 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1678867200/167/
-- Mittwoch, 15. März 2023 09:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1678867560/313/
-- Mittwoch, 15. März 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678867560/904/
+- Mittwoch, 15. März 2023 09:06 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678867560/904/
 - Mittwoch, 15. März 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1678867560/191/
 - Mittwoch, 15. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678867560/922/
 - Mittwoch, 15. März 2023 09:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1678867920/167/
@@ -50,7 +49,6 @@
 - Mittwoch, 15. März 2023 09:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1678870440/313/
 - Mittwoch, 15. März 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678870440/904/
 - Mittwoch, 15. März 2023 10:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1678870800/167/
-- Mittwoch, 15. März 2023 10:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1678871160/313/
 - Mittwoch, 15. März 2023 10:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1678871520/167/
 - Mittwoch, 15. März 2023 10:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1678871880/313/
 - Mittwoch, 15. März 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678871880/904/
@@ -74,4 +72,4 @@
 - Mittwoch, 15. März 2023 12:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1678879440/167/
 - Mittwoch, 15. März 2023 12:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1678880160/167/
 - Mittwoch, 15. März 2023 13:30 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678883400/904/
-- Mittwoch, 15. März 2023 13:42 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678884120/904/
+- Mittwoch, 5. April 2023 08:36 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1680676560/102/
