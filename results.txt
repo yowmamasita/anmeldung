@@ -1,6 +1,1 @@
-- Donnerstag, 16. März 2023 08:54 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1678953240/133/
-- Donnerstag, 16. März 2023 09:06 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1678953960/133/
-- Donnerstag, 16. März 2023 09:18 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1678954680/133/
-- Donnerstag, 16. März 2023 10:18 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1678958280/133/
-- Donnerstag, 16. März 2023 13:42 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1678970520/133/
-- Donnerstag, 16. März 2023 13:54 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1678971240/133/
+- Donnerstag, 16. März 2023 16:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1678980240/109/
