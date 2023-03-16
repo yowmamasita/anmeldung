@@ -5,4 +5,3 @@
 - Mittwoch, 22. März 2023 09:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1679474520/312/
 - Mittwoch, 22. März 2023 10:00 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1679475600/147/
 - Mittwoch, 29. März 2023 12:48 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680086880/2920/
-- Donnerstag, 20. April 2023 16:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682000640/168/
