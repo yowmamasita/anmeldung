@@ -1,10 +1,4 @@
 - Donnerstag, 16. März 2023 10:12 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1678957920/135/
-- Donnerstag, 16. März 2023 10:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1678958640/146/
+- Donnerstag, 16. März 2023 10:24 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1678958640/135/
 - Donnerstag, 16. März 2023 10:36 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1678959360/135/
-- Donnerstag, 16. März 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1678959360/192/
-- Donnerstag, 16. März 2023 10:48 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1678960080/135/
-- Donnerstag, 16. März 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1678960080/146/
-- Donnerstag, 16. März 2023 11:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1678960800/146/
-- Donnerstag, 16. März 2023 11:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1678961520/146/
-- Donnerstag, 16. März 2023 11:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1678962240/146/
-- Donnerstag, 16. März 2023 13:00 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1678968000/135/
+- Donnerstag, 16. März 2023 10:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1678960080/146/
