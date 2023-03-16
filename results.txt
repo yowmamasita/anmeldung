@@ -1,12 +1,2 @@
-- Donnerstag, 16. März 2023 10:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678959360/922/
-- Donnerstag, 16. März 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1678959360/172/
-- Donnerstag, 16. März 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1678959360/192/
+- Donnerstag, 16. März 2023 10:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1678959360/192/
 - Donnerstag, 16. März 2023 11:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1678960800/192/
-- Donnerstag, 16. März 2023 11:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1678962240/231/
-- Donnerstag, 16. März 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678962240/2863/
-- Donnerstag, 16. März 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1678962240/192/
-- Donnerstag, 16. März 2023 12:36 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678966560/2911/
-- Donnerstag, 16. März 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678966560/2863/
-- Donnerstag, 16. März 2023 13:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1678970880/170/
-- Donnerstag, 27. April 2023 12:10 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682590200/2878/
-- Donnerstag, 27. April 2023 12:20 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682590800/2878/
