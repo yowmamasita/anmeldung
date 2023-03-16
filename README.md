@@ -6,7 +6,3 @@
 - Donnerstag, 16. März 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678962960/2854/
 - Donnerstag, 16. März 2023 11:40 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678963200/2923/
 - Donnerstag, 16. März 2023 11:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678963800/2923/
-- Donnerstag, 16. März 2023 12:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1678964400/167/
-- Donnerstag, 16. März 2023 12:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1678965120/167/
-- Donnerstag, 16. März 2023 12:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1678966560/167/
-- Donnerstag, 16. März 2023 13:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1678970880/167/
