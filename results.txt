@@ -1,9 +1,3 @@
-- Donnerstag, 16. März 2023 13:12 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1678968720/102/
-- Donnerstag, 16. März 2023 14:36 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1678973760/102/
-- Donnerstag, 16. März 2023 14:48 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1678974480/102/
-- Donnerstag, 16. März 2023 15:12 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1678975920/102/
-- Donnerstag, 16. März 2023 15:24 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1678976640/102/
-- Donnerstag, 16. März 2023 15:36 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1678977360/102/
-- Donnerstag, 16. März 2023 15:48 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1678978080/102/
-- Donnerstag, 16. März 2023 16:24 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1678980240/102/
-- Donnerstag, 16. März 2023 17:24 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1678983840/102/
+- Donnerstag, 16. März 2023 13:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678968720/2872/
+- Donnerstag, 16. März 2023 13:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678969440/2872/
+- Donnerstag, 16. März 2023 13:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1678970160/2872/
