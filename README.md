@@ -4,4 +4,4 @@
 - Freitag, 17. März 2023 11:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1679050440/135/
 - Freitag, 17. März 2023 12:18 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1679051880/135/
 - Freitag, 17. März 2023 12:30 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1679052600/135/
-- Freitag, 17. März 2023 12:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1679053320/135/
+- Freitag, 17. März 2023 13:00 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679054400/143/
