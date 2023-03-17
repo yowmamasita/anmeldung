@@ -9,9 +9,7 @@
 - Freitag, 17. März 2023 08:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1679039280/168/
 - Freitag, 17. März 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679039280/2863/
 - Freitag, 17. März 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1679039280/192/
-- Freitag, 17. März 2023 09:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1679040000/168/
-- Freitag, 17. März 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679040000/2863/
-- Freitag, 17. März 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1679040000/192/
+- Freitag, 17. März 2023 09:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679040000/2863/
 - Freitag, 17. März 2023 09:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1679040720/168/
 - Freitag, 17. März 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679040720/2863/
 - Freitag, 17. März 2023 09:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679041440/2863/
@@ -19,18 +17,11 @@
 - Freitag, 17. März 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679042160/2863/
 - Freitag, 17. März 2023 09:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679042880/2863/
 - Freitag, 17. März 2023 10:12 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679044320/2860/
-- Freitag, 17. März 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1679044320/168/
 - Freitag, 17. März 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1679044320/192/
 - Freitag, 17. März 2023 10:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1679045040/192/
-- Freitag, 17. März 2023 10:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1679045760/168/
-- Freitag, 17. März 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1679045760/192/
-- Freitag, 17. März 2023 10:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1679046480/169/
-- Freitag, 17. März 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1679046480/192/
-- Freitag, 17. März 2023 11:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1679047200/192/
-- Freitag, 17. März 2023 11:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1679047920/192/
+- Freitag, 17. März 2023 10:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1679045760/192/
+- Freitag, 17. März 2023 10:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1679046480/192/
+- Freitag, 17. März 2023 11:12 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679047920/922/
+- Freitag, 17. März 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1679047920/192/
 - Freitag, 17. März 2023 11:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1679048640/192/
 - Freitag, 17. März 2023 11:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1679049360/168/
-- Freitag, 17. März 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1679049360/192/
-- Freitag, 17. März 2023 11:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1679050080/192/
-- Freitag, 17. März 2023 12:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1679052240/169/
-- Freitag, 17. März 2023 12:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1679052960/168/
