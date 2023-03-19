@@ -3,4 +3,3 @@
 - Montag, 20. März 2023 09:48 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679302080/2839/
 - Montag, 20. März 2023 12:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1679311200/150/
 - Montag, 20. März 2023 13:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679315040/143/
-- Mittwoch, 22. März 2023 12:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1679485320/136/
