@@ -1,19 +1,15 @@
-- Montag, 20. März 2023 11:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1679307480/112/
-- Montag, 20. März 2023 11:30 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1679308200/112/
+- Montag, 20. März 2023 09:48 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679302080/922/
+- Montag, 20. März 2023 10:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1679303880/112/
+- Montag, 20. März 2023 11:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1679307840/169/
 - Montag, 20. März 2023 11:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1679308920/112/
-- Montag, 20. März 2023 11:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1679309640/112/
-- Montag, 20. März 2023 12:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1679310000/167/
+- Montag, 20. März 2023 12:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1679310000/169/
 - Montag, 20. März 2023 12:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1679310720/167/
-- Montag, 20. März 2023 12:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1679311440/167/
+- Montag, 20. März 2023 12:20 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679311200/2878/
 - Montag, 20. März 2023 12:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1679312160/167/
-- Montag, 20. März 2023 12:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1679312520/112/
-- Montag, 20. März 2023 12:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1679312880/167/
-- Montag, 20. März 2023 13:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1679313600/167/
-- Montag, 20. März 2023 13:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1679314320/167/
+- Montag, 20. März 2023 12:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1679312880/169/
+- Montag, 20. März 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1679312880/167/
 - Montag, 20. März 2023 13:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1679315040/167/
-- Montag, 20. März 2023 13:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1679315760/167/
 - Montag, 20. März 2023 13:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1679316480/167/
-- Montag, 20. März 2023 14:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1679317200/167/
-- Montag, 20. März 2023 14:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1679317920/167/
-- Montag, 20. März 2023 14:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1679318640/167/
-- Montag, 20. März 2023 14:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1679319360/167/
+- Montag, 20. März 2023 14:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1679317920/169/
+- Montag, 20. März 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1679317920/167/
+- Freitag, 14. April 2023 10:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1681462080/381/
