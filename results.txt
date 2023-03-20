@@ -1,12 +1,12 @@
-- Montag, 20. März 2023 12:42 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1679312520/133/
-- Montag, 20. März 2023 13:30 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1679315400/133/
-- Montag, 20. März 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1679315400/313/
+- Montag, 20. März 2023 08:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1679298840/112/
+- Montag, 20. März 2023 09:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1679299920/170/
+- Montag, 20. März 2023 09:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1679301360/170/
+- Montag, 20. März 2023 10:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1679303520/231/
+- Montag, 20. März 2023 13:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1679314320/170/
 - Montag, 20. März 2023 13:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1679316120/313/
 - Montag, 20. März 2023 13:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1679316840/313/
-- Montag, 20. März 2023 14:06 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1679317560/133/
-- Montag, 20. März 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1679317560/313/
-- Montag, 20. März 2023 14:18 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1679318280/133/
-- Montag, 20. März 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1679318280/313/
-- Montag, 20. März 2023 14:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1679319000/313/
-- Montag, 20. März 2023 14:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1679319720/313/
-- Montag, 20. März 2023 15:06 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1679321160/135/
+- Montag, 20. März 2023 14:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1679317560/313/
+- Montag, 20. März 2023 14:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1679318280/112/
+- Montag, 20. März 2023 14:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1679318640/170/
+- Montag, 20. März 2023 14:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1679319720/135/
+- Montag, 20. März 2023 15:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1679321400/150/
