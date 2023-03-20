@@ -5,7 +5,8 @@
 - Montag, 20. März 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679297400/844/
 - Montag, 20. März 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1679297400/313/
 - Montag, 20. März 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679297400/2884/
-- Montag, 20. März 2023 08:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679297760/2845/
+- Montag, 20. März 2023 08:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1679297760/106/
+- Montag, 20. März 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679297760/2845/
 - Montag, 20. März 2023  Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679297760/2920/
 - Montag, 20. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679297760/922/
 - Montag, 20. März 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1679297760/192/
@@ -13,13 +14,8 @@
 - Montag, 20. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679298480/922/
 - Montag, 20. März 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1679298480/192/
 - Montag, 20. März 2023 09:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679299200/2845/
-- Montag, 20. März 2023 09:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679299920/2845/
 - Montag, 20. März 2023 09:48 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679302080/922/
-- Montag, 20. März 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1679302080/192/
 - Montag, 20. März 2023 10:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1679303520/192/
 - Montag, 20. März 2023 10:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1679304240/192/
 - Montag, 20. März 2023 10:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679304960/922/
 - Montag, 20. März 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1679304960/192/
-- Montag, 20. März 2023 11:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679306400/2836/
-- Montag, 20. März 2023 11:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1679307120/192/
-- Montag, 20. März 2023 11:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1679309280/192/
