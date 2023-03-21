@@ -5,4 +5,3 @@
 - Dienstag, 21. März 2023 15:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1679410080/172/
 - Dienstag, 21. März 2023 16:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1679410800/172/
 - Dienstag, 21. März 2023 16:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1679411520/172/
-- Dienstag, 21. März 2023 16:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1679413680/172/
