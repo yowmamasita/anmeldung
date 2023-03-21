@@ -4,11 +4,7 @@
 - Dienstag, 21. März 2023 10:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679389920/109/
 - Dienstag, 21. März 2023 10:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679391360/109/
 - Dienstag, 21. März 2023 10:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679392080/109/
-- Dienstag, 21. März 2023 11:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679393520/109/
-- Dienstag, 21. März 2023 11:24 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679394240/898/
-- Dienstag, 21. März 2023 11:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679394960/109/
-- Dienstag, 21. März 2023 11:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679395680/109/
-- Mittwoch, 22. März 2023 10:06 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679475960/904/
+- Dienstag, 21. März 2023 14:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679405760/109/
 - Freitag, 24. März 2023 09:00 Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1679644800/189/
 - Freitag, 24. März 2023 09:10 Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1679645400/189/
 - Freitag, 24. März 2023 09:20 Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1679646000/189/
