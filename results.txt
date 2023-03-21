@@ -1,5 +1,3 @@
-- Dienstag, 21. März 2023 10:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679389920/109/
-- Freitag, 24. März 2023 09:00 Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1679644800/189/
 - Freitag, 24. März 2023 09:10 Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1679645400/189/
 - Freitag, 24. März 2023 09:20 Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1679646000/189/
 - Freitag, 24. März 2023 09:30 Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1679646600/189/
@@ -15,5 +13,3 @@
 - Freitag, 24. März 2023 11:10 Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1679652600/189/
 - Freitag, 24. März 2023 11:20 Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1679653200/189/
 - Freitag, 24. März 2023 11:30 Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1679653800/189/
-- Freitag, 24. März 2023 11:40 Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1679654400/189/
-- Freitag, 24. März 2023 11:50 Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1679655000/189/
