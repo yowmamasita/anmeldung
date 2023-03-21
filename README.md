@@ -4,11 +4,5 @@
 - Dienstag, 21. März 2023 10:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679390640/922/
 - Dienstag, 21. März 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1679390640/192/
 - Dienstag, 21. März 2023 10:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679391360/922/
-- Dienstag, 21. März 2023 10:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1679392080/112/
-- Dienstag, 21. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679392080/922/
-- Dienstag, 21. März 2023 11:00 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1679392800/112/
-- Dienstag, 21. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679392800/922/
-- Dienstag, 21. März 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1679392800/192/
-- Dienstag, 21. März 2023 11:12 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679393520/922/
-- Dienstag, 21. März 2023 11:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679394240/922/
-- Dienstag, 21. März 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1679394240/192/
+- Dienstag, 21. März 2023 10:48 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679392080/922/
+- Dienstag, 21. März 2023 11:00 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679392800/922/
