@@ -1,5 +1,7 @@
-- Dienstag, 21. März 2023 15:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1679408640/172/
-- Dienstag, 21. März 2023 15:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1679409360/172/
+- Dienstag, 21. März 2023 15:36 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679409360/2911/
+- Dienstag, 21. März 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679409360/2899/
 - Dienstag, 21. März 2023 15:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1679410080/172/
-- Dienstag, 21. März 2023 16:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1679410800/172/
-- Dienstag, 21. März 2023 16:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1679411520/172/
+- Dienstag, 21. März 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679410080/2899/
+- Dienstag, 21. März 2023 16:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679410800/2899/
+- Dienstag, 21. März 2023 16:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679411520/2899/
+- Donnerstag, 23. März 2023 15:00 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679580000/2887/
