@@ -4,20 +4,10 @@
 - Mittwoch, 22. März 2023 09:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679473440/2845/
 - Mittwoch, 22. März 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679473440/2896/
 - Mittwoch, 22. März 2023 09:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1679474160/106/
-- Mittwoch, 22. März 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1679474160/154/
-- Mittwoch, 22. März 2023 09:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1679474880/106/
-- Mittwoch, 22. März 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679474880/2845/
-- Mittwoch, 22. März 2023 10:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679475600/2845/
-- Mittwoch, 22. März 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1679475600/102/
+- Mittwoch, 22. März 2023 09:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679474880/2845/
 - Mittwoch, 22. März 2023 10:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679476320/2845/
 - Mittwoch, 22. März 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1679476320/169/
-- Mittwoch, 22. März 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1679476320/102/
 - Mittwoch, 22. März 2023 10:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1679477760/106/
-- Mittwoch, 22. März 2023 10:42 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1679478120/192/
 - Mittwoch, 22. März 2023 10:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1679478480/154/
-- Mittwoch, 22. März 2023 12:18 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1679483880/192/
-- Donnerstag, 23. März 2023 14:00 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679576400/2932/
-- Freitag, 24. März 2023 08:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1679642640/154/
-- Mittwoch, 29. März 2023 08:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680070320/2863/
-- Donnerstag, 20. April 2023 12:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681985400/150/
+- Dienstag, 25. April 2023 16:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682432640/2863/
 - Mittwoch, 26. April 2023 09:18 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682493480/2926/
