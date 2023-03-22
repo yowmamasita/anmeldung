@@ -16,13 +16,16 @@
 - Mittwoch, 22. März 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1679469480/192/
 - Mittwoch, 22. März 2023 08:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1679469600/147/
 - Mittwoch, 22. März 2023  Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679469600/2923/
+- Mittwoch, 22. März 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679469600/2884/
 - Mittwoch, 22. März 2023 08:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1679469840/106/
 - Mittwoch, 22. März 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679469840/2845/
 - Mittwoch, 22. März 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1679469840/169/
 - Mittwoch, 22. März 2023  Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679469840/2920/
 - Mittwoch, 22. März 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679469840/3238/
+- Mittwoch, 22. März 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679469840/2872/
 - Mittwoch, 22. März 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1679469840/146/
 - Mittwoch, 22. März 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679469840/2938/
+- Mittwoch, 22. März 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1679469840/145/
 - Mittwoch, 22. März 2023 08:30 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679470200/2911/
 - Mittwoch, 22. März 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1679470200/112/
 - Mittwoch, 22. März 2023  Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679470200/2923/
@@ -36,8 +39,3 @@
 - Mittwoch, 22. März 2023 09:00 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679472000/2839/
 - Mittwoch, 22. März 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679472000/2863/
 - Mittwoch, 22. März 2023 09:06 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679472360/922/
-- Mittwoch, 22. März 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1679472360/192/
-- Mittwoch, 22. März 2023 09:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679472720/2845/
-- Mittwoch, 22. März 2023 09:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679474160/2845/
-- Mittwoch, 22. März 2023 10:24 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679477040/2866/
-- Mittwoch, 22. März 2023 11:54 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679482440/922/
