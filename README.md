@@ -12,8 +12,7 @@
 - Mittwoch, 22. März 2023 08:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1679470920/313/
 - Mittwoch, 22. März 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1679470920/192/
 - Mittwoch, 22. März 2023 08:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1679471640/313/
-- Mittwoch, 22. März 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1679471640/192/
-- Mittwoch, 22. März 2023 09:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1679473440/170/
+- Mittwoch, 22. März 2023 09:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1679472720/170/
 - Mittwoch, 22. März 2023 09:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1679473800/313/
 - Mittwoch, 22. März 2023 09:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1679474160/170/
 - Mittwoch, 22. März 2023 09:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1679474520/313/
@@ -53,4 +52,3 @@
 - Mittwoch, 22. März 2023 13:18 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1679487480/312/
 - Mittwoch, 22. März 2023 13:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1679488200/312/
 - Mittwoch, 22. März 2023 13:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1679488920/312/
-- Mittwoch, 22. März 2023 13:54 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1679489640/312/
