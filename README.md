@@ -13,8 +13,7 @@
 - Mittwoch, 22. März 2023 09:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1679473440/170/
 - Mittwoch, 22. März 2023 09:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1679474160/146/
 - Mittwoch, 22. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1679474160/170/
-- Mittwoch, 22. März 2023 09:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1679474880/146/
-- Mittwoch, 22. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1679474880/170/
+- Mittwoch, 22. März 2023 09:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1679474880/170/
 - Mittwoch, 22. März 2023 10:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1679476320/170/
 - Mittwoch, 22. März 2023 10:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1679477040/146/
 - Mittwoch, 22. März 2023 10:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1679477760/146/
@@ -31,6 +30,4 @@
 - Mittwoch, 22. März 2023 12:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1679484240/170/
 - Mittwoch, 22. März 2023 12:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1679484960/146/
 - Mittwoch, 22. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1679484960/170/
-- Mittwoch, 22. März 2023 12:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1679485680/146/
 - Mittwoch, 22. März 2023 14:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1679490720/146/
-- Mittwoch, 22. März 2023 14:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1679491440/146/
