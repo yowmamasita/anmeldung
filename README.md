@@ -6,11 +6,11 @@
 - Mittwoch, 22. März 2023 08:06 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679468760/922/
 - Mittwoch, 22. März 2023 08:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679469120/3238/
 - Mittwoch, 22. März 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679469120/2851/
-- Mittwoch, 22. März 2023 08:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1679469480/313/
-- Mittwoch, 22. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679469480/922/
+- Mittwoch, 22. März 2023 08:18 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679469480/922/
 - Mittwoch, 22. März 2023 08:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679469840/3238/
 - Mittwoch, 22. März 2023 08:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1679470200/313/
 - Mittwoch, 22. März 2023 08:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679470560/3238/
+- Mittwoch, 22. März 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1679470560/146/
 - Mittwoch, 22. März 2023 08:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679471280/3238/
 - Mittwoch, 22. März 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1679471280/146/
 - Mittwoch, 22. März 2023 08:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679471640/2914/
@@ -20,12 +20,10 @@
 - Mittwoch, 22. März 2023 09:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679472360/2914/
 - Mittwoch, 22. März 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1679472360/112/
 - Mittwoch, 22. März 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1679472360/312/
-- Mittwoch, 22. März 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1679472360/192/
 - Mittwoch, 22. März 2023 09:10 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679472600/2884/
 - Mittwoch, 22. März 2023 09:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1679473440/169/
 - Mittwoch, 22. März 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679473440/3238/
-- Mittwoch, 22. März 2023 09:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679473800/109/
-- Mittwoch, 22. März 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1679473800/312/
+- Mittwoch, 22. März 2023 09:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1679473800/312/
 - Mittwoch, 22. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679473800/922/
 - Mittwoch, 22. März 2023 09:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679474160/3238/
 - Mittwoch, 22. März 2023 09:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679474520/2914/
@@ -37,19 +35,16 @@
 - Mittwoch, 22. März 2023 10:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679475600/3238/
 - Mittwoch, 22. März 2023 10:06 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1679475960/112/
 - Mittwoch, 22. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679475960/922/
-- Mittwoch, 22. März 2023 10:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679476320/3238/
 - Mittwoch, 22. März 2023 10:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1679476680/112/
 - Mittwoch, 22. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679476680/922/
 - Mittwoch, 22. März 2023 10:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679477040/3238/
-- Mittwoch, 22. März 2023 10:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679477400/109/
-- Mittwoch, 22. März 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1679477400/312/
+- Mittwoch, 22. März 2023 10:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1679477400/312/
 - Mittwoch, 22. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679477400/922/
 - Mittwoch, 22. März 2023 10:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679477760/3238/
 - Mittwoch, 22. März 2023 10:42 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679478120/922/
 - Mittwoch, 22. März 2023 10:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679478480/3238/
 - Mittwoch, 22. März 2023 10:54 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679478840/922/
-- Mittwoch, 22. März 2023 11:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679479200/3238/
-- Mittwoch, 22. März 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679479200/2896/
+- Mittwoch, 22. März 2023 11:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679479200/2896/
 - Mittwoch, 22. März 2023 11:06 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679479560/922/
 - Mittwoch, 22. März 2023 11:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679479920/2896/
 - Mittwoch, 22. März 2023 11:18 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679480280/922/
@@ -60,17 +55,15 @@
 - Mittwoch, 22. März 2023 11:54 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1679482440/312/
 - Mittwoch, 22. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679482440/922/
 - Mittwoch, 22. März 2023 12:06 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1679483160/112/
-- Mittwoch, 22. März 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1679483160/312/
 - Mittwoch, 22. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679483160/922/
 - Mittwoch, 22. März 2023 12:18 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679483880/922/
 - Mittwoch, 22. März 2023 12:30 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679484600/922/
 - Mittwoch, 22. März 2023 12:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1679485320/312/
 - Mittwoch, 22. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679485320/922/
 - Mittwoch, 22. März 2023 12:54 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679486040/922/
-- Mittwoch, 22. März 2023 13:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1679486760/313/
-- Mittwoch, 22. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679486760/922/
+- Mittwoch, 22. März 2023 13:06 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679486760/922/
 - Mittwoch, 22. März 2023 13:18 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679487480/922/
 - Mittwoch, 22. März 2023 13:30 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679488200/922/
 - Mittwoch, 22. März 2023 13:42 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679488920/922/
 - Mittwoch, 22. März 2023 13:54 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679489640/922/
-- Mittwoch, 22. März 2023 14:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679490720/2851/
+- Mittwoch, 22. März 2023 14:18 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679491080/922/
