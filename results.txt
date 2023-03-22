@@ -1,6 +1,2 @@
-- Mittwoch, 22. März 2023 10:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1679476320/167/
-- Mittwoch, 22. März 2023 10:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1679477040/167/
 - Mittwoch, 22. März 2023 10:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1679477760/167/
-- Mittwoch, 22. März 2023 10:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1679478480/167/
-- Mittwoch, 22. März 2023 11:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1679479200/167/
-- Mittwoch, 22. März 2023 11:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1679479920/167/
+- Mittwoch, 22. März 2023 10:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679478480/2863/
