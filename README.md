@@ -17,8 +17,7 @@
 - Donnerstag, 23. März 2023 12:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679570640/922/
 - Donnerstag, 23. März 2023 12:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679571360/922/
 - Donnerstag, 23. März 2023 12:48 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679572080/922/
-- Donnerstag, 23. März 2023 13:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679572800/2845/
-- Donnerstag, 23. März 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679572800/2911/
+- Donnerstag, 23. März 2023 13:00 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679572800/2911/
 - Donnerstag, 23. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679572800/922/
 - Donnerstag, 23. März 2023 13:06 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679573160/2839/
 - Donnerstag, 23. März 2023 13:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679573520/2845/
@@ -40,9 +39,9 @@
 - Donnerstag, 23. März 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1679579280/313/
 - Donnerstag, 23. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679579280/922/
 - Donnerstag, 23. März 2023 15:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679580000/2845/
+- Donnerstag, 23. März 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1679580000/313/
 - Donnerstag, 23. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679580000/922/
 - Donnerstag, 23. März 2023 15:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679580720/2845/
-- Donnerstag, 23. März 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1679580720/313/
 - Donnerstag, 23. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679580720/922/
 - Donnerstag, 23. März 2023 15:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679581440/2845/
 - Donnerstag, 23. März 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1679581440/313/
@@ -52,8 +51,7 @@
 - Donnerstag, 23. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679582160/922/
 - Donnerstag, 23. März 2023 15:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679582880/2845/
 - Donnerstag, 23. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679582880/922/
-- Donnerstag, 23. März 2023 16:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679583600/2845/
-- Donnerstag, 23. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679583600/922/
+- Donnerstag, 23. März 2023 16:00 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679583600/922/
 - Donnerstag, 23. März 2023 16:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679584320/2845/
 - Donnerstag, 23. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679584320/922/
 - Donnerstag, 23. März 2023 16:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679585040/2845/
@@ -61,9 +59,5 @@
 - Donnerstag, 23. März 2023 16:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679585760/2845/
 - Donnerstag, 23. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679585760/922/
 - Donnerstag, 23. März 2023 16:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679586480/2845/
-- Donnerstag, 23. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679586480/922/
-- Donnerstag, 23. März 2023 17:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679587200/2845/
-- Donnerstag, 23. März 2023 17:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679587920/2845/
 - Donnerstag, 23. März 2023 17:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679588640/2845/
 - Donnerstag, 23. März 2023 17:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679589360/2845/
-- Donnerstag, 23. März 2023 17:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679590080/2845/
