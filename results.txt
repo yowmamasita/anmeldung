@@ -1,2 +1,8 @@
-- Freitag, 24. März 2023 10:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679649120/2863/
-- Freitag, 24. März 2023 10:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679649840/2863/
+- Freitag, 24. März 2023 09:06 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1679645160/312/
+- Freitag, 24. März 2023 09:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679646240/922/
+- Freitag, 24. März 2023 10:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679649120/2899/
+- Freitag, 24. März 2023 12:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679656320/2851/
+- Freitag, 24. März 2023 12:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679657040/2851/
+- Freitag, 24. März 2023 12:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1679657760/168/
+- Freitag, 24. März 2023 13:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679659200/2851/
+- Donnerstag, 20. April 2023 10:18 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681978680/2836/
