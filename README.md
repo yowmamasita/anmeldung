@@ -1,5 +1,6 @@
 # List of available Anmeldung appointments as of $NOW
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122254,122252,329742,122260,329745,122262,329748,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,317869,122281,327352,122279,329772,122283,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
+- Sonntag, 26. März 2023 06:00 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679803200/109/
 - Sonntag, 26. März 2023 06:06 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679803560/109/
 - Sonntag, 26. März 2023 06:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679803920/109/
 - Sonntag, 26. März 2023 06:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679804280/109/
@@ -18,7 +19,6 @@
 - Sonntag, 26. März 2023 07:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679808960/109/
 - Sonntag, 26. März 2023 07:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679809320/109/
 - Sonntag, 26. März 2023 07:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679809680/109/
-- Sonntag, 26. März 2023 07:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679810040/109/
 - Sonntag, 26. März 2023 08:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679811120/109/
 - Sonntag, 26. März 2023 08:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679811480/109/
 - Sonntag, 26. März 2023 08:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679811840/109/
@@ -30,7 +30,6 @@
 - Sonntag, 26. März 2023 09:00 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679814000/109/
 - Sonntag, 26. März 2023 09:06 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679814360/109/
 - Sonntag, 26. März 2023 09:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679815080/109/
-- Sonntag, 26. März 2023 09:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679815440/109/
 - Sonntag, 26. März 2023 09:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679815800/109/
 - Sonntag, 26. März 2023 09:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679816160/109/
 - Sonntag, 26. März 2023 09:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679816520/109/
@@ -41,16 +40,12 @@
 - Sonntag, 26. März 2023 10:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679818680/109/
 - Sonntag, 26. März 2023 10:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679819040/109/
 - Sonntag, 26. März 2023 10:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679819760/109/
-- Sonntag, 26. März 2023 10:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679820120/109/
 - Sonntag, 26. März 2023 10:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679820480/109/
 - Sonntag, 26. März 2023 10:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679820840/109/
 - Sonntag, 26. März 2023 11:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679821920/109/
 - Sonntag, 26. März 2023 11:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679822280/109/
-- Sonntag, 26. März 2023 11:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679822640/109/
 - Sonntag, 26. März 2023 11:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679823360/109/
 - Sonntag, 26. März 2023 11:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679823720/109/
-- Sonntag, 26. März 2023 11:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679824080/109/
-- Sonntag, 26. März 2023 11:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679824440/109/
 - Sonntag, 26. März 2023 12:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679825880/109/
 - Sonntag, 26. März 2023 12:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679826240/109/
 - Sonntag, 26. März 2023 12:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679826600/109/
@@ -58,11 +53,9 @@
 - Sonntag, 26. März 2023 12:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679827320/109/
 - Sonntag, 26. März 2023 12:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679827680/109/
 - Sonntag, 26. März 2023 12:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679828040/109/
-- Sonntag, 26. März 2023 13:00 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679828400/109/
 - Sonntag, 26. März 2023 13:06 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679828760/109/
 - Sonntag, 26. März 2023 13:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679829120/109/
 - Sonntag, 26. März 2023 13:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679829480/109/
-- Sonntag, 26. März 2023 13:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679829840/109/
 - Sonntag, 26. März 2023 13:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679830200/109/
 - Sonntag, 26. März 2023 13:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679830560/109/
 - Sonntag, 26. März 2023 13:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679830920/109/
@@ -77,7 +70,6 @@
 - Sonntag, 26. März 2023 14:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679834520/109/
 - Sonntag, 26. März 2023 14:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679834880/109/
 - Sonntag, 26. März 2023 14:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679835240/109/
-- Sonntag, 26. März 2023 15:06 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679835960/109/
 - Sonntag, 26. März 2023 15:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679836320/109/
 - Sonntag, 26. März 2023 15:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679836680/109/
 - Sonntag, 26. März 2023 15:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679837040/109/
@@ -142,10 +134,10 @@
 - Sonntag, 26. März 2023 21:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679859720/109/
 - Sonntag, 26. März 2023 21:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679860080/109/
 - Sonntag, 26. März 2023 21:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679860440/109/
+- Sonntag, 26. März 2023 22:00 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679860800/109/
 - Sonntag, 26. März 2023 22:06 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679861160/109/
 - Sonntag, 26. März 2023 22:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679861520/109/
 - Sonntag, 26. März 2023 22:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679861880/109/
 - Sonntag, 26. März 2023 22:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679862240/109/
 - Sonntag, 26. März 2023 22:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679862600/109/
 - Sonntag, 26. März 2023 22:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679862960/109/
-- Sonntag, 26. März 2023 22:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1679863320/109/
