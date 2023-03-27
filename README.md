@@ -27,7 +27,6 @@
 - Montag, 27. März 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1679897880/313/
 - Montag, 27. März 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679897880/904/
 - Montag, 27. März 2023 08:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1679898000/147/
-- Montag, 27. März 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1679898000/150/
 - Montag, 27. März 2023 08:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1679898240/106/
 - Montag, 27. März 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679898240/2845/
 - Montag, 27. März 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679898240/2848/
@@ -90,7 +89,6 @@
 - Montag, 27. März 2023 10:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679904720/2863/
 - Montag, 27. März 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679904720/2866/
 - Montag, 27. März 2023 10:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679906160/922/
-- Montag, 27. März 2023 10:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1679907240/313/
 - Montag, 27. März 2023 11:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1679908320/170/
 - Montag, 27. März 2023 11:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1679909040/170/
 - Montag, 27. März 2023 11:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1679909760/190/
@@ -103,7 +101,6 @@
 - Montag, 27. März 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679913360/1018/
 - Montag, 27. März 2023 12:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679914080/2863/
 - Montag, 27. März 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679914080/1018/
-- Montag, 27. März 2023 13:00 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679914800/1018/
 - Montag, 27. März 2023 13:12 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679915520/1018/
 - Montag, 27. März 2023 13:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679916240/2863/
 - Montag, 27. März 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679916240/1018/
@@ -115,9 +112,5 @@
 - Montag, 27. März 2023 14:18 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679919480/898/
 - Montag, 27. März 2023 14:24 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679919840/1018/
 - Montag, 27. März 2023 14:30 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679920200/898/
-- Montag, 27. März 2023 14:54 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679921640/898/
-- Montag, 24. April 2023 10:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682323920/2872/
 - Montag, 24. April 2023 10:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682324640/2872/
 - Montag, 24. April 2023 10:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682325360/2872/
-- Montag, 24. April 2023 11:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682329680/2872/
-- Donnerstag, 27. April 2023 14:12 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682597520/904/
