@@ -6,9 +6,7 @@
 - Montag, 27. März 2023 09:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679901840/2857/
 - Montag, 27. März 2023 09:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1679902200/313/
 - Montag, 27. März 2023 09:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679902560/2857/
-- Montag, 27. März 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679902560/2887/
 - Montag, 27. März 2023 09:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679903280/2857/
 - Montag, 27. März 2023 10:00 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679904000/2941/
 - Montag, 27. März 2023 10:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679904600/2941/
-- Montag, 27. März 2023 11:40 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679910000/2941/
-- Mittwoch, 29. März 2023 08:18 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680070680/844/
+- Montag, 27. März 2023 10:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1679906880/192/
