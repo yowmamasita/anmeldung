@@ -1,11 +1,7 @@
 - Montag, 27. März 2023 12:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679912640/2851/
-- Montag, 27. März 2023 12:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679914080/2851/
-- Montag, 27. März 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679914080/2899/
 - Dienstag, 28. März 2023 10:36 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679992560/898/
-- Dienstag, 28. März 2023 11:00 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679994000/898/
 - Dienstag, 28. März 2023 11:12 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679994720/898/
 - Dienstag, 28. März 2023 11:24 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679995440/898/
-- Dienstag, 28. März 2023 12:24 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679999040/898/
 - Dienstag, 28. März 2023 12:36 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679999760/898/
 - Dienstag, 28. März 2023 13:00 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680001200/898/
 - Dienstag, 28. März 2023 13:12 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680001920/898/
@@ -21,9 +17,6 @@
 - Dienstag, 28. März 2023 15:24 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680009840/898/
 - Dienstag, 28. März 2023 15:36 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680010560/898/
 - Dienstag, 28. März 2023 15:48 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680011280/898/
-- Dienstag, 28. März 2023 16:12 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680012720/898/
-- Dienstag, 28. März 2023 16:24 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680013440/898/
+- Dienstag, 28. März 2023 16:36 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680014160/898/
 - Dienstag, 28. März 2023 16:48 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680014880/898/
-- Dienstag, 28. März 2023 17:00 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680015600/898/
 - Dienstag, 28. März 2023 17:12 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680016320/898/
-- Dienstag, 28. März 2023 17:24 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680017040/898/
