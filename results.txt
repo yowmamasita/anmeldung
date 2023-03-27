@@ -1,7 +1,4 @@
-- Montag, 27. März 2023 09:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679901840/2854/
 - Montag, 27. März 2023 09:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1679902200/313/
-- Montag, 27. März 2023 09:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1679902920/313/
-- Montag, 27. März 2023 09:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679903280/2854/
 - Montag, 27. März 2023 09:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1679903640/313/
-- Montag, 27. März 2023 11:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1679910840/313/
-- Montag, 27. März 2023 14:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679920560/2863/
+- Montag, 27. März 2023 13:00 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1679914800/2854/
+- Montag, 27. März 2023 15:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1679922360/313/
