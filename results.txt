@@ -1,6 +1,1 @@
-- Dienstag, 28. März 2023 14:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680005520/170/
-- Dienstag, 28. März 2023 15:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680009120/2848/
 - Dienstag, 28. März 2023 15:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680009840/2848/
-- Dienstag, 28. März 2023 15:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680010560/2848/
-- Dienstag, 28. März 2023 15:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680011280/2848/
-- Dienstag, 25. April 2023 14:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682424720/2872/
