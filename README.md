@@ -10,6 +10,7 @@
 - Mittwoch, 29. März 2023 09:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680075360/170/
 - Mittwoch, 29. März 2023 09:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680076080/170/
 - Mittwoch, 29. März 2023 10:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680077520/170/
+- Mittwoch, 29. März 2023 10:18 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1680077880/190/
 - Mittwoch, 29. März 2023 10:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680078960/170/
 - Mittwoch, 29. März 2023 10:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680079680/170/
 - Mittwoch, 29. März 2023 11:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680081840/170/
@@ -18,4 +19,3 @@
 - Mittwoch, 29. März 2023 12:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680084000/170/
 - Mittwoch, 29. März 2023 12:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680084720/170/
 - Mittwoch, 29. März 2023 13:18 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1680088680/190/
-- Mittwoch, 29. März 2023 13:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1680089400/191/
