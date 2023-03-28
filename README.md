@@ -28,6 +28,5 @@
 - Mittwoch, 29. März 2023 12:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1680084000/168/
 - Mittwoch, 29. März 2023 12:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1680084720/168/
 - Mittwoch, 29. März 2023 12:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1680085440/168/
-- Donnerstag, 30. März 2023 11:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680167880/2839/
 - Donnerstag, 30. März 2023 14:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680179040/2863/
 - Freitag, 31. März 2023 09:12 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680246720/2887/
