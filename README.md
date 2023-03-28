@@ -3,4 +3,3 @@
 - Mittwoch, 29. März 2023 08:20 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680070800/2923/
 - Mittwoch, 29. März 2023 08:30 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680071400/922/
 - Mittwoch, 29. März 2023 10:06 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680077160/922/
-- Mittwoch, 29. März 2023 12:42 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680086520/922/
