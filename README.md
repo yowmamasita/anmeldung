@@ -33,7 +33,6 @@
 - Mittwoch, 29. März 2023 10:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680078240/167/
 - Mittwoch, 29. März 2023 10:30 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680078600/2887/
 - Mittwoch, 29. März 2023 10:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680078960/167/
-- Mittwoch, 29. März 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1680078960/168/
 - Mittwoch, 29. März 2023 10:42 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680079320/2887/
 - Mittwoch, 29. März 2023 10:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680079680/167/
 - Mittwoch, 29. März 2023 10:54 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680080040/2887/
@@ -62,4 +61,3 @@
 - Mittwoch, 29. März 2023 13:54 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680090840/2887/
 - Mittwoch, 29. März 2023 14:06 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680091560/2887/
 - Mittwoch, 29. März 2023 14:18 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680092280/2887/
-- Donnerstag, 30. März 2023 17:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1680190560/168/
