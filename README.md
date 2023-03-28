@@ -29,7 +29,6 @@
 - Mittwoch, 29. März 2023 11:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1680082920/191/
 - Mittwoch, 29. März 2023 11:54 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680083640/2887/
 - Mittwoch, 29. März 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1680083640/191/
-- Mittwoch, 29. März 2023 12:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1680084360/191/
 - Mittwoch, 29. März 2023 12:18 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1680085080/190/
 - Mittwoch, 29. März 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1680085080/191/
 - Mittwoch, 29. März 2023 12:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1680085800/191/
