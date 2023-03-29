@@ -4,9 +4,6 @@
 - Mittwoch, 29. März 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680073920/2863/
 - Mittwoch, 29. März 2023 09:18 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680074280/2911/
 - Mittwoch, 29. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680074280/922/
-- Mittwoch, 29. März 2023 10:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680076800/2851/
-- Mittwoch, 29. März 2023 10:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680077520/2851/
 - Mittwoch, 29. März 2023 10:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680078240/2851/
 - Mittwoch, 29. März 2023 10:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680078960/2851/
-- Mittwoch, 29. März 2023 10:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680079680/2851/
-- Montag, 3. April 2023 17:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1680536160/154/
+- Dienstag, 4. April 2023 11:54 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1680602040/154/
