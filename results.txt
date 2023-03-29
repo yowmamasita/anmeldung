@@ -1,9 +1,11 @@
-- Mittwoch, 29. März 2023 09:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1680073920/169/
 - Mittwoch, 29. März 2023 09:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1680074640/169/
 - Mittwoch, 29. März 2023 09:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1680075360/169/
 - Mittwoch, 29. März 2023 09:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1680076080/169/
-- Mittwoch, 29. März 2023 10:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1680076800/169/
-- Mittwoch, 29. März 2023 10:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1680077520/169/
-- Mittwoch, 29. März 2023 10:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1680078240/169/
-- Mittwoch, 29. März 2023 10:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1680078960/169/
-- Mittwoch, 29. März 2023 11:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1680083280/169/
+- Mittwoch, 29. März 2023 10:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680076800/2845/
+- Mittwoch, 29. März 2023 10:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680077520/2845/
+- Mittwoch, 29. März 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1680077520/169/
+- Mittwoch, 29. März 2023 10:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680078240/2845/
+- Mittwoch, 29. März 2023 10:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680078960/2845/
+- Mittwoch, 29. März 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1680078960/169/
+- Mittwoch, 29. März 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680078960/2872/
+- Mittwoch, 29. März 2023 10:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680079680/2845/
