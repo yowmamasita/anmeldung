@@ -1,70 +1,39 @@
-- Mittwoch, 29. März 2023 08:00 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680069600/2854/
-- Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680069600/170/
-- Mittwoch, 29. März 2023 08:06 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680069960/922/
-- Mittwoch, 29. März 2023 08:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680070320/2896/
-- Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680070320/170/
+- Mittwoch, 29. März 2023 08:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680069600/170/
+- Mittwoch, 29. März 2023 08:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680070320/170/
 - Mittwoch, 29. März 2023 08:18 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680070680/922/
-- Mittwoch, 29. März 2023 08:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680071040/2854/
-- Mittwoch, 29. März 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680071040/2896/
-- Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680071040/170/
+- Mittwoch, 29. März 2023 08:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680071040/2896/
 - Mittwoch, 29. März 2023 08:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680071760/2896/
 - Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680071760/170/
-- Mittwoch, 29. März 2023 08:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680072480/2896/
-- Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680072480/170/
+- Mittwoch, 29. März 2023 08:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680072480/170/
 - Mittwoch, 29. März 2023 08:54 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680072840/922/
 - Mittwoch, 29. März 2023 09:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680073200/170/
-- Mittwoch, 29. März 2023 09:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1680073920/146/
-- Mittwoch, 29. März 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680073920/2896/
-- Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680073920/170/
-- Mittwoch, 29. März 2023 09:18 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680074280/922/
-- Mittwoch, 29. März 2023 09:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680074640/2896/
-- Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680074640/170/
-- Mittwoch, 29. März 2023 09:30 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1680075000/133/
-- Mittwoch, 29. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680075000/922/
-- Mittwoch, 29. März 2023 09:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680075360/2854/
-- Mittwoch, 29. März 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1680075360/146/
-- Mittwoch, 29. März 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680075360/2896/
-- Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680075360/170/
+- Mittwoch, 29. März 2023 09:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680073920/170/
+- Mittwoch, 29. März 2023 09:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680074640/170/
+- Mittwoch, 29. März 2023 09:30 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680075000/922/
+- Mittwoch, 29. März 2023 09:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680075360/170/
 - Mittwoch, 29. März 2023 09:42 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680075720/922/
-- Mittwoch, 29. März 2023 09:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1680076080/146/
-- Mittwoch, 29. März 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680076080/2896/
-- Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680076080/170/
+- Mittwoch, 29. März 2023 09:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680076080/170/
 - Mittwoch, 29. März 2023 09:54 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680076440/922/
-- Mittwoch, 29. März 2023 10:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1680076800/146/
-- Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680076800/170/
-- Mittwoch, 29. März 2023 10:06 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1680077160/112/
-- Mittwoch, 29. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680077160/922/
-- Mittwoch, 29. März 2023 10:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1680077520/146/
-- Mittwoch, 29. März 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680077520/2896/
-- Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680077520/170/
+- Mittwoch, 29. März 2023 10:06 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680077160/922/
+- Mittwoch, 29. März 2023 10:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680077520/170/
 - Mittwoch, 29. März 2023 10:18 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680077880/922/
-- Mittwoch, 29. März 2023 10:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1680078240/146/
-- Mittwoch, 29. März 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680078240/2896/
-- Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680078240/170/
+- Mittwoch, 29. März 2023 10:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680078240/2896/
 - Mittwoch, 29. März 2023 10:30 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680078600/922/
-- Mittwoch, 29. März 2023 10:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680078960/170/
+- Mittwoch, 29. März 2023 10:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680078960/2896/
+- Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680078960/170/
 - Mittwoch, 29. März 2023 10:42 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680079320/922/
-- Mittwoch, 29. März 2023 10:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680079680/2896/
-- Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680079680/170/
+- Mittwoch, 29. März 2023 10:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680079680/170/
 - Mittwoch, 29. März 2023 10:54 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680080040/922/
 - Mittwoch, 29. März 2023 11:06 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680080760/922/
 - Mittwoch, 29. März 2023 11:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680081120/170/
 - Mittwoch, 29. März 2023 11:18 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680081480/922/
 - Mittwoch, 29. März 2023 11:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680081840/170/
-- Mittwoch, 29. März 2023 11:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680082200/313/
-- Mittwoch, 29. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680082200/922/
+- Mittwoch, 29. März 2023 11:30 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680082200/922/
 - Mittwoch, 29. März 2023 11:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680082560/170/
-- Mittwoch, 29. März 2023 11:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680082920/313/
-- Mittwoch, 29. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680082920/922/
+- Mittwoch, 29. März 2023 11:42 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680082920/922/
 - Mittwoch, 29. März 2023 11:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680083280/170/
-- Mittwoch, 29. März 2023 11:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680083640/313/
-- Mittwoch, 29. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680083640/922/
+- Mittwoch, 29. März 2023 11:54 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680083640/922/
 - Mittwoch, 29. März 2023 12:06 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680084360/922/
-- Mittwoch, 29. März 2023 12:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680084720/170/
-- Mittwoch, 29. März 2023 12:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680085080/313/
-- Mittwoch, 29. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680085080/922/
-- Mittwoch, 29. März 2023 12:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680085440/170/
-- Mittwoch, 29. März 2023 12:30 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680085800/922/
-- Mittwoch, 29. März 2023 12:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680086160/170/
-- Mittwoch, 29. März 2023 12:42 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680086520/922/
-- Mittwoch, 29. März 2023 12:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680086880/170/
+- Mittwoch, 29. März 2023 12:18 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680085080/922/
+- Mittwoch, 29. März 2023 13:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680089400/313/
+- Mittwoch, 29. März 2023 13:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680090120/313/
