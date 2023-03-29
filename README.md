@@ -21,7 +21,6 @@
 - Mittwoch, 29. März 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680071040/2851/
 - Mittwoch, 29. März 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680071040/167/
 - Mittwoch, 29. März 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680071040/2854/
-- Mittwoch, 29. März 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1680071040/146/
 - Mittwoch, 29. März 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680071040/2896/
 - Mittwoch, 29. März 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1680071040/168/
 - Mittwoch, 29. März 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680071040/2863/
