@@ -6,13 +6,12 @@
 - Mittwoch, 29. März 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1680070680/190/
 - Mittwoch, 29. März 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680070680/2887/
 - Mittwoch, 29. März 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1680070680/111/
-- Mittwoch, 29. März 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680070680/904/
+- Mittwoch, 29. März 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680070680/313/
 - Mittwoch, 29. März 2023 08:20 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680070800/2923/
 - Mittwoch, 29. März 2023 08:24 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680071040/2836/
 - Mittwoch, 29. März 2023  Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680071040/2920/
 - Mittwoch, 29. März 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680071040/3238/
-- Mittwoch, 29. März 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680071040/167/
-- Mittwoch, 29. März 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680071040/2854/
+- Mittwoch, 29. März 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680071040/2872/
+- Mittwoch, 29. März 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680071040/2896/
 - Mittwoch, 29. März 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680071040/2863/
-- Mittwoch, 29. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680071040/170/
 - Mittwoch, 29. März 2023 08:30 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680071400/2911/
