@@ -4,6 +4,5 @@
 - Mittwoch, 29. März 2023 12:12 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1680084720/106/
 - Mittwoch, 29. März 2023 12:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1680085440/106/
 - Mittwoch, 29. März 2023 12:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1680086160/106/
-- Mittwoch, 29. März 2023 12:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1680086880/106/
 - Mittwoch, 29. März 2023 13:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1680089760/106/
 - Mittwoch, 29. März 2023 13:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1680090480/106/
