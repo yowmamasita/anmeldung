@@ -6,4 +6,3 @@
 - Mittwoch, 29. März 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680077520/167/
 - Mittwoch, 29. März 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680077520/2863/
 - Mittwoch, 29. März 2023 10:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680078960/2863/
-- Freitag, 21. April 2023 10:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682065440/191/
