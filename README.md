@@ -7,4 +7,3 @@
 - Donnerstag, 30. März 2023 16:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1680185520/109/
 - Donnerstag, 30. März 2023 16:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1680186240/109/
 - Donnerstag, 30. März 2023 16:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1680186960/109/
-- Donnerstag, 30. März 2023 16:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1680187680/109/
