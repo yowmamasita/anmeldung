@@ -5,6 +5,3 @@
 - Donnerstag, 30. März 2023 16:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680186960/2845/
 - Donnerstag, 30. März 2023 16:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680187680/2845/
 - Donnerstag, 30. März 2023 17:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680189840/2845/
-- Donnerstag, 30. März 2023 17:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680190560/2845/
-- Freitag, 31. März 2023 08:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680243840/922/
-- Donnerstag, 27. April 2023 13:40 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682595600/2941/
