@@ -7,22 +7,17 @@
 - Donnerstag, 30. März 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680164640/313/
 - Donnerstag, 30. März 2023 10:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680165360/2896/
 - Donnerstag, 30. März 2023 11:00 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680166800/313/
-- Donnerstag, 30. März 2023 11:12 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680167520/313/
+- Donnerstag, 30. März 2023 11:12 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1680167520/135/
+- Donnerstag, 30. März 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680167520/313/
 - Donnerstag, 30. März 2023 11:24 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680168240/2911/
 - Donnerstag, 30. März 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680168240/313/
-- Donnerstag, 30. März 2023 11:36 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680168960/313/
-- Donnerstag, 30. März 2023 12:48 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680173280/2911/
 - Donnerstag, 30. März 2023 13:36 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680176160/313/
 - Donnerstag, 30. März 2023 13:48 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680176880/313/
 - Donnerstag, 30. März 2023 14:12 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680178320/313/
 - Donnerstag, 30. März 2023 14:24 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680179040/2911/
 - Donnerstag, 30. März 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680179040/313/
 - Donnerstag, 30. März 2023 14:36 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680179760/2911/
-- Donnerstag, 30. März 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680179760/313/
-- Donnerstag, 30. März 2023 14:48 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680180480/313/
 - Donnerstag, 30. März 2023 15:12 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680181920/2911/
 - Donnerstag, 30. März 2023 15:24 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680182640/2911/
-- Donnerstag, 30. März 2023 15:36 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680183360/2911/
-- Donnerstag, 30. März 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680183360/904/
-- Donnerstag, 30. März 2023 15:48 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680184080/2911/
-- Donnerstag, 30. März 2023 16:24 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680186240/2911/
+- Donnerstag, 30. März 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680182640/313/
+- Donnerstag, 30. März 2023 15:36 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680183360/904/
