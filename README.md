@@ -3,13 +3,8 @@
 - Donnerstag, 30. März 2023 11:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680168960/2857/
 - Donnerstag, 30. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680168960/170/
 - Donnerstag, 30. März 2023 11:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680169680/2857/
-- Donnerstag, 30. März 2023 12:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680170400/2857/
 - Donnerstag, 30. März 2023 12:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1680171600/150/
-- Donnerstag, 30. März 2023 12:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1680172800/150/
+- Donnerstag, 30. März 2023 12:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680173280/2857/
 - Donnerstag, 30. März 2023 13:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680174000/170/
-- Donnerstag, 30. März 2023 13:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680176880/167/
-- Donnerstag, 30. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680176880/922/
+- Donnerstag, 30. März 2023 13:48 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680176880/922/
 - Donnerstag, 30. März 2023 14:12 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680178320/2854/
-- Donnerstag, 30. März 2023 15:24 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680182640/313/
-- Donnerstag, 30. März 2023 15:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680184080/2863/
-- Donnerstag, 30. März 2023 17:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680190560/2854/
