@@ -16,7 +16,6 @@
 - Freitag, 31. März 2023 09:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680248160/167/
 - Freitag, 31. März 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1680248160/172/
 - Freitag, 31. März 2023 09:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680248880/167/
-- Freitag, 31. März 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1680248880/172/
 - Freitag, 31. März 2023 10:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680249600/167/
 - Freitag, 31. März 2023 10:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680250320/167/
 - Freitag, 31. März 2023 10:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680251040/167/
