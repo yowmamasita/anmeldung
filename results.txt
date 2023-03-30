@@ -1,8 +1,1 @@
-- Donnerstag, 30. März 2023 13:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680175440/2854/
-- Donnerstag, 30. März 2023 13:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1680176880/146/
-- Donnerstag, 30. März 2023 14:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680178320/167/
-- Donnerstag, 30. März 2023 14:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680179040/2845/
-- Donnerstag, 30. März 2023 14:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680179760/2845/
-- Donnerstag, 30. März 2023 17:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1680189120/109/
 - Donnerstag, 30. März 2023 17:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680190560/922/
-- Dienstag, 4. April 2023 16:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1680618240/172/
