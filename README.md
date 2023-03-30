@@ -6,8 +6,7 @@
 - Donnerstag, 30. März 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680168240/167/
 - Donnerstag, 30. März 2023 11:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680168960/3238/
 - Donnerstag, 30. März 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680168960/167/
-- Donnerstag, 30. März 2023 11:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680169680/2914/
-- Donnerstag, 30. März 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680169680/3238/
+- Donnerstag, 30. März 2023 11:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680169680/3238/
 - Donnerstag, 30. März 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680169680/167/
 - Donnerstag, 30. März 2023 12:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680170400/3238/
 - Donnerstag, 30. März 2023 12:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680171120/3238/
@@ -35,3 +34,5 @@
 - Donnerstag, 30. März 2023 14:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680180480/3238/
 - Donnerstag, 30. März 2023 15:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680184080/167/
 - Donnerstag, 30. März 2023 16:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680185520/167/
+- Donnerstag, 30. März 2023 16:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680186960/167/
+- Donnerstag, 30. März 2023 16:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680187680/167/
