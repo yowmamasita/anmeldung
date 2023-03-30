@@ -1,4 +1,0 @@
-- Freitag, 31. März 2023 08:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680242400/170/
-- Freitag, 31. März 2023 08:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680243120/167/
-- Dienstag, 4. April 2023 15:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680615360/2872/
-- Mittwoch, 12. April 2023 10:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1681289280/143/
