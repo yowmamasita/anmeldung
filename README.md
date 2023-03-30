@@ -3,8 +3,4 @@
 - Donnerstag, 30. März 2023 10:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1680163920/112/
 - Donnerstag, 30. März 2023 10:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1680164640/112/
 - Donnerstag, 30. März 2023 10:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1680165360/112/
-- Donnerstag, 30. März 2023 10:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1680166080/112/
-- Donnerstag, 30. März 2023 11:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1680167520/112/
 - Donnerstag, 30. März 2023 11:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1680168240/112/
-- Donnerstag, 30. März 2023 11:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1680168960/112/
-- Donnerstag, 30. März 2023 12:00 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1680170400/112/
