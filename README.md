@@ -3,6 +3,5 @@
 - Freitag, 31. März 2023 08:12 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680243120/922/
 - Freitag, 31. März 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1680243120/192/
 - Freitag, 31. März 2023 08:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1680243840/192/
-- Freitag, 31. März 2023 08:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1680244560/192/
-- Freitag, 31. März 2023 08:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1680245280/192/
-- Freitag, 31. März 2023 09:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1680247440/192/
+- Freitag, 31. März 2023 08:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680244560/922/
+- Freitag, 31. März 2023 09:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680248160/922/
