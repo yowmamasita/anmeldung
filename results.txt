@@ -1,4 +1,3 @@
-- Freitag, 31. März 2023 08:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1680242400/146/
 - Freitag, 31. März 2023 08:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1680243120/146/
 - Freitag, 31. März 2023 08:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1680243840/146/
 - Freitag, 31. März 2023 08:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1680244560/146/
@@ -8,6 +7,3 @@
 - Freitag, 31. März 2023 09:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1680248880/146/
 - Freitag, 31. März 2023 10:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1680249600/146/
 - Freitag, 31. März 2023 10:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1680250320/146/
-- Freitag, 31. März 2023 10:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1680251040/146/
-- Freitag, 31. März 2023 10:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1680251760/146/
-- Freitag, 31. März 2023 10:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1680252480/146/
