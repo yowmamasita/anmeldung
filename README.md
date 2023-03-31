@@ -9,7 +9,6 @@
 - Freitag, 31. März 2023 09:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1680246720/154/
 - Freitag, 31. März 2023 09:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1680247440/154/
 - Freitag, 31. März 2023 09:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1680248160/154/
-- Freitag, 31. März 2023 09:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1680248880/154/
 - Freitag, 31. März 2023 10:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1680250320/172/
 - Freitag, 31. März 2023 10:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1680251040/172/
 - Freitag, 31. März 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1680251040/154/
