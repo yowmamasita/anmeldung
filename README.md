@@ -5,7 +5,6 @@
 - Freitag, 31. März 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1680243840/154/
 - Freitag, 31. März 2023 08:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680244560/167/
 - Freitag, 31. März 2023 08:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680245280/167/
-- Freitag, 31. März 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1680245280/154/
 - Freitag, 31. März 2023 09:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680246720/167/
 - Freitag, 31. März 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680246720/922/
 - Freitag, 31. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680246720/170/
@@ -15,12 +14,6 @@
 - Freitag, 31. März 2023 09:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680248880/167/
 - Freitag, 31. März 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680248880/2860/
 - Freitag, 31. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680248880/170/
-- Freitag, 31. März 2023 10:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680250320/167/
-- Freitag, 31. März 2023 10:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680251040/167/
-- Freitag, 31. März 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680251040/2860/
-- Freitag, 31. März 2023 10:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1680252480/154/
-- Freitag, 31. März 2023 11:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680253920/170/
+- Freitag, 31. März 2023 10:24 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680251040/2860/
 - Freitag, 31. März 2023 12:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1680258960/154/
 - Freitag, 31. März 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680258960/170/
-- Freitag, 31. März 2023 12:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680259320/2914/
-- Freitag, 31. März 2023 12:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1680259680/154/
