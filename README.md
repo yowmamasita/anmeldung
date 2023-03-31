@@ -3,9 +3,6 @@
 - Montag, 3. April 2023 08:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1680502320/169/
 - Montag, 3. April 2023 08:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1680503040/169/
 - Montag, 3. April 2023 08:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1680503760/169/
-- Montag, 3. April 2023 08:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1680504480/169/
 - Montag, 3. April 2023 09:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1680508080/169/
-- Montag, 3. April 2023 10:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1680510960/169/
-- Montag, 3. April 2023 14:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1680526080/169/
 - Dienstag, 4. April 2023 11:48 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680601680/844/
 - Freitag, 28. April 2023 08:06 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1682661960/134/
