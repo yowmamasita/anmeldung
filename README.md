@@ -27,8 +27,7 @@
 - Freitag, 31. März 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1680253200/192/
 - Freitag, 31. März 2023 11:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680253920/2851/
 - Freitag, 31. März 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680253920/2863/
-- Freitag, 31. März 2023 11:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680254640/2851/
-- Freitag, 31. März 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680254640/2863/
+- Freitag, 31. März 2023 11:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680254640/2863/
 - Freitag, 31. März 2023 11:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680255360/2851/
 - Freitag, 31. März 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680255360/2863/
 - Freitag, 31. März 2023 11:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680256080/2851/
@@ -41,6 +40,5 @@
 - Freitag, 31. März 2023 12:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680258960/2851/
 - Freitag, 31. März 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680258960/2863/
 - Freitag, 31. März 2023 12:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680259680/2863/
-- Montag, 17. April 2023 10:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681720200/2908/
 - Donnerstag, 20. April 2023 11:00 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1681981200/151/
 - Freitag, 21. April 2023 12:10 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1682071800/151/
