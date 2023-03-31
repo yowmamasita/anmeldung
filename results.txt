@@ -1,8 +1,0 @@
-- Freitag, 31. März 2023 08:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1680243120/192/
-- Freitag, 31. März 2023 10:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1680250320/190/
-- Freitag, 31. März 2023 10:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1680251040/190/
-- Freitag, 31. März 2023 10:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1680251760/190/
-- Freitag, 31. März 2023 10:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1680252480/190/
-- Freitag, 31. März 2023 11:00 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1680253200/190/
-- Freitag, 31. März 2023 11:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1680253920/190/
-- Freitag, 31. März 2023 11:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1680256080/190/
