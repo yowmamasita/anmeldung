@@ -16,4 +16,3 @@
 - Mittwoch, 24. Mai 2023 10:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684918080/143/
 - Mittwoch, 24. Mai 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684918080/2851/
 - Mittwoch, 24. Mai 2023 11:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684920240/143/
-- Mittwoch, 24. Mai 2023 12:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684925280/143/
