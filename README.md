@@ -9,6 +9,5 @@
 - Mittwoch, 31. Mai 2023 14:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1685536560/231/
 - Mittwoch, 31. Mai 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1685536560/146/
 - Mittwoch, 31. Mai 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1685536560/172/
-- Mittwoch, 31. Mai 2023 14:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1685537280/231/
-- Mittwoch, 31. Mai 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1685537280/146/
+- Mittwoch, 31. Mai 2023 14:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1685537280/146/
 - Mittwoch, 31. Mai 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1685537280/172/
