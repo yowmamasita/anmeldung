@@ -1,6 +1,0 @@
-- Mittwoch, 5. April 2023 10:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1680682800/147/
-- Donnerstag, 6. April 2023 11:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1680774120/136/
-- Donnerstag, 6. April 2023 11:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1680774600/147/
-- Mittwoch, 19. April 2023 09:18 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681888680/2887/
-- Freitag, 28. April 2023 10:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682670240/2872/
-- Dienstag, 9. Mai 2023 16:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683643680/190/
