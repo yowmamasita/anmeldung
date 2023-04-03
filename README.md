@@ -1,70 +1,5 @@
 # List of available Anmeldung appointments as of $NOW
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122254,122252,329742,122260,329745,122262,329748,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,317869,122281,327352,122279,329772,122283,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
-- Montag, 3. April 2023 09:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680507360/167/
-- Montag, 3. April 2023 09:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680508080/2845/
-- Montag, 3. April 2023 10:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680508800/167/
-- Montag, 3. April 2023 10:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680510240/167/
-- Montag, 3. April 2023 10:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680510960/167/
-- Montag, 3. April 2023 10:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680511680/167/
-- Montag, 3. April 2023 11:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680513120/167/
-- Montag, 3. April 2023 11:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680513840/167/
-- Montag, 3. April 2023 12:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680518160/167/
-- Dienstag, 4. April 2023 13:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680608160/2926/
-- Dienstag, 4. April 2023 14:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680611040/2926/
-- Dienstag, 4. April 2023 14:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680611760/2926/
-- Dienstag, 4. April 2023 15:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680615360/2926/
-- Dienstag, 4. April 2023 16:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680618960/2926/
-- Dienstag, 4. April 2023 17:18 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680621480/2836/
-- Mittwoch, 5. April 2023 11:42 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680687720/2926/
-- Mittwoch, 5. April 2023 11:54 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680688440/2926/
-- Mittwoch, 5. April 2023 12:30 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680690600/2926/
-- Donnerstag, 6. April 2023 08:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680760800/2926/
-- Donnerstag, 6. April 2023 08:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1680761520/192/
-- Donnerstag, 6. April 2023 08:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680762240/2926/
-- Donnerstag, 6. April 2023 12:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680776640/2926/
-- Donnerstag, 6. April 2023 12:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680778080/2926/
-- Donnerstag, 6. April 2023 13:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680778800/2926/
-- Donnerstag, 6. April 2023 13:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680780240/2926/
-- Donnerstag, 6. April 2023 14:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680783840/2926/
-- Donnerstag, 6. April 2023 15:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680787440/2926/
-- Donnerstag, 6. April 2023 15:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680788160/2926/
-- Dienstag, 11. April 2023 10:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681202160/2926/
-- Dienstag, 11. April 2023 11:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681205040/2926/
-- Dienstag, 11. April 2023 12:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681210080/192/
-- Dienstag, 11. April 2023 14:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681215840/192/
-- Dienstag, 11. April 2023 16:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681223760/190/
-- Dienstag, 11. April 2023 16:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681224480/192/
-- Dienstag, 11. April 2023 17:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681225920/2926/
-- Mittwoch, 12. April 2023 08:42 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681281720/2926/
-- Mittwoch, 12. April 2023 09:18 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681283880/190/
-- Donnerstag, 13. April 2023 11:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681377840/192/
-- Donnerstag, 13. April 2023 14:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681387920/2926/
-- Donnerstag, 13. April 2023 14:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681388640/2926/
-- Donnerstag, 13. April 2023 14:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681389360/190/
-- Donnerstag, 13. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681389360/2926/
-- Donnerstag, 13. April 2023 14:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681390080/2926/
-- Donnerstag, 13. April 2023 15:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681392240/190/
-- Donnerstag, 13. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681392240/2926/
-- Donnerstag, 13. April 2023 15:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681393680/2926/
-- Donnerstag, 13. April 2023 16:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681395120/2926/
-- Donnerstag, 13. April 2023 16:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681395840/2926/
-- Freitag, 14. April 2023 08:00 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681452000/190/
-- Freitag, 14. April 2023 08:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681453440/2926/
-- Freitag, 14. April 2023 08:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681454880/2926/
-- Freitag, 14. April 2023 09:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681456320/2926/
-- Freitag, 14. April 2023 09:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681457040/2926/
-- Freitag, 14. April 2023 09:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681457760/2926/
-- Freitag, 14. April 2023 10:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681459200/2926/
-- Freitag, 14. April 2023 10:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681459920/2926/
-- Freitag, 14. April 2023 10:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681460640/2926/
-- Freitag, 14. April 2023 10:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681461360/2926/
-- Freitag, 14. April 2023 10:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681462080/2926/
-- Freitag, 14. April 2023 11:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681464240/2926/
-- Freitag, 14. April 2023 11:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681464960/2926/
-- Freitag, 14. April 2023 12:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681469280/192/
-- Montag, 17. April 2023 08:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681713360/2926/
-- Montag, 17. April 2023 08:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681714080/2926/
-- Montag, 17. April 2023 09:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681714800/2926/
 - Montag, 17. April 2023 09:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681715520/2926/
 - Montag, 17. April 2023 09:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681716240/2926/
 - Montag, 17. April 2023 09:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681716960/2926/
@@ -73,80 +8,51 @@
 - Montag, 17. April 2023 10:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681719120/2926/
 - Montag, 17. April 2023 10:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681719840/2926/
 - Montag, 17. April 2023 10:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681720560/2926/
-- Montag, 17. April 2023 10:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681721280/190/
-- Montag, 17. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681721280/192/
-- Montag, 17. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681721280/2926/
+- Montag, 17. April 2023 10:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681721280/2926/
 - Montag, 17. April 2023 11:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681722720/2926/
-- Montag, 17. April 2023 11:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681723440/190/
-- Montag, 17. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681723440/192/
-- Montag, 17. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681723440/2926/
-- Montag, 17. April 2023 11:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681724160/190/
-- Montag, 17. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681724160/192/
-- Montag, 17. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681724160/2926/
+- Montag, 17. April 2023 11:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681723440/2926/
+- Montag, 17. April 2023 11:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681724160/2926/
 - Montag, 17. April 2023 11:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681724880/2926/
-- Montag, 17. April 2023 12:00 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681725600/190/
-- Montag, 17. April 2023 12:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681726320/190/
-- Montag, 17. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681726320/2926/
+- Montag, 17. April 2023 12:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681726320/2926/
 - Montag, 17. April 2023 12:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681727040/190/
-- Montag, 17. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681727040/192/
 - Montag, 17. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681727040/2926/
 - Montag, 17. April 2023 12:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681727760/190/
-- Montag, 17. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681727760/192/
 - Montag, 17. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681727760/2926/
 - Montag, 17. April 2023 12:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681728480/190/
-- Montag, 17. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681728480/192/
 - Montag, 17. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681728480/2926/
-- Montag, 17. April 2023 13:00 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681729200/190/
-- Montag, 17. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681729200/2926/
+- Montag, 17. April 2023 13:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681729200/2926/
 - Montag, 17. April 2023 13:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681729920/190/
-- Montag, 17. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681729920/192/
 - Montag, 17. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681729920/2926/
-- Montag, 17. April 2023 13:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681730640/190/
-- Montag, 17. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681730640/2926/
-- Montag, 17. April 2023 13:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681731360/190/
-- Montag, 17. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681731360/192/
-- Montag, 17. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681731360/2926/
+- Montag, 17. April 2023 13:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681730640/2926/
+- Montag, 17. April 2023 13:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681731360/2926/
 - Montag, 17. April 2023 13:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681732080/190/
 - Montag, 17. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681732080/2926/
-- Montag, 17. April 2023 14:00 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681732800/190/
-- Montag, 17. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681732800/2926/
+- Montag, 17. April 2023 14:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681732800/2926/
 - Montag, 17. April 2023 14:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681733520/190/
 - Montag, 17. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681733520/2926/
-- Montag, 17. April 2023 14:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681734240/190/
-- Montag, 17. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681734240/2926/
-- Montag, 17. April 2023 14:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681734960/190/
-- Montag, 17. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681734960/2926/
+- Montag, 17. April 2023 14:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681734240/2926/
+- Montag, 17. April 2023 14:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681734960/2926/
 - Montag, 17. April 2023 14:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681735680/2926/
-- Dienstag, 18. April 2023 10:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681806240/2926/
-- Dienstag, 18. April 2023 10:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681806960/2926/
-- Dienstag, 18. April 2023 10:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681807680/190/
-- Dienstag, 18. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681807680/2926/
-- Dienstag, 18. April 2023 11:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681808400/2926/
 - Dienstag, 18. April 2023 11:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681809120/2926/
-- Dienstag, 18. April 2023 11:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681809840/2926/
-- Dienstag, 18. April 2023 11:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681810560/190/
-- Dienstag, 18. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681810560/2926/
+- Dienstag, 18. April 2023 11:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681809840/190/
+- Dienstag, 18. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681809840/2926/
+- Dienstag, 18. April 2023 11:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681810560/2926/
 - Dienstag, 18. April 2023 11:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681811280/190/
 - Dienstag, 18. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681811280/2926/
 - Dienstag, 18. April 2023 12:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681812000/2926/
 - Dienstag, 18. April 2023 12:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681812720/2926/
-- Dienstag, 18. April 2023 12:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681813440/190/
-- Dienstag, 18. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681813440/2926/
+- Dienstag, 18. April 2023 12:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681813440/2926/
 - Dienstag, 18. April 2023 12:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681814160/190/
 - Dienstag, 18. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681814160/2926/
 - Dienstag, 18. April 2023 12:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681814880/190/
-- Dienstag, 18. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681814880/192/
 - Dienstag, 18. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681814880/2926/
-- Dienstag, 18. April 2023 13:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681815600/192/
-- Dienstag, 18. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681815600/2926/
+- Dienstag, 18. April 2023 13:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681815600/2926/
 - Dienstag, 18. April 2023 13:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681816320/190/
-- Dienstag, 18. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681816320/192/
 - Dienstag, 18. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681816320/2926/
 - Dienstag, 18. April 2023 13:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681817040/190/
 - Dienstag, 18. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681817040/192/
 - Dienstag, 18. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681817040/2926/
 - Dienstag, 18. April 2023 13:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681817760/190/
-- Dienstag, 18. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681817760/192/
 - Dienstag, 18. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681817760/2926/
 - Dienstag, 18. April 2023 13:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681818480/190/
 - Dienstag, 18. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681818480/192/
@@ -158,45 +64,35 @@
 - Dienstag, 18. April 2023 14:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681820640/190/
 - Dienstag, 18. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681820640/2926/
 - Dienstag, 18. April 2023 14:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681821360/190/
-- Dienstag, 18. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681821360/192/
 - Dienstag, 18. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681821360/2926/
 - Dienstag, 18. April 2023 14:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681822080/190/
 - Dienstag, 18. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681822080/192/
 - Dienstag, 18. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681822080/2926/
-- Dienstag, 18. April 2023 15:00 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681822800/190/
-- Dienstag, 18. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681822800/2926/
+- Dienstag, 18. April 2023 15:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681822800/2926/
 - Dienstag, 18. April 2023 15:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681823520/190/
-- Dienstag, 18. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681823520/192/
 - Dienstag, 18. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681823520/2926/
 - Dienstag, 18. April 2023 15:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681824240/190/
 - Dienstag, 18. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681824240/192/
 - Dienstag, 18. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681824240/2926/
 - Dienstag, 18. April 2023 15:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681824960/190/
-- Dienstag, 18. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681824960/192/
 - Dienstag, 18. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681824960/2926/
-- Dienstag, 18. April 2023 15:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1681825680/146/
-- Dienstag, 18. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681825680/192/
+- Dienstag, 18. April 2023 15:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681825680/192/
 - Dienstag, 18. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681825680/2926/
 - Dienstag, 18. April 2023 16:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681826400/2926/
-- Dienstag, 18. April 2023 16:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681827120/190/
-- Dienstag, 18. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681827120/2926/
+- Dienstag, 18. April 2023 16:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681827120/2926/
 - Dienstag, 18. April 2023 16:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681827840/190/
 - Dienstag, 18. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681827840/2926/
 - Dienstag, 18. April 2023 16:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681828560/190/
-- Dienstag, 18. April 2023 16:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681829280/190/
-- Dienstag, 18. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681829280/192/
+- Dienstag, 18. April 2023 16:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681829280/192/
 - Dienstag, 18. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681829280/2926/
-- Dienstag, 18. April 2023 17:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681830000/192/
-- Dienstag, 18. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681830000/2926/
-- Dienstag, 18. April 2023 17:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681830720/190/
-- Dienstag, 18. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681830720/192/
+- Dienstag, 18. April 2023 17:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681830000/2926/
+- Dienstag, 18. April 2023 17:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681830720/192/
 - Dienstag, 18. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681830720/2926/
 - Dienstag, 18. April 2023 17:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681831440/190/
 - Dienstag, 18. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681831440/2926/
 - Dienstag, 18. April 2023 17:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681832160/190/
 - Dienstag, 18. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681832160/2926/
 - Dienstag, 18. April 2023 17:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681832880/190/
-- Dienstag, 18. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681832880/2926/
 - Mittwoch, 19. April 2023 07:30 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681882200/190/
 - Mittwoch, 19. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681882200/2926/
 - Mittwoch, 19. April 2023 07:42 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681882920/192/
@@ -211,8 +107,7 @@
 - Mittwoch, 19. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681885080/2926/
 - Mittwoch, 19. April 2023 08:30 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681885800/192/
 - Mittwoch, 19. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681885800/2926/
-- Mittwoch, 19. April 2023 08:42 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681886520/190/
-- Mittwoch, 19. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681886520/192/
+- Mittwoch, 19. April 2023 08:42 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681886520/192/
 - Mittwoch, 19. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681886520/2926/
 - Mittwoch, 19. April 2023 08:54 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681887240/192/
 - Mittwoch, 19. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681887240/2926/
@@ -229,8 +124,7 @@
 - Mittwoch, 19. April 2023 09:54 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681890840/190/
 - Mittwoch, 19. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681890840/192/
 - Mittwoch, 19. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681890840/2926/
-- Mittwoch, 19. April 2023 10:06 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681891560/190/
-- Mittwoch, 19. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681891560/2926/
+- Mittwoch, 19. April 2023 10:06 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681891560/2926/
 - Mittwoch, 19. April 2023 10:18 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681892280/190/
 - Mittwoch, 19. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681892280/2926/
 - Mittwoch, 19. April 2023 10:30 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681893000/2926/
@@ -258,10 +152,8 @@
 - Mittwoch, 19. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681900200/192/
 - Mittwoch, 19. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681900200/2926/
 - Mittwoch, 19. April 2023 12:42 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681900920/190/
-- Mittwoch, 19. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681900920/192/
 - Mittwoch, 19. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681900920/2926/
 - Mittwoch, 19. April 2023 12:54 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681901640/190/
-- Mittwoch, 19. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681901640/192/
 - Mittwoch, 19. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681901640/2926/
 - Mittwoch, 19. April 2023 13:06 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681902360/190/
 - Mittwoch, 19. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681902360/192/
@@ -278,7 +170,6 @@
 - Mittwoch, 19. April 2023 13:54 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681905240/190/
 - Mittwoch, 19. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681905240/2926/
 - Mittwoch, 19. April 2023 14:06 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681905960/190/
-- Mittwoch, 19. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681905960/192/
 - Mittwoch, 19. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681905960/2926/
 - Mittwoch, 19. April 2023 14:18 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681906680/190/
 - Mittwoch, 19. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681906680/2926/
@@ -307,7 +198,6 @@
 - Donnerstag, 20. April 2023 12:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681985520/190/
 - Donnerstag, 20. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681985520/2926/
 - Donnerstag, 20. April 2023 12:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681986240/190/
-- Donnerstag, 20. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681986240/192/
 - Donnerstag, 20. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681986240/2926/
 - Donnerstag, 20. April 2023 12:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681986960/190/
 - Donnerstag, 20. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681986960/2926/
@@ -353,7 +243,6 @@
 - Donnerstag, 20. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681997760/192/
 - Donnerstag, 20. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681997760/2926/
 - Donnerstag, 20. April 2023 15:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681998480/190/
-- Donnerstag, 20. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681998480/192/
 - Donnerstag, 20. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681998480/2926/
 - Donnerstag, 20. April 2023 16:00 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681999200/190/
 - Donnerstag, 20. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681999200/2926/
@@ -361,8 +250,6 @@
 - Donnerstag, 20. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681999920/2926/
 - Donnerstag, 20. April 2023 16:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682000640/192/
 - Donnerstag, 20. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682000640/2926/
-- Donnerstag, 20. April 2023 16:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682001360/190/
-- Donnerstag, 20. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682001360/2926/
 - Donnerstag, 20. April 2023 16:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682002080/190/
 - Donnerstag, 20. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682002080/2926/
 - Donnerstag, 20. April 2023 17:00 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682002800/190/
@@ -370,18 +257,16 @@
 - Donnerstag, 20. April 2023 17:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682003520/190/
 - Donnerstag, 20. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682003520/2926/
 - Donnerstag, 20. April 2023 17:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682004240/190/
+- Donnerstag, 20. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682004240/192/
 - Donnerstag, 20. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682004240/2926/
 - Donnerstag, 20. April 2023 17:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682004960/190/
-- Donnerstag, 20. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682004960/192/
 - Donnerstag, 20. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682004960/2926/
 - Donnerstag, 20. April 2023 17:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682005680/190/
 - Donnerstag, 20. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682005680/2926/
-- Freitag, 21. April 2023 08:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682056800/2926/
 - Freitag, 21. April 2023 08:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682057520/192/
 - Freitag, 21. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682057520/2926/
 - Freitag, 21. April 2023 08:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682058240/2926/
-- Freitag, 21. April 2023 08:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682058960/190/
-- Freitag, 21. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682058960/192/
+- Freitag, 21. April 2023 08:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682058960/192/
 - Freitag, 21. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682058960/2926/
 - Freitag, 21. April 2023 08:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682059680/2926/
 - Freitag, 21. April 2023 09:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682060400/192/
@@ -394,8 +279,7 @@
 - Freitag, 21. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682063280/2926/
 - Freitag, 21. April 2023 10:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682064000/192/
 - Freitag, 21. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682064000/2926/
-- Freitag, 21. April 2023 10:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682064720/190/
-- Freitag, 21. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682064720/192/
+- Freitag, 21. April 2023 10:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682064720/192/
 - Freitag, 21. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682064720/2926/
 - Freitag, 21. April 2023 10:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682065440/190/
 - Freitag, 21. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682065440/192/
@@ -417,19 +301,14 @@
 - Freitag, 21. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682069760/192/
 - Freitag, 21. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682069760/2926/
 - Freitag, 21. April 2023 11:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682070480/190/
-- Freitag, 21. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682070480/192/
 - Freitag, 21. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682070480/2926/
 - Freitag, 21. April 2023 12:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682071200/2926/
 - Freitag, 21. April 2023 12:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682071920/190/
 - Freitag, 21. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682071920/192/
 - Freitag, 21. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682071920/2926/
-- Freitag, 21. April 2023 12:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682072640/190/
-- Freitag, 21. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682072640/192/
+- Freitag, 21. April 2023 12:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682072640/192/
 - Freitag, 21. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682072640/2926/
-- Freitag, 21. April 2023 12:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682073360/190/
-- Freitag, 21. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682073360/192/
-- Freitag, 21. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682073360/2926/
-- Montag, 24. April 2023 08:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682316000/2926/
+- Freitag, 21. April 2023 12:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682073360/2926/
 - Montag, 24. April 2023 08:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682316720/2926/
 - Montag, 24. April 2023 08:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682317440/2926/
 - Montag, 24. April 2023 08:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682318160/2926/
@@ -437,14 +316,12 @@
 - Montag, 24. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682318880/2926/
 - Montag, 24. April 2023 09:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682319600/2926/
 - Montag, 24. April 2023 09:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682320320/2926/
-- Montag, 24. April 2023 09:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682321040/2926/
 - Montag, 24. April 2023 09:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682321760/2926/
 - Montag, 24. April 2023 09:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682322480/2926/
 - Montag, 24. April 2023 10:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682323200/2926/
 - Montag, 24. April 2023 10:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682323920/190/
 - Montag, 24. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682323920/2926/
 - Montag, 24. April 2023 10:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682324640/190/
-- Montag, 24. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682324640/192/
 - Montag, 24. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682324640/2926/
 - Montag, 24. April 2023 10:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682325360/190/
 - Montag, 24. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682325360/192/
@@ -480,9 +357,9 @@
 - Montag, 24. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682333280/192/
 - Montag, 24. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682333280/2926/
 - Montag, 24. April 2023 13:00 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682334000/190/
+- Montag, 24. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682334000/192/
 - Montag, 24. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682334000/2926/
 - Montag, 24. April 2023 13:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682334720/190/
-- Montag, 24. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682334720/192/
 - Montag, 24. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682334720/2926/
 - Montag, 24. April 2023 13:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682335440/190/
 - Montag, 24. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682335440/192/
@@ -536,8 +413,7 @@
 - Dienstag, 25. April 2023 12:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682417520/190/
 - Dienstag, 25. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682417520/192/
 - Dienstag, 25. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682417520/2926/
-- Dienstag, 25. April 2023 12:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682418240/190/
-- Dienstag, 25. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682418240/192/
+- Dienstag, 25. April 2023 12:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682418240/192/
 - Dienstag, 25. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682418240/2926/
 - Dienstag, 25. April 2023 12:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682418960/190/
 - Dienstag, 25. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682418960/2926/
@@ -550,7 +426,6 @@
 - Dienstag, 25. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682421120/192/
 - Dienstag, 25. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682421120/2926/
 - Dienstag, 25. April 2023 13:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682421840/190/
-- Dienstag, 25. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682421840/192/
 - Dienstag, 25. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682421840/2926/
 - Dienstag, 25. April 2023 13:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682422560/190/
 - Dienstag, 25. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682422560/2926/
@@ -593,7 +468,6 @@
 - Dienstag, 25. April 2023 16:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682432640/190/
 - Dienstag, 25. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682432640/2926/
 - Dienstag, 25. April 2023 16:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682433360/190/
-- Dienstag, 25. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682433360/192/
 - Dienstag, 25. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682433360/2926/
 - Dienstag, 25. April 2023 16:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682434080/190/
 - Dienstag, 25. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682434080/2926/
@@ -615,15 +489,13 @@
 - Mittwoch, 26. April 2023 07:42 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682487720/190/
 - Mittwoch, 26. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682487720/192/
 - Mittwoch, 26. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682487720/2926/
-- Mittwoch, 26. April 2023 07:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682488440/2908/
-- Mittwoch, 26. April 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682488440/190/
+- Mittwoch, 26. April 2023 07:54 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682488440/190/
 - Mittwoch, 26. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682488440/192/
 - Mittwoch, 26. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682488440/2926/
 - Mittwoch, 26. April 2023 08:06 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682489160/190/
 - Mittwoch, 26. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682489160/192/
 - Mittwoch, 26. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682489160/2926/
-- Mittwoch, 26. April 2023 08:18 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682489880/190/
-- Mittwoch, 26. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682489880/192/
+- Mittwoch, 26. April 2023 08:18 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682489880/192/
 - Mittwoch, 26. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682489880/2926/
 - Mittwoch, 26. April 2023 08:30 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682490600/190/
 - Mittwoch, 26. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682490600/192/
@@ -655,8 +527,7 @@
 - Mittwoch, 26. April 2023 10:18 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682497080/190/
 - Mittwoch, 26. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682497080/192/
 - Mittwoch, 26. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682497080/2926/
-- Mittwoch, 26. April 2023 10:30 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682497800/190/
-- Mittwoch, 26. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682497800/192/
+- Mittwoch, 26. April 2023 10:30 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682497800/192/
 - Mittwoch, 26. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682497800/2926/
 - Mittwoch, 26. April 2023 10:42 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682498520/190/
 - Mittwoch, 26. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682498520/192/
@@ -716,10 +587,8 @@
 - Donnerstag, 27. April 2023 10:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682583120/190/
 - Donnerstag, 27. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682583120/2926/
 - Donnerstag, 27. April 2023 10:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682583840/190/
-- Donnerstag, 27. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682583840/192/
 - Donnerstag, 27. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682583840/2926/
-- Donnerstag, 27. April 2023 10:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682584560/190/
-- Donnerstag, 27. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682584560/2926/
+- Donnerstag, 27. April 2023 10:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682584560/2926/
 - Donnerstag, 27. April 2023 10:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682585280/190/
 - Donnerstag, 27. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682585280/192/
 - Donnerstag, 27. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682585280/2926/
@@ -734,7 +603,6 @@
 - Donnerstag, 27. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682588160/192/
 - Donnerstag, 27. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682588160/2926/
 - Donnerstag, 27. April 2023 11:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682588880/190/
-- Donnerstag, 27. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682588880/192/
 - Donnerstag, 27. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682588880/2926/
 - Donnerstag, 27. April 2023 12:00 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682589600/190/
 - Donnerstag, 27. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682589600/2926/
@@ -766,7 +634,6 @@
 - Donnerstag, 27. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682596080/192/
 - Donnerstag, 27. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682596080/2926/
 - Donnerstag, 27. April 2023 14:00 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682596800/190/
-- Donnerstag, 27. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682596800/192/
 - Donnerstag, 27. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682596800/2926/
 - Donnerstag, 27. April 2023 14:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682597520/190/
 - Donnerstag, 27. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682597520/192/
@@ -804,10 +671,8 @@
 - Donnerstag, 27. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682605440/192/
 - Donnerstag, 27. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682605440/2926/
 - Donnerstag, 27. April 2023 16:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682606160/190/
-- Donnerstag, 27. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682606160/192/
 - Donnerstag, 27. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682606160/2926/
 - Donnerstag, 27. April 2023 16:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682606880/190/
-- Donnerstag, 27. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682606880/192/
 - Donnerstag, 27. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682606880/2926/
 - Donnerstag, 27. April 2023 17:00 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682607600/190/
 - Donnerstag, 27. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682607600/2926/
@@ -815,7 +680,6 @@
 - Donnerstag, 27. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682608320/192/
 - Donnerstag, 27. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682608320/2926/
 - Donnerstag, 27. April 2023 17:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682609040/190/
-- Donnerstag, 27. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682609040/192/
 - Donnerstag, 27. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682609040/2926/
 - Donnerstag, 27. April 2023 17:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682609760/190/
 - Donnerstag, 27. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682609760/192/
@@ -823,9 +687,7 @@
 - Donnerstag, 27. April 2023 17:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682610480/190/
 - Donnerstag, 27. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682610480/2926/
 - Freitag, 28. April 2023 08:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682661600/2926/
-- Freitag, 28. April 2023 08:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682662320/190/
-- Freitag, 28. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682662320/192/
-- Freitag, 28. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682662320/2926/
+- Freitag, 28. April 2023 08:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682662320/2926/
 - Freitag, 28. April 2023 08:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682663040/190/
 - Freitag, 28. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682663040/2926/
 - Freitag, 28. April 2023 08:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682663760/190/
@@ -871,10 +733,8 @@
 - Freitag, 28. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682674560/192/
 - Freitag, 28. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682674560/2926/
 - Freitag, 28. April 2023 11:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682675280/190/
-- Freitag, 28. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682675280/192/
 - Freitag, 28. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682675280/2926/
-- Freitag, 28. April 2023 12:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682676000/192/
-- Freitag, 28. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682676000/2926/
+- Freitag, 28. April 2023 12:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682676000/2926/
 - Freitag, 28. April 2023 12:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682676720/190/
 - Freitag, 28. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682676720/2926/
 - Freitag, 28. April 2023 12:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682677440/190/
@@ -882,15 +742,13 @@
 - Freitag, 28. April 2023 12:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682678160/190/
 - Freitag, 28. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682678160/2926/
 - Freitag, 28. April 2023 12:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682678880/2926/
-- Dienstag, 2. Mai 2023 10:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683014400/2926/
 - Dienstag, 2. Mai 2023 10:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683015120/2926/
 - Dienstag, 2. Mai 2023 10:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683015840/2926/
 - Dienstag, 2. Mai 2023 10:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683016560/190/
 - Dienstag, 2. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683016560/2926/
 - Dienstag, 2. Mai 2023 10:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683017280/192/
 - Dienstag, 2. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683017280/2926/
-- Dienstag, 2. Mai 2023 11:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683018000/192/
-- Dienstag, 2. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683018000/2926/
+- Dienstag, 2. Mai 2023 11:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683018000/2926/
 - Dienstag, 2. Mai 2023 11:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683018720/192/
 - Dienstag, 2. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683018720/2926/
 - Dienstag, 2. Mai 2023 11:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683019440/190/
@@ -914,8 +772,7 @@
 - Dienstag, 2. Mai 2023 12:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683024480/190/
 - Dienstag, 2. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683024480/192/
 - Dienstag, 2. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683024480/2926/
-- Dienstag, 2. Mai 2023 13:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683025200/192/
-- Dienstag, 2. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683025200/2926/
+- Dienstag, 2. Mai 2023 13:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683025200/2926/
 - Dienstag, 2. Mai 2023 13:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683025920/190/
 - Dienstag, 2. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683025920/192/
 - Dienstag, 2. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683025920/2926/
@@ -1006,10 +863,8 @@
 - Mittwoch, 3. Mai 2023 09:54 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683100440/192/
 - Mittwoch, 3. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683100440/2926/
 - Mittwoch, 3. Mai 2023 10:06 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683101160/2926/
-- Mittwoch, 3. Mai 2023 10:18 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683101880/192/
-- Mittwoch, 3. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683101880/2926/
-- Mittwoch, 3. Mai 2023 10:30 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683102600/192/
-- Mittwoch, 3. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683102600/2926/
+- Mittwoch, 3. Mai 2023 10:18 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683101880/2926/
+- Mittwoch, 3. Mai 2023 10:30 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683102600/2926/
 - Mittwoch, 3. Mai 2023 10:42 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683103320/192/
 - Mittwoch, 3. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683103320/2926/
 - Mittwoch, 3. Mai 2023 10:54 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683104040/192/
@@ -1157,7 +1012,6 @@
 - Donnerstag, 4. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683213840/192/
 - Donnerstag, 4. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683213840/2926/
 - Donnerstag, 4. Mai 2023 17:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683214560/190/
-- Donnerstag, 4. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683214560/192/
 - Donnerstag, 4. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683214560/2926/
 - Donnerstag, 4. Mai 2023 17:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683215280/190/
 - Donnerstag, 4. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683215280/2926/
@@ -1323,7 +1177,6 @@
 - Montag, 8. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683550080/192/
 - Montag, 8. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683550080/2926/
 - Dienstag, 9. Mai 2023 10:00 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683619200/190/
-- Dienstag, 9. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683619200/192/
 - Dienstag, 9. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683619200/2926/
 - Dienstag, 9. Mai 2023 10:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683619920/192/
 - Dienstag, 9. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683619920/2926/
@@ -1409,7 +1262,6 @@
 - Dienstag, 9. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683640080/192/
 - Dienstag, 9. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683640080/2926/
 - Dienstag, 9. Mai 2023 16:00 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683640800/190/
-- Dienstag, 9. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683640800/192/
 - Dienstag, 9. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683640800/2926/
 - Dienstag, 9. Mai 2023 16:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683641520/190/
 - Dienstag, 9. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683641520/192/
@@ -1498,10 +1350,8 @@
 - Mittwoch, 10. Mai 2023 14:06 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683720360/192/
 - Mittwoch, 10. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683720360/2926/
 - Mittwoch, 10. Mai 2023 14:18 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683721080/192/
-- Donnerstag, 11. Mai 2023 10:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683792000/192/
-- Donnerstag, 11. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683792000/2926/
-- Donnerstag, 11. Mai 2023 10:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683792720/190/
-- Donnerstag, 11. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683792720/2926/
+- Donnerstag, 11. Mai 2023 10:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683792000/2926/
+- Donnerstag, 11. Mai 2023 10:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683792720/2926/
 - Donnerstag, 11. Mai 2023 10:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683793440/190/
 - Donnerstag, 11. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683793440/192/
 - Donnerstag, 11. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683793440/2926/
@@ -1631,7 +1481,6 @@
 - Freitag, 12. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683874080/192/
 - Freitag, 12. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683874080/2926/
 - Freitag, 12. Mai 2023 09:00 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683874800/190/
-- Freitag, 12. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683874800/192/
 - Freitag, 12. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683874800/2926/
 - Freitag, 12. Mai 2023 09:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683875520/190/
 - Freitag, 12. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683875520/192/
@@ -1640,7 +1489,6 @@
 - Freitag, 12. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683876240/192/
 - Freitag, 12. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683876240/2926/
 - Freitag, 12. Mai 2023 09:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683876960/190/
-- Freitag, 12. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683876960/192/
 - Freitag, 12. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683876960/2926/
 - Freitag, 12. Mai 2023 09:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683877680/190/
 - Freitag, 12. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683877680/192/
@@ -1654,7 +1502,6 @@
 - Freitag, 12. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683879840/192/
 - Freitag, 12. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683879840/2926/
 - Freitag, 12. Mai 2023 10:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683880560/190/
-- Freitag, 12. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683880560/192/
 - Freitag, 12. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683880560/2926/
 - Freitag, 12. Mai 2023 10:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683881280/190/
 - Freitag, 12. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683881280/192/
@@ -1687,7 +1534,6 @@
 - Freitag, 12. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683887760/192/
 - Freitag, 12. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683887760/2926/
 - Freitag, 12. Mai 2023 12:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683888480/190/
-- Freitag, 12. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683888480/192/
 - Freitag, 12. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683888480/2926/
 - Montag, 15. Mai 2023 08:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684131120/192/
 - Montag, 15. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684131120/2926/
@@ -1707,8 +1553,7 @@
 - Montag, 15. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684136160/2926/
 - Montag, 15. Mai 2023 09:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684136880/192/
 - Montag, 15. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684136880/2926/
-- Montag, 15. Mai 2023 10:00 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684137600/190/
-- Montag, 15. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684137600/192/
+- Montag, 15. Mai 2023 10:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684137600/192/
 - Montag, 15. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684137600/2926/
 - Montag, 15. Mai 2023 10:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684138320/190/
 - Montag, 15. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684138320/192/
@@ -1737,7 +1582,6 @@
 - Montag, 15. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684144080/192/
 - Montag, 15. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684144080/2926/
 - Montag, 15. Mai 2023 12:00 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684144800/190/
-- Montag, 15. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684144800/192/
 - Montag, 15. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684144800/2926/
 - Montag, 15. Mai 2023 12:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684145520/190/
 - Montag, 15. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684145520/192/
@@ -1782,13 +1626,11 @@
 - Montag, 15. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684154880/192/
 - Montag, 15. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684154880/2926/
 - Dienstag, 16. Mai 2023 10:00 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684224000/190/
-- Dienstag, 16. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684224000/192/
 - Dienstag, 16. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684224000/2926/
 - Dienstag, 16. Mai 2023 10:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684224720/190/
 - Dienstag, 16. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684224720/192/
 - Dienstag, 16. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684224720/2926/
 - Dienstag, 16. Mai 2023 10:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684225440/190/
-- Dienstag, 16. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684225440/192/
 - Dienstag, 16. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684225440/2926/
 - Dienstag, 16. Mai 2023 10:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684226160/190/
 - Dienstag, 16. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684226160/192/
@@ -1937,8 +1779,7 @@
 - Mittwoch, 17. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684314360/2926/
 - Mittwoch, 17. Mai 2023 11:18 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684315080/192/
 - Mittwoch, 17. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684315080/2926/
-- Mittwoch, 17. Mai 2023 11:30 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684315800/192/
-- Mittwoch, 17. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684315800/2926/
+- Mittwoch, 17. Mai 2023 11:30 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684315800/2926/
 - Mittwoch, 17. Mai 2023 11:42 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684316520/192/
 - Mittwoch, 17. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684316520/2926/
 - Mittwoch, 17. Mai 2023 11:54 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684317240/192/
@@ -2013,7 +1854,6 @@
 - Freitag, 19. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684487520/192/
 - Freitag, 19. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684487520/2926/
 - Freitag, 19. Mai 2023 11:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684488240/190/
-- Freitag, 19. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684488240/192/
 - Freitag, 19. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684488240/2926/
 - Freitag, 19. Mai 2023 11:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684488960/190/
 - Freitag, 19. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684488960/192/
@@ -2135,7 +1975,6 @@
 - Dienstag, 23. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684830240/192/
 - Dienstag, 23. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684830240/2926/
 - Dienstag, 23. Mai 2023 10:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684830960/190/
-- Dienstag, 23. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684830960/192/
 - Dienstag, 23. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684830960/2926/
 - Dienstag, 23. Mai 2023 10:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684831680/190/
 - Dienstag, 23. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684831680/192/
@@ -2146,8 +1985,7 @@
 - Dienstag, 23. Mai 2023 11:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684833120/190/
 - Dienstag, 23. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684833120/192/
 - Dienstag, 23. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684833120/2926/
-- Dienstag, 23. Mai 2023 11:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1684833840/106/
-- Dienstag, 23. Mai 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684833840/190/
+- Dienstag, 23. Mai 2023 11:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684833840/190/
 - Dienstag, 23. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684833840/192/
 - Dienstag, 23. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684833840/2926/
 - Dienstag, 23. Mai 2023 11:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684834560/190/
@@ -2232,7 +2070,6 @@
 - Dienstag, 23. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684854000/192/
 - Dienstag, 23. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684854000/2926/
 - Dienstag, 23. Mai 2023 17:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684854720/190/
-- Dienstag, 23. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684854720/192/
 - Dienstag, 23. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684854720/2926/
 - Dienstag, 23. Mai 2023 17:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684855440/190/
 - Dienstag, 23. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684855440/192/
@@ -2412,8 +2249,7 @@
 - Donnerstag, 25. Mai 2023 16:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1685026080/190/
 - Donnerstag, 25. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685026080/192/
 - Donnerstag, 25. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685026080/2926/
-- Donnerstag, 25. Mai 2023 17:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685026800/192/
-- Donnerstag, 25. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685026800/2926/
+- Donnerstag, 25. Mai 2023 17:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685026800/2926/
 - Donnerstag, 25. Mai 2023 17:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1685027520/190/
 - Donnerstag, 25. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685027520/2926/
 - Donnerstag, 25. Mai 2023 17:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1685028240/190/
@@ -2424,7 +2260,6 @@
 - Donnerstag, 25. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685028960/2926/
 - Donnerstag, 25. Mai 2023 17:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1685029680/190/
 - Donnerstag, 25. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685029680/2926/
-- Freitag, 26. Mai 2023 08:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685080800/2926/
 - Freitag, 26. Mai 2023 08:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1685081520/190/
 - Freitag, 26. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685081520/192/
 - Freitag, 26. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685081520/2926/
@@ -2489,7 +2324,5 @@
 - Freitag, 26. Mai 2023 12:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1685096640/190/
 - Freitag, 26. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685096640/192/
 - Freitag, 26. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685096640/2926/
-- Freitag, 26. Mai 2023 12:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1685097360/190/
-- Freitag, 26. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685097360/192/
-- Freitag, 26. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685097360/2926/
+- Freitag, 26. Mai 2023 12:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685097360/2926/
 - Freitag, 26. Mai 2023 12:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685098080/2926/
