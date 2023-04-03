@@ -1,8 +1,0 @@
-- Montag, 3. April 2023 14:00 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680523200/2878/
-- Montag, 3. April 2023 14:20 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680524400/2878/
-- Montag, 3. April 2023 14:30 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680525000/2878/
-- Freitag, 14. April 2023 10:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681462080/3238/
-- Donnerstag, 11. Mai 2023 14:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683807120/190/
-- Mittwoch, 24. Mai 2023 09:36 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684913760/2839/
-- Donnerstag, 25. Mai 2023 15:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1685022480/169/
-- Donnerstag, 25. Mai 2023 17:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1685026800/167/
