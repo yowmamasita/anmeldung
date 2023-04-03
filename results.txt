@@ -1,12 +1,11 @@
-- Dienstag, 4. April 2023 11:00 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1680598800/102/
-- Dienstag, 4. April 2023 11:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680600960/2863/
+- Dienstag, 4. April 2023 11:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680599520/2863/
 - Dienstag, 4. April 2023 11:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680601680/2863/
 - Dienstag, 4. April 2023 12:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680602400/2863/
-- Dienstag, 4. April 2023 12:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680603120/2863/
 - Dienstag, 4. April 2023 12:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680603840/2863/
 - Dienstag, 4. April 2023 12:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680604560/2863/
 - Dienstag, 4. April 2023 12:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680605280/2863/
 - Dienstag, 4. April 2023 13:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680606720/2863/
-- Dienstag, 4. April 2023 13:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680607440/2863/
-- Dienstag, 4. April 2023 15:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680616080/2863/
-- Dienstag, 4. April 2023 17:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680621120/2863/
+- Dienstag, 4. April 2023 15:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680614640/2863/
+- Mittwoch, 5. April 2023 09:54 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680681240/2926/
+- Mittwoch, 5. April 2023 11:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1680687360/168/
+- Mittwoch, 19. April 2023 14:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1681908600/147/
