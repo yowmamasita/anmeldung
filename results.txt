@@ -1,6 +1,0 @@
-- Dienstag, 4. April 2023 15:48 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680616080/898/
-- Dienstag, 4. April 2023 15:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1680616200/147/
-- Dienstag, 4. April 2023 16:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680618240/2863/
-- Dienstag, 30. Mai 2023 14:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685449440/192/
-- Dienstag, 30. Mai 2023 17:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1685460960/381/
-- Dienstag, 30. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685460960/2926/
