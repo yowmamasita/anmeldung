@@ -5,10 +5,8 @@
 - Dienstag, 30. Mai 2023 16:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685456640/2845/
 - Dienstag, 30. Mai 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685456640/2857/
 - Dienstag, 30. Mai 2023 16:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685457360/2857/
-- Dienstag, 30. Mai 2023 16:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685458080/2845/
-- Dienstag, 30. Mai 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685458080/2857/
+- Dienstag, 30. Mai 2023 16:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685458080/2857/
 - Dienstag, 30. Mai 2023 17:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685458800/2845/
-- Dienstag, 30. Mai 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685458800/2848/
 - Dienstag, 30. Mai 2023 17:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685459520/2857/
 - Dienstag, 30. Mai 2023 17:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685460240/2845/
 - Dienstag, 30. Mai 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685460240/2848/
