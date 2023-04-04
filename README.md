@@ -3,3 +3,4 @@
 - Mittwoch, 5. April 2023 07:30 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1680672600/192/
 - Mittwoch, 5. April 2023 07:54 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680674040/922/
 - Mittwoch, 5. April 2023 08:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680675120/2863/
+- Donnerstag, 6. April 2023 17:00 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1680793200/143/
