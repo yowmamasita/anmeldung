@@ -1,6 +1,2 @@
-- Dienstag, 4. April 2023 17:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1680621840/109/
-- Mittwoch, 5. April 2023 13:54 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680695640/2887/
-- Donnerstag, 6. April 2023 08:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680762600/2914/
-- Montag, 22. Mai 2023 13:00 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1684753200/142/
 - Dienstag, 30. Mai 2023 16:12 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685455920/898/
 - Dienstag, 30. Mai 2023 17:12 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685459520/904/
