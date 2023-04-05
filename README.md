@@ -37,7 +37,7 @@
 - Mittwoch, 5. April 2023 12:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680692040/313/
 - Mittwoch, 5. April 2023 13:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680692760/313/
 - Mittwoch, 5. April 2023 13:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680693480/313/
-- Mittwoch, 5. April 2023 13:30 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1680694200/133/
-- Mittwoch, 5. April 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680694200/313/
+- Mittwoch, 5. April 2023 13:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680694200/313/
 - Mittwoch, 5. April 2023 13:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680694920/313/
 - Mittwoch, 5. April 2023 13:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680695640/313/
+- Mittwoch, 5. April 2023 14:18 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1680697080/133/
