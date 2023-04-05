@@ -1,7 +1,0 @@
-- Mittwoch, 5. April 2023 12:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680689880/313/
-- Freitag, 14. April 2023 10:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1681459920/146/
-- Dienstag, 18. April 2023 12:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681814160/2926/
-- Freitag, 28. April 2023 11:42 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682674920/844/
-- Mittwoch, 31. Mai 2023 12:00 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1685527200/381/
-- Mittwoch, 31. Mai 2023 12:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1685529000/111/
-- Mittwoch, 31. Mai 2023 13:48 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1685533680/103/
