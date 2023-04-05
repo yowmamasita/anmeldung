@@ -44,7 +44,6 @@
 - Mittwoch, 31. Mai 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685517480/898/
 - Mittwoch, 31. Mai 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685517480/847/
 - Mittwoch, 31. Mai 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685517480/904/
-- Mittwoch, 31. Mai 2023 09:20 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685517600/2941/
 - Mittwoch, 31. Mai 2023 09:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685518200/2908/
 - Mittwoch, 31. Mai 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685518200/2911/
 - Mittwoch, 31. Mai 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685518200/844/
@@ -91,7 +90,6 @@
 - Mittwoch, 31. Mai 2023 11:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685524200/2941/
 - Mittwoch, 31. Mai 2023 11:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685524680/2908/
 - Mittwoch, 31. Mai 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685524680/847/
-- Mittwoch, 31. Mai 2023 11:20 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685524800/2941/
 - Mittwoch, 31. Mai 2023 11:30 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685525400/847/
 - Mittwoch, 31. Mai 2023 11:42 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685526120/847/
 - Mittwoch, 31. Mai 2023 11:54 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685526840/847/
