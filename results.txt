@@ -1,6 +1,5 @@
-- Mittwoch, 10. Mai 2023 08:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683699120/2899/
+- Donnerstag, 6. April 2023 09:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1680765840/168/
 - Mittwoch, 10. Mai 2023 08:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683699840/172/
-- Mittwoch, 10. Mai 2023 08:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683700560/231/
 - Mittwoch, 10. Mai 2023 08:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683701280/231/
 - Mittwoch, 10. Mai 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683701280/2899/
 - Mittwoch, 10. Mai 2023 09:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683702720/231/
@@ -26,7 +25,6 @@
 - Mittwoch, 10. Mai 2023 11:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683709200/231/
 - Mittwoch, 10. Mai 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683709200/2899/
 - Mittwoch, 10. Mai 2023 11:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683709920/231/
-- Mittwoch, 10. Mai 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683709920/172/
 - Mittwoch, 10. Mai 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683709920/2899/
 - Mittwoch, 10. Mai 2023 11:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683710640/231/
 - Mittwoch, 10. Mai 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683710640/172/
@@ -45,6 +43,7 @@
 - Mittwoch, 10. Mai 2023 12:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683714960/231/
 - Mittwoch, 10. Mai 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683714960/2899/
 - Mittwoch, 10. Mai 2023 12:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683715680/231/
+- Mittwoch, 10. Mai 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683715680/172/
 - Mittwoch, 10. Mai 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683715680/2899/
 - Mittwoch, 10. Mai 2023 13:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683716400/231/
 - Mittwoch, 10. Mai 2023 13:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683717120/231/
@@ -59,6 +58,3 @@
 - Mittwoch, 10. Mai 2023 13:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683719280/231/
 - Mittwoch, 10. Mai 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683719280/2899/
 - Mittwoch, 10. Mai 2023 14:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683720720/231/
-- Mittwoch, 10. Mai 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683720720/2899/
-- Mittwoch, 10. Mai 2023 14:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683721440/2899/
-- Mittwoch, 10. Mai 2023 14:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683722160/2899/
