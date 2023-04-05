@@ -9,20 +9,16 @@
 - Mittwoch, 5. April 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1680676560/172/
 - Mittwoch, 5. April 2023 08:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680676920/313/
 - Mittwoch, 5. April 2023 09:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680679080/313/
-- Mittwoch, 5. April 2023 09:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680680520/313/
-- Mittwoch, 5. April 2023 09:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680680880/167/
+- Mittwoch, 5. April 2023 09:42 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1680680520/133/
+- Mittwoch, 5. April 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680680520/313/
 - Mittwoch, 5. April 2023 09:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680681240/313/
-- Mittwoch, 5. April 2023 10:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680682680/313/
 - Mittwoch, 5. April 2023 10:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680684120/313/
 - Mittwoch, 5. April 2023 10:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680684840/313/
 - Mittwoch, 5. April 2023 11:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680685560/313/
 - Mittwoch, 5. April 2023 11:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680686280/313/
-- Mittwoch, 5. April 2023 11:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680687000/313/
 - Mittwoch, 5. April 2023 11:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680687720/313/
 - Mittwoch, 5. April 2023 11:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680688440/313/
-- Mittwoch, 5. April 2023 12:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680689160/313/
 - Mittwoch, 5. April 2023 12:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680689880/313/
-- Mittwoch, 5. April 2023 12:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680691320/313/
 - Mittwoch, 5. April 2023 12:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680692040/313/
 - Mittwoch, 31. Mai 2023 10:18 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685521080/2911/
 - Mittwoch, 31. Mai 2023 10:42 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685522520/904/
