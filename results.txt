@@ -1,6 +1,7 @@
 - Mittwoch, 5. April 2023 07:54 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1680674040/133/
 - Mittwoch, 5. April 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680674040/313/
 - Mittwoch, 5. April 2023 08:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680674760/313/
+- Mittwoch, 5. April 2023 08:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680675120/167/
 - Mittwoch, 5. April 2023 08:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680675480/313/
 - Mittwoch, 5. April 2023 08:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680676200/313/
 - Mittwoch, 5. April 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680676200/922/
@@ -37,6 +38,4 @@
 - Mittwoch, 5. April 2023 13:30 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1680694200/133/
 - Mittwoch, 5. April 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680694200/313/
 - Mittwoch, 5. April 2023 13:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680694920/313/
-- Mittwoch, 5. April 2023 13:54 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1680695640/133/
-- Mittwoch, 5. April 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680695640/313/
-- Mittwoch, 5. April 2023 14:30 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1680697800/133/
+- Mittwoch, 5. April 2023 13:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1680695640/313/
