@@ -1,7 +1,3 @@
-- Donnerstag, 6. April 2023 11:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1680771600/146/
-- Donnerstag, 6. April 2023 11:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1680772200/147/
-- Dienstag, 11. April 2023 17:48 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681228080/2908/
-- Donnerstag, 13. April 2023 14:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681388640/2863/
 - Donnerstag, 13. April 2023 15:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1681393680/168/
 - Donnerstag, 13. April 2023 16:12 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681395120/2866/
 - Montag, 17. April 2023 09:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1681715520/170/
