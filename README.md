@@ -3,7 +3,3 @@
 - Donnerstag, 6. April 2023 09:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680765120/167/
 - Donnerstag, 6. April 2023 09:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680765840/167/
 - Donnerstag, 6. April 2023 09:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680766560/167/
-- Donnerstag, 6. April 2023 09:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680767280/167/
-- Donnerstag, 6. April 2023 10:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680769440/167/
-- Donnerstag, 6. April 2023 10:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680770160/167/
-- Donnerstag, 6. April 2023 10:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680770880/167/
