@@ -1,6 +1,14 @@
-- Donnerstag, 6. April 2023 08:48 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680763680/922/
-- Donnerstag, 6. April 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680763680/2899/
+- Donnerstag, 6. April 2023 08:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1680763680/191/
+- Donnerstag, 6. April 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680763680/922/
+- Donnerstag, 6. April 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1680763680/172/
 - Donnerstag, 6. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1680763680/192/
 - Donnerstag, 6. April 2023 09:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1680764400/192/
-- Donnerstag, 6. April 2023 09:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1680765120/192/
-- Donnerstag, 6. April 2023 10:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1680768720/190/
+- Donnerstag, 6. April 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680764400/170/
+- Donnerstag, 6. April 2023 09:06 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1680764760/109/
+- Donnerstag, 6. April 2023 10:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680768000/170/
+- Donnerstag, 6. April 2023 10:06 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680768360/844/
+- Donnerstag, 6. April 2023 10:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1680770160/190/
+- Donnerstag, 6. April 2023 10:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680770880/2926/
+- Donnerstag, 6. April 2023 15:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680786720/2896/
+- Freitag, 19. Mai 2023 10:48 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1684486080/141/
+- Montag, 22. Mai 2023 14:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684756800/2896/
