@@ -3,24 +3,11 @@
 - Donnerstag, 6. April 2023 08:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680761520/2857/
 - Donnerstag, 6. April 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1680761520/190/
 - Donnerstag, 6. April 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680761520/2887/
-- Donnerstag, 6. April 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680761520/167/
-- Donnerstag, 6. April 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680761520/2860/
 - Donnerstag, 6. April 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1680761520/153/
 - Donnerstag, 6. April 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1680761520/146/
 - Donnerstag, 6. April 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680761520/2896/
 - Donnerstag, 6. April 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680761520/2863/
-- Donnerstag, 6. April 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1680761520/172/
-- Donnerstag, 6. April 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680761520/2899/
-- Donnerstag, 6. April 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1680761520/154/
-- Donnerstag, 6. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680761520/2926/
 - Donnerstag, 6. April 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680761520/170/
-- Donnerstag, 6. April 2023 08:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1680761880/136/
-- Donnerstag, 6. April 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1680761880/112/
-- Donnerstag, 6. April 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680761880/844/
-- Donnerstag, 6. April 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1680761880/111/
-- Donnerstag, 6. April 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680761880/847/
-- Donnerstag, 6. April 2023 08:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1680762000/147/
-- Donnerstag, 6. April 2023  Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680762000/2923/
-- Donnerstag, 6. April 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680762000/2884/
-- Donnerstag, 6. April 2023 08:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680762240/2857/
-- Donnerstag, 6. April 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680762240/2932/
+- Donnerstag, 6. April 2023 08:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1680761880/111/
+- Donnerstag, 6. April 2023 08:20 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680762000/2923/
+- Donnerstag, 6. April 2023 08:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1680762240/146/
