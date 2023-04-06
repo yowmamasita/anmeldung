@@ -1,2 +1,4 @@
-- Montag, 22. Mai 2023 10:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684742400/2926/
-- Mittwoch, 24. Mai 2023 10:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684916640/3238/
+- Donnerstag, 6. April 2023 14:40 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680784800/2884/
+- Donnerstag, 6. April 2023 15:20 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680787200/2884/
+- Montag, 22. Mai 2023 10:12 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684743120/922/
+- Mittwoch, 31. Mai 2023 08:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685513520/3238/
