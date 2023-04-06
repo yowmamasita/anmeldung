@@ -12,5 +12,3 @@
 - Dienstag, 11. April 2023 13:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1681212240/169/
 - Dienstag, 11. April 2023 16:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1681222320/169/
 - Dienstag, 11. April 2023 16:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1681223040/169/
-- Dienstag, 11. April 2023 16:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1681223760/169/
-- Dienstag, 11. April 2023 16:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681224480/2863/
