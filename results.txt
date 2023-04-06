@@ -1,7 +1,1 @@
-- Donnerstag, 6. April 2023 09:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680767280/2899/
-- Donnerstag, 6. April 2023 10:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1680768000/231/
-- Donnerstag, 6. April 2023 10:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1680769080/109/
-- Donnerstag, 6. April 2023 10:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1680769440/231/
-- Montag, 17. April 2023 09:06 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681715160/844/
-- Mittwoch, 19. April 2023 11:54 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681898040/841/
 - Mittwoch, 17. Mai 2023 11:54 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684317240/844/
