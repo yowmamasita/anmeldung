@@ -1,7 +1,4 @@
-- Donnerstag, 13. April 2023 12:12 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1681380720/312/
-- Donnerstag, 20. April 2023 15:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681997040/922/
 - Donnerstag, 4. Mai 2023 11:00 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683190800/922/
-- Mittwoch, 10. Mai 2023 09:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683703440/231/
 - Mittwoch, 17. Mai 2023 11:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684314360/2908/
 - Mittwoch, 24. Mai 2023 12:36 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1684924560/142/
 - Dienstag, 30. Mai 2023 13:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685446560/2863/
