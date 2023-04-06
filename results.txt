@@ -1,7 +1,0 @@
-- Donnerstag, 6. April 2023 14:10 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680783000/2884/
-- Donnerstag, 6. April 2023 14:30 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1680784200/142/
-- Donnerstag, 6. April 2023 14:40 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680784800/2884/
-- Freitag, 14. April 2023 08:42 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681454520/844/
-- Freitag, 21. April 2023 09:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682062560/922/
-- Montag, 24. April 2023 10:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682325360/190/
-- Dienstag, 9. Mai 2023 16:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683642960/922/
