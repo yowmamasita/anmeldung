@@ -1,5 +1,4 @@
-- Donnerstag, 6. April 2023 08:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1680761520/169/
-- Donnerstag, 6. April 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680761520/2857/
+- Donnerstag, 6. April 2023 08:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680761520/2857/
 - Donnerstag, 6. April 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1680761520/190/
 - Donnerstag, 6. April 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680761520/2887/
 - Donnerstag, 6. April 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1680761520/167/
@@ -9,7 +8,6 @@
 - Donnerstag, 6. April 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1680761520/146/
 - Donnerstag, 6. April 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680761520/2896/
 - Donnerstag, 6. April 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680761520/2863/
-- Donnerstag, 6. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1680761520/191/
 - Donnerstag, 6. April 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1680761520/172/
 - Donnerstag, 6. April 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680761520/2899/
 - Donnerstag, 6. April 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1680761520/154/
@@ -45,7 +43,6 @@
 - Donnerstag, 6. April 2023 09:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1680767280/154/
 - Donnerstag, 6. April 2023 10:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1680769440/154/
 - Donnerstag, 6. April 2023 10:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1680770160/154/
-- Donnerstag, 6. April 2023 10:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1680770880/154/
 - Freitag, 26. Mai 2023 09:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1685087280/146/
 - Dienstag, 30. Mai 2023 13:00 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685444400/2932/
 - Mittwoch, 31. Mai 2023 12:42 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685529720/898/
