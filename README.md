@@ -1,6 +1,25 @@
 # List of available Anmeldung appointments as of $NOW
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122254,122252,329742,122260,329745,122262,329748,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,317869,122281,327352,122279,329772,122283,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
-- Mittwoch, 3. Mai 2023 07:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1683092520/191/
+- Donnerstag, 6. April 2023 10:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680770880/2851/
+- Donnerstag, 6. April 2023 11:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680771600/2851/
+- Donnerstag, 6. April 2023 11:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680772320/2851/
+- Donnerstag, 6. April 2023 11:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680773040/2851/
+- Donnerstag, 6. April 2023 11:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680773760/2851/
+- Donnerstag, 6. April 2023 11:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680774480/2851/
+- Donnerstag, 6. April 2023 12:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680775920/2851/
+- Donnerstag, 6. April 2023 12:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680776640/2851/
+- Donnerstag, 6. April 2023 12:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680777360/2851/
+- Donnerstag, 6. April 2023 12:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680778080/2851/
+- Donnerstag, 6. April 2023 13:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680778800/2851/
+- Donnerstag, 6. April 2023 13:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680779520/2851/
+- Donnerstag, 6. April 2023 13:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680780240/2851/
+- Donnerstag, 6. April 2023 13:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680780960/2851/
+- Donnerstag, 6. April 2023 13:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680781680/2851/
+- Donnerstag, 6. April 2023 14:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680782400/2851/
+- Donnerstag, 6. April 2023 14:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680783120/2851/
+- Donnerstag, 6. April 2023 14:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680783840/2851/
+- Donnerstag, 6. April 2023 14:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680785280/2851/
+- Donnerstag, 6. April 2023 15:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680788160/2851/
 - Mittwoch, 3. Mai 2023 07:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1683093240/191/
 - Mittwoch, 3. Mai 2023 08:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1683093960/191/
 - Mittwoch, 3. Mai 2023 08:18 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1683094680/191/
@@ -17,13 +36,10 @@
 - Mittwoch, 3. Mai 2023 10:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1683102600/191/
 - Mittwoch, 3. Mai 2023 10:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1683103320/191/
 - Mittwoch, 3. Mai 2023 10:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1683104040/191/
-- Mittwoch, 3. Mai 2023 11:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1683104760/191/
 - Mittwoch, 3. Mai 2023 11:18 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1683105480/191/
 - Mittwoch, 3. Mai 2023 11:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1683106200/191/
 - Mittwoch, 3. Mai 2023 11:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1683106920/191/
 - Mittwoch, 3. Mai 2023 11:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1683107640/191/
-- Mittwoch, 3. Mai 2023 12:18 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1683109080/191/
-- Mittwoch, 3. Mai 2023 12:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1683109800/191/
 - Mittwoch, 3. Mai 2023 12:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1683110520/191/
 - Mittwoch, 3. Mai 2023 12:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1683111240/191/
 - Mittwoch, 3. Mai 2023 13:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1683111960/191/
