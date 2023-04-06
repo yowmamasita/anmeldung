@@ -3,8 +3,6 @@
 - Freitag, 28. April 2023 08:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682663040/3238/
 - Freitag, 28. April 2023 09:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682666640/3238/
 - Freitag, 28. April 2023 10:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682670960/3238/
-- Freitag, 28. April 2023 12:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682676720/2851/
-- Montag, 15. Mai 2023 14:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684152720/191/
 - Mittwoch, 17. Mai 2023 08:30 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684305000/2911/
 - Dienstag, 23. Mai 2023 14:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684846080/2887/
 - Mittwoch, 31. Mai 2023 09:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685517120/3238/
