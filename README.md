@@ -67,7 +67,6 @@
 - Freitag, 26. Mai 2023 08:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685082240/922/
 - Freitag, 26. Mai 2023 08:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685082960/922/
 - Freitag, 26. Mai 2023 08:48 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685083680/922/
-- Freitag, 26. Mai 2023 09:00 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685084400/922/
 - Freitag, 26. Mai 2023 09:12 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685085120/922/
 - Freitag, 26. Mai 2023 09:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685085840/922/
 - Freitag, 26. Mai 2023 09:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685086560/922/
