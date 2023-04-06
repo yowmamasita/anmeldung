@@ -15,6 +15,7 @@
 - Donnerstag, 6. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680761520/2926/
 - Donnerstag, 6. April 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680761520/170/
 - Donnerstag, 6. April 2023 08:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1680761880/136/
+- Donnerstag, 6. April 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1680761880/112/
 - Donnerstag, 6. April 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680761880/844/
 - Donnerstag, 6. April 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1680761880/111/
 - Donnerstag, 6. April 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680761880/847/
@@ -25,10 +26,4 @@
 - Donnerstag, 6. April 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680762240/2857/
 - Donnerstag, 6. April 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680762240/2860/
 - Donnerstag, 6. April 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680762240/2932/
-- Donnerstag, 6. April 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1680762240/146/
 - Donnerstag, 6. April 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680762240/2896/
-- Donnerstag, 6. April 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1680762240/172/
-- Donnerstag, 6. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680762240/2926/
-- Donnerstag, 6. April 2023 08:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1680763680/154/
-- Donnerstag, 6. April 2023 09:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1680765120/170/
-- Donnerstag, 6. April 2023 10:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1680770880/154/
