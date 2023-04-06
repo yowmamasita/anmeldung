@@ -5,9 +5,6 @@
 - Donnerstag, 6. April 2023 14:50 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680785400/2884/
 - Donnerstag, 6. April 2023 15:00 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680786000/2884/
 - Donnerstag, 6. April 2023 15:10 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680786600/2884/
-- Donnerstag, 6. April 2023 15:20 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680787200/2884/
-- Donnerstag, 6. April 2023 15:30 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1680787800/2884/
-- Dienstag, 18. April 2023 14:00 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681819200/922/
 - Dienstag, 18. April 2023 14:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681820640/3238/
 - Dienstag, 16. Mai 2023 11:00 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684227600/190/
 - Montag, 22. Mai 2023 08:00 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684735200/190/
