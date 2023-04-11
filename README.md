@@ -3,5 +3,4 @@
 - Dienstag, 25. April 2023 11:24 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682414640/2932/
 - Dienstag, 25. April 2023 13:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682420400/192/
 - Dienstag, 25. April 2023 16:06 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682431560/2839/
-- Donnerstag, 27. April 2023 13:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682593200/192/
 - Montag, 22. Mai 2023 09:36 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684740960/2839/
