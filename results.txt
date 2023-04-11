@@ -1,8 +1,5 @@
-- Dienstag, 25. April 2023 13:54 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682423640/2839/
-- Dienstag, 25. April 2023 15:54 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682430840/2839/
 - Donnerstag, 27. April 2023 10:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682583480/2839/
 - Donnerstag, 27. April 2023 10:30 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682584200/2839/
-- Donnerstag, 27. April 2023 10:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682584920/2839/
 - Donnerstag, 27. April 2023 10:54 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682585640/2839/
 - Donnerstag, 27. April 2023 11:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682587080/2839/
 - Donnerstag, 27. April 2023 11:30 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682587800/2839/
@@ -24,9 +21,7 @@
 - Donnerstag, 27. April 2023 16:06 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682604360/2839/
 - Donnerstag, 27. April 2023 16:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682605080/2839/
 - Donnerstag, 27. April 2023 16:30 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682605800/2839/
-- Donnerstag, 27. April 2023 16:54 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682607240/2839/
 - Donnerstag, 27. April 2023 17:06 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682607960/2839/
-- Donnerstag, 27. April 2023 17:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682608680/2839/
 - Dienstag, 2. Mai 2023 09:54 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683014040/2839/
 - Dienstag, 2. Mai 2023 10:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683015480/2839/
 - Dienstag, 2. Mai 2023 10:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683016920/2839/
@@ -57,11 +52,10 @@
 - Dienstag, 2. Mai 2023 15:54 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683035640/2839/
 - Dienstag, 2. Mai 2023 16:06 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683036360/2839/
 - Dienstag, 2. Mai 2023 16:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683037080/2839/
-- Dienstag, 2. Mai 2023 16:30 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683037800/2839/
 - Dienstag, 2. Mai 2023 16:54 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683039240/2839/
+- Dienstag, 2. Mai 2023 17:06 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683039960/2839/
 - Dienstag, 2. Mai 2023 17:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683040680/2839/
 - Dienstag, 2. Mai 2023 17:30 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683041400/2839/
-- Donnerstag, 4. Mai 2023 09:30 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683185400/2839/
 - Donnerstag, 4. Mai 2023 09:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683186120/2839/
 - Donnerstag, 4. Mai 2023 09:54 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683186840/2839/
 - Donnerstag, 4. Mai 2023 10:06 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683187560/2839/
@@ -81,7 +75,6 @@
 - Donnerstag, 4. Mai 2023 13:06 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683198360/2839/
 - Donnerstag, 4. Mai 2023 13:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683199080/2839/
 - Donnerstag, 4. Mai 2023 13:30 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683199800/2839/
-- Donnerstag, 4. Mai 2023 13:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683200520/2839/
 - Donnerstag, 4. Mai 2023 13:54 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683201240/2839/
 - Donnerstag, 4. Mai 2023 14:06 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683201960/2839/
 - Donnerstag, 4. Mai 2023 14:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683202680/2839/
