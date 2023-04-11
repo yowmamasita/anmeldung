@@ -1,15 +1,2 @@
-- Mittwoch, 12. April 2023 08:30 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681281000/190/
-- Mittwoch, 12. April 2023 08:42 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681281720/190/
-- Mittwoch, 12. April 2023 08:54 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681282440/190/
-- Mittwoch, 12. April 2023 09:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681282800/2863/
-- Mittwoch, 12. April 2023 09:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681283520/2863/
-- Mittwoch, 12. April 2023 09:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1681284240/168/
-- Mittwoch, 12. April 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681284240/2863/
-- Mittwoch, 12. April 2023 09:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681284960/2863/
 - Mittwoch, 12. April 2023 09:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681285680/2863/
-- Mittwoch, 12. April 2023 10:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681286400/2863/
-- Mittwoch, 12. April 2023 10:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681287120/2863/
-- Mittwoch, 12. April 2023 10:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681287840/2863/
-- Mittwoch, 12. April 2023 10:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681288560/2863/
-- Mittwoch, 12. April 2023 10:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681289280/2863/
-- Mittwoch, 12. April 2023 11:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1681292880/169/
+- Mittwoch, 12. April 2023 11:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1681292880/168/
