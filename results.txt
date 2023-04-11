@@ -1,24 +1,18 @@
-- Freitag, 19. Mai 2023 10:15 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1684484100/380/
-- Freitag, 19. Mai 2023 10:30 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1684485000/380/
-- Freitag, 19. Mai 2023 11:15 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1684487700/380/
-- Freitag, 19. Mai 2023 11:45 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1684489500/380/
-- Freitag, 19. Mai 2023 12:00 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1684490400/380/
-- Freitag, 19. Mai 2023 12:15 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1684491300/380/
-- Donnerstag, 25. Mai 2023 14:15 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685016900/380/
-- Donnerstag, 25. Mai 2023 14:30 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685017800/380/
-- Donnerstag, 25. Mai 2023 14:45 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685018700/380/
-- Donnerstag, 25. Mai 2023 15:15 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685020500/380/
-- Donnerstag, 25. Mai 2023 15:30 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685021400/380/
-- Donnerstag, 25. Mai 2023 15:45 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685022300/380/
-- Donnerstag, 25. Mai 2023 16:15 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685024100/380/
-- Donnerstag, 25. Mai 2023 16:30 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685025000/380/
-- Donnerstag, 25. Mai 2023 16:45 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685025900/380/
-- Donnerstag, 25. Mai 2023 17:15 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685027700/380/
-- Donnerstag, 25. Mai 2023 17:30 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685028600/380/
-- Freitag, 26. Mai 2023 09:15 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685085300/380/
-- Freitag, 26. Mai 2023 09:30 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685086200/380/
+- Dienstag, 11. April 2023 10:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681202160/922/
+- Dienstag, 11. April 2023 10:48 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681202880/922/
+- Dienstag, 11. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681202880/192/
+- Dienstag, 11. April 2023 11:00 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681203600/922/
+- Dienstag, 11. April 2023 11:12 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681204320/922/
+- Dienstag, 11. April 2023 11:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681205040/922/
+- Dienstag, 11. April 2023 11:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681205760/922/
+- Dienstag, 11. April 2023 12:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681208640/922/
+- Dienstag, 11. April 2023 12:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681209360/922/
+- Dienstag, 11. April 2023 13:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681212960/922/
+- Dienstag, 11. April 2023 14:00 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681214400/922/
+- Dienstag, 11. April 2023 14:12 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681215120/922/
+- Dienstag, 11. April 2023 14:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681215840/922/
+- Dienstag, 11. April 2023 14:48 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681217280/922/
 - Freitag, 26. Mai 2023 09:45 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685087100/380/
-- Freitag, 26. Mai 2023 10:00 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685088000/380/
 - Freitag, 26. Mai 2023 10:15 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685088900/380/
 - Freitag, 26. Mai 2023 10:30 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685089800/380/
 - Freitag, 26. Mai 2023 10:45 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685090700/380/
@@ -29,4 +23,3 @@
 - Freitag, 26. Mai 2023 12:00 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685095200/380/
 - Freitag, 26. Mai 2023 12:15 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685096100/380/
 - Freitag, 26. Mai 2023 12:30 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685097000/380/
-- Freitag, 26. Mai 2023 12:45 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685097900/380/
