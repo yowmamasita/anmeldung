@@ -1,31 +1,8 @@
 # List of available Anmeldung appointments as of $NOW
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122254,122252,329742,122260,329745,122262,329748,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,317869,122281,327352,122279,329772,122283,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
-- Dienstag, 11. April 2023 10:48 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681202880/922/
-- Dienstag, 9. Mai 2023 10:24 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683620640/2920/
-- Dienstag, 9. Mai 2023 10:36 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683621360/2920/
-- Dienstag, 9. Mai 2023 10:48 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683622080/2920/
-- Dienstag, 9. Mai 2023 11:24 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683624240/2920/
-- Dienstag, 9. Mai 2023 11:36 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683624960/2920/
-- Dienstag, 9. Mai 2023 11:48 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683625680/2920/
-- Dienstag, 9. Mai 2023 12:24 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683627840/2920/
-- Dienstag, 9. Mai 2023 12:36 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683628560/2920/
-- Dienstag, 9. Mai 2023 12:48 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683629280/2920/
-- Donnerstag, 11. Mai 2023 14:30 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1683808200/380/
-- Donnerstag, 11. Mai 2023 14:45 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1683809100/380/
-- Donnerstag, 11. Mai 2023 15:15 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1683810900/380/
-- Donnerstag, 11. Mai 2023 15:30 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1683811800/380/
-- Donnerstag, 11. Mai 2023 15:45 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1683812700/380/
-- Donnerstag, 11. Mai 2023 16:00 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1683813600/380/
-- Donnerstag, 11. Mai 2023 16:15 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1683814500/380/
-- Donnerstag, 11. Mai 2023 16:30 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1683815400/380/
-- Donnerstag, 11. Mai 2023 16:45 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1683816300/380/
-- Donnerstag, 11. Mai 2023 17:15 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1683818100/380/
-- Donnerstag, 11. Mai 2023 17:30 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1683819000/380/
-- Freitag, 12. Mai 2023 09:00 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1683874800/380/
 - Freitag, 12. Mai 2023 09:15 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1683875700/380/
 - Freitag, 12. Mai 2023 09:30 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1683876600/380/
 - Freitag, 12. Mai 2023 09:45 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1683877500/380/
-- Freitag, 12. Mai 2023 10:00 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1683878400/380/
 - Freitag, 12. Mai 2023 10:15 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1683879300/380/
 - Freitag, 12. Mai 2023 10:30 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1683880200/380/
 - Freitag, 12. Mai 2023 10:45 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1683881100/380/
@@ -35,8 +12,6 @@
 - Freitag, 12. Mai 2023 11:45 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1683884700/380/
 - Freitag, 12. Mai 2023 12:00 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1683885600/380/
 - Freitag, 12. Mai 2023 12:15 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1683886500/380/
-- Freitag, 12. Mai 2023 12:30 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1683887400/380/
-- Freitag, 12. Mai 2023 12:45 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1683888300/380/
 - Freitag, 19. Mai 2023 09:00 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1684479600/380/
 - Freitag, 19. Mai 2023 09:15 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1684480500/380/
 - Freitag, 19. Mai 2023 09:30 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1684481400/380/
@@ -52,10 +27,6 @@
 - Freitag, 19. Mai 2023 12:00 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1684490400/380/
 - Freitag, 19. Mai 2023 12:15 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1684491300/380/
 - Freitag, 19. Mai 2023 12:30 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1684492200/380/
-- Freitag, 19. Mai 2023 12:45 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1684493100/380/
-- Dienstag, 23. Mai 2023 11:54 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684835640/2836/
-- Dienstag, 23. Mai 2023 14:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684844280/2839/
-- Dienstag, 23. Mai 2023 15:06 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684847160/2836/
 - Donnerstag, 25. Mai 2023 14:00 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685016000/380/
 - Donnerstag, 25. Mai 2023 14:15 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685016900/380/
 - Donnerstag, 25. Mai 2023 14:30 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685017800/380/
@@ -72,7 +43,6 @@
 - Donnerstag, 25. Mai 2023 17:15 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685027700/380/
 - Donnerstag, 25. Mai 2023 17:30 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685028600/380/
 - Donnerstag, 25. Mai 2023 17:45 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685029500/380/
-- Freitag, 26. Mai 2023 09:00 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685084400/380/
 - Freitag, 26. Mai 2023 09:15 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685085300/380/
 - Freitag, 26. Mai 2023 09:30 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685086200/380/
 - Freitag, 26. Mai 2023 09:45 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685087100/380/
@@ -88,4 +58,3 @@
 - Freitag, 26. Mai 2023 12:15 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685096100/380/
 - Freitag, 26. Mai 2023 12:30 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685097000/380/
 - Freitag, 26. Mai 2023 12:45 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685097900/380/
-- Dienstag, 30. Mai 2023 09:54 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685433240/2836/
