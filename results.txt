@@ -1,6 +1,0 @@
-- Mittwoch, 12. April 2023 07:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681278840/191/
-- Mittwoch, 12. April 2023 08:06 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681279560/922/
-- Mittwoch, 12. April 2023 08:18 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681280280/191/
-- Mittwoch, 12. April 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280280/922/
-- Mittwoch, 12. April 2023 08:30 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681281000/922/
-- Mittwoch, 12. April 2023 08:42 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681281720/922/
