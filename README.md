@@ -9,12 +9,9 @@
 - Mittwoch, 12. April 2023 08:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681282440/313/
 - Mittwoch, 12. April 2023 09:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681283880/313/
 - Mittwoch, 12. April 2023 09:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681284600/313/
-- Mittwoch, 12. April 2023 09:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681286040/313/
-- Mittwoch, 12. April 2023 10:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681286760/313/
 - Mittwoch, 12. April 2023 10:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681288200/313/
 - Mittwoch, 12. April 2023 10:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681288920/313/
 - Mittwoch, 12. April 2023 10:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681289640/313/
-- Mittwoch, 12. April 2023 11:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681290360/313/
 - Mittwoch, 12. April 2023 11:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681291080/313/
 - Mittwoch, 12. April 2023 11:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681291800/313/
 - Mittwoch, 12. April 2023 11:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681292520/313/
@@ -26,4 +23,3 @@
 - Mittwoch, 12. April 2023 12:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681296840/313/
 - Mittwoch, 12. April 2023 13:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681297560/313/
 - Mittwoch, 12. April 2023 13:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681298280/313/
-- Mittwoch, 12. April 2023 13:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681299000/313/
