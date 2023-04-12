@@ -4,12 +4,8 @@
 - Mittwoch, 12. April 2023 08:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1681279920/170/
 - Mittwoch, 12. April 2023 08:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1681280640/169/
 - Mittwoch, 12. April 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1681280640/170/
-- Mittwoch, 12. April 2023 08:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1681281360/170/
 - Mittwoch, 12. April 2023 09:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1681283520/169/
-- Mittwoch, 12. April 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1681283520/170/
 - Mittwoch, 12. April 2023 09:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1681284240/169/
 - Mittwoch, 12. April 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1681284240/170/
-- Mittwoch, 12. April 2023 09:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1681284960/169/
-- Mittwoch, 12. April 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1681284960/170/
+- Mittwoch, 12. April 2023 09:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1681284960/170/
 - Mittwoch, 12. April 2023 09:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1681285680/169/
-- Mittwoch, 12. April 2023 10:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1681287840/169/
