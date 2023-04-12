@@ -1,18 +1,2 @@
 - Mittwoch, 12. April 2023 07:54 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681278840/922/
-- Mittwoch, 12. April 2023 08:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681279200/167/
-- Mittwoch, 12. April 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681279200/2896/
-- Mittwoch, 12. April 2023 08:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681279920/167/
-- Mittwoch, 12. April 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681279920/2896/
-- Mittwoch, 12. April 2023 08:18 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280280/898/
-- Mittwoch, 12. April 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681280280/190/
-- Mittwoch, 12. April 2023 08:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681281360/2896/
-- Mittwoch, 12. April 2023 08:42 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681281720/922/
-- Mittwoch, 12. April 2023 08:54 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681282440/192/
-- Mittwoch, 12. April 2023 09:06 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681283160/192/
-- Mittwoch, 12. April 2023 09:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681283520/2896/
-- Mittwoch, 12. April 2023 09:18 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681283880/192/
-- Mittwoch, 12. April 2023 09:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681284960/2896/
-- Mittwoch, 12. April 2023 10:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1681286400/170/
-- Mittwoch, 12. April 2023 10:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681287120/2896/
-- Mittwoch, 12. April 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1681287120/170/
-- Mittwoch, 12. April 2023 10:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1681287840/170/
+- Mittwoch, 12. April 2023 08:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1681279200/169/
