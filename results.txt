@@ -1,7 +1,0 @@
-- Mittwoch, 12. April 2023 10:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681289280/2857/
-- Mittwoch, 12. April 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681289280/2875/
-- Mittwoch, 12. April 2023 12:00 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681293600/2872/
-- Mittwoch, 12. April 2023 12:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681294320/2872/
-- Mittwoch, 12. April 2023 12:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681295040/2872/
-- Mittwoch, 12. April 2023 12:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681295760/2872/
-- Freitag, 5. Mai 2023 07:54 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683266040/2911/
