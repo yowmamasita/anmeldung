@@ -1,9 +1,0 @@
-- Mittwoch, 12. April 2023 10:42 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681288920/922/
-- Mittwoch, 12. April 2023 10:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681289280/2896/
-- Mittwoch, 12. April 2023 12:18 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681294680/190/
-- Mittwoch, 12. April 2023 12:24 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1681295040/102/
-- Freitag, 14. April 2023 09:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681458840/2914/
-- Dienstag, 18. April 2023 17:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681832880/2926/
-- Mittwoch, 19. April 2023 09:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681890120/2908/
-- Mittwoch, 26. April 2023 09:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682493120/2851/
-- Mittwoch, 17. Mai 2023 10:06 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684310760/904/
