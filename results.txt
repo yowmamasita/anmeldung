@@ -1,9 +1,6 @@
-- Mittwoch, 12. April 2023 08:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280280/2908/
-- Mittwoch, 12. April 2023  Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1681280280/135/
-- Mittwoch, 12. April 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280280/2911/
+- Mittwoch, 12. April 2023 08:18 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280280/2911/
 - Mittwoch, 12. April 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280280/2914/
 - Mittwoch, 12. April 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1681280280/112/
-- Mittwoch, 12. April 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280280/844/
 - Mittwoch, 12. April 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280280/841/
 - Mittwoch, 12. April 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280280/898/
 - Mittwoch, 12. April 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280280/2887/
@@ -11,12 +8,9 @@
 - Mittwoch, 12. April 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280280/847/
 - Mittwoch, 12. April 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681280280/313/
 - Mittwoch, 12. April 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280280/904/
-- Mittwoch, 12. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681280280/191/
 - Mittwoch, 12. April 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280280/922/
 - Mittwoch, 12. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681280280/192/
 - Mittwoch, 12. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280280/2926/
-- Mittwoch, 12. April 2023 08:20 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1681280400/148/
-- Mittwoch, 12. April 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280400/2884/
 - Mittwoch, 12. April 2023 08:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280640/2845/
 - Mittwoch, 12. April 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280640/2848/
 - Mittwoch, 12. April 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1681280640/169/
@@ -25,36 +19,27 @@
 - Mittwoch, 12. April 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1681280640/381/
 - Mittwoch, 12. April 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681280640/231/
 - Mittwoch, 12. April 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1681280640/102/
+- Mittwoch, 12. April 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280640/2872/
 - Mittwoch, 12. April 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280640/2851/
 - Mittwoch, 12. April 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681280640/167/
 - Mittwoch, 12. April 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280640/2860/
-- Mittwoch, 12. April 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280640/2854/
 - Mittwoch, 12. April 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280640/2896/
 - Mittwoch, 12. April 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1681280640/168/
 - Mittwoch, 12. April 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280640/2863/
 - Mittwoch, 12. April 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1681280640/172/
 - Mittwoch, 12. April 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280640/2899/
-- Mittwoch, 12. April 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280640/2938/
 - Mittwoch, 12. April 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280640/2875/
 - Mittwoch, 12. April 2023 08:30 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1681281000/135/
 - Mittwoch, 12. April 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681281000/2911/
 - Mittwoch, 12. April 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681281000/844/
 - Mittwoch, 12. April 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681281000/898/
+- Mittwoch, 12. April 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1681281000/111/
 - Mittwoch, 12. April 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681281000/847/
 - Mittwoch, 12. April 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681281000/313/
 - Mittwoch, 12. April 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681281000/904/
-- Mittwoch, 12. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681281000/192/
 - Mittwoch, 12. April 2023 08:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681281360/2845/
 - Mittwoch, 12. April 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681281360/2857/
 - Mittwoch, 12. April 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681281360/231/
 - Mittwoch, 12. April 2023  Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681281360/2893/
 - Mittwoch, 12. April 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681281360/2875/
-- Mittwoch, 12. April 2023 08:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681282080/2845/
-- Mittwoch, 12. April 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681282080/231/
-- Mittwoch, 12. April 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681282080/2899/
-- Mittwoch, 12. April 2023 08:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681282440/313/
-- Mittwoch, 12. April 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681282440/922/
-- Mittwoch, 12. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681282440/192/
-- Mittwoch, 12. April 2023 09:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681282800/231/
-- Mittwoch, 24. Mai 2023 11:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684918800/3238/
-- Mittwoch, 24. Mai 2023 13:00 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684926000/2854/
+- Mittwoch, 12. April 2023 08:54 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681282440/192/
