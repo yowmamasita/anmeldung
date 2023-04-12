@@ -3,7 +3,6 @@
 - Mittwoch, 12. April 2023 08:06 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681279560/898/
 - Mittwoch, 12. April 2023 08:18 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280280/898/
 - Mittwoch, 12. April 2023 08:42 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681281720/898/
-- Mittwoch, 12. April 2023 08:54 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681282440/898/
 - Mittwoch, 12. April 2023 09:06 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681283160/898/
 - Mittwoch, 12. April 2023 09:18 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681283880/898/
 - Mittwoch, 12. April 2023 09:30 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681284600/898/
@@ -13,5 +12,3 @@
 - Mittwoch, 12. April 2023 10:42 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681288920/898/
 - Mittwoch, 12. April 2023 11:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1681292880/143/
 - Mittwoch, 12. April 2023 12:00 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1681293600/143/
-- Mittwoch, 12. April 2023 13:30 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681299000/898/
-- Donnerstag, 13. April 2023 14:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681388640/2899/
