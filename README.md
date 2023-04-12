@@ -42,7 +42,6 @@
 - Mittwoch, 12. April 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681281000/2911/
 - Mittwoch, 12. April 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681281000/844/
 - Mittwoch, 12. April 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681281000/898/
-- Mittwoch, 12. April 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1681281000/111/
 - Mittwoch, 12. April 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681281000/847/
 - Mittwoch, 12. April 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681281000/313/
 - Mittwoch, 12. April 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681281000/904/
@@ -59,10 +58,5 @@
 - Mittwoch, 12. April 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681282440/922/
 - Mittwoch, 12. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681282440/192/
 - Mittwoch, 12. April 2023 09:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681282800/231/
-- Mittwoch, 12. April 2023 09:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681283520/231/
-- Mittwoch, 12. April 2023 09:30 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681284600/898/
-- Montag, 15. Mai 2023 08:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684132560/190/
 - Mittwoch, 24. Mai 2023 11:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684918800/3238/
 - Mittwoch, 24. Mai 2023 13:00 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684926000/2854/
-- Mittwoch, 31. Mai 2023 07:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1685512080/143/
-- Mittwoch, 31. Mai 2023 12:24 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685528640/2836/
