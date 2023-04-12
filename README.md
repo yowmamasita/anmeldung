@@ -6,7 +6,6 @@
 - Mittwoch, 12. April 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280280/898/
 - Mittwoch, 12. April 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280280/2887/
 - Mittwoch, 12. April 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280280/847/
-- Mittwoch, 12. April 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681280280/313/
 - Mittwoch, 12. April 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280280/904/
 - Mittwoch, 12. April 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280280/922/
 - Mittwoch, 12. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280280/2926/
@@ -15,19 +14,17 @@
 - Mittwoch, 12. April 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280640/2896/
 - Mittwoch, 12. April 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280640/2863/
 - Mittwoch, 12. April 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1681280640/172/
+- Mittwoch, 12. April 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280640/2938/
 - Mittwoch, 12. April 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681280640/2875/
-- Mittwoch, 12. April 2023 08:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681281000/313/
-- Mittwoch, 12. April 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681281000/904/
+- Mittwoch, 12. April 2023 08:30 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681281000/904/
 - Mittwoch, 12. April 2023 08:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681282200/150/
+- Mittwoch, 12. April 2023 08:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681282440/313/
+- Mittwoch, 12. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681282440/192/
+- Mittwoch, 12. April 2023 09:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681283880/313/
 - Mittwoch, 12. April 2023 09:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681284000/150/
-- Mittwoch, 12. April 2023 09:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681284600/150/
+- Mittwoch, 12. April 2023 09:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681284600/313/
+- Mittwoch, 12. April 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681284600/150/
 - Mittwoch, 12. April 2023 09:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681285200/150/
+- Mittwoch, 12. April 2023 09:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681285320/313/
 - Mittwoch, 12. April 2023 09:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681285800/150/
-- Mittwoch, 12. April 2023 09:54 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681286040/190/
-- Mittwoch, 12. April 2023 10:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681287000/150/
-- Mittwoch, 12. April 2023 10:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681288200/150/
-- Mittwoch, 12. April 2023 10:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681289400/150/
-- Mittwoch, 12. April 2023 12:42 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681296120/190/
-- Mittwoch, 12. April 2023 12:54 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681296840/190/
-- Mittwoch, 12. April 2023 13:06 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681297560/190/
-- Mittwoch, 12. April 2023 13:18 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681298280/190/
+- Mittwoch, 12. April 2023 10:00 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681286400/150/
