@@ -1,4 +1,3 @@
-- Donnerstag, 13. April 2023 10:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681373520/2899/
 - Donnerstag, 13. April 2023 10:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681374240/2899/
 - Donnerstag, 13. April 2023 10:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681374960/2899/
 - Donnerstag, 13. April 2023 10:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681375680/2899/
@@ -11,7 +10,6 @@
 - Donnerstag, 13. April 2023 12:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681382160/2899/
 - Donnerstag, 13. April 2023 12:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681382880/2899/
 - Donnerstag, 13. April 2023 15:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681392240/2899/
-- Donnerstag, 13. April 2023 15:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681392960/2899/
 - Donnerstag, 13. April 2023 15:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681393680/2863/
 - Donnerstag, 13. April 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681393680/2899/
 - Donnerstag, 13. April 2023 16:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681394400/2899/
@@ -19,4 +17,6 @@
 - Donnerstag, 13. April 2023 16:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681395840/2899/
 - Donnerstag, 13. April 2023 16:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681397280/2899/
 - Donnerstag, 13. April 2023 17:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681398720/2899/
-- Donnerstag, 13. April 2023 17:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681399440/2899/
+- Donnerstag, 27. April 2023 11:12 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682586720/2866/
+- Donnerstag, 25. Mai 2023 13:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685012400/2926/
+- Mittwoch, 31. Mai 2023 13:00 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685530800/2839/
