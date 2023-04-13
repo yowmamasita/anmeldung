@@ -1,26 +1,14 @@
 - Donnerstag, 13. April 2023 10:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681374960/231/
 - Donnerstag, 13. April 2023 10:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681375680/231/
-- Donnerstag, 13. April 2023 11:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1681377120/169/
-- Donnerstag, 13. April 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681377120/167/
-- Donnerstag, 13. April 2023 11:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1681377840/169/
-- Donnerstag, 13. April 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681377840/922/
+- Donnerstag, 13. April 2023 11:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681377120/167/
 - Donnerstag, 13. April 2023 11:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1681379280/169/
 - Donnerstag, 13. April 2023 12:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681380000/167/
 - Donnerstag, 13. April 2023 12:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681382160/231/
 - Donnerstag, 13. April 2023 12:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681382880/231/
-- Donnerstag, 13. April 2023 13:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1681384320/172/
-- Donnerstag, 13. April 2023 13:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681385040/167/
 - Donnerstag, 13. April 2023 15:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681391520/2845/
 - Donnerstag, 13. April 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681391520/231/
 - Donnerstag, 13. April 2023 15:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681392240/2845/
-- Donnerstag, 13. April 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681392240/231/
-- Donnerstag, 13. April 2023 15:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681392960/2845/
-- Donnerstag, 13. April 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681392960/231/
-- Donnerstag, 13. April 2023 15:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681393680/231/
-- Donnerstag, 13. April 2023 16:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681394400/231/
-- Donnerstag, 13. April 2023 16:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1681395120/169/
 - Donnerstag, 13. April 2023 16:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681395840/231/
-- Donnerstag, 13. April 2023 16:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681396560/231/
-- Donnerstag, 13. April 2023 16:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1681397280/169/
-- Donnerstag, 13. April 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681397280/231/
-- Donnerstag, 13. April 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1681397280/172/
+- Donnerstag, 13. April 2023 16:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681397280/231/
+- Mittwoch, 31. Mai 2023 09:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685519640/2908/
+- Mittwoch, 31. Mai 2023 12:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1685527200/168/
