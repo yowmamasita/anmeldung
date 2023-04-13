@@ -24,8 +24,6 @@
 - Dienstag, 23. Mai 2023 15:10 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1684847400/149/
 - Dienstag, 23. Mai 2023 15:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1684848000/149/
 - Dienstag, 23. Mai 2023 15:30 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1684848600/149/
-- Dienstag, 23. Mai 2023 15:40 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1684849200/149/
-- Mittwoch, 24. Mai 2023 07:30 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1684906200/149/
 - Mittwoch, 24. Mai 2023 07:40 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1684906800/149/
 - Mittwoch, 24. Mai 2023 07:50 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1684907400/149/
 - Mittwoch, 24. Mai 2023 08:00 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1684908000/149/
@@ -50,7 +48,6 @@
 - Mittwoch, 24. Mai 2023 11:40 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1684921200/149/
 - Mittwoch, 24. Mai 2023 11:50 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1684921800/149/
 - Mittwoch, 24. Mai 2023 12:10 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1684923000/149/
-- Mittwoch, 24. Mai 2023 12:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1684923600/149/
 - Mittwoch, 24. Mai 2023 12:30 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1684924200/149/
 - Mittwoch, 24. Mai 2023 12:40 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1684924800/149/
 - Mittwoch, 24. Mai 2023 12:50 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1684925400/149/
@@ -84,7 +81,6 @@
 - Donnerstag, 25. Mai 2023 14:50 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1685019000/149/
 - Donnerstag, 25. Mai 2023 15:00 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1685019600/149/
 - Donnerstag, 25. Mai 2023 15:10 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1685020200/149/
-- Donnerstag, 25. Mai 2023 15:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1685020800/149/
 - Freitag, 26. Mai 2023 08:50 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1685083800/149/
 - Freitag, 26. Mai 2023 09:00 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1685084400/149/
 - Freitag, 26. Mai 2023 09:10 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1685085000/149/
@@ -124,7 +120,6 @@
 - Dienstag, 30. Mai 2023 15:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1685452800/149/
 - Dienstag, 30. Mai 2023 15:30 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1685453400/149/
 - Dienstag, 30. Mai 2023 15:40 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1685454000/149/
-- Dienstag, 30. Mai 2023 15:50 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1685454600/149/
 - Dienstag, 30. Mai 2023 16:10 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1685455800/149/
 - Dienstag, 30. Mai 2023 16:50 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1685458200/149/
 - Mittwoch, 31. Mai 2023 07:50 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1685512200/149/
