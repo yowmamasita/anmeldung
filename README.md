@@ -8,5 +8,4 @@
 - Freitag, 14. April 2023 09:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681455600/191/
 - Freitag, 14. April 2023 09:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681456320/191/
 - Freitag, 14. April 2023 09:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681457040/191/
-- Freitag, 14. April 2023 09:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681457760/191/
 - Freitag, 14. April 2023 10:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681460640/2857/
