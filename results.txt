@@ -1,39 +1,9 @@
-- Donnerstag, 13. April 2023 09:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681372080/2845/
-- Donnerstag, 13. April 2023 10:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681372800/2845/
-- Donnerstag, 13. April 2023 10:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681373520/2845/
-- Donnerstag, 13. April 2023 10:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681374240/2845/
-- Donnerstag, 13. April 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1681374240/112/
-- Donnerstag, 13. April 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1681374240/146/
-- Donnerstag, 13. April 2023 10:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681374960/2845/
-- Donnerstag, 13. April 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1681374960/146/
-- Donnerstag, 13. April 2023 10:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681375680/2845/
-- Donnerstag, 13. April 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1681375680/112/
-- Donnerstag, 13. April 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681375680/2875/
-- Donnerstag, 13. April 2023 11:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681377120/2845/
-- Donnerstag, 13. April 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681377120/2875/
-- Donnerstag, 13. April 2023 11:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681377840/2845/
-- Donnerstag, 13. April 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681377840/2875/
-- Donnerstag, 13. April 2023 11:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681378560/2845/
-- Donnerstag, 13. April 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1681378560/112/
-- Donnerstag, 13. April 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1681378560/146/
-- Donnerstag, 13. April 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681378560/2875/
-- Donnerstag, 13. April 2023 11:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681379280/2845/
-- Donnerstag, 13. April 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1681379280/112/
-- Donnerstag, 13. April 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1681379280/146/
-- Donnerstag, 13. April 2023 12:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1681380720/146/
-- Donnerstag, 13. April 2023 12:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1681381440/146/
-- Donnerstag, 13. April 2023 12:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1681382160/146/
-- Donnerstag, 13. April 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681382160/2875/
-- Donnerstag, 13. April 2023 12:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1681382880/146/
-- Donnerstag, 13. April 2023 13:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681383600/2845/
-- Donnerstag, 13. April 2023 13:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681384320/2845/
-- Donnerstag, 13. April 2023 13:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681385040/2845/
-- Donnerstag, 13. April 2023 13:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681385760/2845/
-- Donnerstag, 13. April 2023 13:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681386480/2845/
-- Donnerstag, 13. April 2023 14:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681387200/2845/
-- Donnerstag, 13. April 2023 14:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681387920/2845/
-- Donnerstag, 13. April 2023 14:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681388640/2845/
-- Donnerstag, 13. April 2023 14:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681389360/2845/
-- Donnerstag, 13. April 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1681389360/146/
-- Donnerstag, 13. April 2023 14:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681390080/2845/
-- Donnerstag, 13. April 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1681390080/146/
+- Donnerstag, 13. April 2023 11:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1681377120/146/
+- Donnerstag, 11. Mai 2023 10:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683794880/2872/
+- Donnerstag, 11. Mai 2023 11:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683796320/2872/
+- Donnerstag, 11. Mai 2023 11:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683797040/2872/
+- Donnerstag, 11. Mai 2023 11:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683797760/2872/
+- Donnerstag, 11. Mai 2023 11:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683798480/2872/
+- Donnerstag, 11. Mai 2023 12:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683799920/2872/
+- Donnerstag, 11. Mai 2023 12:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683800640/2872/
+- Donnerstag, 11. Mai 2023 12:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683801360/2872/
