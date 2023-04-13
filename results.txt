@@ -1,5 +1,4 @@
-- Freitag, 21. April 2023 11:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682068320/2863/
-- Mittwoch, 24. Mai 2023 12:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684925280/172/
+- Donnerstag, 20. April 2023 15:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1681995600/172/
 - Donnerstag, 25. Mai 2023 14:10 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1685016600/149/
 - Dienstag, 30. Mai 2023 13:24 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685445840/898/
 - Dienstag, 30. Mai 2023 14:30 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1685449800/149/
