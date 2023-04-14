@@ -1,8 +1,7 @@
-- Montag, 17. April 2023 08:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681713360/167/
 - Montag, 17. April 2023 08:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681714080/167/
+- Montag, 17. April 2023 09:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681715520/167/
 - Montag, 17. April 2023 09:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681716240/167/
 - Montag, 17. April 2023 09:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681717680/167/
-- Montag, 17. April 2023 10:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681718400/167/
 - Montag, 17. April 2023 10:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681719120/167/
 - Montag, 17. April 2023 10:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681719840/167/
 - Montag, 17. April 2023 10:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681720560/167/
@@ -24,4 +23,3 @@
 - Montag, 17. April 2023 14:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681734240/167/
 - Montag, 17. April 2023 14:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681734960/167/
 - Dienstag, 18. April 2023 15:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1681822800/170/
-- Mittwoch, 19. April 2023 12:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1681899600/149/
