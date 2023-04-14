@@ -1,11 +1,1 @@
-- Freitag, 14. April 2023 08:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681452720/191/
-- Freitag, 14. April 2023 09:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681455600/2857/
-- Freitag, 14. April 2023 09:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681457040/167/
-- Freitag, 14. April 2023 10:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681459200/2857/
-- Freitag, 14. April 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681459200/2887/
-- Freitag, 14. April 2023 10:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681459920/2857/
-- Freitag, 14. April 2023 10:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681462080/2857/
-- Montag, 17. April 2023 13:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681729920/3238/
-- Donnerstag, 20. April 2023 14:00 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1681992000/147/
-- Donnerstag, 11. Mai 2023 13:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1683804240/168/
-- Mittwoch, 31. Mai 2023 08:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1685514960/167/
+- Freitag, 14. April 2023 09:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681458480/2899/
