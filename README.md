@@ -10,7 +10,6 @@
 - Montag, 17. April 2023 09:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681716240/2857/
 - Montag, 17. April 2023 09:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681716960/2857/
 - Montag, 17. April 2023 09:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681717680/2857/
-- Montag, 17. April 2023 10:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681719840/2857/
 - Montag, 17. April 2023 10:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681720560/2857/
 - Montag, 17. April 2023 10:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681721280/2857/
-- Montag, 17. April 2023 11:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681722000/2857/
+- Montag, 17. April 2023 11:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681724880/167/
