@@ -11,15 +11,12 @@
 - Dienstag, 18. April 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681810560/2863/
 - Dienstag, 18. April 2023 11:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1681811280/168/
 - Dienstag, 18. April 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681811280/2863/
-- Dienstag, 18. April 2023 12:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681812000/3238/
-- Dienstag, 18. April 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1681812000/168/
+- Dienstag, 18. April 2023 12:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1681812000/168/
 - Dienstag, 18. April 2023 12:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1681812720/168/
 - Dienstag, 18. April 2023 12:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1681813440/168/
 - Dienstag, 18. April 2023 12:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1681814160/168/
 - Dienstag, 18. April 2023 12:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1681814880/168/
 - Dienstag, 18. April 2023 13:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1681816320/168/
-- Dienstag, 18. April 2023 13:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1681817040/168/
-- Dienstag, 18. April 2023 13:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1681817760/168/
 - Dienstag, 18. April 2023 13:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1681818480/168/
 - Dienstag, 18. April 2023 14:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1681819200/168/
 - Dienstag, 18. April 2023 14:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1681819920/168/
@@ -39,4 +36,3 @@
 - Dienstag, 18. April 2023 17:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1681830720/168/
 - Dienstag, 18. April 2023 17:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1681831440/168/
 - Dienstag, 18. April 2023 17:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1681832160/168/
-- Mittwoch, 19. April 2023 13:12 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681902720/2893/
