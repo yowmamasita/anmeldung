@@ -1,4 +1,4 @@
-- Montag, 17. April 2023 07:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1681710120/112/
-- Montag, 17. April 2023 08:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1681713000/109/
-- Montag, 17. April 2023 12:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681727400/313/
-- Montag, 17. April 2023 12:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681727760/2887/
+- Montag, 17. April 2023 08:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681712280/313/
+- Montag, 17. April 2023 10:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1681720920/109/
+- Montag, 17. April 2023 12:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681728840/313/
+- Montag, 17. April 2023 14:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1681734600/109/
