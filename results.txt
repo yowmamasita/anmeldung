@@ -1,0 +1,38 @@
+- Montag, 17. April 2023 10:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681718400/192/
+- Montag, 17. April 2023 10:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681719120/2863/
+- Montag, 17. April 2023 10:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1681721280/172/
+- Montag, 17. April 2023 10:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681721640/313/
+- Montag, 17. April 2023 11:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681722000/2863/
+- Montag, 17. April 2023 11:12 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1681722720/102/
+- Montag, 17. April 2023 11:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681723440/2863/
+- Montag, 17. April 2023 13:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681729920/3238/
+- Montag, 17. April 2023 13:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681731720/313/
+- Mittwoch, 19. April 2023 07:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681882200/191/
+- Mittwoch, 19. April 2023 08:20 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1681885200/151/
+- Mittwoch, 19. April 2023 08:30 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681885800/190/
+- Mittwoch, 3. Mai 2023 10:30 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683102600/922/
+- Montag, 8. Mai 2023 10:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683534960/922/
+- Donnerstag, 11. Mai 2023 10:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683794160/922/
+- Freitag, 12. Mai 2023 08:42 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683873720/904/
+- Dienstag, 16. Mai 2023 14:30 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684240200/2839/
+- Montag, 22. Mai 2023 09:50 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684741800/2881/
+- Montag, 22. Mai 2023 14:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684759680/3238/
+- Dienstag, 23. Mai 2023 12:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684837440/3238/
+- Dienstag, 23. Mai 2023 12:40 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684838400/2881/
+- Dienstag, 23. Mai 2023 14:30 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684845000/2881/
+- Mittwoch, 24. Mai 2023 08:40 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684910400/2881/
+- Mittwoch, 24. Mai 2023 09:30 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684913400/2881/
+- Mittwoch, 24. Mai 2023 13:00 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684926000/2881/
+- Mittwoch, 24. Mai 2023 13:20 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684927200/2881/
+- Mittwoch, 24. Mai 2023 13:30 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684927800/2881/
+- Donnerstag, 25. Mai 2023 11:10 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685005800/2881/
+- Donnerstag, 25. Mai 2023 12:20 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685010000/2881/
+- Donnerstag, 25. Mai 2023 14:30 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685017800/2881/
+- Freitag, 26. Mai 2023 08:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685082240/922/
+- Freitag, 26. Mai 2023 11:20 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685092800/2881/
+- Dienstag, 30. Mai 2023 13:12 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685445120/898/
+- Dienstag, 30. Mai 2023 14:10 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685448600/2881/
+- Dienstag, 30. Mai 2023 14:20 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685449200/2881/
+- Dienstag, 30. Mai 2023 15:10 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685452200/2881/
+- Mittwoch, 31. Mai 2023 07:50 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685512200/2881/
+- Mittwoch, 31. Mai 2023 08:40 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685515200/2881/
