@@ -15,13 +15,10 @@
 - Montag, 17. April 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681712280/847/
 - Montag, 17. April 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681712280/904/
 - Montag, 17. April 2023 08:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1681712400/147/
-- Montag, 17. April 2023  Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681712400/2923/
 - Montag, 17. April 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1681712400/149/
 - Montag, 17. April 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681712400/150/
 - Montag, 17. April 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681712400/2884/
-- Montag, 17. April 2023 08:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1681712640/106/
-- Montag, 17. April 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681712640/2845/
-- Montag, 17. April 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1681712640/108/
+- Montag, 17. April 2023 08:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681712640/2845/
 - Montag, 17. April 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1681712640/169/
 - Montag, 17. April 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681712640/2839/
 - Montag, 17. April 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1681712640/190/
@@ -64,6 +61,7 @@
 - Montag, 17. April 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681713360/2899/
 - Montag, 17. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681713360/192/
 - Montag, 17. April 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681713360/2926/
+- Montag, 17. April 2023 08:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681713600/150/
 - Montag, 17. April 2023 08:42 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681713720/898/
 - Montag, 17. April 2023 08:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681714080/231/
 - Montag, 17. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681714080/192/
@@ -75,24 +73,20 @@
 - Montag, 17. April 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1681715520/172/
 - Montag, 17. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681715520/192/
 - Montag, 17. April 2023 09:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681715880/2908/
-- Montag, 17. April 2023 09:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681716240/231/
 - Montag, 17. April 2023 09:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681716960/231/
 - Montag, 17. April 2023 09:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681717680/231/
 - Montag, 17. April 2023 10:00 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681718400/2887/
 - Montag, 17. April 2023 10:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681719120/2926/
-- Montag, 17. April 2023 11:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681723440/2899/
 - Montag, 17. April 2023 14:18 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681733880/898/
-- Montag, 17. April 2023 14:54 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681736040/904/
 - Montag, 17. April 2023 15:18 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681737480/898/
 - Dienstag, 18. April 2023 10:12 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681805520/898/
-- Dienstag, 18. April 2023 10:24 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681806240/898/
 - Dienstag, 18. April 2023 10:48 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681807680/898/
 - Dienstag, 18. April 2023 11:00 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681808400/898/
 - Dienstag, 18. April 2023 11:24 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681809840/898/
 - Dienstag, 18. April 2023 11:36 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681810560/898/
 - Dienstag, 18. April 2023 11:48 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681811280/898/
+- Dienstag, 18. April 2023 12:12 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681812720/898/
 - Dienstag, 18. April 2023 12:24 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681813440/898/
 - Dienstag, 18. April 2023 12:36 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681814160/898/
 - Dienstag, 18. April 2023 12:48 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681814880/898/
-- Dienstag, 18. April 2023 15:00 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681822800/898/
-- Dienstag, 18. April 2023 17:48 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681832880/2893/
+- Dienstag, 18. April 2023 15:36 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681824960/898/
