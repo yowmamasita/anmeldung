@@ -1,8 +1,6 @@
-- Montag, 17. April 2023 11:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681723440/2863/
-- Dienstag, 18. April 2023 15:40 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681825200/2923/
-- Mittwoch, 19. April 2023 14:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1681908480/146/
-- Mittwoch, 3. Mai 2023 09:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683098280/2914/
-- Mittwoch, 17. Mai 2023 10:36 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684312560/2836/
+- Montag, 17. April 2023 11:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681724160/167/
+- Mittwoch, 19. April 2023 10:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681894080/3238/
+- Freitag, 21. April 2023 08:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682057520/191/
 - Montag, 22. Mai 2023 12:20 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684750800/2881/
 - Montag, 22. Mai 2023 13:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684754640/3238/
 - Dienstag, 23. Mai 2023 17:40 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684856400/2881/
