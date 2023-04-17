@@ -1,8 +1,6 @@
 - Montag, 17. April 2023 08:06 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681711560/898/
-- Montag, 17. April 2023 08:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681711920/2845/
-- Montag, 17. April 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681711920/231/
+- Montag, 17. April 2023 08:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681711920/231/
 - Montag, 17. April 2023 08:18 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1681712280/133/
-- Montag, 17. April 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1681712280/109/
 - Montag, 17. April 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681712280/898/
 - Montag, 17. April 2023 08:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681712640/231/
 - Montag, 17. April 2023 08:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681713000/2908/
@@ -15,7 +13,6 @@
 - Montag, 17. April 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681715520/231/
 - Montag, 17. April 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1681715520/168/
 - Montag, 17. April 2023 09:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681716240/231/
-- Montag, 17. April 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1681716240/168/
 - Montag, 17. April 2023 09:30 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1681716600/133/
 - Montag, 17. April 2023 09:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681716960/231/
 - Montag, 17. April 2023 09:42 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1681717320/133/
@@ -28,7 +25,4 @@
 - Montag, 17. April 2023 10:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681720560/231/
 - Montag, 17. April 2023 12:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681727760/2887/
 - Montag, 17. April 2023 12:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681728840/2914/
-- Montag, 17. April 2023 13:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1681732440/109/
-- Montag, 17. April 2023 14:06 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1681733160/109/
-- Dienstag, 18. April 2023 11:10 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1681809000/151/
 - Mittwoch, 19. April 2023 13:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681904880/2896/
