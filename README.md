@@ -118,9 +118,7 @@
 - Montag, 17. April 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681726320/2863/
 - Montag, 17. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681726320/192/
 - Montag, 17. April 2023 12:20 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681726800/2881/
-- Montag, 17. April 2023 12:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681727040/2845/
-- Montag, 17. April 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681727040/2872/
-- Montag, 17. April 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681727040/2851/
+- Montag, 17. April 2023 12:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681727040/2851/
 - Montag, 17. April 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681727040/2896/
 - Montag, 17. April 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681727040/2863/
 - Montag, 17. April 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681727040/1018/
@@ -189,4 +187,3 @@
 - Montag, 17. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681734960/192/
 - Montag, 17. April 2023 15:00 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681736400/2881/
 - Montag, 17. April 2023 15:10 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681737000/2881/
-- Montag, 17. April 2023 15:20 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681737600/2881/
