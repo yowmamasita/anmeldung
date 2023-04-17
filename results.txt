@@ -2,7 +2,6 @@
 - Montag, 17. April 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681710120/313/
 - Montag, 17. April 2023 07:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1681710840/112/
 - Montag, 17. April 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681710840/313/
-- Montag, 17. April 2023 08:06 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1681711560/112/
-- Montag, 17. April 2023 10:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681720920/313/
-- Montag, 17. April 2023 10:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681721640/313/
-- Montag, 17. April 2023 11:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681722360/313/
+- Montag, 17. April 2023 10:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1681720920/112/
+- Montag, 17. April 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681720920/313/
+- Montag, 17. April 2023 14:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1681734600/313/
