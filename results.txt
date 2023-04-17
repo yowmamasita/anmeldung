@@ -1,7 +1,5 @@
-- Montag, 24. April 2023 11:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682328600/2908/
 - Freitag, 28. April 2023 09:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682666280/2914/
 - Mittwoch, 3. Mai 2023 13:00 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683111600/2881/
-- Freitag, 12. Mai 2023 09:20 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683876000/2881/
 - Dienstag, 16. Mai 2023 10:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684225440/2899/
-- Mittwoch, 17. Mai 2023 09:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684307160/191/
+- Dienstag, 16. Mai 2023 15:30 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684243800/2881/
 - Freitag, 26. Mai 2023 11:50 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685094600/2881/
