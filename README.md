@@ -13,9 +13,4 @@
 - Dienstag, 18. April 2023 14:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681819200/192/
 - Dienstag, 18. April 2023 15:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681822800/192/
 - Dienstag, 18. April 2023 15:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681824240/192/
-- Dienstag, 18. April 2023 16:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681828560/192/
-- Freitag, 21. April 2023 10:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682064000/191/
-- Donnerstag, 27. April 2023 15:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682601120/191/
 - Freitag, 28. April 2023 11:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682672400/2926/
-- Dienstag, 16. Mai 2023 13:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1684236960/168/
-- Dienstag, 30. Mai 2023 14:10 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685448600/2881/
