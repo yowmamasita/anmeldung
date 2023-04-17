@@ -1,3 +1,2 @@
-- Montag, 17. April 2023 08:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681711920/231/
-- Montag, 17. April 2023 08:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681712640/192/
-- Montag, 17. April 2023 09:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1681715520/172/
+- Montag, 17. April 2023 08:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681711920/192/
+- Montag, 17. April 2023 09:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681714800/192/
