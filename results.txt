@@ -1,8 +1,6 @@
 - Montag, 17. April 2023 14:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681734960/2863/
-- Montag, 17. April 2023 14:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681735680/2845/
 - Dienstag, 18. April 2023 10:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681805520/192/
 - Dienstag, 18. April 2023 10:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681806240/192/
-- Dienstag, 18. April 2023 10:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681806960/192/
 - Dienstag, 18. April 2023 10:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681807680/192/
 - Dienstag, 18. April 2023 11:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681809120/192/
 - Dienstag, 18. April 2023 11:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681809840/192/
@@ -33,4 +31,3 @@
 - Dienstag, 18. April 2023 16:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681829280/192/
 - Dienstag, 18. April 2023 17:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681830000/192/
 - Dienstag, 18. April 2023 17:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681830720/192/
-- Dienstag, 18. April 2023 17:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681831440/192/
