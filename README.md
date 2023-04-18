@@ -1,44 +1,5 @@
 # List of available Anmeldung appointments as of $NOW
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122254,122252,329742,122260,329745,122262,329748,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,317869,122281,327352,122279,329772,122283,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
-- Dienstag, 18. April 2023 09:36 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1681803360/143/
-- Dienstag, 18. April 2023 09:42 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681803720/154/
-- Dienstag, 18. April 2023 09:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1681804080/143/
-- Dienstag, 18. April 2023 09:54 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681804440/154/
-- Dienstag, 18. April 2023 10:06 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681805160/154/
-- Dienstag, 18. April 2023 10:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1681805520/143/
-- Dienstag, 18. April 2023 10:18 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681805880/154/
-- Dienstag, 18. April 2023 10:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1681806240/143/
-- Dienstag, 18. April 2023 10:30 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681806600/154/
-- Dienstag, 18. April 2023 10:42 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681807320/154/
-- Dienstag, 18. April 2023 10:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1681807680/143/
-- Dienstag, 18. April 2023 10:54 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681808040/154/
-- Dienstag, 18. April 2023 11:00 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1681808400/143/
-- Dienstag, 18. April 2023 11:06 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681808760/154/
-- Dienstag, 18. April 2023 11:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1681809120/143/
-- Dienstag, 18. April 2023 11:18 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681809480/154/
-- Dienstag, 18. April 2023 11:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1681809840/143/
-- Dienstag, 18. April 2023 11:30 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681810200/154/
-- Dienstag, 18. April 2023 11:36 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1681810560/143/
-- Dienstag, 18. April 2023 11:42 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681810920/154/
-- Dienstag, 18. April 2023 11:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1681811280/143/
-- Dienstag, 18. April 2023 11:54 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681811640/154/
-- Dienstag, 18. April 2023 12:00 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1681812000/143/
-- Dienstag, 18. April 2023 12:06 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681812360/154/
-- Dienstag, 18. April 2023 12:18 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681813080/154/
-- Dienstag, 18. April 2023 12:30 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681813800/154/
-- Dienstag, 18. April 2023 12:42 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681814520/154/
-- Dienstag, 18. April 2023 12:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1681814880/143/
-- Dienstag, 18. April 2023 12:54 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681815240/154/
-- Dienstag, 18. April 2023 13:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1681818480/143/
-- Dienstag, 18. April 2023 14:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681819200/154/
-- Dienstag, 18. April 2023 14:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681819920/154/
-- Dienstag, 18. April 2023 14:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681820640/154/
-- Dienstag, 18. April 2023 14:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681821360/154/
-- Dienstag, 18. April 2023 14:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681822080/154/
-- Dienstag, 18. April 2023 15:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681824240/154/
-- Dienstag, 18. April 2023 15:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681825680/154/
-- Dienstag, 18. April 2023 16:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681826400/154/
-- Dienstag, 18. April 2023 16:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681827120/154/
-- Dienstag, 18. April 2023 16:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681827840/154/
-- Dienstag, 18. April 2023 16:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681828560/154/
-- Dienstag, 18. April 2023 16:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681829280/154/
+- Dienstag, 18. April 2023 13:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681818480/2845/
+- Dienstag, 18. April 2023 14:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681819920/2845/
+- Dienstag, 18. April 2023 14:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681820640/2845/
