@@ -1,6 +1,0 @@
-- Dienstag, 18. April 2023 13:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681818480/191/
-- Dienstag, 18. April 2023 14:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681819200/2848/
-- Dienstag, 18. April 2023 14:12 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681819920/922/
-- Donnerstag, 20. April 2023 11:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681983720/2839/
-- Donnerstag, 20. April 2023 12:00 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1681984800/147/
-- Donnerstag, 20. April 2023 13:00 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681988400/922/
