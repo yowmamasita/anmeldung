@@ -1,5 +1,3 @@
-- Dienstag, 18. April 2023 15:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681824240/2863/
-- Dienstag, 18. April 2023 15:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681824960/2863/
-- Dienstag, 18. April 2023 15:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681825680/2863/
-- Dienstag, 18. April 2023 16:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681828560/2863/
-- Dienstag, 18. April 2023 16:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681829280/2863/
+- Dienstag, 18. April 2023 12:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681814880/2863/
+- Donnerstag, 20. April 2023 10:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681979040/2914/
+- Freitag, 21. April 2023 08:54 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682060040/841/
