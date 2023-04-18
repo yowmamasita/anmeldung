@@ -8,7 +8,6 @@
 - Dienstag, 18. April 2023 13:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1681818480/172/
 - Dienstag, 18. April 2023 14:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1681821360/172/
 - Dienstag, 18. April 2023 14:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1681822080/172/
-- Dienstag, 18. April 2023 15:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1681823520/172/
 - Mittwoch, 10. Mai 2023 07:30 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683696600/190/
 - Mittwoch, 10. Mai 2023 07:42 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683697320/190/
 - Mittwoch, 10. Mai 2023 07:54 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683698040/190/
