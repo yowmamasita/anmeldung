@@ -8,4 +8,3 @@
 - Donnerstag, 20. April 2023 11:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681982640/2899/
 - Donnerstag, 20. April 2023 11:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681983360/2899/
 - Donnerstag, 20. April 2023 11:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681984080/2899/
-- Donnerstag, 20. April 2023 12:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681985520/2899/
