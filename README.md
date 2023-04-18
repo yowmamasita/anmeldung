@@ -10,6 +10,3 @@
 - Dienstag, 18. April 2023 11:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681809840/2845/
 - Dienstag, 18. April 2023 11:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681810560/2845/
 - Dienstag, 18. April 2023 11:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681811280/2845/
-- Dienstag, 18. April 2023 14:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681820640/231/
-- Dienstag, 18. April 2023 15:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681823520/231/
-- Dienstag, 18. April 2023 16:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681828560/231/
