@@ -2,11 +2,7 @@
 - Dienstag, 18. April 2023 10:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681806960/192/
 - Dienstag, 18. April 2023 11:00 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681808400/2887/
 - Dienstag, 18. April 2023 12:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681812720/192/
-- Dienstag, 18. April 2023 13:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681816320/2899/
-- Dienstag, 18. April 2023 16:12 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681827120/922/
-- Mittwoch, 10. Mai 2023 07:42 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683697320/190/
 - Mittwoch, 10. Mai 2023 08:18 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683699480/190/
-- Mittwoch, 10. Mai 2023 08:30 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683700200/190/
 - Mittwoch, 10. Mai 2023 08:42 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683700920/190/
 - Mittwoch, 10. Mai 2023 08:54 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683701640/190/
 - Mittwoch, 10. Mai 2023 09:06 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683702360/190/
@@ -31,7 +27,6 @@
 - Mittwoch, 10. Mai 2023 13:06 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683716760/190/
 - Mittwoch, 10. Mai 2023 13:18 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683717480/190/
 - Mittwoch, 10. Mai 2023 13:30 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683718200/190/
-- Mittwoch, 10. Mai 2023 13:42 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683718920/190/
 - Mittwoch, 17. Mai 2023 07:30 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684301400/190/
 - Mittwoch, 17. Mai 2023 07:42 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684302120/190/
 - Mittwoch, 17. Mai 2023 07:54 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684302840/190/
