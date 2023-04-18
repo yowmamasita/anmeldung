@@ -1,4 +1,5 @@
-- Mittwoch, 10. Mai 2023 12:54 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683716040/190/
+- Mittwoch, 17. Mai 2023 07:30 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684301400/190/
+- Mittwoch, 17. Mai 2023 07:54 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684302840/190/
 - Mittwoch, 17. Mai 2023 09:42 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684309320/190/
 - Mittwoch, 17. Mai 2023 09:54 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684310040/190/
 - Mittwoch, 17. Mai 2023 10:30 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684312200/190/
@@ -15,8 +16,6 @@
 - Mittwoch, 17. Mai 2023 13:06 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684321560/190/
 - Mittwoch, 17. Mai 2023 13:18 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684322280/190/
 - Mittwoch, 17. Mai 2023 13:42 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684323720/190/
-- Mittwoch, 17. Mai 2023 13:54 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684324440/190/
-- Mittwoch, 24. Mai 2023 08:18 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684909080/190/
 - Mittwoch, 24. Mai 2023 08:30 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684909800/190/
 - Mittwoch, 24. Mai 2023 08:42 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684910520/190/
 - Mittwoch, 24. Mai 2023 08:54 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684911240/190/
