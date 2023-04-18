@@ -1,11 +1,5 @@
-- Dienstag, 18. April 2023 11:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1681810560/169/
-- Dienstag, 18. April 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1681810560/172/
-- Dienstag, 18. April 2023 12:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681812000/167/
+- Dienstag, 18. April 2023 11:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1681810560/172/
 - Dienstag, 18. April 2023 12:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681812720/167/
 - Dienstag, 18. April 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681812720/2899/
-- Dienstag, 18. April 2023 13:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681817760/167/
-- Dienstag, 18. April 2023 16:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681827120/2899/
-- Dienstag, 25. April 2023 17:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682437680/2926/
-- Donnerstag, 4. Mai 2023 11:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683192960/192/
 - Montag, 8. Mai 2023 13:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683543600/2863/
 - Mittwoch, 24. Mai 2023 11:54 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684922040/190/
