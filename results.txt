@@ -21,18 +21,11 @@
 - Dienstag, 18. April 2023 12:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1681814160/169/
 - Dienstag, 18. April 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681814160/167/
 - Dienstag, 18. April 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681814160/2899/
-- Dienstag, 18. April 2023 12:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1681814880/112/
-- Dienstag, 18. April 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1681814880/169/
+- Dienstag, 18. April 2023 12:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1681814880/169/
 - Dienstag, 18. April 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1681814880/168/
 - Dienstag, 18. April 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681814880/2899/
-- Dienstag, 18. April 2023 13:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681815600/167/
-- Dienstag, 18. April 2023 14:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681821360/2899/
 - Dienstag, 18. April 2023 14:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1681822080/112/
-- Dienstag, 18. April 2023 15:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1681823520/112/
 - Dienstag, 18. April 2023 15:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1681825680/112/
-- Dienstag, 18. April 2023 16:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1681827840/112/
-- Dienstag, 18. April 2023 17:00 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681830000/922/
-- Montag, 8. Mai 2023 11:30 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1683538200/149/
 - Dienstag, 9. Mai 2023 11:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683623520/3238/
 - Mittwoch, 10. Mai 2023 07:30 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683696600/190/
 - Mittwoch, 10. Mai 2023 08:30 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683700200/190/
