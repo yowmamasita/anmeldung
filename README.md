@@ -9,7 +9,6 @@
 - Dienstag, 18. April 2023 11:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1681809840/112/
 - Dienstag, 18. April 2023 11:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1681810560/112/
 - Dienstag, 18. April 2023 11:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1681811280/112/
-- Dienstag, 18. April 2023 12:00 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1681812000/112/
 - Dienstag, 18. April 2023 12:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1681812720/112/
 - Dienstag, 18. April 2023 12:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1681813440/112/
 - Dienstag, 18. April 2023 14:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1681821360/112/
@@ -25,5 +24,3 @@
 - Dienstag, 18. April 2023 16:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1681829280/112/
 - Dienstag, 18. April 2023 17:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1681830720/112/
 - Dienstag, 18. April 2023 17:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1681831440/112/
-- Dienstag, 18. April 2023 17:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1681832160/112/
-- Dienstag, 18. April 2023 17:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1681832880/112/
