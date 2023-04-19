@@ -10,8 +10,7 @@
 - Mittwoch, 19. April 2023 08:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1681885440/108/
 - Mittwoch, 19. April 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681885440/2848/
 - Mittwoch, 19. April 2023 08:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681885800/2914/
-- Mittwoch, 19. April 2023 08:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1681886160/108/
-- Mittwoch, 19. April 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681886160/2848/
+- Mittwoch, 19. April 2023 08:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681886160/2848/
 - Mittwoch, 19. April 2023 08:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1681886880/108/
 - Mittwoch, 19. April 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681886880/2848/
 - Mittwoch, 19. April 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681886880/154/
@@ -20,12 +19,9 @@
 - Mittwoch, 19. April 2023 09:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1681888320/108/
 - Mittwoch, 19. April 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681888320/2848/
 - Mittwoch, 19. April 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681888320/154/
-- Mittwoch, 19. April 2023 09:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1681889040/108/
-- Mittwoch, 19. April 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681889040/2848/
+- Mittwoch, 19. April 2023 09:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681889040/2848/
 - Mittwoch, 19. April 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681889040/154/
-- Mittwoch, 19. April 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1681889040/170/
-- Mittwoch, 19. April 2023 09:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681889760/2848/
-- Mittwoch, 19. April 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681889760/154/
+- Mittwoch, 19. April 2023 09:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681889760/154/
 - Mittwoch, 19. April 2023 09:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681890120/191/
 - Mittwoch, 19. April 2023 09:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681890480/2848/
 - Mittwoch, 19. April 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681890480/154/
@@ -45,7 +41,6 @@
 - Mittwoch, 19. April 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1681895520/146/
 - Mittwoch, 19. April 2023 11:18 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681895880/191/
 - Mittwoch, 19. April 2023 11:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1681896240/146/
-- Mittwoch, 19. April 2023 11:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681896600/191/
 - Mittwoch, 19. April 2023 11:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681896960/154/
 - Mittwoch, 19. April 2023 11:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681897320/191/
 - Mittwoch, 19. April 2023 11:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681897680/154/
@@ -60,8 +55,6 @@
 - Mittwoch, 19. April 2023 12:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681900560/154/
 - Mittwoch, 19. April 2023 12:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681900920/191/
 - Mittwoch, 19. April 2023 12:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681901280/154/
-- Mittwoch, 19. April 2023 12:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681901640/191/
-- Mittwoch, 19. April 2023 13:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681902000/154/
 - Mittwoch, 19. April 2023 13:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681902360/191/
 - Mittwoch, 19. April 2023 13:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681902720/154/
 - Mittwoch, 19. April 2023 13:18 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681903080/191/
@@ -70,6 +63,3 @@
 - Mittwoch, 19. April 2023 13:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681904160/154/
 - Mittwoch, 19. April 2023 13:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681904880/154/
 - Mittwoch, 19. April 2023 14:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681906320/231/
-- Mittwoch, 19. April 2023 14:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1681907040/231/
-- Mittwoch, 19. April 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681907040/154/
-- Freitag, 5. Mai 2023 08:12 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683267120/922/
