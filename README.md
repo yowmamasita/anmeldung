@@ -5,4 +5,3 @@
 - Mittwoch, 19. April 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681884720/2899/
 - Mittwoch, 19. April 2023 08:18 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681885080/191/
 - Mittwoch, 19. April 2023 08:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681885440/2896/
-- Mittwoch, 19. April 2023 08:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681887240/191/
