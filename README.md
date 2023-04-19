@@ -11,4 +11,3 @@
 - Mittwoch, 19. April 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1681884720/170/
 - Mittwoch, 19. April 2023 08:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681885080/2908/
 - Mittwoch, 19. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681885080/191/
-- Mittwoch, 19. April 2023 08:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681886520/2908/
