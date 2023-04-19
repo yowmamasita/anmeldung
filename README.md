@@ -6,7 +6,6 @@
 - Mittwoch, 19. April 2023 08:18 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681885080/898/
 - Mittwoch, 19. April 2023 08:30 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681885800/898/
 - Mittwoch, 19. April 2023 08:42 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681886520/898/
-- Mittwoch, 19. April 2023 08:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1681886880/169/
 - Mittwoch, 19. April 2023 08:54 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681887240/898/
 - Mittwoch, 19. April 2023 09:06 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681887960/898/
 - Mittwoch, 19. April 2023 09:18 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681888680/898/
