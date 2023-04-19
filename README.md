@@ -27,4 +27,3 @@
 - Mittwoch, 19. April 2023 12:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1681899120/143/
 - Mittwoch, 19. April 2023 12:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1681899840/143/
 - Mittwoch, 19. April 2023 13:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1681903440/143/
-- Mittwoch, 19. April 2023 13:36 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1681904160/143/
