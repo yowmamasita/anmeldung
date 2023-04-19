@@ -3,5 +3,3 @@
 - Mittwoch, 19. April 2023 11:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681897680/2863/
 - Mittwoch, 19. April 2023 12:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1681898400/172/
 - Mittwoch, 19. April 2023 12:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1681899120/172/
-- Mittwoch, 19. April 2023 12:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1681899840/172/
-- Mittwoch, 19. April 2023 12:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1681900560/172/
