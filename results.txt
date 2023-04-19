@@ -1,18 +1,24 @@
-- Mittwoch, 19. April 2023 08:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1681884000/108/
-- Mittwoch, 19. April 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681884000/2848/
 - Mittwoch, 19. April 2023 08:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681884360/191/
 - Mittwoch, 19. April 2023 08:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1681884720/108/
 - Mittwoch, 19. April 2023 08:18 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681885080/191/
+- Mittwoch, 19. April 2023 08:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681885440/167/
+- Mittwoch, 19. April 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1681885440/170/
 - Mittwoch, 19. April 2023 08:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681885800/191/
+- Mittwoch, 19. April 2023 08:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681886160/167/
 - Mittwoch, 19. April 2023 08:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681886520/191/
 - Mittwoch, 19. April 2023 08:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681887240/191/
 - Mittwoch, 19. April 2023 09:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681887960/191/
+- Mittwoch, 19. April 2023 09:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681888320/167/
 - Mittwoch, 19. April 2023 09:18 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681888680/191/
+- Mittwoch, 19. April 2023 09:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681889040/167/
 - Mittwoch, 19. April 2023 09:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681890120/191/
-- Mittwoch, 19. April 2023 10:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681891920/154/
-- Mittwoch, 19. April 2023 10:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681893000/191/
+- Mittwoch, 19. April 2023 09:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681890600/2923/
+- Mittwoch, 19. April 2023 10:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681891200/167/
+- Mittwoch, 19. April 2023 10:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681891920/167/
+- Mittwoch, 19. April 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681891920/2899/
+- Mittwoch, 19. April 2023 10:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681893360/154/
 - Mittwoch, 19. April 2023 10:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681893720/191/
-- Mittwoch, 19. April 2023 10:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681894440/191/
-- Mittwoch, 19. April 2023 11:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681896600/191/
+- Mittwoch, 19. April 2023 10:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681894080/167/
 - Mittwoch, 19. April 2023 11:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681898040/191/
-- Mittwoch, 19. April 2023 12:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681898760/191/
+- Mittwoch, 19. April 2023 14:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681905960/191/
+- Mittwoch, 19. April 2023 14:18 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681906680/191/
