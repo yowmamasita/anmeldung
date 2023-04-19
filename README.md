@@ -3,15 +3,14 @@
 - Mittwoch, 19. April 2023 08:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1681884000/108/
 - Mittwoch, 19. April 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681884000/2848/
 - Mittwoch, 19. April 2023 08:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681884360/191/
+- Mittwoch, 19. April 2023 08:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1681884720/108/
 - Mittwoch, 19. April 2023 08:18 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681885080/191/
 - Mittwoch, 19. April 2023 08:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681885800/191/
 - Mittwoch, 19. April 2023 08:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681886520/191/
 - Mittwoch, 19. April 2023 08:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681887240/191/
 - Mittwoch, 19. April 2023 09:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681887960/191/
 - Mittwoch, 19. April 2023 09:18 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681888680/191/
-- Mittwoch, 19. April 2023 09:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681889400/191/
 - Mittwoch, 19. April 2023 09:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681890120/191/
-- Mittwoch, 19. April 2023 10:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681891560/191/
 - Mittwoch, 19. April 2023 10:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681893000/191/
 - Mittwoch, 19. April 2023 10:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681893720/191/
 - Mittwoch, 19. April 2023 10:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681894440/191/
@@ -22,4 +21,3 @@
 - Mittwoch, 19. April 2023 12:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681898760/191/
 - Mittwoch, 19. April 2023 12:18 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681899480/191/
 - Mittwoch, 19. April 2023 12:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681900200/191/
-- Mittwoch, 19. April 2023 13:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1681902720/154/
