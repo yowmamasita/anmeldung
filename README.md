@@ -4,4 +4,3 @@
 - Mittwoch, 19. April 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681891200/2863/
 - Mittwoch, 19. April 2023 10:06 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1681891560/112/
 - Mittwoch, 19. April 2023 10:18 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681892280/192/
-- Mittwoch, 19. April 2023 10:30 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1681893000/112/
