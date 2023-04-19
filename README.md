@@ -17,4 +17,3 @@
 - Mittwoch, 19. April 2023 12:42 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681900920/192/
 - Mittwoch, 19. April 2023 12:54 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681901640/192/
 - Mittwoch, 19. April 2023 13:18 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681903080/192/
-- Mittwoch, 19. April 2023 13:30 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681903800/192/
