@@ -34,6 +34,5 @@
 - Donnerstag, 20. April 2023 16:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682001360/109/
 - Donnerstag, 20. April 2023 16:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682001600/150/
 - Donnerstag, 20. April 2023 16:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682002080/109/
-- Donnerstag, 20. April 2023 16:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682002200/150/
 - Donnerstag, 20. April 2023 17:00 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682002800/109/
-- Donnerstag, 20. April 2023 17:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682003520/109/
+- Donnerstag, 20. April 2023 17:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682004240/109/
