@@ -1,12 +1,8 @@
-- Donnerstag, 20. April 2023 10:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1681979760/172/
-- Donnerstag, 20. April 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681979760/2899/
+- Donnerstag, 20. April 2023 10:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681979760/2899/
 - Donnerstag, 20. April 2023 11:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681981200/167/
 - Donnerstag, 20. April 2023 11:12 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681981920/2887/
 - Donnerstag, 20. April 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681981920/167/
 - Donnerstag, 20. April 2023 11:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681982640/167/
 - Donnerstag, 20. April 2023 11:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681983360/167/
-- Donnerstag, 20. April 2023 11:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1681984080/169/
-- Donnerstag, 20. April 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681984080/167/
-- Donnerstag, 20. April 2023 12:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681984800/167/
-- Donnerstag, 20. April 2023 12:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1681985520/169/
-- Donnerstag, 20. April 2023 12:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1681986960/169/
+- Donnerstag, 20. April 2023 11:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681984080/167/
+- Donnerstag, 20. April 2023 12:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681986960/167/
