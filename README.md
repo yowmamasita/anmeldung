@@ -4,7 +4,6 @@
 - Donnerstag, 20. April 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1681979040/172/
 - Donnerstag, 20. April 2023 10:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1681979760/172/
 - Donnerstag, 20. April 2023 10:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1681980480/172/
-- Donnerstag, 20. April 2023 11:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1681982640/172/
 - Donnerstag, 20. April 2023 14:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681993440/191/
 - Donnerstag, 20. April 2023 14:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681994160/191/
 - Donnerstag, 20. April 2023 14:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681994880/191/
@@ -15,5 +14,3 @@
 - Donnerstag, 20. April 2023 15:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681998480/191/
 - Donnerstag, 20. April 2023 16:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681999920/191/
 - Donnerstag, 20. April 2023 16:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682000640/191/
-- Donnerstag, 20. April 2023 16:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682001360/191/
-- Donnerstag, 20. April 2023 16:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682002080/191/
