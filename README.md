@@ -3,7 +3,5 @@
 - Donnerstag, 20. April 2023 10:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681978320/191/
 - Donnerstag, 20. April 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681978320/922/
 - Donnerstag, 20. April 2023 10:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681979040/2914/
-- Donnerstag, 20. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681979040/191/
 - Donnerstag, 20. April 2023 10:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681979760/2914/
 - Donnerstag, 20. April 2023 10:48 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681980480/922/
-- Donnerstag, 20. April 2023 11:12 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681981920/922/
