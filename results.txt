@@ -1,11 +1,19 @@
-- Donnerstag, 20. April 2023 12:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681984800/2863/
+- Donnerstag, 20. April 2023 11:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681984200/150/
+- Donnerstag, 20. April 2023 12:00 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681984800/150/
+- Donnerstag, 20. April 2023 12:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681985400/150/
+- Donnerstag, 20. April 2023 12:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681986000/150/
+- Donnerstag, 20. April 2023 13:00 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681988400/150/
+- Donnerstag, 20. April 2023 13:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681989000/150/
+- Donnerstag, 20. April 2023 13:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681989600/150/
+- Donnerstag, 20. April 2023 13:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681990800/150/
 - Donnerstag, 20. April 2023 14:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681992720/3238/
+- Donnerstag, 20. April 2023 15:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681996200/150/
 - Donnerstag, 20. April 2023 15:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1681996320/112/
-- Donnerstag, 20. April 2023 15:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1681997040/108/
+- Donnerstag, 20. April 2023 15:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681996800/150/
 - Donnerstag, 20. April 2023 15:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1681998480/112/
-- Donnerstag, 20. April 2023 16:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682000640/169/
 - Donnerstag, 20. April 2023 16:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682002080/3238/
 - Donnerstag, 20. April 2023 17:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682002800/2848/
 - Donnerstag, 20. April 2023 17:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682003520/2848/
 - Donnerstag, 20. April 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1682003520/112/
 - Donnerstag, 20. April 2023 17:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682004240/2848/
+- Montag, 22. Mai 2023 11:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684747440/2926/
