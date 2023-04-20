@@ -5,13 +5,9 @@
 - Donnerstag, 20. April 2023 10:54 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681980840/2932/
 - Donnerstag, 20. April 2023 11:30 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681983000/2932/
 - Donnerstag, 20. April 2023 11:42 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681983720/2932/
-- Donnerstag, 20. April 2023 11:54 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681984440/2932/
 - Donnerstag, 20. April 2023 12:06 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681985160/2932/
-- Donnerstag, 20. April 2023 12:30 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681986600/2932/
-- Donnerstag, 20. April 2023 12:42 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681987320/2932/
 - Donnerstag, 20. April 2023 14:00 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681992000/2887/
-- Donnerstag, 20. April 2023 14:12 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681992720/2887/
-- Donnerstag, 20. April 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681992720/2932/
+- Donnerstag, 20. April 2023 14:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681992720/2932/
 - Donnerstag, 20. April 2023 14:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681994160/2887/
 - Donnerstag, 20. April 2023 14:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681994880/2887/
 - Donnerstag, 20. April 2023 15:00 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681995600/2932/
@@ -19,6 +15,3 @@
 - Donnerstag, 20. April 2023 15:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681997040/2887/
 - Donnerstag, 20. April 2023 15:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681997760/2887/
 - Donnerstag, 20. April 2023 15:48 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681998480/2932/
-- Donnerstag, 20. April 2023 16:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681999920/2932/
-- Donnerstag, 20. April 2023 16:36 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682001360/2932/
-- Donnerstag, 20. April 2023 16:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682002080/2887/
