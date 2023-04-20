@@ -4,14 +4,10 @@
 - Donnerstag, 20. April 2023 13:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681990800/150/
 - Donnerstag, 20. April 2023 14:00 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681992000/150/
 - Donnerstag, 20. April 2023 14:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681992600/150/
-- Donnerstag, 20. April 2023 14:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681992720/3238/
-- Donnerstag, 20. April 2023 14:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1681994880/109/
 - Donnerstag, 20. April 2023 14:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681995000/150/
-- Donnerstag, 20. April 2023 15:00 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681995600/150/
 - Donnerstag, 20. April 2023 15:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681996200/150/
-- Donnerstag, 20. April 2023 15:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1681996320/109/
 - Donnerstag, 20. April 2023 15:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681996800/150/
 - Donnerstag, 20. April 2023 15:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1681997040/109/
 - Donnerstag, 20. April 2023 15:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1681997760/109/
 - Donnerstag, 20. April 2023 15:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1681998480/109/
-- Donnerstag, 20. April 2023 16:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681999800/150/
+- Donnerstag, 20. April 2023 16:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682001360/109/
