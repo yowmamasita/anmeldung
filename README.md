@@ -6,5 +6,3 @@
 - Donnerstag, 20. April 2023 12:36 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681986960/2908/
 - Donnerstag, 20. April 2023 13:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681988400/2899/
 - Donnerstag, 20. April 2023 14:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681994160/192/
-- Donnerstag, 20. April 2023 15:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681998480/2851/
-- Donnerstag, 20. April 2023 16:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1681999920/169/
