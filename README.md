@@ -6,7 +6,6 @@
 - Donnerstag, 20. April 2023 11:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1681981200/169/
 - Donnerstag, 20. April 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681981200/2887/
 - Donnerstag, 20. April 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681981200/167/
-- Donnerstag, 20. April 2023 11:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681981800/150/
 - Donnerstag, 20. April 2023 11:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1681981920/169/
 - Donnerstag, 20. April 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681981920/2887/
 - Donnerstag, 20. April 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681981920/167/
@@ -41,4 +40,3 @@
 - Donnerstag, 20. April 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681991280/167/
 - Donnerstag, 20. April 2023 14:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681992000/167/
 - Donnerstag, 20. April 2023 14:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1681992720/167/
-- Donnerstag, 20. April 2023 15:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1681996320/191/
