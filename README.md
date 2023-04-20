@@ -14,33 +14,27 @@
 - Donnerstag, 20. April 2023 12:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681987200/150/
 - Donnerstag, 20. April 2023 12:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681987680/192/
 - Donnerstag, 20. April 2023 12:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681987800/150/
-- Donnerstag, 20. April 2023 13:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1681988400/172/
-- Donnerstag, 20. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681988400/192/
+- Donnerstag, 20. April 2023 13:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681988400/192/
 - Donnerstag, 20. April 2023 13:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681989120/192/
 - Donnerstag, 20. April 2023 13:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681989600/150/
 - Donnerstag, 20. April 2023 13:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1681989840/172/
 - Donnerstag, 20. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681989840/192/
-- Donnerstag, 20. April 2023 13:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681990200/150/
-- Donnerstag, 20. April 2023 13:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1681990560/172/
-- Donnerstag, 20. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681990560/192/
+- Donnerstag, 20. April 2023 13:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681990560/192/
 - Donnerstag, 20. April 2023 13:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681990800/150/
 - Donnerstag, 20. April 2023 13:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681991280/192/
 - Donnerstag, 20. April 2023 13:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681991400/150/
-- Donnerstag, 20. April 2023 14:00 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681992000/150/
-- Donnerstag, 20. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681992000/192/
 - Donnerstag, 20. April 2023 14:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681992600/150/
 - Donnerstag, 20. April 2023 14:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681992720/192/
 - Donnerstag, 20. April 2023 14:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681993200/150/
 - Donnerstag, 20. April 2023 14:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681993440/192/
 - Donnerstag, 20. April 2023 14:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1681994160/192/
 - Donnerstag, 20. April 2023 14:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681994400/150/
-- Donnerstag, 20. April 2023 15:00 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681995600/150/
 - Donnerstag, 20. April 2023 15:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681996800/150/
 - Donnerstag, 20. April 2023 15:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681998000/150/
 - Donnerstag, 20. April 2023 15:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1681998600/150/
 - Donnerstag, 20. April 2023 16:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681999920/2857/
 - Donnerstag, 20. April 2023 16:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682000400/150/
-- Donnerstag, 20. April 2023 16:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682002080/2857/
 - Donnerstag, 20. April 2023 17:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682003520/2857/
 - Donnerstag, 20. April 2023 17:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682004240/2857/
-- Donnerstag, 20. April 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1682004240/102/
+- Donnerstag, 20. April 2023 17:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682005680/2857/
+- Donnerstag, 20. April 2023 17:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682005800/150/
