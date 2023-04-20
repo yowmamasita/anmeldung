@@ -5,6 +5,4 @@
 - Donnerstag, 20. April 2023 12:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681985520/3238/
 - Donnerstag, 20. April 2023 12:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681986240/3238/
 - Donnerstag, 20. April 2023 12:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681986960/3238/
-- Donnerstag, 20. April 2023 12:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681987680/3238/
-- Donnerstag, 20. April 2023 13:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681989840/3238/
 - Donnerstag, 20. April 2023 14:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1681992000/3238/
