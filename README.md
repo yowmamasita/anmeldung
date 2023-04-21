@@ -14,14 +14,9 @@
 - Freitag, 21. April 2023 09:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682062560/192/
 - Freitag, 21. April 2023 09:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682063280/192/
 - Freitag, 21. April 2023 10:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682064000/192/
-- Freitag, 21. April 2023 10:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682064720/167/
-- Freitag, 21. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682064720/192/
-- Freitag, 21. April 2023 10:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682065440/167/
-- Freitag, 21. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682065440/192/
+- Freitag, 21. April 2023 10:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682064720/192/
+- Freitag, 21. April 2023 10:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682065440/192/
 - Freitag, 21. April 2023 10:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682066880/192/
 - Freitag, 21. April 2023 11:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682068320/192/
-- Freitag, 21. April 2023 11:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682069040/167/
-- Freitag, 21. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682069040/192/
-- Freitag, 21. April 2023 11:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682069760/192/
 - Freitag, 21. April 2023 12:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682071200/192/
 - Freitag, 21. April 2023 12:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682071920/192/
