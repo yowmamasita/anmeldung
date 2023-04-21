@@ -1,4 +1,3 @@
-- Freitag, 21. April 2023 08:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1682058240/106/
 - Freitag, 21. April 2023 09:12 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682061120/2860/
 - Freitag, 21. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682061120/192/
 - Freitag, 21. April 2023 10:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682064000/167/
@@ -6,5 +5,3 @@
 - Freitag, 21. April 2023 10:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682066400/150/
 - Freitag, 21. April 2023 11:00 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682067600/150/
 - Freitag, 21. April 2023 11:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682068200/150/
-- Freitag, 21. April 2023 11:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682068800/150/
-- Freitag, 21. April 2023 12:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682072400/150/
