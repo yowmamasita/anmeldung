@@ -31,8 +31,7 @@
 - Freitag, 21. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682068320/192/
 - Freitag, 21. April 2023 11:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682069040/167/
 - Freitag, 21. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682069040/192/
-- Freitag, 21. April 2023 11:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682069760/167/
-- Freitag, 21. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682069760/192/
+- Freitag, 21. April 2023 11:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682069760/192/
 - Freitag, 21. April 2023 11:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682070480/167/
 - Freitag, 21. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682070480/192/
 - Freitag, 21. April 2023 12:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682071200/167/
@@ -41,4 +40,3 @@
 - Freitag, 21. April 2023 12:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682072640/167/
 - Freitag, 21. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682072640/192/
 - Freitag, 21. April 2023 12:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682073360/192/
-- Freitag, 21. April 2023 12:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682074080/192/
