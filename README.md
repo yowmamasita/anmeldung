@@ -1,15 +1,41 @@
 # List of available Anmeldung appointments as of $NOW
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122254,122252,329742,122260,329745,122262,329748,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,317869,122281,327352,122279,329772,122283,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
 - Freitag, 21. April 2023 08:12 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1682057520/106/
+- Freitag, 21. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682057520/191/
 - Freitag, 21. April 2023 08:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1682058240/106/
+- Freitag, 21. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682058240/191/
 - Freitag, 21. April 2023 08:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1682058960/106/
+- Freitag, 21. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682058960/191/
 - Freitag, 21. April 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1682058960/172/
+- Freitag, 21. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682058960/192/
 - Freitag, 21. April 2023 08:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1682059680/106/
+- Freitag, 21. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682059680/191/
 - Freitag, 21. April 2023 09:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1682060400/106/
-- Freitag, 21. April 2023 09:12 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1682061120/106/
+- Freitag, 21. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682060400/191/
+- Freitag, 21. April 2023 09:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682061120/191/
 - Freitag, 21. April 2023 09:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1682061840/106/
+- Freitag, 21. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682061840/191/
 - Freitag, 21. April 2023 09:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1682062560/106/
-- Freitag, 21. April 2023 09:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1682063280/106/
+- Freitag, 21. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682062560/191/
+- Freitag, 21. April 2023 09:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682063280/191/
+- Freitag, 21. April 2023 09:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1682063640/112/
 - Freitag, 21. April 2023 10:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1682064000/172/
-- Freitag, 21. April 2023 11:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682070480/192/
-- Freitag, 21. April 2023 12:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1682073360/172/
+- Freitag, 21. April 2023 10:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1682065080/112/
+- Freitag, 21. April 2023 10:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682065440/191/
+- Freitag, 21. April 2023 10:30 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1682065800/112/
+- Freitag, 21. April 2023 10:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1682066520/112/
+- Freitag, 21. April 2023 10:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682066880/191/
+- Freitag, 21. April 2023 10:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1682067240/112/
+- Freitag, 21. April 2023 11:06 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1682067960/112/
+- Freitag, 21. April 2023 11:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682068320/191/
+- Freitag, 21. April 2023 11:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1682068680/112/
+- Freitag, 21. April 2023 11:30 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1682069400/112/
+- Freitag, 21. April 2023 11:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1682070120/112/
+- Freitag, 21. April 2023 11:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682070480/191/
+- Freitag, 21. April 2023 11:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1682070840/112/
+- Freitag, 21. April 2023 12:06 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1682071560/112/
+- Freitag, 21. April 2023 12:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1682072280/112/
+- Freitag, 21. April 2023 12:30 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1682073000/112/
+- Freitag, 21. April 2023 12:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682073360/191/
+- Freitag, 21. April 2023 12:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682074080/191/
+- Freitag, 21. April 2023 12:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1682074440/112/
