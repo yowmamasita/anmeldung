@@ -10,8 +10,7 @@
 - Freitag, 21. April 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682058960/192/
 - Freitag, 21. April 2023 08:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1682059680/106/
 - Freitag, 21. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682059680/191/
-- Freitag, 21. April 2023 09:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1682060400/106/
-- Freitag, 21. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682060400/191/
+- Freitag, 21. April 2023 09:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682060400/191/
 - Freitag, 21. April 2023 09:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682061120/191/
 - Freitag, 21. April 2023 09:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1682061840/106/
 - Freitag, 21. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682061840/191/
@@ -35,7 +34,6 @@
 - Freitag, 21. April 2023 11:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1682070840/112/
 - Freitag, 21. April 2023 12:06 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1682071560/112/
 - Freitag, 21. April 2023 12:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1682072280/112/
-- Freitag, 21. April 2023 12:30 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1682073000/112/
 - Freitag, 21. April 2023 12:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682073360/191/
 - Freitag, 21. April 2023 12:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682074080/191/
 - Freitag, 21. April 2023 12:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1682074440/112/
