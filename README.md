@@ -4,8 +4,6 @@
 - Montag, 24. April 2023 08:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682318160/3238/
 - Montag, 24. April 2023 08:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682318520/2908/
 - Montag, 24. April 2023 08:54 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1682319240/134/
-- Montag, 24. April 2023 09:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682319600/167/
 - Montag, 24. April 2023 10:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682323200/168/
 - Montag, 24. April 2023 11:36 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682328960/2836/
-- Dienstag, 25. April 2023 12:54 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682420040/2938/
 - Donnerstag, 11. Mai 2023 13:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683805320/2839/
