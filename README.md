@@ -4,5 +4,4 @@
 - Dienstag, 25. April 2023 10:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682412480/2851/
 - Dienstag, 25. April 2023 13:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682420400/2896/
 - Dienstag, 25. April 2023 13:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682421840/143/
-- Freitag, 28. April 2023 10:12 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1682669520/102/
 - Dienstag, 2. Mai 2023 11:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683018720/2932/
