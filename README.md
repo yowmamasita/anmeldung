@@ -20,6 +20,5 @@
 - Dienstag, 25. April 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682421120/2863/
 - Dienstag, 25. April 2023 13:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682421840/2887/
 - Dienstag, 25. April 2023 13:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682422560/2887/
-- Mittwoch, 26. April 2023 09:24 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682493840/2860/
 - Mittwoch, 26. April 2023 14:30 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682512200/2923/
 - Donnerstag, 27. April 2023 11:54 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682589240/2839/
