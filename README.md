@@ -7,22 +7,13 @@
 - Montag, 24. April 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1682315640/112/
 - Montag, 24. April 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682315640/109/
 - Montag, 24. April 2023 08:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682316360/2908/
-- Montag, 24. April 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682316360/109/
 - Montag, 24. April 2023 08:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682317080/2908/
 - Montag, 24. April 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682317080/109/
 - Montag, 24. April 2023 08:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682317800/2908/
-- Montag, 24. April 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682317800/109/
 - Montag, 24. April 2023 08:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682318520/2908/
-- Montag, 24. April 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682318520/109/
-- Montag, 24. April 2023 08:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682319240/109/
-- Montag, 24. April 2023 09:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682320680/109/
-- Montag, 24. April 2023 09:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682321400/109/
-- Montag, 24. April 2023 09:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682322120/109/
-- Montag, 24. April 2023 09:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682322840/109/
-- Montag, 24. April 2023 10:06 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682323560/109/
+- Montag, 24. April 2023 09:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682320680/2908/
+- Montag, 24. April 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682320680/109/
+- Montag, 24. April 2023 09:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682321400/2908/
+- Montag, 24. April 2023 09:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1682322120/112/
+- Montag, 24. April 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682322120/109/
 - Montag, 24. April 2023 10:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682324280/109/
-- Montag, 24. April 2023 10:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682325000/109/
-- Montag, 24. April 2023 10:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682325720/109/
-- Montag, 24. April 2023 10:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682326440/109/
-- Montag, 24. April 2023 15:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682341920/2908/
-- Montag, 15. Mai 2023 11:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684143720/109/
