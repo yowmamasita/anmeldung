@@ -9,4 +9,3 @@
 - Montag, 24. April 2023 14:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1682338320/108/
 - Montag, 24. April 2023 14:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1682339040/108/
 - Montag, 24. April 2023 14:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1682339760/108/
-- Montag, 24. April 2023 14:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1682340480/108/
