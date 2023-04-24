@@ -4,5 +4,3 @@
 - Dienstag, 25. April 2023 12:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682418960/2887/
 - Dienstag, 25. April 2023 13:12 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682421120/2887/
 - Dienstag, 25. April 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1682421120/170/
-- Dienstag, 25. April 2023 13:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1682421840/170/
-- Mittwoch, 26. April 2023 10:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682498160/2896/
