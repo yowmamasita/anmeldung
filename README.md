@@ -19,10 +19,7 @@
 - Montag, 24. April 2023 10:12 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682323920/2842/
 - Montag, 24. April 2023 10:24 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682324640/2842/
 - Montag, 24. April 2023 10:36 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682325360/2842/
-- Montag, 24. April 2023 11:24 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682328240/2842/
 - Montag, 24. April 2023 11:36 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682328960/2842/
-- Montag, 24. April 2023 11:48 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682329680/2842/
-- Montag, 24. April 2023 12:24 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682331840/2842/
 - Montag, 24. April 2023 12:36 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682332560/2842/
 - Montag, 24. April 2023 12:48 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682333280/2842/
 - Montag, 24. April 2023 13:12 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682334720/2842/
@@ -30,6 +27,3 @@
 - Montag, 24. April 2023 13:36 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682336160/2842/
 - Montag, 24. April 2023 13:48 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682336880/2842/
 - Montag, 24. April 2023 14:12 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682338320/2842/
-- Montag, 24. April 2023 14:24 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682339040/2842/
-- Montag, 24. April 2023 15:12 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682341920/2842/
-- Montag, 24. April 2023 15:36 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682343360/2842/
