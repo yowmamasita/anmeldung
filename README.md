@@ -12,4 +12,13 @@
 - Montag, 24. April 2023 14:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682339040/2845/
 - Montag, 24. April 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682339040/2851/
 - Montag, 24. April 2023 14:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682339760/2845/
-- Montag, 24. April 2023 14:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682340480/2845/
+- Dienstag, 25. April 2023 09:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682408160/3238/
+- Dienstag, 25. April 2023 10:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682409600/192/
+- Dienstag, 25. April 2023 11:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682416080/2872/
+- Mittwoch, 26. April 2023 07:54 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682488440/904/
+- Mittwoch, 26. April 2023 10:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682496000/2857/
+- Mittwoch, 26. April 2023 11:06 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682499960/109/
+- Donnerstag, 27. April 2023 11:54 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682589240/2836/
+- Donnerstag, 4. Mai 2023 14:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683203040/2926/
+- Donnerstag, 11. Mai 2023 11:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683797760/167/
+- Dienstag, 23. Mai 2023 10:30 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1684830600/149/
