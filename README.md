@@ -29,7 +29,6 @@
 - Dienstag, 25. April 2023 15:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682430480/312/
 - Dienstag, 25. April 2023 16:12 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682431920/312/
 - Dienstag, 25. April 2023 16:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682432640/312/
-- Dienstag, 25. April 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682432640/2866/
 - Dienstag, 25. April 2023 16:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682433360/312/
 - Dienstag, 25. April 2023 16:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682434080/312/
 - Dienstag, 25. April 2023 17:00 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682434800/312/
