@@ -1,12 +1,10 @@
 - Montag, 24. April 2023 09:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682322480/3238/
-- Montag, 24. April 2023 10:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682323200/2851/
 - Montag, 24. April 2023 10:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682323920/3238/
 - Montag, 24. April 2023 10:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682324640/3238/
 - Montag, 24. April 2023 10:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682325360/3238/
 - Montag, 24. April 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682325360/190/
 - Montag, 24. April 2023 10:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682326080/3238/
 - Montag, 24. April 2023 11:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682326800/3238/
-- Montag, 24. April 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682326800/190/
 - Montag, 24. April 2023 11:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682327520/3238/
 - Montag, 24. April 2023 11:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682328240/3238/
 - Montag, 24. April 2023 11:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682328960/3238/
@@ -22,5 +20,4 @@
 - Montag, 24. April 2023 13:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682336880/3238/
 - Montag, 24. April 2023 14:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682337600/3238/
 - Montag, 24. April 2023 14:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682338320/3238/
-- Montag, 24. April 2023 14:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682339040/3238/
-- Donnerstag, 25. Mai 2023 12:00 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1685008800/136/
+- Montag, 24. April 2023 15:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1682342280/136/
