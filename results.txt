@@ -7,7 +7,6 @@
 - Montag, 24. April 2023 10:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682324640/3238/
 - Montag, 24. April 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1682324640/172/
 - Montag, 24. April 2023 10:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682325360/2845/
-- Montag, 24. April 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682325360/3238/
 - Montag, 24. April 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682325360/2851/
 - Montag, 24. April 2023 10:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682326080/2851/
 - Montag, 24. April 2023 11:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682326800/3238/
@@ -24,7 +23,4 @@
 - Montag, 24. April 2023 13:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682336880/3238/
 - Montag, 24. April 2023 14:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682337600/3238/
 - Montag, 24. April 2023 14:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1682340480/172/
-- Mittwoch, 26. April 2023 07:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682488440/109/
-- Donnerstag, 27. April 2023 12:24 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682591040/904/
-- Dienstag, 9. Mai 2023 13:12 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683630720/2860/
 - Donnerstag, 25. Mai 2023 12:00 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1685008800/136/
