@@ -9,6 +9,4 @@
 - Dienstag, 25. April 2023 13:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682422560/2845/
 - Dienstag, 25. April 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682422560/904/
 - Dienstag, 25. April 2023 13:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682423280/2845/
-- Dienstag, 25. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682423280/191/
-- Dienstag, 25. April 2023 14:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682424000/2845/
 - Dienstag, 25. April 2023 14:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682424720/2845/
