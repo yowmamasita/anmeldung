@@ -2,8 +2,8 @@
 - Dienstag, 25. April 2023 10:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1682411760/106/
 - Dienstag, 25. April 2023 10:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1682412480/106/
 - Dienstag, 25. April 2023 11:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1682413200/106/
-- Dienstag, 25. April 2023 11:12 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1682413920/134/
-- Dienstag, 25. April 2023 11:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1682414640/112/
+- Dienstag, 25. April 2023 11:12 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1682413920/106/
+- Dienstag, 25. April 2023  Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1682413920/134/
 - Dienstag, 25. April 2023 11:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682415600/150/
 - Dienstag, 25. April 2023 11:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682416200/150/
 - Dienstag, 25. April 2023 12:00 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682416800/150/
