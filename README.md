@@ -8,7 +8,9 @@
 - Dienstag, 25. April 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682411760/312/
 - Dienstag, 25. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682411760/191/
 - Dienstag, 25. April 2023 10:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682412480/312/
-- Dienstag, 25. April 2023 11:00 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682413200/312/
+- Dienstag, 25. April 2023 11:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682413200/3238/
+- Dienstag, 25. April 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682413200/312/
+- Dienstag, 25. April 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682413200/167/
 - Dienstag, 25. April 2023  Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1682413200/148/
 - Dienstag, 25. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682413200/191/
 - Dienstag, 25. April 2023 11:12 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682413920/312/
@@ -46,7 +48,6 @@
 - Dienstag, 25. April 2023 12:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682418960/312/
 - Dienstag, 25. April 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682418960/231/
 - Dienstag, 25. April 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682418960/167/
-- Dienstag, 25. April 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1682418960/313/
 - Dienstag, 25. April 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1682418960/172/
 - Dienstag, 25. April 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682418960/2899/
 - Dienstag, 25. April 2023 12:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682419680/312/
@@ -60,7 +61,6 @@
 - Dienstag, 25. April 2023 13:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682422560/169/
 - Dienstag, 25. April 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1682422560/313/
 - Dienstag, 25. April 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682422560/2899/
-- Dienstag, 25. April 2023 13:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682423280/2899/
 - Dienstag, 25. April 2023 14:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682425440/312/
 - Dienstag, 25. April 2023 15:00 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682427600/312/
 - Dienstag, 25. April 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1682427600/313/
@@ -68,6 +68,4 @@
 - Dienstag, 25. April 2023 15:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682429040/312/
 - Dienstag, 25. April 2023 15:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682429760/312/
 - Dienstag, 25. April 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1682429760/313/
-- Dienstag, 25. April 2023 15:48 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1682430480/313/
-- Dienstag, 25. April 2023 16:00 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1682431200/313/
-- Dienstag, 25. April 2023 16:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682432640/312/
+- Dienstag, 25. April 2023 16:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682432640/2926/
