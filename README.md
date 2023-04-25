@@ -22,6 +22,4 @@
 - Dienstag, 25. April 2023 14:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682425800/150/
 - Dienstag, 25. April 2023 14:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682426400/150/
 - Dienstag, 25. April 2023 14:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682427000/150/
-- Dienstag, 25. April 2023 15:00 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682427600/150/
 - Dienstag, 25. April 2023 15:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682428200/150/
-- Dienstag, 25. April 2023 15:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682428800/150/
