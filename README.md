@@ -3,4 +3,3 @@
 - Mittwoch, 26. April 2023 09:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682494920/109/
 - Mittwoch, 26. April 2023 10:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682497440/2863/
 - Mittwoch, 26. April 2023 12:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682505360/168/
-- Donnerstag, 27. April 2023 10:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682582400/231/
