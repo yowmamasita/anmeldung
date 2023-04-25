@@ -29,4 +29,3 @@
 - Dienstag, 25. April 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1682426880/313/
 - Dienstag, 25. April 2023 14:50 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682427000/2878/
 - Dienstag, 25. April 2023 16:00 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682431200/904/
-- Mittwoch, 31. Mai 2023 08:00 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685512800/2839/
