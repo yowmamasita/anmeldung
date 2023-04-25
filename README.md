@@ -12,19 +12,15 @@
 - Dienstag, 25. April 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682412480/231/
 - Dienstag, 25. April 2023 11:00 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682413200/109/
 - Dienstag, 25. April 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682413200/231/
-- Dienstag, 25. April 2023 11:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682413920/109/
-- Dienstag, 25. April 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682413920/231/
+- Dienstag, 25. April 2023 11:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682413920/231/
 - Dienstag, 25. April 2023 11:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682414640/109/
 - Dienstag, 25. April 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682414640/231/
-- Dienstag, 25. April 2023 11:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682415360/109/
-- Dienstag, 25. April 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682415360/231/
+- Dienstag, 25. April 2023 11:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682415360/231/
 - Dienstag, 25. April 2023 11:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682416080/109/
 - Dienstag, 25. April 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682416080/231/
 - Dienstag, 25. April 2023 12:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682417520/109/
-- Dienstag, 25. April 2023 12:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682418240/109/
 - Dienstag, 25. April 2023 14:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682426160/109/
 - Dienstag, 25. April 2023 15:00 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682427600/109/
 - Dienstag, 25. April 2023 15:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682428320/109/
-- Dienstag, 25. April 2023 15:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682429040/109/
 - Dienstag, 25. April 2023 15:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682429760/109/
 - Dienstag, 25. April 2023 15:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682430480/109/
