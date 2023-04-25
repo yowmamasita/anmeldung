@@ -8,7 +8,6 @@
 - Mittwoch, 26. April 2023 08:42 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682491320/2887/
 - Mittwoch, 26. April 2023 08:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682491680/2857/
 - Mittwoch, 26. April 2023 08:54 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682492040/2887/
-- Mittwoch, 26. April 2023 09:06 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682492760/2887/
 - Mittwoch, 26. April 2023 09:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682493840/2857/
 - Mittwoch, 26. April 2023 09:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682494560/2857/
 - Mittwoch, 26. April 2023 09:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682495280/2857/
@@ -17,4 +16,3 @@
 - Mittwoch, 26. April 2023 10:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682498880/2857/
 - Mittwoch, 26. April 2023 11:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682499600/2857/
 - Mittwoch, 26. April 2023 11:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682500320/2857/
-- Mittwoch, 26. April 2023 11:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682501040/2857/
