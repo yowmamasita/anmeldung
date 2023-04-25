@@ -5,8 +5,6 @@
 - Mittwoch, 26. April 2023 09:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682493840/2857/
 - Mittwoch, 26. April 2023 09:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682495280/2857/
 - Mittwoch, 26. April 2023 11:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682500320/2857/
-- Mittwoch, 26. April 2023 12:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682503920/2857/
 - Donnerstag, 27. April 2023 11:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682588400/150/
 - Donnerstag, 27. April 2023 14:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1682598240/172/
 - Donnerstag, 27. April 2023 17:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682607600/191/
-- Freitag, 28. April 2023 12:18 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682677080/844/
