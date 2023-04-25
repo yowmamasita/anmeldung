@@ -4,4 +4,3 @@
 - Mittwoch, 26. April 2023 10:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682497440/231/
 - Mittwoch, 26. April 2023 10:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682498880/2899/
 - Mittwoch, 26. April 2023 12:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682505360/168/
-- Mittwoch, 24. Mai 2023 08:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684910880/172/
