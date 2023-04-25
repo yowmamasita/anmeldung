@@ -12,10 +12,8 @@
 - Dienstag, 25. April 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682412480/231/
 - Dienstag, 25. April 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1682412480/313/
 - Dienstag, 25. April 2023 10:54 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682412840/2842/
-- Dienstag, 25. April 2023 11:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682413200/169/
-- Dienstag, 25. April 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682413200/231/
-- Dienstag, 25. April 2023 11:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682413920/109/
-- Dienstag, 25. April 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682413920/231/
+- Dienstag, 25. April 2023 11:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682413200/231/
+- Dienstag, 25. April 2023 11:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682413920/231/
 - Dienstag, 25. April 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1682413920/313/
 - Dienstag, 25. April 2023 11:18 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682414280/2842/
 - Dienstag, 25. April 2023 11:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682414640/169/
@@ -39,12 +37,10 @@
 - Dienstag, 25. April 2023 12:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682418240/169/
 - Dienstag, 25. April 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682418240/109/
 - Dienstag, 25. April 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1682418240/313/
-- Dienstag, 25. April 2023 12:30 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682418600/154/
-- Dienstag, 25. April 2023  Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682418600/2842/
+- Dienstag, 25. April 2023 12:30 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682418600/2842/
 - Dienstag, 25. April 2023 12:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682418960/169/
 - Dienstag, 25. April 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1682418960/313/
 - Dienstag, 25. April 2023 12:42 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682419320/2842/
-- Dienstag, 25. April 2023 12:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682419680/169/
 - Dienstag, 25. April 2023 12:54 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682420040/2842/
 - Dienstag, 25. April 2023 13:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682420400/169/
 - Dienstag, 25. April 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1682420400/313/
@@ -76,7 +72,6 @@
 - Dienstag, 25. April 2023 14:36 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1682426160/135/
 - Dienstag, 25. April 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682426160/231/
 - Dienstag, 25. April 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1682426160/313/
-- Dienstag, 25. April 2023 14:42 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682426520/2842/
 - Dienstag, 25. April 2023 14:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682426880/109/
 - Dienstag, 25. April 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682426880/312/
 - Dienstag, 25. April 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682426880/231/
@@ -86,14 +81,13 @@
 - Dienstag, 25. April 2023 15:06 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682427960/2842/
 - Dienstag, 25. April 2023 15:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682428320/109/
 - Dienstag, 25. April 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682428320/312/
+- Dienstag, 25. April 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1682428320/313/
 - Dienstag, 25. April 2023 15:18 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682428680/2842/
 - Dienstag, 25. April 2023 15:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682429040/109/
 - Dienstag, 25. April 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682429040/312/
 - Dienstag, 25. April 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1682429040/313/
-- Dienstag, 25. April 2023 15:30 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682429400/2842/
 - Dienstag, 25. April 2023 15:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682429760/312/
 - Dienstag, 25. April 2023 15:42 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682430120/2842/
-- Dienstag, 25. April 2023 15:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682430480/312/
 - Dienstag, 25. April 2023 15:54 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682430840/2842/
 - Dienstag, 25. April 2023 16:00 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682431200/312/
 - Dienstag, 25. April 2023 16:06 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682431560/2842/
