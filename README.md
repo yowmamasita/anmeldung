@@ -4,6 +4,3 @@
 - Dienstag, 25. April 2023 09:54 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682409240/154/
 - Dienstag, 25. April 2023 10:06 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682409960/154/
 - Dienstag, 25. April 2023 10:18 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682410680/154/
-- Dienstag, 25. April 2023 10:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682411760/2896/
-- Dienstag, 25. April 2023 11:42 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682415720/154/
-- Dienstag, 25. April 2023 12:18 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682417880/154/
