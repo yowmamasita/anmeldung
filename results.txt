@@ -16,7 +16,5 @@
 - Mittwoch, 26. April 2023 09:18 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682493480/312/
 - Mittwoch, 26. April 2023 09:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682494200/312/
 - Mittwoch, 26. April 2023 09:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682494920/312/
-- Mittwoch, 26. April 2023 10:06 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682496360/312/
-- Freitag, 28. April 2023 09:00 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1682665200/153/
-- Freitag, 28. April 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682665200/154/
+- Freitag, 28. April 2023 09:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682665200/154/
 - Freitag, 28. April 2023 09:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1682665920/153/
