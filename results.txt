@@ -1,7 +1,1 @@
-- Dienstag, 25. April 2023 11:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682413200/3238/
-- Dienstag, 25. April 2023 12:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682418240/2857/
-- Dienstag, 25. April 2023 12:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682419680/2896/
-- Dienstag, 25. April 2023 13:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682420400/2896/
-- Dienstag, 25. April 2023 15:12 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682428320/2860/
-- Dienstag, 25. April 2023 15:24 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682429040/2860/
-- Dienstag, 25. April 2023 16:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682432640/169/
+- Dienstag, 25. April 2023 11:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682414640/2848/
