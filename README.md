@@ -6,26 +6,16 @@
 - Dienstag, 25. April 2023 15:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682429760/2857/
 - Dienstag, 25. April 2023 15:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682430480/2857/
 - Mittwoch, 26. April 2023 12:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682504640/154/
-- Mittwoch, 26. April 2023 12:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682505360/154/
 - Mittwoch, 26. April 2023 12:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682506080/154/
 - Mittwoch, 26. April 2023 13:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682507520/154/
-- Mittwoch, 26. April 2023 13:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682508240/154/
-- Mittwoch, 26. April 2023 13:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682508960/154/
+- Mittwoch, 26. April 2023 14:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682511120/154/
 - Donnerstag, 27. April 2023 07:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682574480/154/
-- Donnerstag, 27. April 2023 08:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682577360/154/
-- Donnerstag, 27. April 2023 08:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682578080/154/
 - Donnerstag, 27. April 2023 09:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682579520/154/
-- Donnerstag, 27. April 2023 09:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682580240/154/
-- Donnerstag, 27. April 2023 09:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682580960/154/
-- Freitag, 28. April 2023 08:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682663760/154/
-- Freitag, 28. April 2023 08:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682664480/154/
+- Freitag, 28. April 2023 09:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682665200/154/
 - Freitag, 28. April 2023 09:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682665920/154/
 - Freitag, 28. April 2023 09:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682666640/154/
 - Freitag, 28. April 2023 09:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682667360/154/
-- Freitag, 28. April 2023 09:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682668080/154/
-- Freitag, 28. April 2023 10:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682668800/154/
 - Freitag, 28. April 2023 10:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682669520/154/
 - Freitag, 28. April 2023 10:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682670240/154/
 - Freitag, 28. April 2023 10:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682670960/154/
 - Freitag, 28. April 2023 10:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682671680/154/
-- Freitag, 28. April 2023 11:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682674560/154/
