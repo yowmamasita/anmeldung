@@ -13,6 +13,4 @@
 - Mittwoch, 26. April 2023 12:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682503920/2863/
 - Donnerstag, 27. April 2023 08:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682577360/154/
 - Donnerstag, 27. April 2023 11:00 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1682586000/103/
-- Donnerstag, 27. April 2023 11:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682588880/312/
 - Montag, 8. Mai 2023 13:00 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683543600/2839/
-- Dienstag, 30. Mai 2023 14:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685449440/3238/
