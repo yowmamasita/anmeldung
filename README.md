@@ -30,3 +30,6 @@
 - Mittwoch, 26. April 2023 12:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682505600/150/
 - Mittwoch, 26. April 2023 12:42 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682505720/2887/
 - Mittwoch, 26. April 2023 13:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682509680/2854/
+- Mittwoch, 26. April 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682509680/1018/
+- Donnerstag, 27. April 2023 11:30 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682587800/2836/
+- Donnerstag, 25. Mai 2023 11:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685006280/2839/
