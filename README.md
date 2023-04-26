@@ -3,4 +3,3 @@
 - Mittwoch, 26. April 2023 08:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682490960/231/
 - Mittwoch, 24. Mai 2023 09:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684912320/2872/
 - Mittwoch, 24. Mai 2023 09:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684913040/2872/
-- Mittwoch, 24. Mai 2023 09:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684914480/2872/
