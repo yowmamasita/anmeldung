@@ -34,7 +34,6 @@
 - Mittwoch, 26. April 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1682497440/170/
 - Mittwoch, 26. April 2023 10:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1682497800/313/
 - Mittwoch, 26. April 2023 10:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682498160/169/
-- Mittwoch, 26. April 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682498160/154/
 - Mittwoch, 26. April 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1682498160/170/
 - Mittwoch, 26. April 2023 10:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1682498520/313/
 - Mittwoch, 26. April 2023 10:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682498880/169/
