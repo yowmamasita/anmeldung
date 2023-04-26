@@ -13,7 +13,6 @@
 - Donnerstag, 27. April 2023 12:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682591040/312/
 - Donnerstag, 27. April 2023 12:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682591760/312/
 - Donnerstag, 27. April 2023 12:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682592480/312/
-- Donnerstag, 27. April 2023 13:00 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682593200/312/
 - Donnerstag, 27. April 2023 13:12 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682593920/312/
 - Donnerstag, 27. April 2023 13:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682594640/312/
 - Donnerstag, 27. April 2023 13:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682595360/312/
@@ -37,3 +36,10 @@
 - Donnerstag, 27. April 2023 17:12 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682608320/312/
 - Donnerstag, 27. April 2023 17:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682609040/312/
 - Donnerstag, 27. April 2023 17:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682609760/312/
+- Freitag, 28. April 2023 10:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682670960/2863/
+- Freitag, 5. Mai 2023 11:54 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683280440/847/
+- Freitag, 5. Mai 2023 12:54 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683284040/841/
+- Montag, 15. Mai 2023 10:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684140480/2896/
+- Mittwoch, 24. Mai 2023 13:00 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684926000/2872/
+- Mittwoch, 24. Mai 2023 13:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684926720/2872/
+- Mittwoch, 24. Mai 2023 13:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684927440/2872/
