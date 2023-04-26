@@ -57,7 +57,6 @@
 - Donnerstag, 27. April 2023 16:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682604000/231/
 - Donnerstag, 27. April 2023 16:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682604720/231/
 - Donnerstag, 27. April 2023 16:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682605440/231/
-- Donnerstag, 27. April 2023 16:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682606160/231/
 - Donnerstag, 27. April 2023 16:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682606880/231/
 - Donnerstag, 27. April 2023 17:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682609760/231/
 - Donnerstag, 27. April 2023 17:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682610480/231/
@@ -87,3 +86,5 @@
 - Freitag, 28. April 2023 12:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682677440/231/
 - Freitag, 28. April 2023 12:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682678160/231/
 - Freitag, 28. April 2023 12:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682678880/231/
+- Freitag, 19. Mai 2023 12:24 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684491840/2860/
+- Dienstag, 23. Mai 2023 14:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684843920/2857/
