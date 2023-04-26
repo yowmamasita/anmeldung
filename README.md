@@ -40,6 +40,7 @@
 - Mittwoch, 26. April 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1682498880/170/
 - Mittwoch, 26. April 2023 10:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1682499240/313/
 - Mittwoch, 26. April 2023 11:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682499600/169/
+- Mittwoch, 26. April 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682499600/2899/
 - Mittwoch, 26. April 2023 11:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1682499960/313/
 - Mittwoch, 26. April 2023 11:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682500320/169/
 - Mittwoch, 26. April 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682500320/2899/
