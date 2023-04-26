@@ -19,14 +19,9 @@
 - Donnerstag, 27. April 2023 12:00 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682589600/2887/
 - Donnerstag, 27. April 2023 12:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682590320/190/
 - Donnerstag, 27. April 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682590320/2887/
-- Donnerstag, 27. April 2023 12:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682591040/190/
-- Donnerstag, 27. April 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682591040/2887/
-- Donnerstag, 27. April 2023 12:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682591760/190/
-- Donnerstag, 27. April 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682591760/2887/
-- Donnerstag, 27. April 2023 12:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682592480/190/
-- Donnerstag, 27. April 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682592480/2887/
+- Donnerstag, 27. April 2023 12:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682591040/2887/
+- Donnerstag, 27. April 2023 12:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682591760/2887/
+- Donnerstag, 27. April 2023 12:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682592480/2887/
 - Donnerstag, 27. April 2023 13:12 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682593920/2887/
-- Donnerstag, 27. April 2023 13:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682594640/190/
-- Donnerstag, 27. April 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682594640/2887/
+- Donnerstag, 27. April 2023 13:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682594640/2887/
 - Donnerstag, 27. April 2023 13:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682595360/2887/
-- Freitag, 26. Mai 2023 12:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685096640/2863/
