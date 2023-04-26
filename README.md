@@ -4,4 +4,3 @@
 - Donnerstag, 27. April 2023 09:54 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1682582040/153/
 - Donnerstag, 27. April 2023 10:06 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1682582760/153/
 - Donnerstag, 27. April 2023 10:18 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1682583480/153/
-- Donnerstag, 27. April 2023 10:30 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1682584200/153/
