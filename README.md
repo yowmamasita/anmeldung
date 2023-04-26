@@ -1,2 +1,89 @@
 # List of available Anmeldung appointments as of $NOW
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122254,122252,329742,122260,329745,122262,329748,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,317869,122281,327352,122279,329772,122283,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
+- Donnerstag, 27. April 2023 10:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682582400/231/
+- Donnerstag, 27. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682582400/191/
+- Donnerstag, 27. April 2023 10:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682583120/231/
+- Donnerstag, 27. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682583120/191/
+- Donnerstag, 27. April 2023 10:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682583840/231/
+- Donnerstag, 27. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682583840/191/
+- Donnerstag, 27. April 2023 10:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682584560/231/
+- Donnerstag, 27. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682584560/191/
+- Donnerstag, 27. April 2023 10:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682585280/231/
+- Donnerstag, 27. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682585280/191/
+- Donnerstag, 27. April 2023 11:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682586000/231/
+- Donnerstag, 27. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682586000/191/
+- Donnerstag, 27. April 2023 11:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682586720/231/
+- Donnerstag, 27. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682586720/191/
+- Donnerstag, 27. April 2023 11:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682587440/231/
+- Donnerstag, 27. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682587440/191/
+- Donnerstag, 27. April 2023 11:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682588160/231/
+- Donnerstag, 27. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682588160/191/
+- Donnerstag, 27. April 2023 11:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682588880/231/
+- Donnerstag, 27. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682588880/191/
+- Donnerstag, 27. April 2023 12:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682589600/231/
+- Donnerstag, 27. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682589600/191/
+- Donnerstag, 27. April 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682589600/2899/
+- Donnerstag, 27. April 2023 12:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682590320/231/
+- Donnerstag, 27. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682590320/191/
+- Donnerstag, 27. April 2023 12:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682591040/231/
+- Donnerstag, 27. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682591040/191/
+- Donnerstag, 27. April 2023 12:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682591760/231/
+- Donnerstag, 27. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682591760/191/
+- Donnerstag, 27. April 2023 12:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682592480/231/
+- Donnerstag, 27. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682592480/191/
+- Donnerstag, 27. April 2023 13:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682593200/231/
+- Donnerstag, 27. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682593200/191/
+- Donnerstag, 27. April 2023 13:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682593920/231/
+- Donnerstag, 27. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682593920/191/
+- Donnerstag, 27. April 2023 13:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682594640/231/
+- Donnerstag, 27. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682594640/191/
+- Donnerstag, 27. April 2023 13:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682595360/231/
+- Donnerstag, 27. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682595360/191/
+- Donnerstag, 27. April 2023 13:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682596080/231/
+- Donnerstag, 27. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682596080/191/
+- Donnerstag, 27. April 2023 14:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682596800/231/
+- Donnerstag, 27. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682596800/191/
+- Donnerstag, 27. April 2023 14:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682597520/231/
+- Donnerstag, 27. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682597520/191/
+- Donnerstag, 27. April 2023 14:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682598240/231/
+- Donnerstag, 27. April 2023 14:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682598960/231/
+- Donnerstag, 27. April 2023 14:48 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682599680/898/
+- Donnerstag, 27. April 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682599680/231/
+- Donnerstag, 27. April 2023 15:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682600400/231/
+- Donnerstag, 27. April 2023 15:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682601120/231/
+- Donnerstag, 27. April 2023 15:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682601840/231/
+- Donnerstag, 27. April 2023 15:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682602560/231/
+- Donnerstag, 27. April 2023 15:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682603280/231/
+- Donnerstag, 27. April 2023 16:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682604000/231/
+- Donnerstag, 27. April 2023 16:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682604720/231/
+- Donnerstag, 27. April 2023 16:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682605440/231/
+- Donnerstag, 27. April 2023 16:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682606160/231/
+- Donnerstag, 27. April 2023 16:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682606880/231/
+- Donnerstag, 27. April 2023 17:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682609760/231/
+- Donnerstag, 27. April 2023 17:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682610480/231/
+- Freitag, 28. April 2023 08:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682661600/231/
+- Freitag, 28. April 2023 08:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682662320/231/
+- Freitag, 28. April 2023 08:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682663040/231/
+- Freitag, 28. April 2023 08:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682663760/231/
+- Freitag, 28. April 2023 08:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682664480/231/
+- Freitag, 28. April 2023 09:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682665200/231/
+- Freitag, 28. April 2023 09:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682665920/231/
+- Freitag, 28. April 2023 09:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682666640/231/
+- Freitag, 28. April 2023 09:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682667360/231/
+- Freitag, 28. April 2023 09:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682668080/231/
+- Freitag, 28. April 2023 10:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682668800/231/
+- Freitag, 28. April 2023 10:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682669520/231/
+- Freitag, 28. April 2023 10:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682670240/231/
+- Freitag, 28. April 2023 10:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682670960/231/
+- Freitag, 28. April 2023 10:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682671680/231/
+- Freitag, 28. April 2023 11:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682672400/231/
+- Freitag, 28. April 2023 11:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682673120/231/
+- Freitag, 28. April 2023 11:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682673840/231/
+- Freitag, 28. April 2023 11:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682674560/231/
+- Freitag, 28. April 2023 11:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682675280/231/
+- Freitag, 28. April 2023 12:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682676000/231/
+- Freitag, 28. April 2023 12:06 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682676360/904/
+- Freitag, 28. April 2023 12:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682676720/231/
+- Freitag, 28. April 2023 12:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682677440/231/
+- Freitag, 28. April 2023 12:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682678160/231/
+- Freitag, 28. April 2023 12:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682678880/231/
