@@ -3,7 +3,6 @@
 - Donnerstag, 27. April 2023 11:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682586000/2863/
 - Donnerstag, 27. April 2023 11:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682588160/109/
 - Donnerstag, 27. April 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682588160/168/
-- Donnerstag, 27. April 2023 11:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682588400/150/
 - Donnerstag, 27. April 2023 11:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682588880/168/
 - Donnerstag, 27. April 2023 15:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682603280/168/
 - Donnerstag, 27. April 2023 16:12 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682604720/844/
@@ -15,5 +14,4 @@
 - Donnerstag, 27. April 2023 17:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682609760/168/
 - Freitag, 28. April 2023 12:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1682678880/192/
 - Mittwoch, 3. Mai 2023 11:40 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683106800/2881/
-- Mittwoch, 17. Mai 2023 08:30 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684305000/192/
 - Mittwoch, 24. Mai 2023 10:50 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1684918200/148/
