@@ -1,4 +1,5 @@
 - Mittwoch, 26. April 2023 07:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682487000/109/
+- Mittwoch, 26. April 2023 07:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682487360/2854/
 - Mittwoch, 26. April 2023 07:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682487720/109/
 - Mittwoch, 26. April 2023 07:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682488440/109/
 - Mittwoch, 26. April 2023 08:06 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682489160/109/
@@ -6,5 +7,4 @@
 - Mittwoch, 26. April 2023 08:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682490600/109/
 - Mittwoch, 26. April 2023 08:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682492040/109/
 - Mittwoch, 26. April 2023 09:06 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682492760/109/
-- Mittwoch, 26. April 2023 09:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682493480/109/
-- Mittwoch, 26. April 2023 09:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682494920/109/
+- Mittwoch, 26. April 2023 11:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682500680/2908/
