@@ -5,4 +5,3 @@
 - Mittwoch, 26. April 2023 11:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682502480/2863/
 - Mittwoch, 26. April 2023 11:54 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682502840/190/
 - Mittwoch, 26. April 2023 12:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1682503560/313/
-- Mittwoch, 26. April 2023 12:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1682503920/168/
