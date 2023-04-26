@@ -28,9 +28,7 @@
 - Mittwoch, 26. April 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682497440/154/
 - Mittwoch, 26. April 2023 10:30 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1682497800/112/
 - Mittwoch, 26. April 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682497800/150/
-- Mittwoch, 26. April 2023 10:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1682498160/108/
-- Mittwoch, 26. April 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682498160/167/
-- Mittwoch, 26. April 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682498160/154/
+- Mittwoch, 26. April 2023 10:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682498160/154/
 - Mittwoch, 26. April 2023 10:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682498400/150/
 - Mittwoch, 26. April 2023 10:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1682498520/112/
 - Mittwoch, 26. April 2023 10:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682498880/167/
@@ -53,7 +51,6 @@
 - Mittwoch, 26. April 2023 12:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682505360/154/
 - Mittwoch, 26. April 2023 12:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682505600/150/
 - Mittwoch, 26. April 2023 12:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682506080/154/
-- Mittwoch, 26. April 2023 12:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682506200/150/
 - Mittwoch, 26. April 2023 13:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682507520/154/
 - Mittwoch, 26. April 2023 13:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682508240/154/
 - Mittwoch, 26. April 2023 13:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682508960/154/
