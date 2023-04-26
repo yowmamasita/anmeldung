@@ -5,6 +5,3 @@
 - Donnerstag, 27. April 2023 11:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682587440/231/
 - Donnerstag, 27. April 2023 11:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682588160/231/
 - Donnerstag, 27. April 2023 11:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682588880/231/
-- Donnerstag, 27. April 2023 12:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682590320/231/
-- Donnerstag, 27. April 2023 12:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682591760/231/
-- Freitag, 28. April 2023 12:20 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682677200/2884/
