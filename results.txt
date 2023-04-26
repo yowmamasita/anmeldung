@@ -20,7 +20,8 @@
 - Mittwoch, 26. April 2023 09:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682493120/2896/
 - Mittwoch, 26. April 2023 09:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1682493480/313/
 - Mittwoch, 26. April 2023 09:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1682493600/149/
-- Mittwoch, 26. April 2023 09:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682493840/2896/
+- Mittwoch, 26. April 2023 09:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682493840/169/
+- Mittwoch, 26. April 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682493840/2896/
 - Mittwoch, 26. April 2023 09:30 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1682494200/149/
 - Mittwoch, 26. April 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1682494200/313/
 - Mittwoch, 26. April 2023 09:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682494560/169/
@@ -32,8 +33,7 @@
 - Mittwoch, 26. April 2023 09:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1682495640/313/
 - Mittwoch, 26. April 2023 10:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682496000/2896/
 - Mittwoch, 26. April 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1682496000/172/
-- Mittwoch, 26. April 2023 10:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682496720/169/
-- Mittwoch, 26. April 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682496720/2896/
+- Mittwoch, 26. April 2023 10:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682496720/2896/
 - Mittwoch, 26. April 2023 10:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682497440/2896/
 - Mittwoch, 26. April 2023 10:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682498160/169/
 - Mittwoch, 26. April 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682498160/2896/
