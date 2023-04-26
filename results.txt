@@ -1,4 +1,3 @@
-- Donnerstag, 27. April 2023 10:00 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682582400/312/
 - Donnerstag, 27. April 2023 10:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682583840/312/
 - Donnerstag, 27. April 2023 10:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682584560/312/
 - Donnerstag, 27. April 2023 10:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682585280/312/
@@ -36,4 +35,3 @@
 - Donnerstag, 27. April 2023 17:12 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682608320/312/
 - Donnerstag, 27. April 2023 17:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682609040/312/
 - Donnerstag, 27. April 2023 17:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682609760/312/
-- Donnerstag, 27. April 2023 17:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682610480/312/
