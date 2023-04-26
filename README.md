@@ -17,3 +17,5 @@
 - Freitag, 28. April 2023 12:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1682677440/153/
 - Freitag, 28. April 2023 12:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1682678160/153/
 - Freitag, 28. April 2023 12:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1682678880/153/
+- Dienstag, 2. Mai 2023 17:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683041760/2899/
+- Dienstag, 9. Mai 2023 09:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683618480/3238/
