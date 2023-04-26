@@ -3,7 +3,6 @@
 - Mittwoch, 26. April 2023 09:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682493840/169/
 - Mittwoch, 26. April 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682493840/2851/
 - Mittwoch, 26. April 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682493840/167/
-- Mittwoch, 26. April 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1682493840/146/
 - Mittwoch, 26. April 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682493840/154/
 - Mittwoch, 26. April 2023 09:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682494560/167/
 - Mittwoch, 26. April 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682494560/2863/
@@ -11,6 +10,3 @@
 - Mittwoch, 26. April 2023 10:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682498880/2872/
 - Mittwoch, 26. April 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682498880/2863/
 - Mittwoch, 26. April 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682498880/2899/
-- Mittwoch, 26. April 2023 11:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682502480/2863/
-- Mittwoch, 26. April 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1682502480/170/
-- Mittwoch, 26. April 2023 11:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682502600/150/
