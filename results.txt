@@ -15,7 +15,6 @@
 - Donnerstag, 27. April 2023 11:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682588880/231/
 - Donnerstag, 27. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682588880/191/
 - Donnerstag, 27. April 2023 12:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682589600/231/
-- Donnerstag, 27. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682589600/191/
 - Donnerstag, 27. April 2023 12:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682590320/231/
 - Donnerstag, 27. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682590320/191/
 - Donnerstag, 27. April 2023 12:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682591040/231/
@@ -38,9 +37,7 @@
 - Donnerstag, 27. April 2023 14:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682598240/231/
 - Donnerstag, 27. April 2023 14:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682598960/231/
 - Donnerstag, 27. April 2023 14:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682599680/231/
-- Donnerstag, 27. April 2023 15:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682600400/231/
 - Donnerstag, 27. April 2023 15:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682601120/231/
-- Freitag, 28. April 2023 09:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682665200/231/
 - Freitag, 28. April 2023 09:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682665920/231/
 - Freitag, 28. April 2023 09:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682666640/231/
 - Freitag, 28. April 2023 09:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682667360/231/
