@@ -20,7 +20,6 @@
 - Mittwoch, 26. April 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1682491680/102/
 - Mittwoch, 26. April 2023 09:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682492400/231/
 - Mittwoch, 26. April 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1682492400/102/
-- Mittwoch, 26. April 2023 09:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1682492760/313/
 - Mittwoch, 26. April 2023 09:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682493120/231/
 - Mittwoch, 26. April 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1682493120/102/
 - Mittwoch, 26. April 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682493120/2896/
@@ -40,13 +39,22 @@
 - Mittwoch, 26. April 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1682497440/102/
 - Mittwoch, 26. April 2023 10:36 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1682498160/102/
 - Mittwoch, 26. April 2023 10:48 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1682498880/102/
+- Mittwoch, 26. April 2023 11:00 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682499600/2872/
 - Mittwoch, 26. April 2023 11:06 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682499960/190/
+- Mittwoch, 26. April 2023 11:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682500320/2872/
 - Mittwoch, 26. April 2023 11:18 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682500680/190/
+- Mittwoch, 26. April 2023 11:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682501040/2872/
 - Mittwoch, 26. April 2023 11:36 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1682501760/102/
+- Mittwoch, 26. April 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682501760/2872/
 - Mittwoch, 26. April 2023 11:42 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682502120/190/
 - Mittwoch, 26. April 2023 11:48 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1682502480/102/
+- Mittwoch, 26. April 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682502480/2872/
 - Mittwoch, 26. April 2023 11:54 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682502840/190/
+- Mittwoch, 26. April 2023 12:00 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682503200/2872/
 - Mittwoch, 26. April 2023 12:06 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682503560/190/
+- Mittwoch, 26. April 2023 12:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682503920/2872/
+- Mittwoch, 26. April 2023 12:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682504640/231/
+- Mittwoch, 26. April 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682504640/2872/
 - Mittwoch, 26. April 2023 12:30 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682505000/190/
 - Mittwoch, 26. April 2023 12:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682505360/231/
 - Mittwoch, 26. April 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1682505360/102/
@@ -59,7 +67,6 @@
 - Mittwoch, 26. April 2023 13:18 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682507880/190/
 - Mittwoch, 26. April 2023 13:24 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1682508240/102/
 - Mittwoch, 26. April 2023 13:36 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1682508960/102/
-- Mittwoch, 26. April 2023 13:48 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1682509680/102/
 - Mittwoch, 26. April 2023 13:54 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682510040/190/
 - Dienstag, 2. Mai 2023 15:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683034560/167/
 - Dienstag, 2. Mai 2023 15:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683035280/167/
