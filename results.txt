@@ -14,7 +14,4 @@
 - Mittwoch, 26. April 2023 10:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682497440/2899/
 - Mittwoch, 26. April 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682497440/154/
 - Mittwoch, 26. April 2023 10:50 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682499000/2878/
-- Mittwoch, 26. April 2023 12:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682504640/154/
-- Mittwoch, 26. April 2023 14:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682512560/2899/
-- Donnerstag, 27. April 2023 10:00 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682582400/109/
-- Donnerstag, 27. April 2023 11:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682586720/109/
+- Mittwoch, 26. April 2023 12:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1682503920/154/
