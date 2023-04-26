@@ -1,4 +1,3 @@
-- Mittwoch, 26. April 2023 10:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1682498520/313/
 - Mittwoch, 26. April 2023 10:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682498880/169/
 - Mittwoch, 26. April 2023 11:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1682499960/313/
 - Mittwoch, 26. April 2023 11:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1682500680/313/
@@ -8,5 +7,4 @@
 - Mittwoch, 26. April 2023 12:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1682503560/313/
 - Mittwoch, 26. April 2023 12:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1682504280/313/
 - Mittwoch, 26. April 2023 12:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1682505000/313/
-- Mittwoch, 26. April 2023 12:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1682505720/313/
 - Mittwoch, 26. April 2023 12:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682506440/2908/
