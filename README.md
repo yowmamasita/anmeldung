@@ -3,4 +3,4 @@
 - Mittwoch, 26. April 2023 09:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682493120/2848/
 - Mittwoch, 26. April 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682493120/167/
 - Mittwoch, 26. April 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682493120/2863/
-- Mittwoch, 26. April 2023 09:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682494800/150/
+- Mittwoch, 26. April 2023 09:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682494560/2863/
