@@ -6,9 +6,7 @@
 - Donnerstag, 27. April 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682594640/2857/
 - Donnerstag, 27. April 2023 13:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682595360/2845/
 - Donnerstag, 27. April 2023 14:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682596800/2863/
-- Donnerstag, 27. April 2023 14:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682597520/169/
 - Donnerstag, 27. April 2023 14:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682598240/169/
 - Donnerstag, 27. April 2023 14:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682598960/169/
 - Donnerstag, 27. April 2023 14:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682599680/169/
-- Donnerstag, 27. April 2023 15:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682601120/169/
 - Donnerstag, 27. April 2023 15:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682601840/2863/
