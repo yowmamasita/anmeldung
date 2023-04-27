@@ -17,7 +17,6 @@
 - Donnerstag, 27. April 2023 12:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682590800/150/
 - Donnerstag, 27. April 2023 12:24 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682591040/2908/
 - Donnerstag, 27. April 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682591040/2914/
-- Donnerstag, 27. April 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682591040/167/
 - Donnerstag, 27. April 2023 12:36 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682591760/2908/
 - Donnerstag, 27. April 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682591760/2914/
 - Donnerstag, 27. April 2023 12:40 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1682592000/149/
@@ -30,7 +29,6 @@
 - Donnerstag, 27. April 2023 13:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682593800/150/
 - Donnerstag, 27. April 2023 13:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682593920/2908/
 - Donnerstag, 27. April 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682593920/2914/
-- Donnerstag, 27. April 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682593920/2899/
 - Donnerstag, 27. April 2023 13:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1682594400/149/
 - Donnerstag, 27. April 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682594400/150/
 - Donnerstag, 27. April 2023 13:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682595600/150/
@@ -47,9 +45,9 @@
 - Donnerstag, 27. April 2023 14:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682599800/150/
 - Donnerstag, 27. April 2023 15:00 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682600400/2914/
 - Donnerstag, 27. April 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682600400/150/
-- Donnerstag, 27. April 2023 15:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682601000/150/
 - Donnerstag, 27. April 2023 15:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682601120/2914/
 - Donnerstag, 27. April 2023 15:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682601840/2914/
 - Donnerstag, 27. April 2023 15:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682602560/2914/
+- Donnerstag, 27. April 2023 15:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682602800/150/
 - Donnerstag, 27. April 2023 15:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682603280/2914/
 - Donnerstag, 27. April 2023 15:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682603400/150/
