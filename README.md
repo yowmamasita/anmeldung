@@ -8,4 +8,3 @@
 - Donnerstag, 27. April 2023 14:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682599680/2845/
 - Donnerstag, 27. April 2023 15:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682603280/169/
 - Donnerstag, 27. April 2023 16:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682604720/109/
-- Freitag, 28. April 2023 12:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1682679000/147/
