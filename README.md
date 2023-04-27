@@ -4,5 +4,3 @@
 - Donnerstag, 27. April 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1682604000/146/
 - Donnerstag, 27. April 2023 16:06 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682604360/2836/
 - Donnerstag, 27. April 2023 16:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682606160/169/
-- Dienstag, 16. Mai 2023 09:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684221840/3238/
-- Dienstag, 16. Mai 2023 16:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684246320/172/
