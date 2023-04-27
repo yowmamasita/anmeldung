@@ -7,4 +7,3 @@
 - Donnerstag, 27. April 2023 14:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682598240/169/
 - Donnerstag, 27. April 2023 14:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682598960/2896/
 - Donnerstag, 27. April 2023 15:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682603280/169/
-- Donnerstag, 27. April 2023 16:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682604720/109/
