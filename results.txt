@@ -1,5 +1,4 @@
 - Donnerstag, 27. April 2023 12:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1682590320/112/
-- Donnerstag, 27. April 2023 12:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682591040/2863/
 - Donnerstag, 27. April 2023 12:36 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1682591760/134/
 - Donnerstag, 27. April 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1682591760/381/
 - Donnerstag, 27. April 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1682591760/190/
@@ -11,7 +10,5 @@
 - Donnerstag, 27. April 2023 13:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682596080/2848/
 - Donnerstag, 27. April 2023 14:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682596800/2848/
 - Donnerstag, 27. April 2023 14:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682597520/231/
-- Donnerstag, 27. April 2023 16:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682604000/3238/
 - Donnerstag, 27. April 2023 16:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682606880/2857/
 - Donnerstag, 27. April 2023 17:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682610480/312/
-- Freitag, 28. April 2023 09:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682665200/2926/
