@@ -1,18 +1,39 @@
 # List of available Anmeldung appointments as of $NOW
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122254,122252,329742,122260,329745,122262,329748,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,317869,122281,327352,122279,329772,122283,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
-- Donnerstag, 27. April 2023 11:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682586720/231/
-- Donnerstag, 27. April 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682586720/2851/
+- Donnerstag, 27. April 2023 11:00 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682586000/143/
+- Donnerstag, 27. April 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682586000/2854/
+- Donnerstag, 27. April 2023 11:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682586720/2851/
 - Donnerstag, 27. April 2023 11:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682587440/2851/
 - Donnerstag, 27. April 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682587440/1018/
 - Donnerstag, 27. April 2023 11:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682588160/2851/
+- Donnerstag, 27. April 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682588160/167/
 - Donnerstag, 27. April 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682588160/1018/
 - Donnerstag, 27. April 2023 11:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682588880/2851/
 - Donnerstag, 27. April 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682588880/1018/
-- Donnerstag, 27. April 2023 12:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682589600/2851/
-- Donnerstag, 27. April 2023 12:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682590320/2851/
-- Donnerstag, 27. April 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682590320/1018/
-- Donnerstag, 27. April 2023 12:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682591040/2851/
+- Donnerstag, 27. April 2023 11:54 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682589240/2932/
+- Donnerstag, 27. April 2023 12:06 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682589960/2839/
+- Donnerstag, 27. April 2023 12:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682590320/2857/
+- Donnerstag, 27. April 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682590320/2851/
+- Donnerstag, 27. April 2023 12:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682591040/2854/
+- Donnerstag, 27. April 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1682591040/172/
 - Donnerstag, 27. April 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682591040/1018/
-- Donnerstag, 27. April 2023 12:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682592480/2851/
+- Donnerstag, 27. April 2023 12:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1682591760/146/
+- Donnerstag, 27. April 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682591760/1018/
+- Donnerstag, 27. April 2023 12:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1682592480/312/
+- Donnerstag, 27. April 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682592480/2851/
 - Donnerstag, 27. April 2023 13:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682593200/2851/
-- Donnerstag, 27. April 2023 13:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682593920/2851/
+- Donnerstag, 27. April 2023 14:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682598000/150/
+- Donnerstag, 27. April 2023 14:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1682598240/146/
+- Donnerstag, 27. April 2023 14:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682599680/167/
+- Donnerstag, 27. April 2023 15:24 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1682601840/134/
+- Donnerstag, 27. April 2023 15:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682602560/2851/
+- Donnerstag, 27. April 2023 15:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682603280/2851/
+- Donnerstag, 27. April 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682603280/167/
+- Donnerstag, 27. April 2023 16:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682605440/2851/
+- Donnerstag, 27. April 2023 16:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682606160/2851/
+- Donnerstag, 27. April 2023 16:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682606880/109/
+- Donnerstag, 27. April 2023 17:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682607600/2851/
+- Freitag, 28. April 2023 08:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682663040/231/
+- Mittwoch, 3. Mai 2023 10:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683101520/2899/
+- Dienstag, 9. Mai 2023 14:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683636480/2896/
+- Mittwoch, 17. Mai 2023 12:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684320480/2872/
