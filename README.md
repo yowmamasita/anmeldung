@@ -4,15 +4,12 @@
 - Donnerstag, 27. April 2023 11:00 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682586000/2914/
 - Donnerstag, 27. April 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682586000/2854/
 - Donnerstag, 27. April 2023 11:12 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682586720/2854/
-- Donnerstag, 27. April 2023 11:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682587440/2914/
-- Donnerstag, 27. April 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682587440/2854/
-- Donnerstag, 27. April 2023 11:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682588160/2914/
-- Donnerstag, 27. April 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682588160/2854/
+- Donnerstag, 27. April 2023 11:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682587440/2854/
+- Donnerstag, 27. April 2023 11:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682588160/2854/
 - Donnerstag, 27. April 2023 11:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682588880/2854/
 - Donnerstag, 27. April 2023 12:00 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682589600/2854/
 - Donnerstag, 27. April 2023 12:12 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682590320/2854/
 - Donnerstag, 27. April 2023 12:24 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682591040/2908/
-- Donnerstag, 27. April 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682591040/3238/
 - Donnerstag, 27. April 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682591040/2854/
 - Donnerstag, 27. April 2023 12:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682591760/2914/
 - Donnerstag, 27. April 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682591760/2854/
@@ -27,10 +24,8 @@
 - Donnerstag, 27. April 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682598960/2854/
 - Donnerstag, 27. April 2023 14:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682599680/167/
 - Donnerstag, 27. April 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682599680/2854/
-- Donnerstag, 27. April 2023 15:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682601120/167/
 - Donnerstag, 27. April 2023 15:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682601840/167/
 - Donnerstag, 27. April 2023 15:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682602560/167/
-- Donnerstag, 27. April 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682602560/2854/
 - Donnerstag, 27. April 2023 15:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682603280/167/
 - Donnerstag, 27. April 2023 16:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682604000/167/
 - Donnerstag, 27. April 2023 16:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682604720/167/
@@ -38,7 +33,6 @@
 - Donnerstag, 27. April 2023 16:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682605440/167/
 - Donnerstag, 27. April 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682605440/2854/
 - Donnerstag, 27. April 2023 16:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682606160/167/
-- Donnerstag, 27. April 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682606160/2932/
 - Donnerstag, 27. April 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682606160/2854/
 - Donnerstag, 27. April 2023 16:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682606880/167/
 - Donnerstag, 27. April 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682606880/2854/
@@ -47,5 +41,4 @@
 - Donnerstag, 27. April 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682608320/2854/
 - Donnerstag, 27. April 2023 17:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682609040/167/
 - Donnerstag, 27. April 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682609040/2854/
-- Donnerstag, 27. April 2023 17:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682609760/2854/
-- Donnerstag, 27. April 2023 17:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682610480/2854/
+- Donnerstag, 27. April 2023 17:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682610480/167/
