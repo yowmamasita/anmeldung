@@ -20,7 +20,6 @@
 - Donnerstag, 27. April 2023 13:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682594640/2899/
 - Donnerstag, 27. April 2023 13:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682595360/2854/
 - Donnerstag, 27. April 2023 13:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682596080/231/
-- Donnerstag, 27. April 2023 13:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682596200/150/
 - Donnerstag, 27. April 2023 14:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682598240/167/
 - Donnerstag, 27. April 2023 14:30 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1682598600/133/
 - Donnerstag, 27. April 2023 14:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682598960/167/
@@ -28,7 +27,6 @@
 - Donnerstag, 27. April 2023 14:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682599680/167/
 - Donnerstag, 27. April 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682599680/2854/
 - Donnerstag, 27. April 2023 15:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682601120/167/
-- Donnerstag, 27. April 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682601120/2854/
 - Donnerstag, 27. April 2023 15:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682601840/167/
 - Donnerstag, 27. April 2023 15:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682602560/167/
 - Donnerstag, 27. April 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682602560/2854/
