@@ -1,5 +1,6 @@
 - Donnerstag, 27. April 2023 10:12 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1682583120/106/
 - Donnerstag, 27. April 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682583120/2845/
+- Donnerstag, 27. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682583120/191/
 - Donnerstag, 27. April 2023 10:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1682583840/106/
 - Donnerstag, 27. April 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682583840/2845/
 - Donnerstag, 27. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682583840/191/
@@ -8,6 +9,6 @@
 - Donnerstag, 27. April 2023 10:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682585280/2845/
 - Donnerstag, 27. April 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682585280/2896/
 - Donnerstag, 27. April 2023 11:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682586000/2845/
-- Donnerstag, 27. April 2023 11:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682586720/2845/
-- Donnerstag, 27. April 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682586720/2896/
+- Donnerstag, 27. April 2023 11:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682586720/2896/
+- Donnerstag, 27. April 2023 11:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682588880/2845/
 - Donnerstag, 27. April 2023 12:20 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682590800/2884/
