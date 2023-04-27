@@ -1,4 +1,2 @@
-- Donnerstag, 27. April 2023 17:20 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682608800/2881/
-- Dienstag, 9. Mai 2023 17:36 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683646560/2911/
-- Dienstag, 9. Mai 2023 17:48 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683647280/2911/
-- Mittwoch, 31. Mai 2023 13:36 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685532960/2836/
+- Donnerstag, 27. April 2023 15:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682602800/150/
+- Mittwoch, 3. Mai 2023 10:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683101520/2899/
