@@ -21,3 +21,6 @@
 - Donnerstag, 27. April 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682606160/2863/
 - Donnerstag, 27. April 2023 16:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682606880/2854/
 - Donnerstag, 27. April 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682606880/2863/
+- Mittwoch, 3. Mai 2023 08:00 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683093600/2938/
+- Mittwoch, 10. Mai 2023 08:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683698400/2899/
+- Dienstag, 30. Mai 2023 15:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685453040/2863/
