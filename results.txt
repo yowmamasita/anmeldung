@@ -13,8 +13,7 @@
 - Donnerstag, 27. April 2023 12:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1682589600/170/
 - Donnerstag, 27. April 2023 12:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682590320/109/
 - Donnerstag, 27. April 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1682590320/170/
-- Donnerstag, 27. April 2023 12:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682591040/109/
-- Donnerstag, 27. April 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1682591040/170/
+- Donnerstag, 27. April 2023 12:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1682591040/170/
 - Donnerstag, 27. April 2023 12:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1682591760/170/
 - Donnerstag, 27. April 2023 12:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1682592480/170/
 - Donnerstag, 27. April 2023 13:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1682593200/170/
@@ -29,8 +28,7 @@
 - Donnerstag, 27. April 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1682598960/153/
 - Donnerstag, 27. April 2023 14:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682599680/109/
 - Donnerstag, 27. April 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1682599680/153/
-- Donnerstag, 27. April 2023 15:00 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682600400/109/
-- Donnerstag, 27. April 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1682600400/153/
+- Donnerstag, 27. April 2023 15:00 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1682600400/153/
 - Donnerstag, 27. April 2023 15:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682601120/109/
 - Donnerstag, 27. April 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1682601120/153/
 - Donnerstag, 27. April 2023 15:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682601840/109/
@@ -41,13 +39,10 @@
 - Donnerstag, 27. April 2023 16:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682604720/109/
 - Donnerstag, 27. April 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1682604720/153/
 - Donnerstag, 27. April 2023 16:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1682605440/153/
-- Donnerstag, 27. April 2023 16:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682606160/109/
-- Donnerstag, 27. April 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1682606160/153/
+- Donnerstag, 27. April 2023 16:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1682606160/153/
 - Donnerstag, 27. April 2023 16:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682606880/109/
 - Donnerstag, 27. April 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1682606880/153/
-- Donnerstag, 27. April 2023 17:00 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1682607600/153/
 - Donnerstag, 27. April 2023 17:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1682608320/153/
-- Donnerstag, 27. April 2023 17:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682609040/109/
-- Donnerstag, 27. April 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1682609040/153/
+- Donnerstag, 27. April 2023 17:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1682609040/153/
 - Donnerstag, 27. April 2023 17:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1682609760/109/
 - Donnerstag, 27. April 2023 17:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1682610480/153/
