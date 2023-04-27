@@ -5,7 +5,6 @@
 - Freitag, 28. April 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682664480/2857/
 - Freitag, 28. April 2023 09:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682665920/169/
 - Freitag, 28. April 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682665920/2857/
-- Freitag, 28. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682665920/191/
 - Freitag, 28. April 2023 09:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682666640/169/
 - Freitag, 28. April 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682666640/2857/
 - Freitag, 28. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682666640/191/
@@ -27,11 +26,9 @@
 - Freitag, 28. April 2023 11:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682674560/169/
 - Freitag, 28. April 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682674560/2857/
 - Freitag, 28. April 2023 11:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682675280/2857/
-- Freitag, 28. April 2023 12:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682676000/169/
-- Freitag, 28. April 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682676000/2857/
+- Freitag, 28. April 2023 12:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682676000/2857/
 - Freitag, 28. April 2023 12:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682676720/169/
 - Freitag, 28. April 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682676720/2857/
 - Freitag, 28. April 2023 12:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682677440/169/
 - Freitag, 28. April 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682677440/2857/
-- Freitag, 28. April 2023 12:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682678160/169/
-- Freitag, 28. April 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682678160/2857/
+- Freitag, 28. April 2023 12:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682678160/2857/
