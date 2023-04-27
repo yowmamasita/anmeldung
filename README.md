@@ -16,10 +16,11 @@
 - Donnerstag, 27. April 2023 12:36 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682591760/2908/
 - Donnerstag, 27. April 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682591760/2914/
 - Donnerstag, 27. April 2023 12:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682592600/150/
-- Donnerstag, 27. April 2023 12:54 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682592840/2932/
 - Donnerstag, 27. April 2023 13:00 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682593200/2914/
 - Donnerstag, 27. April 2023 13:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682593920/2914/
 - Donnerstag, 27. April 2023 13:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682594400/150/
+- Donnerstag, 27. April 2023 14:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682598000/150/
 - Donnerstag, 27. April 2023 14:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682598240/2914/
-- Donnerstag, 27. April 2023 14:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682599680/2914/
 - Donnerstag, 27. April 2023 15:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682601120/2914/
+- Donnerstag, 27. April 2023 15:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682601840/2914/
+- Donnerstag, 27. April 2023 15:36 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682602560/2908/
