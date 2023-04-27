@@ -120,3 +120,6 @@
 - Donnerstag, 27. April 2023 17:36 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682609760/2908/
 - Donnerstag, 27. April 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682609760/2911/
 - Donnerstag, 27. April 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682609760/2914/
+- Dienstag, 2. Mai 2023 11:30 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683019800/2839/
+- Donnerstag, 11. Mai 2023 15:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1683810000/191/
+- Dienstag, 23. Mai 2023 14:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1684843200/146/
