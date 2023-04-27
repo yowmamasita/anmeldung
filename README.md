@@ -5,4 +5,3 @@
 - Donnerstag, 27. April 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1682606160/108/
 - Donnerstag, 27. April 2023 16:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1682606880/108/
 - Donnerstag, 27. April 2023 17:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682607600/2848/
-- Donnerstag, 27. April 2023 17:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682610480/3238/
