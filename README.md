@@ -9,7 +9,6 @@
 - Donnerstag, 27. April 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682586720/2914/
 - Donnerstag, 27. April 2023 11:24 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682587440/2908/
 - Donnerstag, 27. April 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682587440/2914/
-- Donnerstag, 27. April 2023 11:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682587800/150/
 - Donnerstag, 27. April 2023 11:36 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682588160/2908/
 - Donnerstag, 27. April 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682588160/2914/
 - Donnerstag, 27. April 2023 11:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682588400/150/
@@ -33,7 +32,6 @@
 - Donnerstag, 27. April 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682592600/150/
 - Donnerstag, 27. April 2023 13:00 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682593200/2908/
 - Donnerstag, 27. April 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682593200/2914/
-- Donnerstag, 27. April 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682593200/150/
 - Donnerstag, 27. April 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682593200/2899/
 - Donnerstag, 27. April 2023 13:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682593800/150/
 - Donnerstag, 27. April 2023 13:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682593920/2908/
@@ -43,7 +41,6 @@
 - Donnerstag, 27. April 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682594400/150/
 - Donnerstag, 27. April 2023 13:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682594640/2899/
 - Donnerstag, 27. April 2023 13:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682595000/150/
-- Donnerstag, 27. April 2023 13:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682595360/2899/
 - Donnerstag, 27. April 2023 13:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682595600/150/
 - Donnerstag, 27. April 2023 13:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682596080/2899/
 - Donnerstag, 27. April 2023 13:50 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1682596200/149/
@@ -62,6 +59,7 @@
 - Donnerstag, 27. April 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682599680/2914/
 - Donnerstag, 27. April 2023 14:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682599800/150/
 - Donnerstag, 27. April 2023 15:00 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682600400/2914/
+- Donnerstag, 27. April 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682600400/150/
 - Donnerstag, 27. April 2023 15:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1682601000/150/
 - Donnerstag, 27. April 2023 15:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682601120/2914/
 - Donnerstag, 27. April 2023 15:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682601840/2914/
