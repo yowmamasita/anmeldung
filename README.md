@@ -6,4 +6,3 @@
 - Freitag, 28. April 2023 09:24 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682666640/2875/
 - Freitag, 28. April 2023 09:36 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682667360/2875/
 - Freitag, 28. April 2023 09:48 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682668080/2875/
-- Freitag, 28. April 2023 11:36 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682674560/2866/
