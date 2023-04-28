@@ -4,7 +4,6 @@
 - Dienstag, 2. Mai 2023 08:00 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683007200/2932/
 - Dienstag, 2. Mai 2023 08:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1683009360/153/
 - Dienstag, 2. Mai 2023 08:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1683010080/153/
-- Dienstag, 2. Mai 2023 10:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683017280/146/
 - Dienstag, 2. Mai 2023 13:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683028080/2887/
 - Donnerstag, 4. Mai 2023 15:18 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683206280/2836/
 - Freitag, 5. Mai 2023 08:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683267840/172/
