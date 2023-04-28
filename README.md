@@ -7,15 +7,12 @@
 - Freitag, 28. April 2023 08:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682664480/167/
 - Freitag, 28. April 2023 08:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682664840/2908/
 - Freitag, 28. April 2023 09:06 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1682665560/134/
-- Freitag, 28. April 2023 09:12 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1682665920/106/
-- Freitag, 28. April 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682665920/3238/
+- Freitag, 28. April 2023 09:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682665920/3238/
 - Freitag, 28. April 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1682665920/170/
 - Freitag, 28. April 2023 09:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682666280/2908/
-- Freitag, 28. April 2023 09:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682666640/2887/
 - Freitag, 28. April 2023 09:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682667360/169/
 - Freitag, 28. April 2023 10:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1682670240/167/
-- Freitag, 28. April 2023 10:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1682671680/231/
-- Freitag, 28. April 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1682671680/170/
+- Freitag, 28. April 2023 10:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1682671680/170/
 - Freitag, 28. April 2023 10:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1682672040/112/
 - Freitag, 28. April 2023 11:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682674200/2908/
 - Freitag, 28. April 2023 11:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1682674920/112/
@@ -24,10 +21,8 @@
 - Freitag, 28. April 2023 12:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682678160/169/
 - Freitag, 28. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682678160/191/
 - Freitag, 28. April 2023 12:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1682678880/169/
-- Freitag, 28. April 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1682678880/191/
 - Mittwoch, 24. Mai 2023 09:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684911600/2836/
 - Mittwoch, 24. Mai 2023 09:24 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684913040/2836/
-- Mittwoch, 24. Mai 2023 10:36 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684917360/2836/
 - Mittwoch, 24. Mai 2023 11:12 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684919520/2836/
 - Mittwoch, 24. Mai 2023 11:36 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684920960/2836/
 - Mittwoch, 24. Mai 2023 11:48 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684921680/2836/
