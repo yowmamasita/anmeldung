@@ -5,4 +5,3 @@
 - Freitag, 28. April 2023 12:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682676720/2845/
 - Freitag, 28. April 2023 12:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682677440/2845/
 - Freitag, 28. April 2023 12:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1682678160/2845/
-- Montag, 22. Mai 2023 08:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1684738200/150/
