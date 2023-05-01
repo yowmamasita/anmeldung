@@ -42,8 +42,7 @@
 - Montag, 26. Juni 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687764960/2860/
 - Montag, 26. Juni 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687764960/192/
 - Montag, 26. Juni 2023 09:40 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687765200/2884/
-- Montag, 26. Juni 2023 09:42 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1687765320/134/
-- Montag, 26. Juni 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687765320/841/
+- Montag, 26. Juni 2023 09:42 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687765320/841/
 - Montag, 26. Juni 2023 09:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687765680/169/
 - Montag, 26. Juni 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687765680/2854/
 - Montag, 26. Juni 2023 09:50 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1687765800/151/
