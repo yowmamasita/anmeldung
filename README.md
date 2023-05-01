@@ -19,12 +19,12 @@
 - Montag, 26. Juni 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687759560/898/
 - Montag, 26. Juni 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687759560/111/
 - Montag, 26. Juni 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687759560/847/
+- Montag, 26. Juni 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687759560/313/
 - Montag, 26. Juni 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687759560/904/
 - Montag, 26. Juni 2023 08:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687759920/2932/
 - Montag, 26. Juni 2023 08:18 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1687760280/134/
 - Montag, 26. Juni 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687760280/841/
 - Montag, 26. Juni 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687760280/312/
-- Montag, 26. Juni 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687760280/313/
 - Montag, 26. Juni 2023 08:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1687760640/153/
 - Montag, 26. Juni 2023 08:30 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1687761000/135/
 - Montag, 26. Juni 2023 09:00 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687762800/2932/
