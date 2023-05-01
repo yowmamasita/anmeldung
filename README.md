@@ -127,4 +127,5 @@
 - Montag, 26. Juni 2023 15:18 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687785480/2911/
 - Montag, 26. Juni 2023 15:24 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1687785840/103/
 - Montag, 26. Juni 2023 15:36 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687786560/2839/
+- Mittwoch, 28. Juni 2023 13:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687951440/2896/
 - Mittwoch, 28. Juni 2023 13:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687952160/2896/
