@@ -57,8 +57,7 @@
 - Montag, 26. Juni 2023 11:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687772160/2857/
 - Montag, 26. Juni 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687772160/191/
 - Montag, 26. Juni 2023 11:42 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1687772520/134/
-- Montag, 26. Juni 2023 12:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687773600/2845/
-- Montag, 26. Juni 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687773600/2839/
+- Montag, 26. Juni 2023 12:00 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687773600/2839/
 - Montag, 26. Juni 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687773600/3238/
 - Montag, 26. Juni 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1687773600/190/
 - Montag, 26. Juni 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687773600/2887/
@@ -69,7 +68,8 @@
 - Montag, 26. Juni 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687773960/847/
 - Montag, 26. Juni 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687773960/904/
 - Montag, 26. Juni 2023 12:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687774200/2941/
-- Montag, 26. Juni 2023 12:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687774320/2857/
+- Montag, 26. Juni 2023 12:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687774320/2845/
+- Montag, 26. Juni 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687774320/2857/
 - Montag, 26. Juni 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687774320/191/
 - Montag, 26. Juni 2023 12:18 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687774680/2911/
 - Montag, 26. Juni 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1687774680/112/
