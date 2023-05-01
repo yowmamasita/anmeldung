@@ -1,7 +1,4 @@
-- Dienstag, 2. Mai 2023 15:00 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683032400/136/
-- Mittwoch, 3. Mai 2023 10:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683101520/3238/
 - Mittwoch, 3. Mai 2023 12:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683109440/3238/
-- Mittwoch, 3. Mai 2023 12:36 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683110160/2839/
 - Donnerstag, 22. Juni 2023 17:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687446720/143/
 - Montag, 26. Juni 2023 08:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687761360/2845/
 - Montag, 26. Juni 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687761360/2836/
