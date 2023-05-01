@@ -71,6 +71,7 @@
 - Montag, 26. Juni 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687780440/898/
 - Montag, 26. Juni 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687780440/904/
 - Montag, 26. Juni 2023 14:00 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687780800/2908/
+- Montag, 26. Juni 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687780800/2926/
 - Montag, 26. Juni 2023 14:06 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687781160/2911/
 - Montag, 26. Juni 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687781160/898/
 - Montag, 26. Juni 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687781160/904/
