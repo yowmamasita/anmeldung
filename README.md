@@ -3,4 +3,3 @@
 - Dienstag, 2. Mai 2023 13:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683027360/170/
 - Dienstag, 2. Mai 2023 14:24 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683030240/841/
 - Dienstag, 2. Mai 2023 14:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683030960/2926/
-- Montag, 15. Mai 2023 11:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684142640/2872/
