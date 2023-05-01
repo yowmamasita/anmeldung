@@ -18,6 +18,7 @@
 - Montag, 26. Juni 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687760280/904/
 - Montag, 26. Juni 2023 08:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1687760400/147/
 - Montag, 26. Juni 2023 08:24 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687760640/2839/
+- Montag, 26. Juni 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1687760640/190/
 - Montag, 26. Juni 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687760640/167/
 - Montag, 26. Juni 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1687760640/168/
 - Montag, 26. Juni 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687760640/922/
@@ -28,7 +29,6 @@
 - Montag, 26. Juni 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687761000/2884/
 - Montag, 26. Juni 2023 08:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1687761360/106/
 - Montag, 26. Juni 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687761360/169/
-- Montag, 26. Juni 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1687761360/190/
 - Montag, 26. Juni 2023 08:40 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687761600/2923/
 - Montag, 26. Juni 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1687761600/149/
 - Montag, 26. Juni 2023 08:42 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687761720/898/
@@ -103,8 +103,7 @@
 - Montag, 26. Juni 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687768200/150/
 - Montag, 26. Juni 2023 10:42 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1687768920/134/
 - Montag, 26. Juni 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687768920/154/
-- Montag, 26. Juni 2023 10:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687769280/381/
-- Montag, 26. Juni 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1687769280/103/
+- Montag, 26. Juni 2023 10:48 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1687769280/103/
 - Montag, 26. Juni 2023 11:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687770000/169/
 - Montag, 26. Juni 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687770000/2836/
 - Montag, 26. Juni 2023  Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1687770000/147/
@@ -200,8 +199,7 @@
 - Mittwoch, 28. Juni 2023 09:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687938480/2896/
 - Mittwoch, 28. Juni 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687938480/2899/
 - Mittwoch, 28. Juni 2023 10:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687939200/2899/
-- Mittwoch, 28. Juni 2023 10:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687939920/2896/
-- Mittwoch, 28. Juni 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687939920/2899/
+- Mittwoch, 28. Juni 2023 10:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687939920/2899/
 - Mittwoch, 28. Juni 2023 10:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687940640/2896/
 - Mittwoch, 28. Juni 2023 12:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687947840/231/
 - Mittwoch, 28. Juni 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687947840/146/
