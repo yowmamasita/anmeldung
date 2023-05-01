@@ -250,4 +250,5 @@
 - Freitag, 30. Juni 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1688113440/172/
 - Freitag, 30. Juni 2023 10:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688114160/231/
 - Freitag, 30. Juni 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1688114160/172/
-- Freitag, 30. Juni 2023 10:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1688114880/172/
+- Freitag, 30. Juni 2023 10:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688114880/231/
+- Freitag, 30. Juni 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1688114880/172/
