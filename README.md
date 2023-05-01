@@ -97,7 +97,6 @@
 - Montag, 26. Juni 2023 09:24 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1687764240/102/
 - Montag, 26. Juni 2023 09:30 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1687764600/135/
 - Montag, 26. Juni 2023 09:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687764960/381/
-- Montag, 26. Juni 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687764960/191/
 - Montag, 26. Juni 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1687764960/142/
 - Montag, 26. Juni 2023 10:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687766400/2857/
 - Montag, 26. Juni 2023  Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1687766400/141/
