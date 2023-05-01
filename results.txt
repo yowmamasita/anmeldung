@@ -220,7 +220,6 @@
 - Montag, 26. Juni 2023 15:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1687785600/149/
 - Montag, 26. Juni 2023 15:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687786200/150/
 - Dienstag, 27. Juni 2023 14:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687868640/172/
-- Mittwoch, 28. Juni 2023 08:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687932720/2899/
 - Mittwoch, 28. Juni 2023 08:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687933440/2896/
 - Mittwoch, 28. Juni 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687933440/2899/
 - Mittwoch, 28. Juni 2023 08:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687934160/2896/
