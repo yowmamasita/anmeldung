@@ -55,7 +55,6 @@
 - Montag, 26. Juni 2023 13:24 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687778640/2908/
 - Montag, 26. Juni 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687778640/2836/
 - Montag, 26. Juni 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687778640/2839/
-- Montag, 26. Juni 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687778640/381/
 - Montag, 26. Juni 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687778640/3238/
 - Montag, 26. Juni 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687778640/2887/
 - Montag, 26. Juni 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687778640/922/
