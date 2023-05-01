@@ -68,9 +68,9 @@
 - Montag, 26. Juni 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687779000/111/
 - Montag, 26. Juni 2023 13:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1687779360/106/
 - Montag, 26. Juni 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1687779360/140/
-- Montag, 26. Juni 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687779360/381/
 - Montag, 26. Juni 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687779360/2860/
 - Montag, 26. Juni 2023 13:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1687779720/112/
+- Montag, 26. Juni 2023 13:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687780080/381/
 - Montag, 26. Juni 2023 13:54 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687780440/312/
 - Montag, 26. Juni 2023 14:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687780800/2845/
 - Montag, 26. Juni 2023  Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1687780800/134/
