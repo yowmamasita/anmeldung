@@ -56,5 +56,6 @@
 - Mittwoch, 3. Mai 2023 13:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683113040/146/
 - Mittwoch, 3. Mai 2023 13:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683113760/146/
 - Mittwoch, 3. Mai 2023 14:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683115200/2896/
+- Mittwoch, 3. Mai 2023 14:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683115920/2896/
 - Mittwoch, 3. Mai 2023 14:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683116640/2896/
 - Dienstag, 20. Juni 2023 12:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1687255800/147/
