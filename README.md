@@ -20,7 +20,6 @@
 - Mittwoch, 3. Mai 2023 12:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683108000/170/
 - Mittwoch, 3. Mai 2023 12:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683108720/170/
 - Mittwoch, 3. Mai 2023 12:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683110160/170/
-- Dienstag, 23. Mai 2023 16:10 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1684851000/149/
 - Donnerstag, 8. Juni 2023 12:00 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686218400/2884/
 - Dienstag, 27. Juni 2023 15:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1687871400/147/
 - Dienstag, 27. Juni 2023 16:24 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687875840/841/
