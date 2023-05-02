@@ -1,5 +1,4 @@
 - Dienstag, 27. Juni 2023 13:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687865760/381/
-- Dienstag, 27. Juni 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1687865760/102/
 - Dienstag, 27. Juni 2023 13:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687866480/381/
 - Dienstag, 27. Juni 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1687866480/103/
 - Dienstag, 27. Juni 2023 14:00 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687867200/381/
@@ -11,8 +10,7 @@
 - Dienstag, 27. Juni 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1687869360/103/
 - Dienstag, 27. Juni 2023 14:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687870080/381/
 - Dienstag, 27. Juni 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1687870080/103/
-- Dienstag, 27. Juni 2023 15:00 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687870800/381/
-- Dienstag, 27. Juni 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1687870800/103/
+- Dienstag, 27. Juni 2023 15:00 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1687870800/103/
 - Dienstag, 27. Juni 2023 15:12 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687871520/381/
 - Dienstag, 27. Juni 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1687871520/103/
 - Dienstag, 27. Juni 2023 15:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687872240/381/
