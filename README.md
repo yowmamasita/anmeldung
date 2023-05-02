@@ -10,11 +10,7 @@
 - Dienstag, 2. Mai 2023 16:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683036720/169/
 - Dienstag, 2. Mai 2023 16:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683037440/169/
 - Dienstag, 2. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683037440/170/
-- Dienstag, 2. Mai 2023 16:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683038160/169/
-- Dienstag, 2. Mai 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1683038160/103/
-- Dienstag, 2. Mai 2023 16:48 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1683038880/103/
+- Dienstag, 2. Mai 2023 16:36 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1683038160/103/
 - Montag, 22. Mai 2023 08:54 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684738440/844/
 - Montag, 26. Juni 2023 08:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687762440/111/
-- Dienstag, 27. Juni 2023 10:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687852800/3238/
 - Dienstag, 27. Juni 2023 11:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687857840/2914/
-- Dienstag, 27. Juni 2023 12:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687862880/381/
