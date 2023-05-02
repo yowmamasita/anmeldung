@@ -2,9 +2,7 @@
 - Dienstag, 2. Mai 2023 10:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683015840/231/
 - Dienstag, 2. Mai 2023 10:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683016560/231/
 - Dienstag, 2. Mai 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683016560/313/
-- Dienstag, 2. Mai 2023 10:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683017280/136/
-- Dienstag, 2. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683017280/231/
-- Dienstag, 2. Mai 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683017280/313/
+- Dienstag, 2. Mai 2023 10:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683017280/231/
 - Dienstag, 2. Mai 2023 11:00 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683018000/313/
 - Dienstag, 2. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683018000/170/
 - Dienstag, 2. Mai 2023 11:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683018720/136/
@@ -15,13 +13,10 @@
 - Dienstag, 2. Mai 2023 11:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683020160/136/
 - Dienstag, 2. Mai 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683020160/2914/
 - Dienstag, 2. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683020160/170/
-- Dienstag, 2. Mai 2023 11:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683020880/231/
-- Dienstag, 2. Mai 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683020880/1018/
+- Dienstag, 2. Mai 2023 11:48 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683020880/1018/
 - Dienstag, 2. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683020880/170/
-- Dienstag, 2. Mai 2023 12:00 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683021600/313/
-- Dienstag, 2. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683021600/170/
-- Dienstag, 2. Mai 2023 12:12 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683022320/313/
-- Dienstag, 2. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683022320/170/
+- Dienstag, 2. Mai 2023 12:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683021600/170/
+- Dienstag, 2. Mai 2023 12:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683022320/170/
 - Dienstag, 2. Mai 2023 12:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683023040/136/
 - Dienstag, 2. Mai 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683023040/313/
 - Dienstag, 2. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683023040/170/
@@ -34,7 +29,6 @@
 - Dienstag, 2. Mai 2023 13:00 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683025200/313/
 - Dienstag, 2. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683025200/170/
 - Dienstag, 2. Mai 2023 13:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683025920/136/
-- Dienstag, 2. Mai 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683025920/313/
 - Dienstag, 2. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683025920/170/
 - Dienstag, 2. Mai 2023 13:24 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683026640/313/
 - Dienstag, 2. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683026640/170/
@@ -43,11 +37,9 @@
 - Dienstag, 2. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683028080/170/
 - Dienstag, 2. Mai 2023 14:00 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683028800/313/
 - Dienstag, 2. Mai 2023 14:12 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683029520/313/
-- Dienstag, 2. Mai 2023 14:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683030240/2845/
-- Dienstag, 2. Mai 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683030240/136/
+- Dienstag, 2. Mai 2023 14:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683030240/136/
 - Dienstag, 2. Mai 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683030240/313/
 - Dienstag, 2. Mai 2023 14:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683030960/136/
-- Dienstag, 2. Mai 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683030960/313/
 - Dienstag, 2. Mai 2023 14:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683031680/136/
 - Dienstag, 2. Mai 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683031680/313/
 - Dienstag, 2. Mai 2023 15:00 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683032400/313/
@@ -60,22 +52,19 @@
 - Dienstag, 2. Mai 2023 16:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683036720/136/
 - Dienstag, 2. Mai 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683036720/313/
 - Dienstag, 2. Mai 2023 16:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683037440/136/
-- Dienstag, 2. Mai 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683037440/313/
 - Dienstag, 2. Mai 2023 16:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683038160/136/
 - Dienstag, 2. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683038160/170/
 - Dienstag, 2. Mai 2023 16:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683038880/170/
 - Dienstag, 2. Mai 2023 17:00 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683039600/904/
 - Dienstag, 2. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683039600/170/
 - Dienstag, 2. Mai 2023 17:12 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683040320/313/
-- Dienstag, 2. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683040320/170/
 - Dienstag, 2. Mai 2023 17:24 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683041040/313/
 - Dienstag, 2. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683041040/170/
-- Dienstag, 2. Mai 2023 17:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683041760/169/
-- Montag, 8. Mai 2023 07:30 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683523800/898/
+- Dienstag, 2. Mai 2023 17:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683041760/170/
 - Montag, 8. Mai 2023 07:54 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683525240/898/
 - Montag, 8. Mai 2023 08:06 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683525960/898/
 - Montag, 8. Mai 2023 08:18 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683526680/898/
-- Montag, 8. Mai 2023 08:54 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683528840/898/
+- Montag, 8. Mai 2023 09:06 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683529560/898/
 - Montag, 15. Mai 2023 07:30 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684128600/898/
 - Montag, 15. Mai 2023 07:54 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684130040/898/
 - Montag, 15. Mai 2023 08:18 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684131480/898/
@@ -85,7 +74,6 @@
 - Montag, 15. Mai 2023 09:06 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684134360/898/
 - Montag, 15. Mai 2023 09:18 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684135080/898/
 - Montag, 15. Mai 2023 09:30 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684135800/898/
-- Montag, 15. Mai 2023 09:42 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684136520/898/
 - Montag, 22. Mai 2023 07:30 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684733400/898/
 - Montag, 22. Mai 2023 07:42 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684734120/898/
 - Montag, 22. Mai 2023 07:54 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684734840/898/
@@ -138,7 +126,6 @@
 - Montag, 19. Juni 2023 09:30 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687159800/898/
 - Montag, 19. Juni 2023 09:42 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687160520/898/
 - Montag, 19. Juni 2023 09:54 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687161240/898/
-- Freitag, 23. Juni 2023 10:00 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687507200/2860/
 - Montag, 26. Juni 2023 07:30 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687757400/898/
 - Montag, 26. Juni 2023 07:42 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687758120/898/
 - Montag, 26. Juni 2023 07:54 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687758840/898/
@@ -185,8 +172,7 @@
 - Dienstag, 27. Juni 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687859640/2938/
 - Dienstag, 27. Juni 2023 12:06 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687860360/2836/
 - Dienstag, 27. Juni 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687860360/2839/
-- Dienstag, 27. Juni 2023 12:18 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1687861080/141/
-- Dienstag, 27. Juni 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687861080/2836/
+- Dienstag, 27. Juni 2023 12:18 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687861080/2836/
 - Dienstag, 27. Juni 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1687861080/140/
 - Dienstag, 27. Juni 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687861080/2839/
 - Dienstag, 27. Juni 2023 12:30 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687861800/2836/
@@ -212,7 +198,6 @@
 - Dienstag, 27. Juni 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687864680/2839/
 - Dienstag, 27. Juni 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1687864680/142/
 - Dienstag, 27. Juni 2023 13:30 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687865400/2836/
-- Dienstag, 27. Juni 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1687865400/140/
 - Dienstag, 27. Juni 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687865400/2839/
 - Dienstag, 27. Juni 2023 13:42 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1687866120/141/
 - Dienstag, 27. Juni 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687866120/2836/
@@ -276,4 +261,3 @@
 - Dienstag, 27. Juni 2023 17:18 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687879080/2836/
 - Dienstag, 27. Juni 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1687879080/142/
 - Dienstag, 27. Juni 2023 17:30 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687879800/2836/
-- Mittwoch, 28. Juni 2023 14:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687954320/146/
