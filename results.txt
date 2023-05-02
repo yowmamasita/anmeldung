@@ -1,7 +1,4 @@
-- Dienstag, 27. Juni 2023 15:12 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687871520/2887/
-- Dienstag, 27. Juni 2023 15:24 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687872240/2911/
+- Dienstag, 27. Juni 2023 15:12 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687871520/2911/
 - Dienstag, 27. Juni 2023 15:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687872960/2887/
+- Dienstag, 27. Juni 2023 15:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687873680/2938/
 - Dienstag, 27. Juni 2023 16:12 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687875120/2911/
-- Dienstag, 27. Juni 2023 16:24 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687875840/2911/
-- Dienstag, 27. Juni 2023 16:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687876560/2887/
-- Dienstag, 27. Juni 2023 17:00 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687878000/2887/
