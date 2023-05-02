@@ -1,8 +1,1 @@
-- Dienstag, 27. Juni 2023 14:24 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687868640/904/
-- Dienstag, 27. Juni 2023 14:36 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687869360/898/
-- Dienstag, 27. Juni 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687869360/904/
-- Dienstag, 27. Juni 2023 14:48 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687870080/898/
-- Dienstag, 27. Juni 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687870080/904/
-- Dienstag, 27. Juni 2023 15:12 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687871520/904/
-- Dienstag, 27. Juni 2023 15:24 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687872240/898/
-- Dienstag, 27. Juni 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687872240/904/
+- Dienstag, 27. Juni 2023 14:48 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687870080/904/
