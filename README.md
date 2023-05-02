@@ -6,7 +6,6 @@
 - Dienstag, 27. Juni 2023 10:12 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1687853520/145/
 - Dienstag, 27. Juni 2023 10:24 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1687854240/145/
 - Dienstag, 27. Juni 2023 10:36 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1687854960/145/
-- Dienstag, 27. Juni 2023 10:48 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1687855680/145/
 - Dienstag, 27. Juni 2023 11:12 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1687857120/145/
 - Dienstag, 27. Juni 2023 11:24 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1687857840/145/
 - Dienstag, 27. Juni 2023 11:36 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1687858560/145/
@@ -14,6 +13,5 @@
 - Dienstag, 27. Juni 2023 12:36 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1687862160/145/
 - Dienstag, 27. Juni 2023 12:48 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1687862880/145/
 - Dienstag, 27. Juni 2023 13:12 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1687864320/145/
-- Dienstag, 27. Juni 2023 13:24 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1687865040/145/
 - Dienstag, 27. Juni 2023 13:36 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1687865760/145/
 - Dienstag, 27. Juni 2023 14:00 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1687867200/145/
