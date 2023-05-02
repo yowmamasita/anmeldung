@@ -52,13 +52,13 @@
 - Dienstag, 27. Juni 2023 12:06 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687860360/2836/
 - Dienstag, 27. Juni 2023 12:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1687860600/147/
 - Dienstag, 27. Juni 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687860600/2941/
-- Dienstag, 27. Juni 2023  Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1687860600/148/
 - Dienstag, 27. Juni 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687860600/2878/
 - Dienstag, 27. Juni 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1687860600/149/
 - Dienstag, 27. Juni 2023 12:12 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687860720/844/
 - Dienstag, 27. Juni 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687860720/904/
 - Dienstag, 27. Juni 2023 12:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687861080/2839/
 - Dienstag, 27. Juni 2023 12:20 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1687861200/151/
+- Dienstag, 27. Juni 2023  Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1687861200/148/
 - Dienstag, 27. Juni 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687861200/2884/
 - Dienstag, 27. Juni 2023 12:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687861440/2887/
 - Dienstag, 27. Juni 2023 12:54 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1687863240/140/
