@@ -6,6 +6,6 @@
 - Mittwoch, 3. Mai 2023 11:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683105120/167/
 - Mittwoch, 3. Mai 2023 11:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683105840/231/
 - Mittwoch, 3. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683105840/170/
-- Freitag, 9. Juni 2023 10:00 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686297600/2881/
+- Dienstag, 30. Mai 2023 15:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1685454480/191/
 - Dienstag, 20. Juni 2023 13:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687260960/2845/
 - Dienstag, 27. Juni 2023 12:00 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687860000/2923/
