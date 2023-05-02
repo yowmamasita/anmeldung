@@ -1,2 +1,7 @@
-- Dienstag, 2. Mai 2023 14:48 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1683031680/135/
-- Dienstag, 27. Juni 2023 14:48 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687870080/898/
+- Dienstag, 2. Mai 2023 13:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683028080/192/
+- Dienstag, 2. Mai 2023 14:00 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683028800/2881/
+- Dienstag, 2. Mai 2023 14:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683029520/3238/
+- Dienstag, 2. Mai 2023 14:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683031680/231/
+- Dienstag, 2. Mai 2023 15:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683032400/169/
+- Dienstag, 2. Mai 2023 16:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683036000/169/
+- Donnerstag, 4. Mai 2023 12:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683196560/2926/
