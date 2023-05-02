@@ -1,7 +1,6 @@
 - Dienstag, 27. Juni 2023 13:36 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1687865760/102/
 - Dienstag, 27. Juni 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1687865760/103/
-- Dienstag, 27. Juni 2023 13:48 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1687866480/102/
-- Dienstag, 27. Juni 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1687866480/103/
+- Dienstag, 27. Juni 2023 13:48 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1687866480/103/
 - Dienstag, 27. Juni 2023 14:12 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1687867920/103/
 - Dienstag, 27. Juni 2023 14:24 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1687868640/103/
 - Dienstag, 27. Juni 2023 14:36 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1687869360/103/
