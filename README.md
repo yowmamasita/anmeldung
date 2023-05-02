@@ -9,9 +9,6 @@
 - Mittwoch, 3. Mai 2023 10:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683101520/170/
 - Mittwoch, 3. Mai 2023 10:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683102240/170/
 - Mittwoch, 3. Mai 2023 10:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683102960/170/
-- Mittwoch, 3. Mai 2023 10:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683103680/170/
-- Mittwoch, 3. Mai 2023 11:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683104400/170/
 - Mittwoch, 3. Mai 2023 11:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683105120/170/
-- Mittwoch, 3. Mai 2023 11:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683106560/170/
 - Mittwoch, 3. Mai 2023 11:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683107280/170/
 - Dienstag, 27. Juni 2023 16:24 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687875840/841/
