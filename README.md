@@ -3,7 +3,6 @@
 - Dienstag, 2. Mai 2023 17:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683041040/2896/
 - Donnerstag, 4. Mai 2023 16:36 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683210960/2860/
 - Donnerstag, 4. Mai 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683210960/2863/
-- Freitag, 26. Mai 2023 11:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685093040/2863/
 - Dienstag, 30. Mai 2023 15:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1685452320/108/
 - Freitag, 9. Juni 2023 09:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1686294000/167/
 - Freitag, 16. Juni 2023 08:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686897360/168/
