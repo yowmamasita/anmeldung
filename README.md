@@ -3,19 +3,16 @@
 - Dienstag, 2. Mai 2023 14:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683028800/169/
 - Dienstag, 2. Mai 2023 14:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683029520/169/
 - Dienstag, 2. Mai 2023 14:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683030240/169/
-- Dienstag, 2. Mai 2023 14:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1683030960/112/
-- Dienstag, 2. Mai 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683030960/169/
+- Dienstag, 2. Mai 2023 14:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683030960/169/
 - Dienstag, 2. Mai 2023 14:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1683031680/112/
 - Dienstag, 2. Mai 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683031680/169/
 - Dienstag, 2. Mai 2023 15:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1683033120/112/
 - Dienstag, 2. Mai 2023 15:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683033840/169/
-- Dienstag, 2. Mai 2023 15:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1683034560/112/
-- Dienstag, 2. Mai 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683034560/169/
+- Dienstag, 2. Mai 2023 15:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683034560/169/
 - Dienstag, 2. Mai 2023 15:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683035280/169/
 - Dienstag, 2. Mai 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1683035280/103/
 - Dienstag, 2. Mai 2023 16:12 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1683036720/103/
 - Dienstag, 2. Mai 2023 16:24 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1683037440/103/
-- Dienstag, 2. Mai 2023 16:36 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1683038160/103/
 - Dienstag, 27. Juni 2023 13:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1687863600/106/
 - Dienstag, 27. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1687863600/108/
 - Dienstag, 27. Juni 2023 13:12 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1687864320/106/
@@ -23,6 +20,7 @@
 - Dienstag, 27. Juni 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1687864320/102/
 - Dienstag, 27. Juni 2023 13:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1687865040/106/
 - Dienstag, 27. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1687865040/108/
+- Dienstag, 27. Juni 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1687865040/102/
 - Dienstag, 27. Juni 2023 13:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1687865760/106/
 - Dienstag, 27. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1687865760/108/
 - Dienstag, 27. Juni 2023 13:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1687866480/106/
@@ -35,5 +33,4 @@
 - Dienstag, 27. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1687868640/108/
 - Dienstag, 27. Juni 2023 14:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1687869360/106/
 - Dienstag, 27. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1687869360/108/
-- Dienstag, 27. Juni 2023 14:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1687870080/106/
-- Dienstag, 27. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1687870080/108/
+- Dienstag, 27. Juni 2023 14:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1687870080/108/
