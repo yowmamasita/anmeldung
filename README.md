@@ -4,8 +4,5 @@
 - Dienstag, 27. Juni 2023 15:00 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687870800/381/
 - Dienstag, 27. Juni 2023 15:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687872240/381/
 - Dienstag, 27. Juni 2023 15:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687872960/381/
-- Dienstag, 27. Juni 2023 15:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687873680/381/
-- Dienstag, 27. Juni 2023 16:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687875840/381/
 - Dienstag, 27. Juni 2023 16:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687876560/381/
 - Dienstag, 27. Juni 2023 16:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687877280/381/
-- Dienstag, 27. Juni 2023 17:00 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687878000/381/
