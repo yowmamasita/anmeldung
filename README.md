@@ -6,18 +6,15 @@
 - Dienstag, 2. Mai 2023 11:48 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683020880/898/
 - Dienstag, 2. Mai 2023 12:00 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683021600/898/
 - Dienstag, 2. Mai 2023 12:24 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683023040/898/
-- Dienstag, 2. Mai 2023 13:12 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683025920/898/
-- Dienstag, 2. Mai 2023 13:36 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683027360/898/
 - Dienstag, 2. Mai 2023 13:48 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683028080/898/
-- Dienstag, 2. Mai 2023 14:24 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683030240/898/
-- Dienstag, 2. Mai 2023 15:24 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683033840/898/
-- Dienstag, 27. Juni 2023 09:30 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687851000/381/
+- Dienstag, 2. Mai 2023 16:54 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683039240/2836/
 - Dienstag, 27. Juni 2023 10:00 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687852800/2911/
 - Dienstag, 27. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687852800/2914/
 - Dienstag, 27. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687852800/2848/
 - Dienstag, 27. Juni 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687852800/381/
 - Dienstag, 27. Juni 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687852800/898/
 - Dienstag, 27. Juni 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687852800/2887/
+- Dienstag, 27. Juni 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687852800/847/
 - Dienstag, 27. Juni 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687852800/904/
 - Dienstag, 27. Juni 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687852800/2926/
 - Dienstag, 27. Juni 2023 10:06 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687853160/2839/
@@ -31,7 +28,6 @@
 - Dienstag, 27. Juni 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687853520/844/
 - Dienstag, 27. Juni 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687853520/841/
 - Dienstag, 27. Juni 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687853520/111/
-- Dienstag, 27. Juni 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687853520/847/
 - Dienstag, 27. Juni 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687853520/191/
 - Dienstag, 27. Juni 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687853520/922/
 - Dienstag, 27. Juni 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687853520/192/
@@ -157,8 +153,8 @@
 - Dienstag, 27. Juni 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687874400/2881/
 - Dienstag, 27. Juni 2023 16:06 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687874760/2836/
 - Dienstag, 27. Juni 2023 16:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687875000/2941/
+- Dienstag, 27. Juni 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1687875000/149/
 - Dienstag, 27. Juni 2023 16:18 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1687875480/140/
-- Dienstag, 27. Juni 2023 16:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1687875600/149/
 - Dienstag, 27. Juni 2023 16:24 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687875840/841/
 - Dienstag, 27. Juni 2023 17:00 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687878000/2923/
 - Dienstag, 27. Juni 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1687878000/149/
