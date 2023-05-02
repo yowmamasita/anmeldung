@@ -1,24 +1,18 @@
-- Dienstag, 2. Mai 2023 08:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683010080/2851/
 - Dienstag, 2. Mai 2023 09:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683010800/2851/
 - Dienstag, 2. Mai 2023 09:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1683011520/153/
-- Dienstag, 2. Mai 2023 09:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683012240/2845/
-- Dienstag, 2. Mai 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1683012240/153/
+- Dienstag, 2. Mai 2023 09:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1683012240/153/
 - Dienstag, 2. Mai 2023 09:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1683012960/153/
 - Dienstag, 2. Mai 2023 09:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1683013680/153/
 - Dienstag, 2. Mai 2023 10:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1683015120/153/
 - Dienstag, 2. Mai 2023 10:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1683015840/153/
-- Dienstag, 2. Mai 2023 10:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683016560/2851/
-- Dienstag, 2. Mai 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1683016560/153/
-- Dienstag, 2. Mai 2023 10:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683017280/2851/
-- Dienstag, 2. Mai 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1683017280/153/
+- Dienstag, 2. Mai 2023 10:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1683016560/153/
+- Dienstag, 2. Mai 2023 10:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1683017280/153/
 - Dienstag, 2. Mai 2023 10:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1683017400/147/
 - Dienstag, 2. Mai 2023 11:00 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1683018000/153/
 - Dienstag, 2. Mai 2023 11:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1683018720/153/
 - Dienstag, 2. Mai 2023 11:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1683019440/153/
 - Dienstag, 2. Mai 2023 11:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1683020160/153/
 - Dienstag, 2. Mai 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683020160/904/
-- Dienstag, 2. Mai 2023 11:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1683020880/153/
-- Dienstag, 2. Mai 2023 12:36 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683023760/2911/
 - Donnerstag, 8. Juni 2023 17:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686239280/3238/
 - Mittwoch, 14. Juni 2023 13:06 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686740760/2911/
 - Donnerstag, 22. Juni 2023 12:00 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1687428000/149/
