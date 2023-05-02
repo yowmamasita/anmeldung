@@ -3,14 +3,11 @@
 - Mittwoch, 3. Mai 2023 07:54 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683093240/312/
 - Mittwoch, 3. Mai 2023 08:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683096120/312/
 - Mittwoch, 3. Mai 2023 09:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683097200/2899/
-- Mittwoch, 3. Mai 2023 09:42 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683099720/841/
-- Mittwoch, 3. Mai 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683099720/312/
+- Mittwoch, 3. Mai 2023 09:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683099720/312/
 - Mittwoch, 3. Mai 2023 10:18 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683101880/312/
 - Mittwoch, 3. Mai 2023 11:18 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683105480/312/
 - Donnerstag, 4. Mai 2023 10:36 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683189360/2911/
 - Donnerstag, 4. Mai 2023 14:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683203040/312/
-- Donnerstag, 4. Mai 2023 17:36 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683214560/2920/
-- Donnerstag, 11. Mai 2023 12:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683800640/172/
-- Donnerstag, 22. Juni 2023 13:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687432320/2899/
+- Dienstag, 20. Juni 2023 16:00 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1687269600/103/
 - Montag, 26. Juni 2023 15:12 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1687785120/141/
 - Montag, 26. Juni 2023 15:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1687785840/141/
