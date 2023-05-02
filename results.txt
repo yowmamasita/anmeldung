@@ -1,4 +1,9 @@
-- Dienstag, 2. Mai 2023 15:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683034560/172/
-- Dienstag, 2. Mai 2023 15:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683035280/172/
-- Dienstag, 2. Mai 2023 16:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683036720/172/
-- Dienstag, 2. Mai 2023 16:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683037440/172/
+- Dienstag, 2. Mai 2023 12:48 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683024480/904/
+- Dienstag, 2. Mai 2023 14:48 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683031680/841/
+- Dienstag, 2. Mai 2023 17:00 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683039600/2872/
+- Donnerstag, 1. Juni 2023 17:36 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1685633760/134/
+- Montag, 12. Juni 2023 13:50 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1686570600/151/
+- Dienstag, 13. Juni 2023 14:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686658320/168/
+- Donnerstag, 22. Juni 2023 12:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687429440/143/
+- Dienstag, 27. Juni 2023 11:00 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687856400/844/
+- Dienstag, 27. Juni 2023 12:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687862160/167/
