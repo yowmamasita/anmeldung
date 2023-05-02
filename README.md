@@ -14,9 +14,7 @@
 - Mittwoch, 3. Mai 2023 08:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683096120/2911/
 - Mittwoch, 3. Mai 2023 09:30 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683099000/2911/
 - Mittwoch, 3. Mai 2023 09:54 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683100440/2932/
-- Mittwoch, 3. Mai 2023 10:06 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683101160/2911/
 - Mittwoch, 3. Mai 2023 12:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683109440/2857/
-- Donnerstag, 4. Mai 2023 15:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1683206640/381/
 - Mittwoch, 10. Mai 2023 08:54 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683701640/847/
 - Montag, 15. Mai 2023 13:48 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684151280/2908/
 - Dienstag, 27. Juni 2023 09:36 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687851360/2932/
