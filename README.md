@@ -60,8 +60,6 @@
 - Donnerstag, 4. Mai 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683191520/2896/
 - Donnerstag, 4. Mai 2023 11:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683192240/2896/
 - Donnerstag, 4. Mai 2023 11:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683192960/2896/
-- Freitag, 5. Mai 2023 08:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683267840/146/
-- Freitag, 5. Mai 2023 09:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683270720/146/
 - Freitag, 5. Mai 2023 09:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683272160/146/
 - Freitag, 5. Mai 2023 09:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683272880/146/
 - Freitag, 5. Mai 2023 11:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683278640/2896/
