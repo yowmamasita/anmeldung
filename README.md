@@ -4,15 +4,8 @@
 - Dienstag, 2. Mai 2023 16:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683036000/172/
 - Dienstag, 2. Mai 2023 16:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683036720/172/
 - Dienstag, 2. Mai 2023 16:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683037440/172/
-- Dienstag, 2. Mai 2023 16:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683038160/172/
-- Dienstag, 2. Mai 2023 17:00 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683039600/904/
-- Mittwoch, 3. Mai 2023 07:54 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683093240/2911/
-- Mittwoch, 3. Mai 2023 08:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683093600/2857/
 - Mittwoch, 3. Mai 2023 08:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683095760/2857/
-- Mittwoch, 3. Mai 2023 08:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683096120/2911/
-- Mittwoch, 3. Mai 2023 09:30 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683099000/2911/
-- Mittwoch, 3. Mai 2023 12:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683109440/2857/
-- Mittwoch, 10. Mai 2023 08:54 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683701640/847/
+- Mittwoch, 3. Mai 2023 10:06 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683101160/2911/
 - Dienstag, 27. Juni 2023 09:36 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687851360/2932/
 - Dienstag, 27. Juni 2023 10:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687852800/2926/
 - Dienstag, 27. Juni 2023 11:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687859280/2926/
