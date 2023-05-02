@@ -3,6 +3,4 @@
 - Dienstag, 27. Juni 2023 15:00 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687870800/2914/
 - Dienstag, 27. Juni 2023 15:12 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687871520/844/
 - Dienstag, 27. Juni 2023 15:24 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687872240/844/
-- Dienstag, 27. Juni 2023 16:00 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687874400/844/
 - Dienstag, 27. Juni 2023 16:24 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687875840/844/
-- Dienstag, 27. Juni 2023 16:30 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687876200/2836/
