@@ -5,7 +5,6 @@
 - Dienstag, 2. Mai 2023 15:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683034560/2863/
 - Dienstag, 2. Mai 2023 15:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683035280/2863/
 - Dienstag, 2. Mai 2023 16:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683036000/2863/
-- Dienstag, 2. Mai 2023 16:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683036720/2863/
 - Dienstag, 27. Juni 2023 08:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687848480/2854/
 - Dienstag, 27. Juni 2023 14:36 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687869360/844/
 - Dienstag, 27. Juni 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687869360/111/
@@ -31,9 +30,7 @@
 - Dienstag, 27. Juni 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687877280/111/
 - Dienstag, 27. Juni 2023 17:12 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687878720/111/
 - Dienstag, 27. Juni 2023 17:24 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687879440/111/
-- Dienstag, 27. Juni 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1687879440/102/
 - Dienstag, 27. Juni 2023 17:36 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687880160/844/
-- Dienstag, 27. Juni 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1687880160/102/
 - Dienstag, 27. Juni 2023 17:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687880880/2914/
 - Dienstag, 27. Juni 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687880880/844/
 - Dienstag, 27. Juni 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687880880/2887/
