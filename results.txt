@@ -7,14 +7,11 @@
 - Mittwoch, 28. Juni 2023 08:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1687935000/147/
 - Mittwoch, 28. Juni 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687935000/2941/
 - Mittwoch, 28. Juni 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687935000/2884/
-- Mittwoch, 28. Juni 2023 08:54 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687935240/898/
-- Mittwoch, 28. Juni 2023 09:06 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687935960/922/
 - Mittwoch, 28. Juni 2023 09:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687936200/2923/
 - Mittwoch, 28. Juni 2023 09:12 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687936320/2836/
 - Mittwoch, 28. Juni 2023 09:18 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1687936680/190/
 - Mittwoch, 28. Juni 2023 09:20 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687936800/2923/
-- Mittwoch, 28. Juni 2023 09:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687937040/2848/
-- Mittwoch, 28. Juni 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687937040/2836/
+- Mittwoch, 28. Juni 2023 09:24 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687937040/2836/
 - Mittwoch, 28. Juni 2023 09:30 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687937400/2881/
 - Mittwoch, 28. Juni 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687937400/2884/
 - Mittwoch, 28. Juni 2023 09:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687937760/2845/
