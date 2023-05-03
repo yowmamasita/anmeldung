@@ -3,4 +3,4 @@
 - Montag, 19. Juni 2023 12:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687170600/313/
 - Mittwoch, 21. Juni 2023 08:50 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1687330200/149/
 - Mittwoch, 28. Juni 2023 10:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1687942080/168/
-- Mittwoch, 28. Juni 2023 13:54 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687953240/844/
+- Mittwoch, 28. Juni 2023 12:54 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687949640/844/
