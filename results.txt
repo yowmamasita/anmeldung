@@ -1,4 +1,6 @@
-- Mittwoch, 3. Mai 2023 07:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683092520/2911/
+- Mittwoch, 3. Mai 2023 07:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1683092520/135/
+- Mittwoch, 3. Mai 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683092520/2911/
+- Mittwoch, 3. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683092520/192/
 - Mittwoch, 3. Mai 2023 07:54 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683093240/2911/
 - Mittwoch, 3. Mai 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1683093240/112/
 - Mittwoch, 3. Mai 2023 08:06 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683093960/2911/
@@ -27,7 +29,6 @@
 - Mittwoch, 3. Mai 2023 12:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683110160/2854/
 - Mittwoch, 3. Mai 2023 12:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683110520/2911/
 - Mittwoch, 3. Mai 2023 12:54 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683111240/2911/
-- Mittwoch, 3. Mai 2023 13:00 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683111600/2854/
 - Mittwoch, 3. Mai 2023 13:06 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683111960/2911/
 - Mittwoch, 3. Mai 2023 13:18 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683112680/2911/
 - Mittwoch, 28. Juni 2023 07:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687929840/3238/
@@ -46,5 +47,3 @@
 - Mittwoch, 28. Juni 2023 12:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687947120/3238/
 - Mittwoch, 28. Juni 2023 12:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687947840/3238/
 - Mittwoch, 28. Juni 2023 12:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687948560/3238/
-- Mittwoch, 28. Juni 2023 13:12 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687950720/2854/
-- Mittwoch, 28. Juni 2023 14:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687953600/3238/
