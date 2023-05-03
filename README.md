@@ -4,4 +4,3 @@
 - Freitag, 5. Mai 2023 10:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683275040/146/
 - Freitag, 5. Mai 2023 11:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683277200/169/
 - Freitag, 5. Mai 2023 12:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1683281520/168/
-- Freitag, 12. Mai 2023 07:36 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1683869760/143/
