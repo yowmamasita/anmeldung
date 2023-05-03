@@ -4,7 +4,6 @@
 - Mittwoch, 3. Mai 2023 08:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683094680/2908/
 - Mittwoch, 3. Mai 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683094680/2914/
 - Mittwoch, 3. Mai 2023 08:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683095400/2908/
-- Mittwoch, 3. Mai 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683095400/2911/
 - Mittwoch, 3. Mai 2023 08:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683096120/2908/
 - Mittwoch, 3. Mai 2023 08:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683096840/2908/
 - Mittwoch, 28. Juni 2023 07:30 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687930200/2881/
@@ -15,7 +14,6 @@
 - Mittwoch, 28. Juni 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687930920/847/
 - Mittwoch, 28. Juni 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687930920/904/
 - Mittwoch, 28. Juni 2023 07:50 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1687931400/151/
-- Mittwoch, 28. Juni 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687931400/2941/
 - Mittwoch, 28. Juni 2023 07:54 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687931640/841/
 - Mittwoch, 28. Juni 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687931640/898/
 - Mittwoch, 28. Juni 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687931640/313/
@@ -53,9 +51,9 @@
 - Mittwoch, 28. Juni 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687935960/847/
 - Mittwoch, 28. Juni 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687935960/904/
 - Mittwoch, 28. Juni 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687935960/922/
-- Mittwoch, 28. Juni 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687935960/192/
 - Mittwoch, 28. Juni 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687935960/2926/
 - Mittwoch, 28. Juni 2023 09:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687936680/313/
+- Mittwoch, 28. Juni 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687936680/192/
 - Mittwoch, 28. Juni 2023 09:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687937400/111/
 - Mittwoch, 28. Juni 2023 09:42 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687938120/844/
 - Mittwoch, 28. Juni 2023 09:50 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687938600/2878/
