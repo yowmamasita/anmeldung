@@ -1,6 +1,5 @@
 - Donnerstag, 4. Mai 2023 10:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683188640/172/
 - Donnerstag, 4. Mai 2023 10:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683189360/172/
-- Donnerstag, 4. Mai 2023 11:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683190800/172/
 - Donnerstag, 4. Mai 2023 11:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683192240/172/
 - Donnerstag, 4. Mai 2023 11:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683193680/172/
 - Donnerstag, 4. Mai 2023 15:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683206640/2899/
@@ -10,4 +9,3 @@
 - Donnerstag, 4. Mai 2023 17:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683212400/2899/
 - Donnerstag, 4. Mai 2023 17:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683213120/2899/
 - Donnerstag, 4. Mai 2023 17:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683213840/2899/
-- Donnerstag, 4. Mai 2023 17:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683214560/2899/
