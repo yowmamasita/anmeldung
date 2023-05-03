@@ -3,6 +3,5 @@
 - Donnerstag, 4. Mai 2023 11:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683192960/2863/
 - Donnerstag, 4. Mai 2023 12:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683194400/2863/
 - Donnerstag, 4. Mai 2023 12:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683195840/2899/
-- Donnerstag, 4. Mai 2023 12:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683197280/2863/
 - Dienstag, 27. Juni 2023 14:12 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687867920/844/
 - Mittwoch, 28. Juni 2023 12:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1687946400/106/
