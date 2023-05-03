@@ -4,13 +4,11 @@
 - Mittwoch, 3. Mai 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683095760/2872/
 - Mittwoch, 3. Mai 2023 08:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683096480/2845/
 - Mittwoch, 3. Mai 2023 09:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683098640/2845/
-- Mittwoch, 3. Mai 2023 09:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683100080/2845/
-- Mittwoch, 3. Mai 2023 10:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683101400/2923/
 - Mittwoch, 28. Juni 2023 08:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687932000/2836/
-- Mittwoch, 28. Juni 2023 08:12 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687932720/2839/
-- Mittwoch, 28. Juni 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687932720/2860/
+- Mittwoch, 28. Juni 2023 08:12 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687932720/2860/
 - Mittwoch, 28. Juni 2023 08:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687933440/2845/
 - Mittwoch, 28. Juni 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1687933440/140/
+- Mittwoch, 28. Juni 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687933440/2839/
 - Mittwoch, 28. Juni 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687933440/381/
 - Mittwoch, 28. Juni 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1687933440/168/
 - Mittwoch, 28. Juni 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687933440/2938/
@@ -80,8 +78,8 @@
 - Mittwoch, 28. Juni 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1687943520/142/
 - Mittwoch, 28. Juni 2023 11:20 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687944000/2941/
 - Mittwoch, 28. Juni 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687944000/150/
-- Mittwoch, 28. Juni 2023 11:24 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1687944240/145/
 - Mittwoch, 28. Juni 2023 11:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687944960/169/
+- Mittwoch, 28. Juni 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1687944960/145/
 - Mittwoch, 28. Juni 2023 12:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687946400/169/
 - Mittwoch, 28. Juni 2023  Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1687946400/141/
 - Mittwoch, 28. Juni 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687946400/2836/
