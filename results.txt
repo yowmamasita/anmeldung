@@ -66,8 +66,7 @@
 - Mittwoch, 28. Juni 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687950000/2839/
 - Mittwoch, 28. Juni 2023 13:24 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1687951440/140/
 - Mittwoch, 28. Juni 2023 14:00 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687953600/2923/
-- Mittwoch, 28. Juni 2023 14:30 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1687955400/147/
+- Mittwoch, 28. Juni 2023 14:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1687956000/147/
 - Freitag, 30. Juni 2023 09:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688108400/2899/
 - Freitag, 30. Juni 2023 09:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688109120/2899/
 - Freitag, 30. Juni 2023 09:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688109840/2899/
-- Freitag, 30. Juni 2023 09:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688110560/2896/
