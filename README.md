@@ -8,4 +8,3 @@
 - Donnerstag, 4. Mai 2023 10:30 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1683189000/153/
 - Donnerstag, 4. Mai 2023 10:42 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1683189720/153/
 - Donnerstag, 4. Mai 2023 10:54 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1683190440/153/
-- Dienstag, 13. Juni 2023 13:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686654000/2896/
