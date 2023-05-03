@@ -1,5 +1,4 @@
-- Mittwoch, 3. Mai 2023 08:00 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683093600/2854/
-- Mittwoch, 3. Mai 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683093600/2896/
+- Mittwoch, 3. Mai 2023 08:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683093600/2896/
 - Mittwoch, 3. Mai 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683093600/172/
 - Mittwoch, 3. Mai 2023 08:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683094320/146/
 - Mittwoch, 3. Mai 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683094320/2896/
@@ -36,7 +35,6 @@
 - Mittwoch, 3. Mai 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683101520/146/
 - Mittwoch, 3. Mai 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683101520/2896/
 - Mittwoch, 3. Mai 2023 10:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683102240/167/
-- Mittwoch, 3. Mai 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683102240/146/
 - Mittwoch, 3. Mai 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683102240/2896/
 - Mittwoch, 3. Mai 2023 10:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683102960/167/
 - Mittwoch, 3. Mai 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683102960/146/
@@ -44,13 +42,12 @@
 - Mittwoch, 3. Mai 2023 10:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1683103200/147/
 - Mittwoch, 3. Mai 2023 10:42 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1683103320/134/
 - Mittwoch, 3. Mai 2023 10:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683103680/167/
-- Mittwoch, 3. Mai 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683103680/146/
 - Mittwoch, 3. Mai 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683103680/2896/
 - Mittwoch, 3. Mai 2023 10:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683104040/2908/
 - Mittwoch, 3. Mai 2023 11:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683104400/167/
 - Mittwoch, 3. Mai 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683104400/2896/
-- Mittwoch, 3. Mai 2023 11:06 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1683104760/134/
 - Mittwoch, 3. Mai 2023 11:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683105120/167/
+- Mittwoch, 3. Mai 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683105120/146/
 - Mittwoch, 3. Mai 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683105120/2896/
 - Mittwoch, 3. Mai 2023 11:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683105840/167/
 - Mittwoch, 3. Mai 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683105840/146/
@@ -59,7 +56,6 @@
 - Mittwoch, 3. Mai 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683106560/146/
 - Mittwoch, 3. Mai 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683106560/2896/
 - Mittwoch, 3. Mai 2023 11:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683107280/167/
-- Mittwoch, 3. Mai 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683107280/146/
 - Mittwoch, 3. Mai 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683107280/2896/
 - Mittwoch, 3. Mai 2023 12:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683108000/167/
 - Mittwoch, 3. Mai 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683108000/2854/
@@ -77,16 +73,12 @@
 - Mittwoch, 3. Mai 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683110160/146/
 - Mittwoch, 3. Mai 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683110160/2896/
 - Mittwoch, 3. Mai 2023 12:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683110880/167/
-- Mittwoch, 3. Mai 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683110880/146/
 - Mittwoch, 3. Mai 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683110880/2896/
 - Mittwoch, 3. Mai 2023 13:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683112320/2896/
 - Mittwoch, 3. Mai 2023 13:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683113040/2896/
-- Mittwoch, 3. Mai 2023 13:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683113760/2896/
-- Donnerstag, 25. Mai 2023 09:54 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685001240/2839/
 - Mittwoch, 28. Juni 2023 07:42 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687930920/847/
 - Mittwoch, 28. Juni 2023 07:50 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687931400/2881/
 - Mittwoch, 28. Juni 2023 07:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687931640/2914/
-- Mittwoch, 28. Juni 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687931640/904/
 - Mittwoch, 28. Juni 2023 08:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687932600/2941/
 - Mittwoch, 28. Juni 2023 08:18 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687933080/898/
 - Mittwoch, 28. Juni 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687933080/847/
