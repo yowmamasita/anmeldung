@@ -1,14 +1,9 @@
-- Freitag, 5. Mai 2023 12:30 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683282600/2923/
-- Montag, 15. Mai 2023 14:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684154520/2911/
-- Freitag, 19. Mai 2023 12:12 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1684491120/142/
 - Mittwoch, 24. Mai 2023 13:30 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1684927800/134/
 - Freitag, 26. Mai 2023 12:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685095200/2926/
 - Dienstag, 30. Mai 2023 12:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685443680/2887/
 - Mittwoch, 21. Juni 2023 10:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687337280/154/
 - Montag, 26. Juni 2023 13:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687779360/2845/
-- Mittwoch, 28. Juni 2023 10:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687939920/2896/
-- Mittwoch, 28. Juni 2023 13:18 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687951080/312/
-- Mittwoch, 28. Juni 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687951080/898/
+- Mittwoch, 28. Juni 2023 13:18 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687951080/898/
 - Mittwoch, 28. Juni 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687951080/904/
 - Mittwoch, 28. Juni 2023 13:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687951800/312/
 - Mittwoch, 28. Juni 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687951800/898/
