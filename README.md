@@ -15,5 +15,4 @@
 - Donnerstag, 4. Mai 2023 14:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1683203760/168/
 - Donnerstag, 4. Mai 2023 14:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1683204480/168/
 - Donnerstag, 4. Mai 2023 15:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1683205920/168/
-- Donnerstag, 4. Mai 2023 15:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1683206640/168/
 - Donnerstag, 4. Mai 2023 17:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1683214560/168/
