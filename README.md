@@ -7,15 +7,12 @@
 - Donnerstag, 4. Mai 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683193680/2863/
 - Donnerstag, 4. Mai 2023 12:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1683195840/168/
 - Donnerstag, 4. Mai 2023 12:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1683197280/168/
+- Donnerstag, 4. Mai 2023 13:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1683198000/168/
 - Donnerstag, 4. Mai 2023 13:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1683198720/168/
-- Donnerstag, 4. Mai 2023 13:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1683199440/168/
 - Donnerstag, 4. Mai 2023 13:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1683200880/168/
 - Donnerstag, 4. Mai 2023 14:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1683202320/168/
 - Donnerstag, 4. Mai 2023 14:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1683203040/168/
 - Donnerstag, 4. Mai 2023 14:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1683203760/168/
 - Donnerstag, 4. Mai 2023 14:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1683204480/168/
-- Donnerstag, 4. Mai 2023 15:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1683205200/168/
 - Donnerstag, 4. Mai 2023 15:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1683205920/168/
 - Donnerstag, 4. Mai 2023 15:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1683206640/168/
-- Donnerstag, 4. Mai 2023 15:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1683207360/168/
-- Donnerstag, 4. Mai 2023 17:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1683213120/168/
