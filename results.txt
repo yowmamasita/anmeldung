@@ -1,5 +1,4 @@
 - Mittwoch, 28. Juni 2023 11:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687944960/381/
-- Mittwoch, 28. Juni 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1687944960/103/
 - Mittwoch, 28. Juni 2023 11:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687945680/381/
 - Mittwoch, 28. Juni 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1687945680/103/
 - Mittwoch, 28. Juni 2023 12:00 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687946400/381/
@@ -42,4 +41,3 @@
 - Mittwoch, 28. Juni 2023 14:12 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687954320/2938/
 - Mittwoch, 28. Juni 2023 14:24 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687955040/2938/
 - Mittwoch, 28. Juni 2023 14:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687955760/2938/
-- Mittwoch, 28. Juni 2023 14:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687956480/2938/
