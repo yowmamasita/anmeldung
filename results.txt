@@ -4,8 +4,7 @@
 - Mittwoch, 3. Mai 2023 08:12 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683094320/2854/
 - Mittwoch, 3. Mai 2023 08:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683094680/2914/
 - Mittwoch, 3. Mai 2023 08:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683095040/2854/
-- Mittwoch, 3. Mai 2023 08:30 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683095400/2911/
-- Mittwoch, 3. Mai 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683095400/2914/
+- Mittwoch, 3. Mai 2023 08:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683095400/2914/
 - Mittwoch, 3. Mai 2023 08:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683096120/136/
 - Mittwoch, 3. Mai 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683096120/2914/
 - Mittwoch, 3. Mai 2023 08:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683096840/136/
@@ -17,13 +16,11 @@
 - Mittwoch, 3. Mai 2023 09:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683098640/2854/
 - Mittwoch, 3. Mai 2023 09:30 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683099000/2911/
 - Mittwoch, 3. Mai 2023 09:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683099360/2854/
-- Mittwoch, 3. Mai 2023 09:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683099720/2911/
-- Mittwoch, 3. Mai 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683099720/136/
+- Mittwoch, 3. Mai 2023 09:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683099720/136/
 - Mittwoch, 3. Mai 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683099720/2914/
 - Mittwoch, 3. Mai 2023 09:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683100080/2854/
 - Mittwoch, 3. Mai 2023 09:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683100440/2914/
 - Mittwoch, 3. Mai 2023 10:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683101160/2914/
-- Mittwoch, 3. Mai 2023 10:12 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683101520/2854/
 - Mittwoch, 3. Mai 2023 10:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683101880/2914/
 - Mittwoch, 3. Mai 2023 10:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683102240/2854/
 - Mittwoch, 3. Mai 2023 10:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683102600/2914/
@@ -46,13 +43,12 @@
 - Mittwoch, 3. Mai 2023 12:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683109440/2854/
 - Mittwoch, 3. Mai 2023 12:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683109800/2914/
 - Mittwoch, 3. Mai 2023 12:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683110160/2854/
-- Mittwoch, 3. Mai 2023 12:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683110520/2914/
-- Mittwoch, 3. Mai 2023 12:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683111240/136/
-- Mittwoch, 3. Mai 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683111240/2914/
+- Mittwoch, 3. Mai 2023 12:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683110520/136/
+- Mittwoch, 3. Mai 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683110520/2914/
+- Mittwoch, 3. Mai 2023 12:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683111240/2914/
 - Mittwoch, 3. Mai 2023 13:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683111960/2914/
 - Mittwoch, 3. Mai 2023 13:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683112680/2914/
 - Mittwoch, 3. Mai 2023 13:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683113400/2914/
-- Mittwoch, 3. Mai 2023 13:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683114120/2914/
 - Mittwoch, 28. Juni 2023 07:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687929120/3238/
 - Mittwoch, 28. Juni 2023 07:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687929840/3238/
 - Mittwoch, 28. Juni 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687929840/2854/
@@ -86,7 +82,6 @@
 - Mittwoch, 28. Juni 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687948560/2854/
 - Mittwoch, 28. Juni 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687948560/1018/
 - Mittwoch, 28. Juni 2023 12:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687949280/3238/
-- Mittwoch, 28. Juni 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687949280/1018/
 - Mittwoch, 28. Juni 2023 13:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687950720/3238/
 - Mittwoch, 28. Juni 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687950720/1018/
 - Mittwoch, 28. Juni 2023 13:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687951440/2854/
