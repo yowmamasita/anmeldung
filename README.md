@@ -4,7 +4,6 @@
 - Mittwoch, 28. Juni 2023 09:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687936200/2923/
 - Mittwoch, 28. Juni 2023 09:20 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687936800/2923/
 - Mittwoch, 28. Juni 2023 09:40 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687938000/2923/
-- Mittwoch, 28. Juni 2023 10:00 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687939200/2839/
 - Mittwoch, 28. Juni 2023 10:12 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687939920/2839/
 - Mittwoch, 28. Juni 2023 10:24 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687940640/2836/
 - Mittwoch, 28. Juni 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687940640/2839/
