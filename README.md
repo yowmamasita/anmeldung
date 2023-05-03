@@ -9,6 +9,4 @@
 - Donnerstag, 4. Mai 2023 13:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683199440/167/
 - Donnerstag, 4. Mai 2023 13:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683200160/167/
 - Donnerstag, 4. Mai 2023 13:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683200880/167/
-- Donnerstag, 4. Mai 2023 14:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683201600/167/
-- Dienstag, 30. Mai 2023 12:36 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685442960/847/
 - Mittwoch, 14. Juni 2023 09:30 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686727800/2887/
