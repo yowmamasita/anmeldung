@@ -1,4 +1,4 @@
-- Mittwoch, 3. Mai 2023 09:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683098640/2896/
+- Mittwoch, 3. Mai 2023 09:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683098640/2851/
 - Mittwoch, 3. Mai 2023 09:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683099360/2845/
 - Mittwoch, 3. Mai 2023 09:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683100080/2845/
 - Mittwoch, 3. Mai 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683100080/2872/
@@ -11,6 +11,7 @@
 - Mittwoch, 3. Mai 2023 11:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683105840/2851/
 - Mittwoch, 3. Mai 2023 11:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683107280/2845/
 - Mittwoch, 3. Mai 2023 12:00 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683108000/2875/
+- Dienstag, 27. Juni 2023 14:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687869360/2845/
 - Mittwoch, 28. Juni 2023 08:10 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1687932600/149/
 - Mittwoch, 28. Juni 2023 08:20 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687933200/2923/
 - Mittwoch, 28. Juni 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1687933200/149/
@@ -83,7 +84,6 @@
 - Mittwoch, 28. Juni 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1687941360/168/
 - Mittwoch, 28. Juni 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687941360/2938/
 - Mittwoch, 28. Juni 2023 10:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1687941600/147/
-- Mittwoch, 28. Juni 2023  Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687941600/2923/
 - Mittwoch, 28. Juni 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687941600/150/
 - Mittwoch, 28. Juni 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687941600/2884/
 - Mittwoch, 28. Juni 2023 10:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687942080/2857/
