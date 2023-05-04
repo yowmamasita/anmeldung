@@ -11,4 +11,5 @@
 - Donnerstag, 29. Juni 2023 17:00 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688050800/844/
 - Donnerstag, 29. Juni 2023 17:12 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688051520/844/
 - Donnerstag, 29. Juni 2023 17:24 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688052240/844/
+- Donnerstag, 29. Juni 2023 17:30 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688052600/2836/
 - Donnerstag, 29. Juni 2023 17:36 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688052960/844/
