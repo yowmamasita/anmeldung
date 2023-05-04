@@ -11,7 +11,6 @@
 - Donnerstag, 29. Juni 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1688045040/190/
 - Donnerstag, 29. Juni 2023 15:30 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1688045400/380/
 - Donnerstag, 29. Juni 2023 15:36 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688045760/2911/
-- Donnerstag, 29. Juni 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1688045760/190/
 - Donnerstag, 29. Juni 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688045760/2887/
 - Donnerstag, 29. Juni 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688045760/2932/
 - Donnerstag, 29. Juni 2023 15:45 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1688046300/380/
@@ -31,5 +30,6 @@
 - Donnerstag, 29. Juni 2023 16:48 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688050080/2911/
 - Donnerstag, 29. Juni 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688050080/2887/
 - Donnerstag, 29. Juni 2023 17:15 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1688051700/380/
-- Donnerstag, 29. Juni 2023 17:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688052240/2887/
+- Donnerstag, 29. Juni 2023 17:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1688052240/190/
+- Donnerstag, 29. Juni 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688052240/2887/
 - Donnerstag, 29. Juni 2023 17:36 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688052960/2932/
