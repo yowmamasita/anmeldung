@@ -1,56 +1,28 @@
 # List of available Anmeldung appointments as of $NOW
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122254,122252,329742,122260,329745,122262,329748,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,317869,122281,327352,122279,329772,122283,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
-- Donnerstag, 4. Mai 2023 12:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683197280/3238/
-- Donnerstag, 4. Mai 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683197280/2851/
-- Donnerstag, 4. Mai 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683197280/167/
-- Donnerstag, 4. Mai 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683197280/172/
-- Donnerstag, 4. Mai 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683197280/1018/
 - Donnerstag, 4. Mai 2023 13:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683198000/3238/
 - Donnerstag, 4. Mai 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683198000/312/
 - Donnerstag, 4. Mai 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683198000/167/
-- Donnerstag, 4. Mai 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683198000/2899/
-- Donnerstag, 4. Mai 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683198000/1018/
 - Donnerstag, 4. Mai 2023 13:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683198720/3238/
 - Donnerstag, 4. Mai 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683198720/167/
-- Donnerstag, 4. Mai 2023 13:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683199440/3238/
-- Donnerstag, 4. Mai 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683199440/167/
-- Donnerstag, 4. Mai 2023 13:30 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683199800/2839/
+- Donnerstag, 4. Mai 2023 13:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683199440/167/
 - Donnerstag, 4. Mai 2023 13:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683200160/3238/
 - Donnerstag, 4. Mai 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683200160/167/
 - Donnerstag, 4. Mai 2023 13:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683200880/167/
 - Donnerstag, 4. Mai 2023 14:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683202320/167/
-- Donnerstag, 4. Mai 2023 14:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683203040/169/
-- Donnerstag, 4. Mai 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683203040/167/
+- Donnerstag, 4. Mai 2023 14:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683203040/167/
 - Donnerstag, 4. Mai 2023 14:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683203760/167/
 - Donnerstag, 4. Mai 2023 14:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683204480/167/
 - Donnerstag, 4. Mai 2023 15:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683205200/167/
-- Donnerstag, 4. Mai 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683205200/2860/
 - Donnerstag, 4. Mai 2023 15:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683205920/167/
 - Donnerstag, 4. Mai 2023 15:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683206640/167/
 - Donnerstag, 4. Mai 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683206640/2860/
-- Donnerstag, 4. Mai 2023 15:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683207360/167/
-- Donnerstag, 4. Mai 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683207360/2899/
-- Donnerstag, 4. Mai 2023 15:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683208080/167/
-- Donnerstag, 4. Mai 2023 16:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683208800/167/
-- Donnerstag, 4. Mai 2023 16:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683209520/167/
-- Donnerstag, 4. Mai 2023 16:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683210240/167/
-- Donnerstag, 4. Mai 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683210240/2899/
-- Donnerstag, 4. Mai 2023 16:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683210960/167/
-- Donnerstag, 4. Mai 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683210960/2899/
-- Donnerstag, 4. Mai 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683210960/1018/
-- Donnerstag, 4. Mai 2023 16:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683211680/167/
-- Mittwoch, 28. Juni 2023 11:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1687943400/147/
 - Donnerstag, 29. Juni 2023 12:36 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688034960/111/
 - Donnerstag, 29. Juni 2023 12:48 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688035680/844/
-- Donnerstag, 29. Juni 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688035680/111/
 - Donnerstag, 29. Juni 2023 13:00 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688036400/844/
 - Donnerstag, 29. Juni 2023 13:12 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688037120/844/
 - Donnerstag, 29. Juni 2023 13:24 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688037840/844/
 - Donnerstag, 29. Juni 2023 13:36 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688038560/844/
 - Donnerstag, 29. Juni 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688038560/111/
 - Donnerstag, 29. Juni 2023 13:48 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688039280/844/
-- Donnerstag, 29. Juni 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688039280/111/
-- Donnerstag, 29. Juni 2023 14:00 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688040000/111/
-- Donnerstag, 29. Juni 2023 14:20 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688041200/2941/
-- Donnerstag, 29. Juni 2023 14:24 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688041440/844/
-- Donnerstag, 29. Juni 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688041440/111/
+- Donnerstag, 29. Juni 2023 14:24 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688041440/111/
