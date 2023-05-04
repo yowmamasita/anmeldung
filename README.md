@@ -6,7 +6,6 @@
 - Donnerstag, 4. Mai 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683206640/2848/
 - Donnerstag, 4. Mai 2023 15:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683207360/2845/
 - Donnerstag, 4. Mai 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683207360/2848/
-- Donnerstag, 4. Mai 2023 15:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683208080/2848/
 - Donnerstag, 29. Juni 2023 15:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688043600/2926/
 - Donnerstag, 29. Juni 2023 15:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688044320/2926/
 - Donnerstag, 29. Juni 2023 15:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688045040/2926/
@@ -16,8 +15,7 @@
 - Donnerstag, 29. Juni 2023 16:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688047200/2926/
 - Donnerstag, 29. Juni 2023 16:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688047920/2926/
 - Donnerstag, 29. Juni 2023 16:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688048640/2926/
-- Donnerstag, 29. Juni 2023 16:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1688049360/192/
-- Donnerstag, 29. Juni 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688049360/2926/
+- Donnerstag, 29. Juni 2023 16:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688049360/2926/
 - Donnerstag, 29. Juni 2023 16:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1688050080/192/
 - Donnerstag, 29. Juni 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688050080/2926/
 - Donnerstag, 29. Juni 2023 17:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688050800/2926/
@@ -25,4 +23,3 @@
 - Donnerstag, 29. Juni 2023 17:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688052240/2926/
 - Donnerstag, 29. Juni 2023 17:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1688052960/192/
 - Donnerstag, 29. Juni 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688052960/2926/
-- Donnerstag, 29. Juni 2023 17:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688053680/2926/
