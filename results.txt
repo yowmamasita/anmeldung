@@ -1,17 +1,37 @@
 - Donnerstag, 4. Mai 2023 12:36 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683196560/2911/
-- Donnerstag, 4. Mai 2023 12:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683197280/172/
-- Donnerstag, 4. Mai 2023 13:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683198000/2899/
+- Donnerstag, 4. Mai 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683196560/1018/
+- Donnerstag, 4. Mai 2023 12:48 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683197280/1018/
+- Donnerstag, 4. Mai 2023 13:00 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683198000/312/
+- Donnerstag, 4. Mai 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683198000/2899/
 - Donnerstag, 4. Mai 2023 13:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683198720/2899/
 - Donnerstag, 4. Mai 2023 13:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683199440/2899/
+- Donnerstag, 4. Mai 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683199440/1018/
 - Donnerstag, 4. Mai 2023 13:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683200160/2899/
 - Donnerstag, 4. Mai 2023 13:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683200880/2899/
-- Donnerstag, 4. Mai 2023 15:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683206640/2899/
+- Donnerstag, 4. Mai 2023 15:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1683206640/112/
+- Donnerstag, 4. Mai 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683206640/2899/
 - Donnerstag, 4. Mai 2023 15:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683207360/2899/
-- Donnerstag, 4. Mai 2023 15:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683208080/2899/
-- Donnerstag, 4. Mai 2023 16:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683208800/2899/
+- Donnerstag, 4. Mai 2023 16:00 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1683208800/112/
+- Donnerstag, 4. Mai 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683208800/2899/
 - Donnerstag, 4. Mai 2023 16:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683209520/2899/
 - Donnerstag, 4. Mai 2023 16:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683210240/2899/
-- Donnerstag, 4. Mai 2023 16:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683210960/2899/
+- Donnerstag, 4. Mai 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683210240/1018/
+- Donnerstag, 4. Mai 2023 16:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1683210960/112/
 - Donnerstag, 4. Mai 2023 16:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683211680/2899/
-- Donnerstag, 4. Mai 2023 17:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683213120/2899/
-- Donnerstag, 4. Mai 2023 17:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683213840/172/
+- Donnerstag, 4. Mai 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683211680/1018/
+- Donnerstag, 4. Mai 2023 17:00 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1683212400/112/
+- Donnerstag, 4. Mai 2023 17:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1683213840/112/
+- Dienstag, 16. Mai 2023 17:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684251720/2839/
+- Montag, 22. Mai 2023 14:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1684758240/106/
+- Donnerstag, 1. Juni 2023 17:30 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685633400/380/
+- Mittwoch, 7. Juni 2023 12:06 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686132360/844/
+- Dienstag, 20. Juni 2023 15:30 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687267800/2839/
+- Mittwoch, 28. Juni 2023 13:30 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687951800/2926/
+- Mittwoch, 28. Juni 2023 13:42 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687952520/2926/
+- Donnerstag, 29. Juni 2023 10:00 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1688025600/103/
+- Donnerstag, 29. Juni 2023 12:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688033520/2926/
+- Donnerstag, 29. Juni 2023 12:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688034240/2926/
+- Donnerstag, 29. Juni 2023 12:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688034960/2926/
+- Donnerstag, 29. Juni 2023 13:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688037120/2926/
+- Donnerstag, 29. Juni 2023 15:00 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688043600/2854/
+- Donnerstag, 29. Juni 2023 16:50 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1688050200/151/
