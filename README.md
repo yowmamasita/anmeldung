@@ -4,8 +4,8 @@
 - Donnerstag, 4. Mai 2023 14:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683203040/2848/
 - Donnerstag, 4. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683203040/231/
 - Donnerstag, 4. Mai 2023 14:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683203760/2848/
-- Donnerstag, 4. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683203760/231/
+- Donnerstag, 4. Mai 2023 15:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1683205200/168/
+- Donnerstag, 29. Juni 2023 13:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688038560/312/
 - Donnerstag, 29. Juni 2023 14:00 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1688040000/381/
 - Donnerstag, 29. Juni 2023 15:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1688045760/381/
 - Donnerstag, 29. Juni 2023 16:00 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1688047200/381/
-- Donnerstag, 29. Juni 2023 17:48 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1688053680/103/
