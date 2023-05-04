@@ -6,7 +6,6 @@
 - Donnerstag, 4. Mai 2023 11:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683192240/136/
 - Donnerstag, 4. Mai 2023 11:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683192960/136/
 - Donnerstag, 4. Mai 2023 11:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683193680/136/
-- Donnerstag, 4. Mai 2023 12:00 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683194400/136/
 - Donnerstag, 4. Mai 2023 12:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683195120/136/
 - Donnerstag, 4. Mai 2023 12:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683195840/136/
 - Donnerstag, 4. Mai 2023 12:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683196560/136/
@@ -16,7 +15,6 @@
 - Donnerstag, 4. Mai 2023 14:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683203040/136/
 - Donnerstag, 4. Mai 2023 14:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683203760/136/
 - Donnerstag, 4. Mai 2023 14:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683204480/136/
-- Donnerstag, 4. Mai 2023 15:00 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683205200/136/
 - Donnerstag, 4. Mai 2023 15:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683205920/136/
 - Donnerstag, 4. Mai 2023 15:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683206640/136/
 - Donnerstag, 4. Mai 2023 15:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683207360/136/
@@ -28,7 +26,6 @@
 - Donnerstag, 4. Mai 2023 16:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683211680/136/
 - Donnerstag, 4. Mai 2023 17:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683213120/136/
 - Donnerstag, 4. Mai 2023 17:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683213840/136/
-- Donnerstag, 4. Mai 2023 17:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683214560/136/
 - Donnerstag, 29. Juni 2023 09:30 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1688023800/141/
 - Donnerstag, 29. Juni 2023 09:40 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1688024400/103/
 - Donnerstag, 29. Juni 2023 09:42 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1688024520/141/
