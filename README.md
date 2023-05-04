@@ -6,19 +6,18 @@
 - Donnerstag, 29. Juni 2023 10:36 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688027760/904/
 - Donnerstag, 29. Juni 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688027760/2926/
 - Donnerstag, 29. Juni 2023 10:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1688028000/147/
-- Donnerstag, 29. Juni 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1688028000/150/
 - Donnerstag, 29. Juni 2023 10:48 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688028480/844/
 - Donnerstag, 29. Juni 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688028480/841/
 - Donnerstag, 29. Juni 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688028480/898/
 - Donnerstag, 29. Juni 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1688028480/190/
 - Donnerstag, 29. Juni 2023 10:50 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688028600/2941/
-- Donnerstag, 29. Juni 2023 11:00 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688029200/2911/
-- Donnerstag, 29. Juni 2023  Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1688029200/147/
+- Donnerstag, 29. Juni 2023 11:00 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1688029200/147/
 - Donnerstag, 29. Juni 2023  Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688029200/2923/
 - Donnerstag, 29. Juni 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688029200/841/
 - Donnerstag, 29. Juni 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1688029200/149/
 - Donnerstag, 29. Juni 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688029200/2881/
-- Donnerstag, 29. Juni 2023 11:12 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688029920/898/
+- Donnerstag, 29. Juni 2023 11:12 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688029920/2911/
+- Donnerstag, 29. Juni 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688029920/898/
 - Donnerstag, 29. Juni 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688029920/2887/
 - Donnerstag, 29. Juni 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688029920/847/
 - Donnerstag, 29. Juni 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688029920/904/
@@ -30,10 +29,10 @@
 - Donnerstag, 29. Juni 2023 11:30 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1688031000/148/
 - Donnerstag, 29. Juni 2023 11:40 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1688031600/151/
 - Donnerstag, 29. Juni 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688031600/2878/
-- Donnerstag, 29. Juni 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1688031600/150/
 - Donnerstag, 29. Juni 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688031600/2884/
 - Donnerstag, 29. Juni 2023 11:48 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1688032080/134/
 - Donnerstag, 29. Juni 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1688032080/313/
+- Donnerstag, 29. Juni 2023 11:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1688032200/150/
 - Donnerstag, 29. Juni 2023 12:00 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1688032800/134/
 - Donnerstag, 29. Juni 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688032800/2911/
 - Donnerstag, 29. Juni 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688032800/844/
@@ -50,10 +49,9 @@
 - Donnerstag, 29. Juni 2023 12:12 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688033520/841/
 - Donnerstag, 29. Juni 2023 12:20 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1688034000/151/
 - Donnerstag, 29. Juni 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688034000/2878/
+- Donnerstag, 29. Juni 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1688034000/150/
 - Donnerstag, 29. Juni 2023 12:24 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688034240/847/
-- Donnerstag, 29. Juni 2023 12:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1688034600/150/
 - Donnerstag, 29. Juni 2023 12:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1688035680/381/
-- Donnerstag, 29. Juni 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1688035680/313/
 - Donnerstag, 29. Juni 2023 12:50 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1688035800/148/
 - Donnerstag, 29. Juni 2023 13:00 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688036400/2911/
 - Donnerstag, 29. Juni 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688036400/898/
