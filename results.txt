@@ -1,23 +1,26 @@
-- Donnerstag, 4. Mai 2023 14:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683204480/192/
-- Donnerstag, 4. Mai 2023 15:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683205200/192/
-- Donnerstag, 4. Mai 2023 15:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683205920/192/
-- Donnerstag, 4. Mai 2023 15:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683206640/192/
+- Donnerstag, 4. Mai 2023 14:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683203760/312/
+- Donnerstag, 4. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683203760/231/
+- Donnerstag, 4. Mai 2023 15:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683205200/2857/
+- Donnerstag, 4. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683205200/231/
+- Donnerstag, 4. Mai 2023 15:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683206640/169/
+- Donnerstag, 4. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683206640/192/
 - Donnerstag, 4. Mai 2023 15:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683207360/192/
-- Donnerstag, 4. Mai 2023 15:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683208080/192/
-- Donnerstag, 4. Mai 2023 16:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683209520/192/
-- Donnerstag, 4. Mai 2023 16:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683210240/192/
-- Donnerstag, 4. Mai 2023 16:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683210960/192/
-- Donnerstag, 4. Mai 2023 16:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683211680/192/
-- Donnerstag, 4. Mai 2023 17:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683213840/192/
-- Donnerstag, 4. Mai 2023 17:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683214560/192/
-- Donnerstag, 4. Mai 2023 17:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683215280/192/
-- Donnerstag, 29. Juni 2023 15:24 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688045040/2908/
+- Mittwoch, 28. Juni 2023 09:00 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687935600/2881/
+- Mittwoch, 28. Juni 2023 10:00 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687939200/2938/
+- Donnerstag, 29. Juni 2023 14:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1688041440/192/
+- Donnerstag, 29. Juni 2023 14:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688042160/312/
+- Donnerstag, 29. Juni 2023 15:12 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688044320/2911/
+- Donnerstag, 29. Juni 2023 15:24 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688045040/2911/
 - Donnerstag, 29. Juni 2023 15:36 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688045760/2908/
 - Donnerstag, 29. Juni 2023 15:48 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688046480/2908/
 - Donnerstag, 29. Juni 2023 16:00 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688047200/2908/
+- Donnerstag, 29. Juni 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688047200/2911/
 - Donnerstag, 29. Juni 2023 16:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688047920/2908/
+- Donnerstag, 29. Juni 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1688047920/190/
 - Donnerstag, 29. Juni 2023 16:36 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688049360/2908/
 - Donnerstag, 29. Juni 2023 16:48 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688050080/2908/
+- Donnerstag, 29. Juni 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688050080/2911/
 - Donnerstag, 29. Juni 2023 17:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688051520/2908/
 - Donnerstag, 29. Juni 2023 17:24 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688052240/2908/
-- Donnerstag, 29. Juni 2023 17:36 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688052960/2908/
+- Donnerstag, 29. Juni 2023 17:36 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688052960/841/
+- Donnerstag, 29. Juni 2023 17:48 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1688053680/103/
