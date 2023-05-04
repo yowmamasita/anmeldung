@@ -1,24 +1,5 @@
-- Donnerstag, 4. Mai 2023 13:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683199440/3238/
-- Donnerstag, 4. Mai 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683199440/167/
-- Donnerstag, 4. Mai 2023 13:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683200160/167/
-- Donnerstag, 4. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683200160/170/
-- Donnerstag, 4. Mai 2023 13:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683200880/2896/
-- Donnerstag, 4. Mai 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683200880/2899/
+- Donnerstag, 4. Mai 2023 13:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683200880/2899/
 - Donnerstag, 4. Mai 2023 14:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683202320/169/
 - Donnerstag, 4. Mai 2023 14:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683203040/169/
-- Donnerstag, 4. Mai 2023 14:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683204480/167/
-- Donnerstag, 4. Mai 2023 15:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683205920/167/
-- Donnerstag, 4. Mai 2023 15:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683208080/3238/
-- Donnerstag, 4. Mai 2023 16:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683209520/3238/
 - Donnerstag, 4. Mai 2023 16:20 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683210000/2884/
-- Donnerstag, 4. Mai 2023 16:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683210960/3238/
-- Donnerstag, 4. Mai 2023 17:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683212400/169/
-- Donnerstag, 4. Mai 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683212400/2899/
-- Donnerstag, 4. Mai 2023 17:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683214560/3238/
-- Donnerstag, 4. Mai 2023 17:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683215280/3238/
-- Donnerstag, 4. Mai 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683215280/2899/
-- Freitag, 26. Mai 2023 08:00 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685080800/2881/
-- Freitag, 26. Mai 2023 09:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685085840/2926/
-- Dienstag, 27. Juni 2023 13:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1687866480/190/
-- Donnerstag, 29. Juni 2023 13:00 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688036400/844/
-- Donnerstag, 29. Juni 2023 13:12 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688037120/844/
+- Donnerstag, 4. Mai 2023 17:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683212400/2899/
