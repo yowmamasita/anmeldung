@@ -1,7 +1,6 @@
 - Donnerstag, 4. Mai 2023 12:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683195840/2851/
 - Donnerstag, 4. Mai 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683195840/1018/
-- Donnerstag, 4. Mai 2023 12:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1683196560/112/
-- Donnerstag, 4. Mai 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683196560/1018/
+- Donnerstag, 4. Mai 2023 12:36 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683196560/1018/
 - Donnerstag, 4. Mai 2023 12:48 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683197280/904/
 - Donnerstag, 4. Mai 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683197280/1018/
 - Donnerstag, 4. Mai 2023 13:00 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683198000/1018/
@@ -15,8 +14,6 @@
 - Donnerstag, 4. Mai 2023 16:48 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683211680/1018/
 - Donnerstag, 4. Mai 2023 17:12 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683213120/1018/
 - Donnerstag, 4. Mai 2023 17:24 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683213840/1018/
-- Donnerstag, 4. Mai 2023 17:36 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683214560/1018/
-- Donnerstag, 8. Juni 2023 14:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686225600/2845/
 - Montag, 19. Juni 2023 09:42 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687160520/847/
 - Montag, 19. Juni 2023 14:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687178880/192/
 - Montag, 26. Juni 2023 10:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687769280/146/
