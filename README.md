@@ -45,9 +45,7 @@
 - Donnerstag, 29. Juni 2023 16:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688047200/3238/
 - Donnerstag, 29. Juni 2023 16:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688047800/2941/
 - Donnerstag, 29. Juni 2023 16:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688047920/3238/
-- Donnerstag, 29. Juni 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1688047920/145/
 - Donnerstag, 29. Juni 2023 16:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688048640/3238/
 - Donnerstag, 29. Juni 2023 16:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688049360/3238/
 - Donnerstag, 29. Juni 2023 16:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688050080/3238/
-- Donnerstag, 29. Juni 2023 17:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688052240/3238/
 - Donnerstag, 29. Juni 2023 17:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688053680/3238/
