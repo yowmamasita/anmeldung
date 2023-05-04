@@ -1,4 +1,5 @@
 - Donnerstag, 4. Mai 2023 12:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683197280/3238/
+- Donnerstag, 4. Mai 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683197280/2851/
 - Donnerstag, 4. Mai 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683197280/167/
 - Donnerstag, 4. Mai 2023 13:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683198000/3238/
 - Donnerstag, 4. Mai 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683198000/167/
@@ -9,10 +10,14 @@
 - Donnerstag, 4. Mai 2023 13:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683200160/3238/
 - Donnerstag, 4. Mai 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683200160/167/
 - Donnerstag, 4. Mai 2023 13:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683200880/167/
-- Donnerstag, 4. Mai 2023 14:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683201600/167/
-- Donnerstag, 4. Mai 2023 14:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683202320/167/
-- Donnerstag, 4. Mai 2023 14:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683203040/167/
-- Donnerstag, 4. Mai 2023 14:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683203760/167/
+- Donnerstag, 4. Mai 2023 14:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683201600/169/
+- Donnerstag, 4. Mai 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683201600/167/
+- Donnerstag, 4. Mai 2023 14:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683202320/169/
+- Donnerstag, 4. Mai 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683202320/167/
+- Donnerstag, 4. Mai 2023 14:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683203040/169/
+- Donnerstag, 4. Mai 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683203040/167/
+- Donnerstag, 4. Mai 2023 14:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683203760/169/
+- Donnerstag, 4. Mai 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683203760/167/
 - Donnerstag, 4. Mai 2023 14:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683204480/167/
 - Donnerstag, 4. Mai 2023 15:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683205200/167/
 - Donnerstag, 4. Mai 2023 15:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683205920/167/
@@ -25,13 +30,13 @@
 - Donnerstag, 4. Mai 2023 16:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683210960/167/
 - Donnerstag, 4. Mai 2023 16:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683211680/167/
 - Donnerstag, 4. Mai 2023 17:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683212400/167/
-- Donnerstag, 4. Mai 2023 17:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683213120/167/
+- Donnerstag, 4. Mai 2023 17:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683213120/169/
+- Donnerstag, 4. Mai 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683213120/167/
 - Donnerstag, 4. Mai 2023 17:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683213840/167/
 - Donnerstag, 4. Mai 2023 17:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683214560/167/
 - Donnerstag, 4. Mai 2023 17:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683215280/167/
 - Donnerstag, 29. Juni 2023 12:36 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688034960/111/
 - Donnerstag, 29. Juni 2023 12:48 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688035680/111/
-- Donnerstag, 29. Juni 2023 13:00 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688036400/111/
 - Donnerstag, 29. Juni 2023 13:12 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688037120/111/
 - Donnerstag, 29. Juni 2023 13:24 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688037840/111/
 - Donnerstag, 29. Juni 2023 13:36 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688038560/111/
