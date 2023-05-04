@@ -1,4 +1,4 @@
-- Donnerstag, 29. Juni 2023 11:18 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688030280/2932/
+- Donnerstag, 29. Juni 2023 11:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688031360/2938/
 - Donnerstag, 29. Juni 2023 11:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688032080/2938/
 - Donnerstag, 29. Juni 2023 12:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688034240/154/
 - Donnerstag, 29. Juni 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688034240/2938/
@@ -11,6 +11,4 @@
 - Donnerstag, 29. Juni 2023 13:12 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688037120/2938/
 - Donnerstag, 29. Juni 2023 13:24 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688037840/2938/
 - Donnerstag, 29. Juni 2023 14:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688040000/3238/
-- Donnerstag, 29. Juni 2023 15:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1688045040/168/
-- Donnerstag, 29. Juni 2023 16:06 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688047560/2839/
-- Donnerstag, 29. Juni 2023 16:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688050080/3238/
+- Donnerstag, 29. Juni 2023 14:50 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1688043000/149/
