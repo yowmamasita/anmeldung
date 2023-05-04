@@ -4,7 +4,8 @@
 - Donnerstag, 29. Juni 2023 14:36 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688042160/2908/
 - Donnerstag, 29. Juni 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688042160/191/
 - Donnerstag, 29. Juni 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688042160/922/
-- Donnerstag, 29. Juni 2023 14:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688042880/2914/
+- Donnerstag, 29. Juni 2023 14:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1688042880/136/
+- Donnerstag, 29. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688042880/2914/
 - Donnerstag, 29. Juni 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688042880/191/
 - Donnerstag, 29. Juni 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688042880/922/
 - Donnerstag, 29. Juni 2023 15:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688043600/191/
@@ -42,7 +43,6 @@
 - Donnerstag, 29. Juni 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688051520/922/
 - Donnerstag, 29. Juni 2023 17:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688052240/191/
 - Donnerstag, 29. Juni 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688052240/922/
-- Donnerstag, 29. Juni 2023 17:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688052960/191/
-- Donnerstag, 29. Juni 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688052960/922/
+- Donnerstag, 29. Juni 2023 17:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688052960/922/
 - Donnerstag, 29. Juni 2023 17:48 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688053680/2908/
 - Donnerstag, 29. Juni 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688053680/922/
