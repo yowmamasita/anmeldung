@@ -15,7 +15,6 @@
 - Donnerstag, 29. Juni 2023 16:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688049360/922/
 - Donnerstag, 29. Juni 2023 16:42 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688049720/2836/
 - Donnerstag, 29. Juni 2023 16:54 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688050440/2836/
-- Donnerstag, 29. Juni 2023 17:06 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688051160/2836/
 - Donnerstag, 29. Juni 2023 17:18 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688051880/2836/
 - Donnerstag, 29. Juni 2023 17:30 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688052600/2836/
 - Donnerstag, 29. Juni 2023 17:42 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688053320/2836/
