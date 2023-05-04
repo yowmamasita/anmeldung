@@ -1,7 +1,6 @@
-- Donnerstag, 4. Mai 2023 11:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683192240/312/
-- Donnerstag, 4. Mai 2023 11:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683192960/169/
+- Donnerstag, 4. Mai 2023 10:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683187920/231/
 - Donnerstag, 4. Mai 2023 11:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683193680/312/
 - Donnerstag, 4. Mai 2023 12:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683196560/312/
-- Donnerstag, 4. Mai 2023 13:12 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683198720/312/
 - Donnerstag, 4. Mai 2023 13:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683199440/2857/
-- Donnerstag, 4. Mai 2023 13:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683200160/312/
+- Donnerstag, 4. Mai 2023 13:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683200880/2857/
+- Freitag, 5. Mai 2023 09:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683272880/231/
