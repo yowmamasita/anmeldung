@@ -2,7 +2,6 @@
 - Donnerstag, 29. Juni 2023 11:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688029200/3238/
 - Donnerstag, 29. Juni 2023 11:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688029920/3238/
 - Donnerstag, 29. Juni 2023 11:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688030640/3238/
-- Donnerstag, 29. Juni 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688030640/2854/
 - Donnerstag, 29. Juni 2023 11:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688031360/3238/
 - Donnerstag, 29. Juni 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688031360/2854/
 - Donnerstag, 29. Juni 2023 11:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688032080/3238/
@@ -10,7 +9,7 @@
 - Donnerstag, 29. Juni 2023 12:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688032800/3238/
 - Donnerstag, 29. Juni 2023 12:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688033520/3238/
 - Donnerstag, 29. Juni 2023 12:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688034240/3238/
-- Donnerstag, 29. Juni 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688034240/2854/
+- Donnerstag, 29. Juni 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1688034240/145/
 - Donnerstag, 29. Juni 2023 12:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688034960/3238/
 - Donnerstag, 29. Juni 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688034960/2854/
 - Donnerstag, 29. Juni 2023 12:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688035680/3238/
@@ -36,7 +35,6 @@
 - Donnerstag, 29. Juni 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688041200/2881/
 - Donnerstag, 29. Juni 2023 14:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688041440/3238/
 - Donnerstag, 29. Juni 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688041440/2854/
-- Donnerstag, 29. Juni 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1688041440/145/
 - Donnerstag, 29. Juni 2023 14:30 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688041800/2881/
 - Donnerstag, 29. Juni 2023 14:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688042160/3238/
 - Donnerstag, 29. Juni 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688042160/2854/
