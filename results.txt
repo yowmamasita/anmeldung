@@ -1,5 +1,4 @@
 - Donnerstag, 4. Mai 2023 15:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683205200/2845/
-- Donnerstag, 4. Mai 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683205200/2872/
 - Donnerstag, 4. Mai 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683205200/150/
 - Donnerstag, 4. Mai 2023 15:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683205800/150/
 - Donnerstag, 4. Mai 2023 15:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683205920/2845/
@@ -33,7 +32,6 @@
 - Donnerstag, 4. Mai 2023 17:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683214560/2845/
 - Donnerstag, 4. Mai 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683214560/2872/
 - Freitag, 5. Mai 2023 12:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683283680/2896/
-- Mittwoch, 10. Mai 2023 07:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683696240/2851/
 - Montag, 19. Juni 2023 13:18 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687173480/898/
 - Donnerstag, 29. Juni 2023 10:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688028480/3238/
 - Donnerstag, 29. Juni 2023 11:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688029200/3238/
