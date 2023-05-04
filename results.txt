@@ -1,6 +1,5 @@
 - Donnerstag, 29. Juni 2023 12:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688032800/2857/
-- Donnerstag, 29. Juni 2023 12:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688034240/169/
-- Donnerstag, 29. Juni 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688034240/2857/
+- Donnerstag, 29. Juni 2023 12:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688034240/2857/
 - Donnerstag, 29. Juni 2023 12:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688034960/169/
 - Donnerstag, 29. Juni 2023 12:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688035680/169/
 - Donnerstag, 29. Juni 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688035680/2857/
@@ -49,4 +48,3 @@
 - Donnerstag, 29. Juni 2023 15:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688046480/2857/
 - Donnerstag, 29. Juni 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1688046480/168/
 - Donnerstag, 29. Juni 2023 16:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1688047920/168/
-- Donnerstag, 29. Juni 2023 16:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1688049360/168/
