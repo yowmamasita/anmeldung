@@ -1,3 +1,8 @@
-- Donnerstag, 4. Mai 2023 13:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683200400/150/
-- Donnerstag, 4. Mai 2023 13:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683201000/150/
-- Donnerstag, 4. Mai 2023 15:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683206400/150/
+- Donnerstag, 4. Mai 2023 13:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683199440/2845/
+- Donnerstag, 4. Mai 2023 13:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683200160/2845/
+- Donnerstag, 4. Mai 2023 13:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683200880/2845/
+- Donnerstag, 4. Mai 2023 14:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683201600/2845/
+- Donnerstag, 4. Mai 2023 14:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683202320/2845/
+- Donnerstag, 4. Mai 2023 14:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683203040/2845/
+- Donnerstag, 4. Mai 2023 14:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683203760/2845/
+- Donnerstag, 4. Mai 2023 14:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683204480/2845/
