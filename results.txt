@@ -1,5 +1,4 @@
 - Donnerstag, 29. Juni 2023 11:48 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688032080/2911/
-- Donnerstag, 29. Juni 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688032080/904/
 - Donnerstag, 29. Juni 2023 12:00 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688032800/2923/
 - Donnerstag, 29. Juni 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688032800/904/
 - Donnerstag, 29. Juni 2023 12:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688033400/2923/
@@ -15,9 +14,7 @@
 - Donnerstag, 29. Juni 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688034960/904/
 - Donnerstag, 29. Juni 2023 12:48 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688035680/898/
 - Donnerstag, 29. Juni 2023 12:50 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688035800/2881/
-- Donnerstag, 29. Juni 2023 13:00 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688036400/847/
 - Donnerstag, 29. Juni 2023 13:10 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688037000/2881/
-- Donnerstag, 29. Juni 2023 13:12 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688037120/841/
 - Donnerstag, 29. Juni 2023 13:20 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688037600/2881/
 - Donnerstag, 29. Juni 2023 13:30 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688038200/2881/
 - Donnerstag, 29. Juni 2023 13:36 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688038560/841/
@@ -46,5 +43,4 @@
 - Donnerstag, 29. Juni 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688043000/2881/
 - Donnerstag, 29. Juni 2023 15:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688044200/2923/
 - Donnerstag, 29. Juni 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688044200/2881/
-- Donnerstag, 29. Juni 2023 15:40 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688046000/2881/
 - Donnerstag, 29. Juni 2023 15:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688046600/2923/
