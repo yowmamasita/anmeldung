@@ -6,15 +6,11 @@
 - Donnerstag, 4. Mai 2023 14:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683204000/150/
 - Donnerstag, 4. Mai 2023 14:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683204480/2845/
 - Donnerstag, 4. Mai 2023 15:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683206400/150/
-- Donnerstag, 4. Mai 2023 16:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683210240/170/
 - Donnerstag, 4. Mai 2023 16:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683210600/150/
-- Donnerstag, 4. Mai 2023 17:24 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683213840/2911/
 - Freitag, 16. Juni 2023 13:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686915360/3238/
 - Freitag, 23. Juni 2023 10:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687508640/146/
 - Freitag, 23. Juni 2023 12:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1687514400/106/
-- Donnerstag, 29. Juni 2023 13:00 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688036400/2854/
-- Donnerstag, 29. Juni 2023 13:36 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688038560/898/
-- Donnerstag, 29. Juni 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688038560/904/
+- Donnerstag, 29. Juni 2023 13:36 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688038560/904/
 - Donnerstag, 29. Juni 2023 13:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688039280/312/
 - Donnerstag, 29. Juni 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688039280/898/
 - Donnerstag, 29. Juni 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688039280/904/
@@ -27,8 +23,7 @@
 - Donnerstag, 29. Juni 2023 14:24 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688041440/898/
 - Donnerstag, 29. Juni 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1688041440/313/
 - Donnerstag, 29. Juni 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688041440/904/
-- Donnerstag, 29. Juni 2023 14:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688042160/312/
-- Donnerstag, 29. Juni 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688042160/898/
+- Donnerstag, 29. Juni 2023 14:36 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688042160/898/
 - Donnerstag, 29. Juni 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1688042160/313/
 - Donnerstag, 29. Juni 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688042160/904/
 - Donnerstag, 29. Juni 2023 14:48 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688042880/898/
