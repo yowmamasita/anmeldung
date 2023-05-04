@@ -6,4 +6,3 @@
 - Donnerstag, 29. Juni 2023 16:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688047200/3238/
 - Donnerstag, 29. Juni 2023 16:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688047800/2923/
 - Donnerstag, 29. Juni 2023 16:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688047920/3238/
-- Donnerstag, 29. Juni 2023 16:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1688048400/147/
