@@ -29,7 +29,6 @@
 - Donnerstag, 29. Juni 2023 14:48 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688042880/841/
 - Donnerstag, 29. Juni 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1688042880/145/
 - Donnerstag, 29. Juni 2023 14:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688043000/2923/
-- Donnerstag, 29. Juni 2023 15:36 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1688045760/145/
 - Donnerstag, 29. Juni 2023 15:48 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1688046480/145/
 - Donnerstag, 29. Juni 2023 16:00 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1688047200/145/
 - Donnerstag, 29. Juni 2023 16:12 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1688047920/145/
@@ -37,4 +36,3 @@
 - Donnerstag, 29. Juni 2023 16:36 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1688049360/145/
 - Donnerstag, 29. Juni 2023 16:48 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1688050080/145/
 - Donnerstag, 29. Juni 2023 17:00 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1688050800/145/
-- Donnerstag, 29. Juni 2023 17:12 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1688051520/145/
