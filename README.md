@@ -4,7 +4,4 @@
 - Donnerstag, 4. Mai 2023 13:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683200400/150/
 - Donnerstag, 4. Mai 2023 13:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683201000/150/
 - Donnerstag, 4. Mai 2023 14:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683202800/150/
-- Donnerstag, 4. Mai 2023 14:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683203400/150/
 - Donnerstag, 4. Mai 2023 14:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683204000/150/
-- Donnerstag, 4. Mai 2023 15:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683206400/150/
-- Donnerstag, 4. Mai 2023 16:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683210000/150/
