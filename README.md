@@ -16,7 +16,6 @@
 - Freitag, 30. Juni 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688106960/2926/
 - Freitag, 30. Juni 2023 08:40 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688107200/2941/
 - Freitag, 30. Juni 2023 08:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688107680/2845/
-- Freitag, 30. Juni 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1688107680/190/
 - Freitag, 30. Juni 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1688107680/168/
 - Freitag, 30. Juni 2023 08:54 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688108040/2911/
 - Freitag, 30. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1688108040/136/
@@ -100,8 +99,7 @@
 - Freitag, 30. Juni 2023 12:10 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1688119800/151/
 - Freitag, 30. Juni 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688119800/2881/
 - Freitag, 30. Juni 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688119800/2884/
-- Freitag, 30. Juni 2023 12:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688119920/167/
-- Freitag, 30. Juni 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1688119920/168/
+- Freitag, 30. Juni 2023 12:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1688119920/168/
 - Freitag, 30. Juni 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688119920/2866/
 - Freitag, 30. Juni 2023 12:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1688120400/147/
 - Freitag, 30. Juni 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1688120400/150/
