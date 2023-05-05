@@ -11,4 +11,3 @@
 - Freitag, 30. Juni 2023 10:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688115000/2923/
 - Freitag, 30. Juni 2023  Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1688115000/189/
 - Freitag, 30. Juni 2023 11:00 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688115600/2923/
-- Freitag, 30. Juni 2023 13:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1688124240/141/
