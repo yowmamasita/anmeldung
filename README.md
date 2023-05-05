@@ -6,7 +6,6 @@
 - Freitag, 30. Juni 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688101920/2854/
 - Freitag, 30. Juni 2023 07:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688102640/3238/
 - Freitag, 30. Juni 2023 07:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688103360/3238/
-- Freitag, 30. Juni 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688103360/2854/
 - Freitag, 30. Juni 2023 07:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688104080/3238/
 - Freitag, 30. Juni 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688104080/2854/
 - Freitag, 30. Juni 2023 08:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688104800/3238/
@@ -27,7 +26,6 @@
 - Freitag, 30. Juni 2023 10:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688112000/3238/
 - Freitag, 30. Juni 2023 10:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688112720/3238/
 - Freitag, 30. Juni 2023 10:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688113440/3238/
-- Freitag, 30. Juni 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688113440/1018/
 - Freitag, 30. Juni 2023 10:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688114160/3238/
 - Freitag, 30. Juni 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688114160/2854/
 - Freitag, 30. Juni 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688114160/1018/
@@ -67,6 +65,5 @@
 - Freitag, 30. Juni 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688124960/2854/
 - Freitag, 30. Juni 2023 13:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688125680/3238/
 - Freitag, 30. Juni 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688125680/2854/
-- Freitag, 30. Juni 2023 14:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688126400/3238/
 - Freitag, 30. Juni 2023 14:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688127120/3238/
 - Freitag, 30. Juni 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688127120/2854/
