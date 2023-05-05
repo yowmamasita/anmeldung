@@ -20,7 +20,5 @@
 - Mittwoch, 10. Mai 2023 11:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1683711360/168/
 - Mittwoch, 10. Mai 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683711360/2863/
 - Mittwoch, 10. Mai 2023 11:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1683712080/168/
-- Montag, 12. Juni 2023 12:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686566160/168/
 - Dienstag, 27. Juni 2023 14:00 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1687867200/190/
-- Dienstag, 27. Juni 2023 15:30 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1687872600/141/
 - Freitag, 30. Juni 2023 11:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688118480/2926/
