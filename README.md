@@ -3,7 +3,6 @@
 - Freitag, 5. Mai 2023 09:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1683271080/136/
 - Donnerstag, 29. Juni 2023 14:30 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688041800/2836/
 - Donnerstag, 29. Juni 2023 15:42 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688046120/2836/
-- Donnerstag, 29. Juni 2023 16:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688047920/170/
 - Freitag, 30. Juni 2023 09:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688108400/169/
 - Freitag, 30. Juni 2023  Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1688108400/380/
 - Freitag, 30. Juni 2023 09:10 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1688109000/149/
