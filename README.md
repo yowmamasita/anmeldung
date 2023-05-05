@@ -13,7 +13,6 @@
 - Freitag, 5. Mai 2023 09:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683272160/169/
 - Freitag, 5. Mai 2023 09:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683272880/169/
 - Freitag, 5. Mai 2023 10:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683273600/169/
-- Freitag, 5. Mai 2023 10:06 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683273960/312/
 - Freitag, 5. Mai 2023 10:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683274320/169/
 - Freitag, 5. Mai 2023 10:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683275040/169/
 - Freitag, 5. Mai 2023 10:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683275760/169/
@@ -25,8 +24,6 @@
 - Freitag, 5. Mai 2023 11:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683280080/169/
 - Freitag, 5. Mai 2023 12:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683280800/169/
 - Freitag, 5. Mai 2023 12:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683281520/169/
-- Freitag, 5. Mai 2023 12:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683282240/169/
-- Freitag, 5. Mai 2023 12:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683282960/169/
 - Dienstag, 27. Juni 2023 11:48 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687859280/2866/
 - Dienstag, 27. Juni 2023 12:00 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687860000/2866/
 - Dienstag, 27. Juni 2023 12:24 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687861440/2866/
@@ -60,7 +57,6 @@
 - Mittwoch, 28. Juni 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687944960/2866/
 - Mittwoch, 28. Juni 2023 11:48 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687945680/2866/
 - Mittwoch, 28. Juni 2023 12:00 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687946400/2866/
-- Mittwoch, 28. Juni 2023 12:12 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687947120/2866/
 - Mittwoch, 28. Juni 2023 12:24 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687947840/2866/
 - Donnerstag, 29. Juni 2023 11:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688030640/170/
 - Donnerstag, 29. Juni 2023 11:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688031360/170/
@@ -144,6 +140,6 @@
 - Freitag, 30. Juni 2023 11:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688117760/3238/
 - Freitag, 30. Juni 2023 12:06 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688119560/844/
 - Freitag, 30. Juni 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688119560/2839/
-- Freitag, 30. Juni 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688119560/111/
 - Freitag, 30. Juni 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688119560/847/
+- Freitag, 30. Juni 2023 12:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688120280/111/
 - Freitag, 30. Juni 2023 12:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688120640/3238/
