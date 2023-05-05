@@ -1,43 +1,62 @@
 # List of available Anmeldung appointments as of $NOW
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122254,122252,329742,122260,329745,122262,329748,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,317869,122281,327352,122279,329772,122283,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
-- Freitag, 30. Juni 2023 08:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688106240/2887/
-- Freitag, 30. Juni 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688106240/2866/
-- Freitag, 30. Juni 2023 08:48 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688107680/2866/
+- Freitag, 5. Mai 2023 09:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683270720/146/
+- Freitag, 5. Mai 2023 09:18 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683271080/312/
+- Freitag, 5. Mai 2023 09:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1683271440/106/
+- Freitag, 5. Mai 2023 09:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683272880/231/
+- Freitag, 5. Mai 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683272880/146/
+- Freitag, 5. Mai 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683272880/2863/
+- Freitag, 5. Mai 2023 10:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683273600/2863/
+- Freitag, 5. Mai 2023 10:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1683275760/106/
+- Mittwoch, 10. Mai 2023 08:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683699840/2854/
+- Freitag, 26. Mai 2023 09:24 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685085840/2860/
+- Dienstag, 6. Juni 2023 17:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1686064320/146/
+- Donnerstag, 22. Juni 2023 17:48 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687448880/922/
+- Freitag, 23. Juni 2023 09:18 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687504680/2911/
+- Mittwoch, 28. Juni 2023 10:06 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687939560/111/
+- Mittwoch, 28. Juni 2023 11:24 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687944240/2866/
+- Donnerstag, 29. Juni 2023 09:54 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688025240/2839/
+- Freitag, 30. Juni 2023 08:20 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688106000/2884/
+- Freitag, 30. Juni 2023 08:24 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688106240/2866/
+- Freitag, 30. Juni 2023 08:40 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688107200/2884/
 - Freitag, 30. Juni 2023 08:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688107800/2923/
-- Freitag, 30. Juni 2023 09:00 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688108400/2923/
-- Freitag, 30. Juni 2023 09:12 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688109120/2866/
-- Freitag, 30. Juni 2023 09:24 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688109840/2866/
+- Freitag, 30. Juni 2023 09:00 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1688108400/141/
+- Freitag, 30. Juni 2023 09:10 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688109000/2881/
+- Freitag, 30. Juni 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1688109000/150/
+- Freitag, 30. Juni 2023 09:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688109840/2926/
+- Freitag, 30. Juni 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688109840/2866/
 - Freitag, 30. Juni 2023 09:30 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688110200/2923/
+- Freitag, 30. Juni 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688110200/2941/
 - Freitag, 30. Juni 2023 09:36 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688110560/2866/
 - Freitag, 30. Juni 2023 09:40 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688110800/2923/
 - Freitag, 30. Juni 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688110800/2941/
 - Freitag, 30. Juni 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688110800/2878/
 - Freitag, 30. Juni 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688110800/2881/
 - Freitag, 30. Juni 2023 09:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688111280/2857/
+- Freitag, 30. Juni 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688111280/922/
 - Freitag, 30. Juni 2023 09:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688111400/2923/
-- Freitag, 30. Juni 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688111400/2878/
 - Freitag, 30. Juni 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688111400/2881/
-- Freitag, 30. Juni 2023 10:00 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688112000/2881/
-- Freitag, 30. Juni 2023 10:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688112600/2923/
-- Freitag, 30. Juni 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688112600/2881/
+- Freitag, 30. Juni 2023 10:00 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688112000/2932/
+- Freitag, 30. Juni 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688112000/2881/
+- Freitag, 30. Juni 2023 10:10 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688112600/2881/
 - Freitag, 30. Juni 2023 10:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688112720/2857/
-- Freitag, 30. Juni 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688112720/2836/
-- Freitag, 30. Juni 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688112720/2860/
 - Freitag, 30. Juni 2023 10:20 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688113200/2923/
 - Freitag, 30. Juni 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688113200/2941/
 - Freitag, 30. Juni 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688113200/2881/
 - Freitag, 30. Juni 2023 10:24 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688113440/2836/
 - Freitag, 30. Juni 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688113440/2866/
 - Freitag, 30. Juni 2023 10:30 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688113800/2923/
-- Freitag, 30. Juni 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1688113800/151/
 - Freitag, 30. Juni 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688113800/2941/
 - Freitag, 30. Juni 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688113800/2878/
 - Freitag, 30. Juni 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688113800/2881/
+- Freitag, 30. Juni 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1688113800/150/
 - Freitag, 30. Juni 2023 10:36 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688114160/2836/
+- Freitag, 30. Juni 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1688114160/381/
 - Freitag, 30. Juni 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688114160/2866/
 - Freitag, 30. Juni 2023 10:40 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688114400/2923/
 - Freitag, 30. Juni 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688114400/2941/
 - Freitag, 30. Juni 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688114400/2878/
+- Freitag, 30. Juni 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688114400/2881/
 - Freitag, 30. Juni 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688114400/2884/
 - Freitag, 30. Juni 2023 10:48 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688114880/2836/
 - Freitag, 30. Juni 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688114880/2866/
@@ -45,8 +64,10 @@
 - Freitag, 30. Juni 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688115000/2878/
 - Freitag, 30. Juni 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688115000/2881/
 - Freitag, 30. Juni 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688115000/2884/
+- Freitag, 30. Juni 2023 10:54 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688115240/844/
 - Freitag, 30. Juni 2023 11:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688115600/2836/
 - Freitag, 30. Juni 2023  Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688115600/2923/
+- Freitag, 30. Juni 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1688115600/151/
 - Freitag, 30. Juni 2023 11:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688116200/2923/
 - Freitag, 30. Juni 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688116200/2881/
 - Freitag, 30. Juni 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688116200/2884/
@@ -56,31 +77,24 @@
 - Freitag, 30. Juni 2023 11:20 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688116800/2878/
 - Freitag, 30. Juni 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688116800/2881/
 - Freitag, 30. Juni 2023 11:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688117040/2857/
+- Freitag, 30. Juni 2023  Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1688117040/141/
 - Freitag, 30. Juni 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688117040/2836/
+- Freitag, 30. Juni 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688117040/3238/
 - Freitag, 30. Juni 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688117040/2860/
-- Freitag, 30. Juni 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1688117040/168/
 - Freitag, 30. Juni 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688117040/2866/
-- Freitag, 30. Juni 2023 11:30 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688117400/2878/
-- Freitag, 30. Juni 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688117400/2881/
+- Freitag, 30. Juni 2023 11:30 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688117400/844/
+- Freitag, 30. Juni 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688117400/2878/
 - Freitag, 30. Juni 2023 11:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688117760/2857/
 - Freitag, 30. Juni 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688117760/2836/
-- Freitag, 30. Juni 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688117760/2860/
 - Freitag, 30. Juni 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688117760/2866/
 - Freitag, 30. Juni 2023 11:40 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688118000/2878/
 - Freitag, 30. Juni 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688118000/2881/
-- Freitag, 30. Juni 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688118000/2884/
 - Freitag, 30. Juni 2023 11:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688118480/2857/
 - Freitag, 30. Juni 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688118480/2836/
 - Freitag, 30. Juni 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688118480/2866/
-- Freitag, 30. Juni 2023 11:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688118600/2923/
-- Freitag, 30. Juni 2023 12:10 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688119800/2881/
 - Freitag, 30. Juni 2023 12:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688119920/2857/
 - Freitag, 30. Juni 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688119920/2836/
 - Freitag, 30. Juni 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688119920/2866/
-- Freitag, 30. Juni 2023 12:20 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688120400/2881/
 - Freitag, 30. Juni 2023 12:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688120640/2857/
-- Freitag, 30. Juni 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688120640/2836/
 - Freitag, 30. Juni 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688120640/2866/
-- Freitag, 30. Juni 2023 12:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688121360/2857/
-- Freitag, 30. Juni 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688121360/2836/
-- Freitag, 30. Juni 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688121360/2866/
+- Freitag, 30. Juni 2023 12:36 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688121360/2866/
