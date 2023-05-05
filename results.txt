@@ -1,6 +1,5 @@
 - Donnerstag, 29. Juni 2023 11:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688029920/112/
-- Freitag, 30. Juni 2023 11:06 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1688115960/134/
-- Freitag, 30. Juni 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688115960/2911/
+- Freitag, 30. Juni 2023 11:06 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688115960/2911/
 - Freitag, 30. Juni 2023 11:18 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1688116680/134/
 - Freitag, 30. Juni 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688116680/2911/
 - Freitag, 30. Juni 2023 11:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1688117040/108/
