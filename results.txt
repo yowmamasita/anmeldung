@@ -1,4 +1,3 @@
-- Freitag, 5. Mai 2023 09:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683270000/169/
 - Freitag, 5. Mai 2023 09:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683270720/169/
 - Freitag, 5. Mai 2023 09:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683271440/169/
 - Freitag, 5. Mai 2023 09:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683272880/169/
@@ -14,14 +13,12 @@
 - Freitag, 5. Mai 2023 11:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683277200/2863/
 - Freitag, 5. Mai 2023 11:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683277920/169/
 - Freitag, 5. Mai 2023 11:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683278640/169/
-- Freitag, 5. Mai 2023 12:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683280800/2863/
 - Montag, 8. Mai 2023 07:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683525240/313/
 - Montag, 8. Mai 2023 08:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683525960/313/
 - Montag, 8. Mai 2023 08:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683526680/313/
 - Montag, 8. Mai 2023 08:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683527400/313/
 - Montag, 8. Mai 2023 08:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683528120/313/
 - Montag, 8. Mai 2023 08:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683528840/313/
-- Montag, 8. Mai 2023 09:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683529560/313/
 - Montag, 8. Mai 2023 09:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683530280/313/
 - Montag, 8. Mai 2023 09:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683531000/313/
 - Montag, 8. Mai 2023 09:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683531720/313/
@@ -45,7 +42,6 @@
 - Montag, 8. Mai 2023 13:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683546840/313/
 - Montag, 8. Mai 2023 14:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683547560/313/
 - Montag, 8. Mai 2023 14:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683548280/313/
-- Montag, 8. Mai 2023 14:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683549000/313/
 - Montag, 8. Mai 2023 14:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683549720/313/
 - Mittwoch, 28. Juni 2023 09:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1687937760/170/
 - Mittwoch, 28. Juni 2023 13:18 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687951080/191/
