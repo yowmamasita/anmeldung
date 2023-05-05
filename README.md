@@ -4,8 +4,6 @@
 - Montag, 8. Mai 2023 11:42 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683538920/2938/
 - Montag, 8. Mai 2023 14:36 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683549360/2860/
 - Dienstag, 16. Mai 2023 11:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1684230000/150/
-- Dienstag, 23. Mai 2023 16:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1684851840/169/
-- Freitag, 16. Juni 2023 12:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686911760/2863/
 - Mittwoch, 28. Juni 2023 08:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687934400/150/
 - Mittwoch, 28. Juni 2023 09:00 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687935600/150/
 - Mittwoch, 28. Juni 2023 10:00 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687939200/150/
