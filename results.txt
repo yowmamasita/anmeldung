@@ -1,1 +1,5 @@
-- Montag, 8. Mai 2023 11:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683539280/2899/
+- Montag, 8. Mai 2023 08:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683525600/2899/
+- Montag, 8. Mai 2023 10:00 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683532800/2839/
+- Montag, 8. Mai 2023 11:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683536400/3238/
+- Montag, 8. Mai 2023 11:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1683538200/109/
+- Montag, 8. Mai 2023 11:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683539280/2926/
