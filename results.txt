@@ -1,5 +1,0 @@
-- Montag, 8. Mai 2023 09:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683529200/2863/
-- Montag, 8. Mai 2023 14:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683547200/3238/
-- Montag, 8. Mai 2023 15:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683551400/150/
-- Dienstag, 9. Mai 2023 10:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683620640/3238/
-- Dienstag, 9. Mai 2023 14:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683635760/922/
