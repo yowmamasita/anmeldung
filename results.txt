@@ -1,13 +1,11 @@
-- Donnerstag, 29. Juni 2023 11:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688029200/2851/
-- Donnerstag, 29. Juni 2023 11:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688029920/143/
-- Donnerstag, 29. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688029920/2851/
+- Dienstag, 9. Mai 2023 10:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683620640/2896/
+- Donnerstag, 29. Juni 2023 11:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688029920/2851/
 - Donnerstag, 29. Juni 2023 11:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688030640/143/
 - Donnerstag, 29. Juni 2023 11:36 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688031360/143/
 - Donnerstag, 29. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688031360/2851/
 - Donnerstag, 29. Juni 2023 11:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688032080/143/
 - Donnerstag, 29. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688032080/2851/
-- Donnerstag, 29. Juni 2023 12:00 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688032800/143/
-- Donnerstag, 29. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688032800/2851/
+- Donnerstag, 29. Juni 2023 12:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688032800/2851/
 - Donnerstag, 29. Juni 2023 12:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688033520/143/
 - Donnerstag, 29. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688033520/2851/
 - Donnerstag, 29. Juni 2023 12:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688034240/143/
@@ -36,14 +34,12 @@
 - Donnerstag, 29. Juni 2023 14:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688042880/143/
 - Donnerstag, 29. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688042880/2851/
 - Donnerstag, 29. Juni 2023 16:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688047920/2851/
-- Donnerstag, 29. Juni 2023 16:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688048640/143/
-- Donnerstag, 29. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688048640/2851/
+- Donnerstag, 29. Juni 2023 16:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688048640/2851/
 - Donnerstag, 29. Juni 2023 16:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688049360/2851/
 - Donnerstag, 29. Juni 2023 16:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688050080/2851/
 - Donnerstag, 29. Juni 2023 17:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688050800/2851/
 - Donnerstag, 29. Juni 2023 17:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688051520/143/
 - Donnerstag, 29. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688051520/2851/
-- Donnerstag, 29. Juni 2023 17:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688052240/143/
-- Donnerstag, 29. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688052240/2851/
+- Donnerstag, 29. Juni 2023 17:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688052240/2851/
 - Donnerstag, 29. Juni 2023 17:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688052960/2851/
 - Donnerstag, 29. Juni 2023 17:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688053680/2851/
