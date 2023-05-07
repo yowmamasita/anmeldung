@@ -5,4 +5,3 @@
 - Dienstag, 9. Mai 2023 14:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683635040/2926/
 - Dienstag, 9. Mai 2023 15:00 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683637200/2893/
 - Dienstag, 9. Mai 2023 16:50 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683643800/2881/
-- Dienstag, 9. Mai 2023 17:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683644400/192/
