@@ -8,9 +8,5 @@
 - Montag, 8. Mai 2023 09:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683530280/2914/
 - Montag, 8. Mai 2023 09:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1683531720/109/
 - Montag, 8. Mai 2023 10:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683533160/2908/
-- Montag, 8. Mai 2023 13:06 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1683543960/112/
-- Montag, 8. Mai 2023 13:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1683546840/109/
-- Montag, 8. Mai 2023 14:06 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1683547560/112/
-- Montag, 8. Mai 2023 14:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1683548280/109/
 - Freitag, 2. Juni 2023 11:30 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685698200/841/
 - Donnerstag, 29. Juni 2023 13:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688038560/2899/
