@@ -1,6 +1,4 @@
-- Montag, 8. Mai 2023 10:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683535680/2848/
-- Montag, 8. Mai 2023 11:54 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683539640/841/
-- Mittwoch, 7. Juni 2023 12:54 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1686135240/192/
+- Dienstag, 9. Mai 2023 14:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683635040/231/
 - Donnerstag, 8. Juni 2023 14:30 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686227400/2839/
 - Montag, 19. Juni 2023 13:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1687172400/170/
 - Dienstag, 27. Juni 2023 12:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687862160/2854/
