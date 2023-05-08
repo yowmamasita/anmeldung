@@ -1,4 +1,5 @@
-- Montag, 8. Mai 2023 09:06 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683529560/312/
+- Montag, 8. Mai 2023 09:06 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1683529560/134/
+- Montag, 8. Mai 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683529560/312/
 - Montag, 8. Mai 2023 09:12 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1683529920/106/
 - Montag, 8. Mai 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683529920/190/
 - Montag, 8. Mai 2023 09:18 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683530280/312/
