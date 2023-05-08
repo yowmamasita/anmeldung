@@ -40,4 +40,3 @@
 - Mittwoch, 10. Mai 2023 11:54 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683712440/2926/
 - Mittwoch, 10. Mai 2023 12:06 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683713160/2926/
 - Mittwoch, 10. Mai 2023 13:06 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683716760/190/
-- Dienstag, 13. Juni 2023 14:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1686659040/190/
