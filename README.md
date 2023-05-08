@@ -3,8 +3,7 @@
 - Montag, 8. Mai 2023 09:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683530640/3238/
 - Montag, 8. Mai 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683530640/190/
 - Montag, 8. Mai 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683530640/2863/
-- Montag, 8. Mai 2023 09:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683532080/3238/
-- Montag, 8. Mai 2023 10:00 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683532800/150/
+- Montag, 8. Mai 2023 09:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683531360/3238/
 - Montag, 8. Mai 2023 10:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683533400/150/
 - Montag, 8. Mai 2023 10:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683534000/150/
 - Montag, 8. Mai 2023 10:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683534600/150/
@@ -13,11 +12,9 @@
 - Montag, 8. Mai 2023 11:00 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683536400/150/
 - Montag, 8. Mai 2023 11:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683537000/150/
 - Montag, 8. Mai 2023 11:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683537600/150/
-- Montag, 8. Mai 2023 11:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683537840/190/
 - Montag, 8. Mai 2023 11:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683538200/150/
 - Montag, 8. Mai 2023 11:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683538800/150/
 - Montag, 8. Mai 2023 11:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683539400/150/
-- Montag, 8. Mai 2023 12:00 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683540000/150/
 - Montag, 8. Mai 2023 12:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683540600/150/
 - Montag, 8. Mai 2023 12:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683541200/150/
 - Montag, 8. Mai 2023 12:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683541800/150/
@@ -28,8 +25,6 @@
 - Montag, 8. Mai 2023 13:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683544800/150/
 - Montag, 8. Mai 2023 13:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683545400/150/
 - Montag, 8. Mai 2023 14:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683547800/150/
-- Montag, 8. Mai 2023 14:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683548400/150/
 - Montag, 8. Mai 2023 14:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683549000/150/
 - Montag, 8. Mai 2023 14:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683549600/150/
-- Montag, 8. Mai 2023 14:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683550200/150/
 - Montag, 8. Mai 2023 15:00 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683550800/150/
