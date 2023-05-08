@@ -1,13 +1,6 @@
-- Montag, 8. Mai 2023 09:36 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1683531360/102/
-- Montag, 8. Mai 2023  Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1683531360/143/
+- Montag, 8. Mai 2023 09:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683530640/170/
 - Montag, 8. Mai 2023 09:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683532080/2863/
 - Montag, 8. Mai 2023 10:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683532800/3238/
-- Montag, 8. Mai 2023 10:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1683534240/143/
-- Montag, 8. Mai 2023 11:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683536400/2851/
-- Montag, 8. Mai 2023 12:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683541800/150/
-- Freitag, 12. Mai 2023 11:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683882720/231/
-- Montag, 22. Mai 2023 08:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1684735920/169/
-- Mittwoch, 7. Juni 2023 10:00 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686124800/2839/
 - Montag, 19. Juni 2023 09:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1687160160/190/
 - Mittwoch, 21. Juni 2023 08:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687329360/172/
 - Mittwoch, 28. Juni 2023 08:20 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687933200/2878/
