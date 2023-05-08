@@ -1,1 +1,18 @@
-- Montag, 8. Mai 2023 12:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683541800/150/
+- Montag, 8. Mai 2023 12:36 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683542160/2839/
+- Montag, 8. Mai 2023 12:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683542880/2854/
+- Montag, 8. Mai 2023 13:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683545400/312/
+- Mittwoch, 10. Mai 2023 08:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683700560/146/
+- Mittwoch, 10. Mai 2023 10:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683707040/146/
+- Mittwoch, 10. Mai 2023 10:30 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1683707400/147/
+- Donnerstag, 11. Mai 2023 11:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683798480/146/
+- Freitag, 12. Mai 2023 09:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683874800/146/
+- Freitag, 12. Mai 2023 09:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683877680/146/
+- Freitag, 12. Mai 2023 10:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683878400/146/
+- Freitag, 12. Mai 2023 10:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683879120/146/
+- Freitag, 12. Mai 2023 11:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683883440/146/
+- Mittwoch, 31. Mai 2023 09:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685516400/2836/
+- Montag, 5. Juni 2023 13:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1685962800/146/
+- Mittwoch, 21. Juni 2023 10:00 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687334400/381/
+- Donnerstag, 22. Juni 2023 11:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687425840/146/
+- Montag, 26. Juni 2023 08:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687759200/3238/
+- Donnerstag, 29. Juni 2023 15:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688045040/2887/
