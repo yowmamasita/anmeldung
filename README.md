@@ -5,7 +5,6 @@
 - Montag, 8. Mai 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683529920/190/
 - Montag, 8. Mai 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683529920/2854/
 - Montag, 8. Mai 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683529920/2863/
-- Montag, 8. Mai 2023 09:18 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683530280/312/
 - Montag, 8. Mai 2023 09:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683530640/3238/
 - Montag, 8. Mai 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683530640/190/
 - Montag, 8. Mai 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683530640/2854/
@@ -26,7 +25,6 @@
 - Montag, 8. Mai 2023 10:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683533520/2845/
 - Montag, 8. Mai 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683533520/3238/
 - Montag, 8. Mai 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683533520/190/
-- Montag, 8. Mai 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683533520/2854/
 - Montag, 8. Mai 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683533520/2863/
 - Montag, 8. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683533520/192/
 - Montag, 8. Mai 2023 10:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683534240/2845/
@@ -76,7 +74,6 @@
 - Montag, 8. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683540720/192/
 - Montag, 8. Mai 2023 12:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683541440/3238/
 - Montag, 8. Mai 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683541440/190/
-- Montag, 8. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683541440/192/
 - Montag, 8. Mai 2023 12:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683542160/3238/
 - Montag, 8. Mai 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683542160/190/
 - Montag, 8. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683542160/231/
