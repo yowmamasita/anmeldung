@@ -7,4 +7,3 @@
 - Dienstag, 9. Mai 2023 11:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683623520/146/
 - Dienstag, 9. Mai 2023 11:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683624240/146/
 - Dienstag, 9. Mai 2023 11:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683624960/146/
-- Dienstag, 9. Mai 2023 11:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683625680/146/
