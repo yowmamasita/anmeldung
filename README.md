@@ -12,7 +12,6 @@
 - Dienstag, 9. Mai 2023 13:12 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683630720/312/
 - Dienstag, 9. Mai 2023 13:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683631440/312/
 - Dienstag, 9. Mai 2023 13:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683632160/312/
-- Dienstag, 9. Mai 2023 13:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683632880/312/
 - Dienstag, 9. Mai 2023 14:00 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683633600/312/
 - Dienstag, 9. Mai 2023 14:12 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683634320/312/
 - Dienstag, 9. Mai 2023 14:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683635040/312/
@@ -20,8 +19,6 @@
 - Dienstag, 9. Mai 2023 14:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683636480/312/
 - Dienstag, 9. Mai 2023 15:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683638640/312/
 - Dienstag, 9. Mai 2023 15:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683639360/312/
-- Dienstag, 9. Mai 2023 15:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683640080/312/
-- Dienstag, 9. Mai 2023 16:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683642960/312/
-- Dienstag, 9. Mai 2023 17:12 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683645120/312/
-- Freitag, 30. Juni 2023 09:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688109120/2896/
+- Dienstag, 9. Mai 2023 16:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683643680/312/
+- Montag, 22. Mai 2023 13:48 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684756080/2875/
 - Freitag, 30. Juni 2023 10:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688113440/2899/
