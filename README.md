@@ -6,5 +6,3 @@
 - Montag, 8. Mai 2023 10:18 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1683533880/154/
 - Montag, 8. Mai 2023 10:42 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1683535320/154/
 - Montag, 8. Mai 2023 10:54 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1683536040/154/
-- Montag, 8. Mai 2023 11:06 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1683536760/154/
-- Mittwoch, 24. Mai 2023 11:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684921320/2911/
