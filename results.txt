@@ -1,5 +1,4 @@
-- Dienstag, 9. Mai 2023 14:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683633600/169/
-- Dienstag, 9. Mai 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683633600/2857/
+- Dienstag, 9. Mai 2023 14:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683633600/2857/
 - Dienstag, 9. Mai 2023 14:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683634320/169/
 - Dienstag, 9. Mai 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683634320/2857/
 - Dienstag, 9. Mai 2023 14:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683635040/169/
@@ -13,7 +12,6 @@
 - Dienstag, 9. Mai 2023 15:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683639360/169/
 - Dienstag, 9. Mai 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683639360/2857/
 - Dienstag, 9. Mai 2023 15:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683640080/2857/
-- Dienstag, 9. Mai 2023 16:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683640800/2857/
 - Dienstag, 9. Mai 2023 16:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683641520/2857/
 - Dienstag, 9. Mai 2023 16:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683642240/2857/
 - Dienstag, 9. Mai 2023 16:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683642960/2857/
