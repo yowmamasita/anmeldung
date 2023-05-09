@@ -1,4 +1,1 @@
-- Dienstag, 9. Mai 2023 13:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683630000/2863/
-- Dienstag, 9. Mai 2023 13:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683632880/2863/
-- Dienstag, 9. Mai 2023 16:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683642960/2863/
-- Donnerstag, 29. Juni 2023 15:30 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1688045400/380/
+- Dienstag, 9. Mai 2023 13:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683632160/2863/
