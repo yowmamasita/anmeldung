@@ -10,5 +10,3 @@
 - Dienstag, 9. Mai 2023 15:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683638640/2863/
 - Dienstag, 9. Mai 2023 15:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683639360/2863/
 - Dienstag, 9. Mai 2023 15:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683640080/2863/
-- Dienstag, 9. Mai 2023 16:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683643680/2863/
-- Dienstag, 9. Mai 2023 17:12 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1683645120/135/
