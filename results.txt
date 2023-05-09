@@ -1,6 +1,5 @@
 - Dienstag, 9. Mai 2023 10:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683620640/2848/
 - Dienstag, 9. Mai 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683620640/312/
-- Dienstag, 9. Mai 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683620640/2932/
 - Dienstag, 9. Mai 2023 10:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683621360/2899/
 - Dienstag, 9. Mai 2023 10:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683622080/2854/
 - Dienstag, 9. Mai 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683622080/313/
@@ -14,14 +13,11 @@
 - Dienstag, 9. Mai 2023 11:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683625680/169/
 - Dienstag, 9. Mai 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683625680/313/
 - Dienstag, 9. Mai 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683625680/2899/
-- Dienstag, 9. Mai 2023 12:00 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683626400/313/
-- Dienstag, 9. Mai 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683626400/2899/
+- Dienstag, 9. Mai 2023 12:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683626400/2899/
 - Dienstag, 9. Mai 2023 12:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683627120/2899/
 - Dienstag, 9. Mai 2023 12:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683627840/2899/
-- Dienstag, 9. Mai 2023 12:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683628560/2899/
-- Dienstag, 9. Mai 2023 12:48 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683629280/904/
-- Dienstag, 9. Mai 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683629280/2899/
+- Dienstag, 9. Mai 2023 12:36 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683628560/313/
+- Dienstag, 9. Mai 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683628560/2899/
+- Dienstag, 9. Mai 2023 12:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683629280/2899/
 - Dienstag, 9. Mai 2023 13:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683630000/2899/
 - Dienstag, 9. Mai 2023 13:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683630720/2899/
-- Dienstag, 9. Mai 2023 13:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683631440/2899/
-- Dienstag, 9. Mai 2023 13:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683632160/2899/
