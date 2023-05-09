@@ -3,9 +3,6 @@
 - Dienstag, 9. Mai 2023 13:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683631440/231/
 - Dienstag, 9. Mai 2023 13:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683632160/2863/
 - Dienstag, 9. Mai 2023 13:48 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683632880/898/
-- Dienstag, 9. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683632880/231/
 - Dienstag, 9. Mai 2023 14:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683635040/2899/
 - Dienstag, 9. Mai 2023 14:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683636480/2857/
 - Dienstag, 9. Mai 2023 16:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683642960/2896/
-- Dienstag, 9. Mai 2023 16:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683643680/2863/
-- Mittwoch, 28. Juni 2023 07:42 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1687930920/190/
