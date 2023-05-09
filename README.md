@@ -10,7 +10,6 @@
 - Dienstag, 9. Mai 2023 14:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683633600/172/
 - Dienstag, 9. Mai 2023 14:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683634320/172/
 - Dienstag, 9. Mai 2023 14:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683635040/172/
-- Dienstag, 9. Mai 2023 14:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683636480/2848/
 - Dienstag, 9. Mai 2023 15:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683639360/172/
 - Dienstag, 9. Mai 2023 15:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683640080/172/
 - Dienstag, 9. Mai 2023 16:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683641520/172/
