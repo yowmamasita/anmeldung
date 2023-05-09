@@ -1,20 +1,15 @@
-- Dienstag, 9. Mai 2023 10:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683619920/231/
+- Dienstag, 9. Mai 2023 10:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683619920/2908/
+- Dienstag, 9. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683619920/231/
 - Dienstag, 9. Mai 2023 10:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683620640/231/
 - Dienstag, 9. Mai 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683620640/146/
 - Dienstag, 9. Mai 2023 10:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683621360/146/
-- Dienstag, 9. Mai 2023 10:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683622080/2845/
-- Dienstag, 9. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683622080/231/
+- Dienstag, 9. Mai 2023 10:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683622080/231/
 - Dienstag, 9. Mai 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683622080/146/
 - Dienstag, 9. Mai 2023 11:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683622800/231/
 - Dienstag, 9. Mai 2023 11:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683623520/231/
-- Dienstag, 9. Mai 2023 11:24 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683624240/904/
-- Dienstag, 9. Mai 2023 11:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1683625680/112/
+- Dienstag, 9. Mai 2023 12:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683626400/231/
 - Dienstag, 9. Mai 2023 13:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683630000/2845/
-- Dienstag, 9. Mai 2023 13:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683631440/2845/
-- Dienstag, 9. Mai 2023 13:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683632160/146/
-- Donnerstag, 1. Juni 2023 10:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685607840/2872/
 - Montag, 5. Juni 2023 14:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685967840/2872/
 - Dienstag, 6. Juni 2023 11:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686043440/2872/
 - Dienstag, 6. Juni 2023 12:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686047040/2872/
-- Dienstag, 6. Juni 2023 15:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686059280/2857/
 - Montag, 19. Juni 2023 14:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687178160/2845/
