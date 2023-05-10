@@ -1,4 +1,3 @@
-- Mittwoch, 10. Mai 2023 10:42 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683708120/190/
 - Mittwoch, 10. Mai 2023 10:54 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683708840/190/
 - Mittwoch, 10. Mai 2023 11:06 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683709560/190/
 - Mittwoch, 10. Mai 2023 11:18 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683710280/190/
@@ -16,6 +15,6 @@
 - Mittwoch, 10. Mai 2023 12:54 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683716040/190/
 - Mittwoch, 10. Mai 2023 13:06 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683716760/190/
 - Mittwoch, 10. Mai 2023 13:18 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683717480/190/
+- Mittwoch, 10. Mai 2023 13:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1683717840/106/
 - Mittwoch, 10. Mai 2023 13:30 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683718200/190/
 - Mittwoch, 10. Mai 2023 13:42 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683718920/190/
-- Mittwoch, 10. Mai 2023 13:54 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683719640/190/
