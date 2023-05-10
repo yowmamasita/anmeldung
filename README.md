@@ -7,10 +7,8 @@
 - Mittwoch, 10. Mai 2023 12:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1683713520/168/
 - Mittwoch, 10. Mai 2023 12:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1683714240/168/
 - Mittwoch, 10. Mai 2023 12:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1683715680/168/
-- Mittwoch, 10. Mai 2023 13:06 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1683716760/134/
-- Donnerstag, 15. Juni 2023 17:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686841200/2896/
+- Freitag, 16. Juni 2023 07:00 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686891600/143/
 - Montag, 19. Juni 2023 11:42 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687167720/841/
 - Montag, 19. Juni 2023 14:40 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687178400/2941/
-- Dienstag, 20. Juni 2023 13:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687259520/3238/
 - Mittwoch, 28. Juni 2023 09:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687935600/172/
 - Freitag, 30. Juni 2023 10:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688112720/146/
