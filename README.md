@@ -21,8 +21,7 @@
 - Mittwoch, 10. Mai 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683714240/172/
 - Mittwoch, 10. Mai 2023 12:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683714960/169/
 - Mittwoch, 10. Mai 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683714960/172/
-- Mittwoch, 10. Mai 2023 12:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683715680/169/
-- Mittwoch, 10. Mai 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683715680/172/
+- Mittwoch, 10. Mai 2023 12:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683715680/172/
 - Mittwoch, 10. Mai 2023 13:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683716400/172/
 - Mittwoch, 10. Mai 2023 13:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683717120/172/
 - Mittwoch, 10. Mai 2023 13:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683717840/172/
