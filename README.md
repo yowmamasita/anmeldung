@@ -7,14 +7,13 @@
 - Mittwoch, 10. Mai 2023 12:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1683712800/154/
 - Mittwoch, 10. Mai 2023 12:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683713520/2845/
 - Mittwoch, 10. Mai 2023 12:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683714240/2845/
+- Mittwoch, 10. Mai 2023 12:30 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683714600/190/
 - Mittwoch, 10. Mai 2023 12:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1683714960/154/
 - Mittwoch, 10. Mai 2023 12:42 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683715320/190/
 - Mittwoch, 10. Mai 2023 12:54 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683716040/190/
 - Mittwoch, 10. Mai 2023 13:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683717120/2845/
-- Mittwoch, 10. Mai 2023 13:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1683718920/135/
 - Mittwoch, 10. Mai 2023 13:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683719280/2845/
 - Donnerstag, 11. Mai 2023 15:00 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683810000/2920/
 - Mittwoch, 28. Juni 2023 11:00 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687942800/2839/
 - Mittwoch, 28. Juni 2023 12:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687946400/2857/
 - Donnerstag, 29. Juni 2023 14:24 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688041440/841/
-- Donnerstag, 29. Juni 2023 15:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688045040/169/
