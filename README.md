@@ -10,7 +10,6 @@
 - Montag, 15. Mai 2023 10:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684139040/2926/
 - Dienstag, 16. Mai 2023 14:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684241280/2926/
 - Mittwoch, 7. Juni 2023 12:24 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686133440/2893/
-- Mittwoch, 7. Juni 2023 12:36 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686134160/2893/
 - Donnerstag, 8. Juni 2023 11:36 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1686216960/103/
 - Freitag, 9. Juni 2023 09:54 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686297240/2911/
 - Dienstag, 27. Juni 2023 17:24 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687879440/904/
