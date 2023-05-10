@@ -18,7 +18,6 @@
 - Mittwoch, 10. Mai 2023 10:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683707040/2854/
 - Mittwoch, 10. Mai 2023 10:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683707760/2854/
 - Mittwoch, 10. Mai 2023 10:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683708480/2854/
-- Mittwoch, 10. Mai 2023 11:00 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683709200/2854/
 - Mittwoch, 10. Mai 2023 11:12 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683709920/2854/
 - Mittwoch, 10. Mai 2023 11:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683710640/2854/
 - Mittwoch, 10. Mai 2023 11:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683711360/2854/
@@ -27,5 +26,4 @@
 - Mittwoch, 10. Mai 2023 13:12 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683717120/2854/
 - Mittwoch, 10. Mai 2023 13:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683717840/2854/
 - Mittwoch, 10. Mai 2023 13:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683718560/2854/
-- Mittwoch, 10. Mai 2023 13:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683719280/2854/
 - Mittwoch, 28. Juni 2023 08:36 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687934160/2860/
