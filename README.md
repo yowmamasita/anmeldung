@@ -26,4 +26,3 @@
 - Donnerstag, 11. Mai 2023 14:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683807840/231/
 - Donnerstag, 11. Mai 2023 14:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683808560/231/
 - Donnerstag, 11. Mai 2023 14:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683809280/231/
-- Donnerstag, 11. Mai 2023 15:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683810000/231/
