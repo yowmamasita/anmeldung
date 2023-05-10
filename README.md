@@ -9,7 +9,6 @@
 - Mittwoch, 10. Mai 2023 09:18 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1683703080/134/
 - Mittwoch, 10. Mai 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683703080/2908/
 - Mittwoch, 10. Mai 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1683703080/112/
-- Mittwoch, 10. Mai 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683703080/313/
 - Mittwoch, 10. Mai 2023 09:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1683703440/154/
 - Mittwoch, 10. Mai 2023 09:30 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1683703800/134/
 - Mittwoch, 10. Mai 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683703800/2908/
@@ -51,5 +50,3 @@
 - Mittwoch, 10. Mai 2023 12:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1683715680/154/
 - Mittwoch, 10. Mai 2023 12:54 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1683716040/134/
 - Mittwoch, 10. Mai 2023 13:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1683717120/154/
-- Mittwoch, 10. Mai 2023 13:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1683718560/154/
-- Mittwoch, 10. Mai 2023 13:42 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1683718920/134/
