@@ -44,5 +44,3 @@
 - Mittwoch, 10. Mai 2023 13:06 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1683716760/134/
 - Mittwoch, 10. Mai 2023 13:18 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1683717480/135/
 - Mittwoch, 10. Mai 2023 13:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683717840/2872/
-- Mittwoch, 10. Mai 2023 13:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683718560/2851/
-- Freitag, 30. Juni 2023 08:12 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688105520/2887/
