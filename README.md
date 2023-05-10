@@ -72,8 +72,7 @@
 - Mittwoch, 10. Mai 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683703440/2863/
 - Mittwoch, 10. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683703440/170/
 - Mittwoch, 10. Mai 2023 09:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683703800/313/
-- Mittwoch, 10. Mai 2023 09:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683704160/2848/
-- Mittwoch, 10. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683704160/231/
+- Mittwoch, 10. Mai 2023 09:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683704160/231/
 - Mittwoch, 10. Mai 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683704160/146/
 - Mittwoch, 10. Mai 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683704160/2896/
 - Mittwoch, 10. Mai 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1683704160/168/
@@ -161,8 +160,7 @@
 - Mittwoch, 10. Mai 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683715680/146/
 - Mittwoch, 10. Mai 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683715680/2896/
 - Mittwoch, 10. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683715680/170/
-- Mittwoch, 10. Mai 2023 12:54 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1683716040/134/
-- Mittwoch, 10. Mai 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683716040/313/
+- Mittwoch, 10. Mai 2023 12:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683716040/313/
 - Mittwoch, 10. Mai 2023 13:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683716400/231/
 - Mittwoch, 10. Mai 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683716400/2896/
 - Mittwoch, 10. Mai 2023 13:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683717120/231/
@@ -179,4 +177,3 @@
 - Mittwoch, 10. Mai 2023 14:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683720000/146/
 - Mittwoch, 10. Mai 2023 14:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683720720/146/
 - Mittwoch, 10. Mai 2023 14:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683722160/146/
-- Mittwoch, 10. Mai 2023 14:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683722880/146/
