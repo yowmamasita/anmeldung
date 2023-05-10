@@ -58,7 +58,6 @@
 - Mittwoch, 10. Mai 2023 12:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683715200/150/
 - Mittwoch, 10. Mai 2023 12:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683715320/313/
 - Mittwoch, 10. Mai 2023 12:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1683715680/154/
-- Mittwoch, 10. Mai 2023 12:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1683715800/150/
 - Mittwoch, 10. Mai 2023 12:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683716040/313/
 - Mittwoch, 10. Mai 2023 13:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1683716400/154/
 - Mittwoch, 10. Mai 2023 13:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1683717120/154/
