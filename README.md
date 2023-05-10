@@ -6,5 +6,3 @@
 - Mittwoch, 10. Mai 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683705240/313/
 - Mittwoch, 10. Mai 2023 10:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683705600/2848/
 - Mittwoch, 10. Mai 2023 10:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683706320/2848/
-- Donnerstag, 22. Juni 2023 11:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1687425840/168/
-- Freitag, 23. Juni 2023 08:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1687500720/168/
