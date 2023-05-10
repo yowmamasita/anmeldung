@@ -14,9 +14,10 @@
 - Mittwoch, 10. Mai 2023 12:18 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683713880/190/
 - Mittwoch, 10. Mai 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1683713880/153/
 - Mittwoch, 10. Mai 2023 12:30 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683714600/190/
-- Mittwoch, 10. Mai 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1683714600/153/
 - Mittwoch, 10. Mai 2023 12:42 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683715320/190/
 - Mittwoch, 10. Mai 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1683715320/153/
 - Mittwoch, 10. Mai 2023 12:54 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683716040/190/
 - Mittwoch, 10. Mai 2023 13:18 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683717480/190/
 - Mittwoch, 10. Mai 2023 13:30 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683718200/190/
+- Donnerstag, 11. Mai 2023 11:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683796320/231/
+- Donnerstag, 1. Juni 2023 11:00 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685610000/2911/
