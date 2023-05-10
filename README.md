@@ -5,5 +5,4 @@
 - Mittwoch, 7. Juni 2023 13:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686137040/2872/
 - Mittwoch, 7. Juni 2023 13:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686137760/2872/
 - Mittwoch, 7. Juni 2023 13:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686138480/2872/
-- Freitag, 23. Juni 2023 08:30 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1687501800/134/
 - Montag, 26. Juni 2023 09:36 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687764960/2860/
