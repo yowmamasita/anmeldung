@@ -3,10 +3,9 @@
 - Mittwoch, 10. Mai 2023 09:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683704880/3238/
 - Mittwoch, 10. Mai 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683704880/2854/
 - Mittwoch, 10. Mai 2023 09:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1683705240/135/
+- Mittwoch, 10. Mai 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683705240/313/
 - Mittwoch, 10. Mai 2023 10:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683705600/2848/
 - Mittwoch, 10. Mai 2023 10:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683706320/2848/
-- Mittwoch, 10. Mai 2023 10:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1683708840/109/
-- Dienstag, 13. Juni 2023 17:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1686668400/167/
 - Dienstag, 20. Juni 2023 15:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687268880/191/
 - Donnerstag, 22. Juni 2023 11:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1687425840/168/
 - Freitag, 23. Juni 2023 08:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1687500720/168/
