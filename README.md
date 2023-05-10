@@ -7,9 +7,6 @@
 - Mittwoch, 10. Mai 2023 12:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1683713880/112/
 - Mittwoch, 10. Mai 2023 12:30 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1683714600/112/
 - Mittwoch, 10. Mai 2023 12:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1683715320/112/
-- Donnerstag, 11. Mai 2023 13:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683803520/167/
-- Dienstag, 16. Mai 2023 13:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684236960/191/
-- Dienstag, 23. Mai 2023 12:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1684837200/147/
 - Dienstag, 30. Mai 2023 11:36 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1685439360/102/
 - Dienstag, 30. Mai 2023 15:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1685451600/172/
 - Mittwoch, 28. Juni 2023 09:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687935600/172/
