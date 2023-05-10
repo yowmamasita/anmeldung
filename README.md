@@ -12,8 +12,7 @@
 - Mittwoch, 10. Mai 2023 09:36 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1683704160/102/
 - Mittwoch, 10. Mai 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683704160/2872/
 - Mittwoch, 10. Mai 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683704160/2851/
-- Mittwoch, 10. Mai 2023 09:48 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1683704880/102/
-- Mittwoch, 10. Mai 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683704880/2872/
+- Mittwoch, 10. Mai 2023 09:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683704880/2872/
 - Mittwoch, 10. Mai 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683704880/2851/
 - Mittwoch, 10. Mai 2023 10:00 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683705600/2872/
 - Mittwoch, 10. Mai 2023 10:12 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1683706320/102/
@@ -30,7 +29,6 @@
 - Mittwoch, 10. Mai 2023 11:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683711360/2851/
 - Mittwoch, 10. Mai 2023 12:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683712800/2851/
 - Mittwoch, 10. Mai 2023 12:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683713520/2851/
-- Mittwoch, 10. Mai 2023 12:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683714240/2851/
 - Mittwoch, 10. Mai 2023 12:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683714960/2872/
 - Mittwoch, 10. Mai 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683714960/2851/
 - Mittwoch, 10. Mai 2023 12:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683715680/2872/
