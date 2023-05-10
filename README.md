@@ -17,10 +17,8 @@
 - Mittwoch, 10. Mai 2023 10:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683706320/2848/
 - Mittwoch, 10. Mai 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1683706320/154/
 - Mittwoch, 10. Mai 2023 10:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1683706680/112/
-- Mittwoch, 10. Mai 2023 10:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683707040/2845/
-- Mittwoch, 10. Mai 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683707040/2848/
+- Mittwoch, 10. Mai 2023 10:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683707040/2848/
 - Mittwoch, 10. Mai 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683707040/2872/
-- Mittwoch, 10. Mai 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683707040/172/
 - Mittwoch, 10. Mai 2023 10:30 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1683707400/112/
 - Mittwoch, 10. Mai 2023 10:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683707760/2848/
 - Mittwoch, 10. Mai 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683707760/169/
@@ -32,10 +30,9 @@
 - Mittwoch, 10. Mai 2023 12:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683712800/167/
 - Mittwoch, 10. Mai 2023 12:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1683713520/154/
 - Mittwoch, 10. Mai 2023 12:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683714240/2872/
-- Mittwoch, 10. Mai 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683714240/167/
 - Mittwoch, 10. Mai 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1683714240/154/
 - Mittwoch, 10. Mai 2023 12:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1683715320/313/
-- Dienstag, 16. Mai 2023 09:00 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684220400/2854/
+- Mittwoch, 10. Mai 2023 14:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1683722160/154/
 - Mittwoch, 21. Juni 2023 12:36 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687343760/2860/
 - Dienstag, 27. Juni 2023 13:42 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1687866120/140/
 - Freitag, 30. Juni 2023 11:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688115600/169/
