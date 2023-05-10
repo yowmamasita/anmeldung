@@ -11,6 +11,7 @@
 - Mittwoch, 10. Mai 2023 08:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1683701640/109/
 - Mittwoch, 10. Mai 2023 09:06 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1683702360/109/
 - Mittwoch, 10. Mai 2023 09:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1683703080/109/
+- Mittwoch, 10. Mai 2023 09:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1683703800/109/
 - Mittwoch, 10. Mai 2023 09:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1683704520/109/
 - Mittwoch, 10. Mai 2023 09:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1683705240/109/
 - Mittwoch, 10. Mai 2023 10:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1683706680/109/
