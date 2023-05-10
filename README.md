@@ -43,7 +43,6 @@
 - Mittwoch, 10. Mai 2023 10:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683706320/2845/
 - Mittwoch, 10. Mai 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683706320/2872/
 - Mittwoch, 10. Mai 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683706320/2863/
-- Mittwoch, 10. Mai 2023 10:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683706680/2908/
 - Mittwoch, 10. Mai 2023 10:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683707040/2845/
 - Mittwoch, 10. Mai 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683707040/2872/
 - Mittwoch, 10. Mai 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683707040/2863/
@@ -77,5 +76,4 @@
 - Mittwoch, 10. Mai 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683715680/2863/
 - Mittwoch, 10. Mai 2023 12:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683716040/2908/
 - Mittwoch, 10. Mai 2023 13:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683716760/2908/
-- Mittwoch, 7. Juni 2023 09:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686122640/2872/
 - Mittwoch, 7. Juni 2023 09:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686123360/2872/
