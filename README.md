@@ -42,8 +42,7 @@
 - Mittwoch, 10. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683713160/2926/
 - Mittwoch, 10. Mai 2023 12:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1683713520/154/
 - Mittwoch, 10. Mai 2023 12:18 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1683713880/135/
-- Mittwoch, 10. Mai 2023 12:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683714240/2872/
-- Mittwoch, 10. Mai 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1683714240/154/
+- Mittwoch, 10. Mai 2023 12:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1683714240/154/
 - Mittwoch, 10. Mai 2023 12:30 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1683714600/135/
 - Mittwoch, 10. Mai 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683714600/2878/
 - Mittwoch, 10. Mai 2023 12:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1683714960/154/
