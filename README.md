@@ -85,4 +85,3 @@
 - Donnerstag, 6. Juli 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688657040/2932/
 - Donnerstag, 6. Juli 2023 17:36 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688657760/2908/
 - Donnerstag, 6. Juli 2023 17:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688658480/2887/
-- Montag, 10. Juli 2023 14:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1688990400/172/
