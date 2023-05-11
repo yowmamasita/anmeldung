@@ -1,4 +1,5 @@
-- Donnerstag, 11. Mai 2023 11:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683798480/2851/
+- Donnerstag, 11. Mai 2023 11:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683798480/3238/
+- Donnerstag, 11. Mai 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683798480/2851/
 - Donnerstag, 11. Mai 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683798480/2854/
 - Donnerstag, 11. Mai 2023 12:00 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683799200/2854/
 - Donnerstag, 11. Mai 2023 12:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683800640/3238/
@@ -8,9 +9,7 @@
 - Donnerstag, 11. Mai 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683802080/2854/
 - Donnerstag, 11. Mai 2023 13:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683802800/2863/
 - Donnerstag, 11. Mai 2023 13:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683803520/231/
-- Donnerstag, 11. Mai 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683803520/2854/
 - Donnerstag, 11. Mai 2023 14:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683807120/3238/
 - Donnerstag, 11. Mai 2023 15:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683812880/3238/
-- Donnerstag, 15. Juni 2023 12:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686823200/2863/
 - Donnerstag, 22. Juni 2023 15:00 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1687438800/136/
 - Donnerstag, 22. Juni 2023 15:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1687441680/136/
