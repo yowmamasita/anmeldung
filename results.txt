@@ -4,7 +4,6 @@
 - Donnerstag, 11. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683798480/170/
 - Donnerstag, 11. Mai 2023 12:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683799200/3238/
 - Donnerstag, 11. Mai 2023 12:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683799920/3238/
-- Donnerstag, 11. Mai 2023 12:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683801360/3238/
 - Donnerstag, 11. Mai 2023 12:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683802080/3238/
 - Donnerstag, 11. Mai 2023 13:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683802800/3238/
 - Donnerstag, 11. Mai 2023 13:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683803520/3238/
@@ -16,7 +15,6 @@
 - Donnerstag, 11. Mai 2023 14:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683807840/3238/
 - Donnerstag, 11. Mai 2023 14:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683808560/3238/
 - Donnerstag, 11. Mai 2023 14:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683809280/3238/
-- Donnerstag, 11. Mai 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683809280/2860/
 - Donnerstag, 11. Mai 2023 15:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683810720/3238/
 - Donnerstag, 11. Mai 2023 15:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683811440/3238/
 - Donnerstag, 11. Mai 2023 15:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683812160/3238/
@@ -26,6 +24,4 @@
 - Donnerstag, 11. Mai 2023 16:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683815760/3238/
 - Donnerstag, 11. Mai 2023 16:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683816480/3238/
 - Donnerstag, 11. Mai 2023 17:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683818640/3238/
-- Donnerstag, 11. Mai 2023 17:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683819360/3238/
 - Dienstag, 27. Juni 2023 12:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687861440/2899/
-- Dienstag, 27. Juni 2023 17:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687878720/191/
