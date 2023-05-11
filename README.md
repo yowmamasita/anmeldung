@@ -13,4 +13,3 @@
 - Donnerstag, 11. Mai 2023 17:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683817200/2848/
 - Donnerstag, 11. Mai 2023 17:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683817920/2848/
 - Donnerstag, 11. Mai 2023 17:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683818640/172/
-- Donnerstag, 11. Mai 2023 17:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1683820080/172/
