@@ -3,7 +3,6 @@
 - Donnerstag, 11. Mai 2023 10:24 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683793440/2908/
 - Donnerstag, 11. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683793440/192/
 - Donnerstag, 11. Mai 2023 10:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683794160/192/
-- Donnerstag, 11. Mai 2023 12:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683799920/192/
 - Donnerstag, 11. Mai 2023 12:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683800640/192/
 - Donnerstag, 11. Mai 2023 12:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683801360/192/
 - Donnerstag, 11. Mai 2023 12:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683802080/192/
@@ -11,5 +10,4 @@
 - Donnerstag, 11. Mai 2023 13:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683803520/192/
 - Donnerstag, 11. Mai 2023 13:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683804240/192/
 - Donnerstag, 11. Mai 2023 13:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683804960/192/
-- Donnerstag, 11. Mai 2023 14:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683807120/192/
-- Donnerstag, 11. Mai 2023 14:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683808560/192/
+- Donnerstag, 11. Mai 2023 13:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683805680/192/
