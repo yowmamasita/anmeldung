@@ -3,7 +3,6 @@
 - Donnerstag, 11. Mai 2023 10:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683793440/192/
 - Donnerstag, 11. Mai 2023 10:36 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683794160/2908/
 - Donnerstag, 11. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683794160/192/
-- Donnerstag, 11. Mai 2023 11:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683795600/192/
 - Donnerstag, 11. Mai 2023 12:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683799200/192/
 - Donnerstag, 11. Mai 2023 12:12 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1683799920/134/
 - Donnerstag, 11. Mai 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683799920/2908/
@@ -13,25 +12,19 @@
 - Donnerstag, 11. Mai 2023 12:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683802080/192/
 - Donnerstag, 11. Mai 2023 13:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683802800/3238/
 - Donnerstag, 11. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683802800/192/
-- Donnerstag, 11. Mai 2023 13:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683803520/169/
-- Donnerstag, 11. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683803520/192/
-- Donnerstag, 11. Mai 2023 13:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683804240/169/
-- Donnerstag, 11. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683804240/192/
+- Donnerstag, 11. Mai 2023 13:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683803520/192/
+- Donnerstag, 11. Mai 2023 13:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683804240/192/
 - Donnerstag, 11. Mai 2023 13:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683804960/169/
 - Donnerstag, 11. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683804960/192/
 - Donnerstag, 11. Mai 2023 13:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683805680/192/
 - Donnerstag, 11. Mai 2023 14:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683806400/2845/
 - Donnerstag, 11. Mai 2023 14:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683807120/192/
-- Donnerstag, 11. Mai 2023 14:24 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683807840/2908/
-- Donnerstag, 11. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683807840/192/
+- Donnerstag, 11. Mai 2023 14:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683807840/192/
 - Donnerstag, 11. Mai 2023 14:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683808560/192/
-- Donnerstag, 11. Mai 2023 15:12 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683810720/2920/
 - Donnerstag, 11. Mai 2023 16:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683813600/169/
 - Donnerstag, 11. Mai 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683813600/2857/
 - Donnerstag, 11. Mai 2023 16:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683814320/2857/
 - Donnerstag, 11. Mai 2023 16:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683815040/2857/
 - Donnerstag, 11. Mai 2023 16:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683815760/2857/
 - Donnerstag, 11. Mai 2023 16:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683816480/2857/
-- Donnerstag, 11. Mai 2023 17:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683817920/2857/
 - Donnerstag, 11. Mai 2023 17:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683818640/2857/
-- Donnerstag, 11. Mai 2023 17:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683819360/2857/
