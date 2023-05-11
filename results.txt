@@ -1,4 +1,3 @@
-- Donnerstag, 6. Juli 2023 10:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1688633280/381/
 - Donnerstag, 6. Juli 2023 11:00 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1688634000/381/
 - Donnerstag, 6. Juli 2023 11:12 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1688634720/381/
 - Donnerstag, 6. Juli 2023 11:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688635440/2857/
@@ -47,7 +46,6 @@
 - Donnerstag, 6. Juli 2023 14:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688644800/2857/
 - Donnerstag, 6. Juli 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688644800/3238/
 - Donnerstag, 6. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688644800/2926/
-- Donnerstag, 6. Juli 2023 14:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688645400/2941/
 - Donnerstag, 6. Juli 2023 14:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688645520/2857/
 - Donnerstag, 6. Juli 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688645520/3238/
 - Donnerstag, 6. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688645520/2926/
