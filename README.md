@@ -1,3 +1,86 @@
 # List of available Anmeldung appointments as of $NOW
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122254,122252,329742,122260,329745,122262,329748,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,317869,122281,327352,122279,329772,122283,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
-- Donnerstag, 11. Mai 2023 11:24 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683797040/1018/
+- Donnerstag, 6. Juli 2023 10:36 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688632560/2908/
+- Donnerstag, 6. Juli 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688632560/3238/
+- Donnerstag, 6. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688632560/904/
+- Donnerstag, 6. Juli 2023 10:40 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688632800/2923/
+- Donnerstag, 6. Juli 2023 10:48 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688633280/2911/
+- Donnerstag, 6. Juli 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688633280/898/
+- Donnerstag, 6. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688633280/2887/
+- Donnerstag, 6. Juli 2023 10:50 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688633400/2881/
+- Donnerstag, 6. Juli 2023 11:00 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1688634000/147/
+- Donnerstag, 6. Juli 2023  Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688634000/2923/
+- Donnerstag, 6. Juli 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688634000/3238/
+- Donnerstag, 6. Juli 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688634000/898/
+- Donnerstag, 6. Juli 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1688634000/151/
+- Donnerstag, 6. Juli 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688634000/2878/
+- Donnerstag, 6. Juli 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688634000/2854/
+- Donnerstag, 6. Juli 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688634000/2881/
+- Donnerstag, 6. Juli 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688634000/2884/
+- Donnerstag, 6. Juli 2023 11:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688634600/2941/
+- Donnerstag, 6. Juli 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1688634600/150/
+- Donnerstag, 6. Juli 2023 11:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688634720/2908/
+- Donnerstag, 6. Juli 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688634720/2911/
+- Donnerstag, 6. Juli 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1688634720/190/
+- Donnerstag, 6. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688634720/2887/
+- Donnerstag, 6. Juli 2023 11:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1688635200/149/
+- Donnerstag, 6. Juli 2023 11:24 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688635440/904/
+- Donnerstag, 6. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688635440/2926/
+- Donnerstag, 6. Juli 2023 11:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688636160/312/
+- Donnerstag, 6. Juli 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688636160/922/
+- Donnerstag, 6. Juli 2023 11:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688636880/2845/
+- Donnerstag, 6. Juli 2023 11:54 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688637240/2836/
+- Donnerstag, 6. Juli 2023 12:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688637600/3238/
+- Donnerstag, 6. Juli 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1688637600/190/
+- Donnerstag, 6. Juli 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688637600/2854/
+- Donnerstag, 6. Juli 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688637600/2881/
+- Donnerstag, 6. Juli 2023 12:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688638200/2923/
+- Donnerstag, 6. Juli 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688638200/2884/
+- Donnerstag, 6. Juli 2023 12:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688638320/2908/
+- Donnerstag, 6. Juli 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688638320/2911/
+- Donnerstag, 6. Juli 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688638320/898/
+- Donnerstag, 6. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688638320/904/
+- Donnerstag, 6. Juli 2023 12:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688638680/2839/
+- Donnerstag, 6. Juli 2023 12:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1688638800/147/
+- Donnerstag, 6. Juli 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1688638800/151/
+- Donnerstag, 6. Juli 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688638800/2941/
+- Donnerstag, 6. Juli 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1688638800/149/
+- Donnerstag, 6. Juli 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1688638800/150/
+- Donnerstag, 6. Juli 2023 12:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688639040/2887/
+- Donnerstag, 6. Juli 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1688639040/145/
+- Donnerstag, 6. Juli 2023 12:42 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688640120/2836/
+- Donnerstag, 6. Juli 2023 13:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688641200/3238/
+- Donnerstag, 6. Juli 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1688641200/190/
+- Donnerstag, 6. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688641200/2887/
+- Donnerstag, 6. Juli 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1688641200/151/
+- Donnerstag, 6. Juli 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688641200/2854/
+- Donnerstag, 6. Juli 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1688641200/149/
+- Donnerstag, 6. Juli 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688641200/2881/
+- Donnerstag, 6. Juli 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1688641200/150/
+- Donnerstag, 6. Juli 2023 13:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688641800/2941/
+- Donnerstag, 6. Juli 2023 13:12 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1688641920/145/
+- Donnerstag, 6. Juli 2023 13:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688642280/2839/
+- Donnerstag, 6. Juli 2023 14:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688644800/3238/
+- Donnerstag, 6. Juli 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688644800/2854/
+- Donnerstag, 6. Juli 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1688644800/150/
+- Donnerstag, 6. Juli 2023 14:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688645400/2923/
+- Donnerstag, 6. Juli 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688645400/2941/
+- Donnerstag, 6. Juli 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1688645400/149/
+- Donnerstag, 6. Juli 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688645400/2881/
+- Donnerstag, 6. Juli 2023 14:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1688646000/147/
+- Donnerstag, 6. Juli 2023 14:54 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688648040/2839/
+- Donnerstag, 6. Juli 2023 15:00 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688648400/2923/
+- Donnerstag, 6. Juli 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688648400/3238/
+- Donnerstag, 6. Juli 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1688648400/149/
+- Donnerstag, 6. Juli 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688648400/2881/
+- Donnerstag, 6. Juli 2023 15:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1688649000/147/
+- Donnerstag, 6. Juli 2023 15:12 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688649120/2854/
+- Donnerstag, 6. Juli 2023 15:20 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688649600/2941/
+- Donnerstag, 6. Juli 2023 16:00 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688652000/2854/
+- Donnerstag, 6. Juli 2023 16:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688652600/2923/
+- Donnerstag, 6. Juli 2023 16:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688652720/3238/
+- Donnerstag, 6. Juli 2023 16:40 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688654400/2881/
+- Donnerstag, 6. Juli 2023 16:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1688655000/147/
+- Donnerstag, 6. Juli 2023 17:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688656200/2923/
+- Donnerstag, 6. Juli 2023 17:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688656320/3238/
+- Donnerstag, 6. Juli 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688656320/2854/
