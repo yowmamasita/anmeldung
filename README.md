@@ -106,7 +106,6 @@
 - Donnerstag, 6. Juli 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688656320/112/
 - Donnerstag, 6. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688656320/2887/
 - Donnerstag, 6. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688656320/111/
-- Donnerstag, 6. Juli 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688656320/191/
 - Donnerstag, 6. Juli 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688656320/922/
 - Donnerstag, 6. Juli 2023 17:18 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1688656680/141/
 - Donnerstag, 6. Juli 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688656680/2836/
