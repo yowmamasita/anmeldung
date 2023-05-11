@@ -9,8 +9,6 @@
 - Donnerstag, 11. Mai 2023 16:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1683814320/109/
 - Donnerstag, 11. Mai 2023 16:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1683815040/109/
 - Donnerstag, 11. Mai 2023 16:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1683815760/109/
-- Donnerstag, 11. Mai 2023 16:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1683816480/109/
-- Freitag, 12. Mai 2023 07:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1683869400/109/
 - Freitag, 12. Mai 2023 07:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1683870120/109/
 - Freitag, 12. Mai 2023 07:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1683870840/109/
 - Freitag, 12. Mai 2023 08:06 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1683871560/109/
@@ -20,9 +18,6 @@
 - Freitag, 12. Mai 2023 09:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1683875880/109/
 - Freitag, 12. Mai 2023 09:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1683876600/109/
 - Freitag, 12. Mai 2023 09:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1683877320/109/
-- Freitag, 12. Mai 2023 09:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1683878040/109/
 - Freitag, 12. Mai 2023 10:06 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1683878760/109/
 - Freitag, 12. Mai 2023 10:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1683879480/109/
 - Freitag, 12. Mai 2023 10:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1683880920/109/
-- Freitag, 12. Mai 2023 10:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1683881640/109/
-- Freitag, 12. Mai 2023 11:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1683883080/109/
