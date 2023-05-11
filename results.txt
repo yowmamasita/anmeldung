@@ -1,6 +1,4 @@
 - Donnerstag, 11. Mai 2023 10:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683792720/2908/
-- Donnerstag, 11. Mai 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683792720/2911/
-- Donnerstag, 11. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683792720/231/
 - Donnerstag, 11. Mai 2023 10:24 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683793440/2908/
 - Donnerstag, 11. Mai 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683793440/2911/
 - Donnerstag, 11. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683793440/231/
@@ -11,12 +9,17 @@
 - Donnerstag, 11. Mai 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683794880/2911/
 - Donnerstag, 11. Mai 2023 11:00 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683795600/2911/
 - Donnerstag, 11. Mai 2023 11:12 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683796320/2911/
+- Donnerstag, 11. Mai 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683796320/2914/
+- Donnerstag, 11. Mai 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683796320/2887/
 - Donnerstag, 11. Mai 2023 11:24 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683797040/2908/
 - Donnerstag, 11. Mai 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683797040/2911/
+- Donnerstag, 11. Mai 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683797040/2914/
 - Donnerstag, 11. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683797040/231/
 - Donnerstag, 11. Mai 2023 11:36 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683797760/2908/
 - Donnerstag, 11. Mai 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683797760/2911/
+- Donnerstag, 11. Mai 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683797760/2914/
 - Donnerstag, 11. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683797760/231/
+- Donnerstag, 11. Mai 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1683797760/168/
 - Donnerstag, 11. Mai 2023 11:48 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683798480/2908/
 - Donnerstag, 11. Mai 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683798480/2911/
 - Donnerstag, 11. Mai 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683798480/190/
@@ -28,20 +31,22 @@
 - Donnerstag, 11. Mai 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683800640/2908/
 - Donnerstag, 11. Mai 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683800640/2911/
 - Donnerstag, 11. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683800640/231/
+- Donnerstag, 11. Mai 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683800640/2896/
 - Donnerstag, 11. Mai 2023 12:36 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683801360/2908/
 - Donnerstag, 11. Mai 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683801360/2911/
 - Donnerstag, 11. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683801360/231/
+- Donnerstag, 11. Mai 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1683801360/168/
 - Donnerstag, 11. Mai 2023 12:48 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683802080/2908/
 - Donnerstag, 11. Mai 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683802080/2911/
 - Donnerstag, 11. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683802080/231/
 - Donnerstag, 11. Mai 2023 13:00 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683802800/2911/
 - Donnerstag, 11. Mai 2023 13:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683803520/231/
+- Donnerstag, 11. Mai 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683803520/2896/
 - Donnerstag, 11. Mai 2023 13:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683804240/231/
 - Donnerstag, 11. Mai 2023 13:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683804960/231/
 - Donnerstag, 11. Mai 2023 13:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683805680/231/
 - Donnerstag, 11. Mai 2023 14:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683806400/231/
-- Donnerstag, 11. Mai 2023 14:12 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1683807120/135/
-- Donnerstag, 11. Mai 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683807120/2911/
+- Donnerstag, 11. Mai 2023 14:12 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683807120/2911/
 - Donnerstag, 11. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683807120/231/
 - Donnerstag, 11. Mai 2023 14:24 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683807840/2908/
 - Donnerstag, 11. Mai 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683807840/2911/
@@ -52,15 +57,22 @@
 - Donnerstag, 11. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683808560/231/
 - Donnerstag, 11. Mai 2023 14:48 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683809280/2908/
 - Donnerstag, 11. Mai 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683809280/2911/
-- Donnerstag, 11. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683809280/231/
 - Donnerstag, 11. Mai 2023 15:00 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683810000/2911/
 - Donnerstag, 11. Mai 2023 15:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683810720/2908/
 - Donnerstag, 11. Mai 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683810720/2911/
 - Donnerstag, 11. Mai 2023 15:24 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683811440/2908/
 - Donnerstag, 11. Mai 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683811440/2911/
-- Donnerstag, 11. Mai 2023 15:36 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1683812160/134/
-- Donnerstag, 11. Mai 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683812160/2911/
+- Donnerstag, 11. Mai 2023 15:36 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683812160/2911/
+- Donnerstag, 11. Mai 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683812160/2914/
 - Donnerstag, 11. Mai 2023 15:48 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683812880/2911/
 - Donnerstag, 11. Mai 2023 16:24 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683815040/2908/
-- Donnerstag, 11. Mai 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683815040/2911/
-- Donnerstag, 11. Mai 2023 16:36 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683815760/2911/
+- Donnerstag, 11. Mai 2023 17:00 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683817200/2908/
+- Donnerstag, 11. Mai 2023 17:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1683818640/146/
+- Donnerstag, 11. Mai 2023 17:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683819360/2863/
+- Mittwoch, 24. Mai 2023 10:10 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684915800/2881/
+- Mittwoch, 24. Mai 2023 13:00 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684926000/2923/
+- Donnerstag, 8. Juni 2023 10:00 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686211200/2872/
+- Donnerstag, 8. Juni 2023 10:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686212640/2872/
+- Donnerstag, 8. Juni 2023 11:00 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686214800/2872/
+- Donnerstag, 8. Juni 2023 11:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686216960/2872/
+- Freitag, 16. Juni 2023 09:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686900600/2908/
