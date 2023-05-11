@@ -16,8 +16,7 @@
 - Donnerstag, 11. Mai 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683800640/2863/
 - Donnerstag, 11. Mai 2023 12:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683801360/2854/
 - Donnerstag, 11. Mai 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683801360/2863/
-- Donnerstag, 11. Mai 2023 12:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683802080/3238/
-- Donnerstag, 11. Mai 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683802080/2854/
+- Donnerstag, 11. Mai 2023 12:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683802080/2854/
 - Donnerstag, 11. Mai 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683802080/2863/
 - Donnerstag, 11. Mai 2023 13:00 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683802800/2854/
 - Donnerstag, 11. Mai 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683802800/2863/
@@ -34,8 +33,7 @@
 - Donnerstag, 11. Mai 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683806400/2854/
 - Donnerstag, 11. Mai 2023 14:12 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683807120/2854/
 - Donnerstag, 11. Mai 2023 14:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683807840/2854/
-- Donnerstag, 11. Mai 2023 14:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683808560/3238/
-- Donnerstag, 11. Mai 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683808560/2854/
+- Donnerstag, 11. Mai 2023 14:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683808560/2854/
 - Donnerstag, 11. Mai 2023 14:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683809280/2854/
 - Donnerstag, 11. Mai 2023 15:12 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683810720/2854/
 - Donnerstag, 11. Mai 2023 15:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683811440/2854/
@@ -45,5 +43,4 @@
 - Donnerstag, 11. Mai 2023 16:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683815040/2854/
 - Donnerstag, 11. Mai 2023 16:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683815760/2854/
 - Donnerstag, 11. Mai 2023 16:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683816480/2854/
-- Donnerstag, 11. Mai 2023 17:00 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683817200/2854/
 - Donnerstag, 11. Mai 2023 17:12 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683817920/2854/
