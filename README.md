@@ -26,7 +26,6 @@
 - Donnerstag, 6. Juli 2023 16:00 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1688652000/381/
 - Donnerstag, 6. Juli 2023 16:12 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1688652720/381/
 - Donnerstag, 6. Juli 2023 16:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1688653440/381/
-- Donnerstag, 6. Juli 2023 16:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1688653800/150/
 - Donnerstag, 6. Juli 2023 16:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1688654880/381/
 - Donnerstag, 6. Juli 2023 17:12 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1688656320/381/
 - Donnerstag, 6. Juli 2023 17:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1688657040/381/
