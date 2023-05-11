@@ -22,4 +22,3 @@
 - Donnerstag, 11. Mai 2023 14:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683809280/167/
 - Donnerstag, 11. Mai 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683809280/2860/
 - Donnerstag, 11. Mai 2023 15:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683810000/167/
-- Donnerstag, 11. Mai 2023 15:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683811440/167/
