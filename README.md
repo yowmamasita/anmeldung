@@ -16,6 +16,4 @@
 - Donnerstag, 11. Mai 2023 16:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683815040/2863/
 - Donnerstag, 11. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683815040/192/
 - Donnerstag, 11. Mai 2023 16:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683815760/2863/
-- Donnerstag, 11. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683815760/192/
 - Donnerstag, 11. Mai 2023 16:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683816480/2863/
-- Donnerstag, 11. Mai 2023 17:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683819360/192/
