@@ -5,7 +5,6 @@
 - Donnerstag, 11. Mai 2023 10:12 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683792720/2887/
 - Donnerstag, 11. Mai 2023 10:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683793440/2887/
 - Donnerstag, 11. Mai 2023 10:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683794160/2887/
-- Donnerstag, 11. Mai 2023 10:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683794880/2887/
 - Donnerstag, 11. Mai 2023 11:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683797040/2887/
 - Donnerstag, 11. Mai 2023 11:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683798480/2887/
 - Donnerstag, 11. Mai 2023 12:12 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683799920/2887/
@@ -14,6 +13,4 @@
 - Donnerstag, 11. Mai 2023 12:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683801360/2887/
 - Donnerstag, 11. Mai 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683801360/847/
 - Donnerstag, 11. Mai 2023 12:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683802080/2887/
-- Donnerstag, 11. Mai 2023 13:12 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683803520/2887/
-- Mittwoch, 24. Mai 2023 10:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684918080/3238/
 - Donnerstag, 29. Juni 2023 13:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1688037840/136/
