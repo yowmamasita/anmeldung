@@ -4,7 +4,6 @@
 - Donnerstag, 6. Juli 2023 13:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1688644080/381/
 - Donnerstag, 6. Juli 2023 13:50 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688644200/2941/
 - Donnerstag, 6. Juli 2023 14:00 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1688644800/381/
-- Donnerstag, 6. Juli 2023 14:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688645400/2941/
 - Donnerstag, 6. Juli 2023 14:12 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1688645520/381/
 - Donnerstag, 6. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688645520/904/
 - Donnerstag, 6. Juli 2023 14:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1688646240/381/
