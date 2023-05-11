@@ -1,13 +1,3 @@
-- Donnerstag, 6. Juli 2023 07:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688622480/154/
-- Donnerstag, 6. Juli 2023 08:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688623920/154/
-- Donnerstag, 6. Juli 2023 08:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688624640/154/
-- Donnerstag, 6. Juli 2023 08:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688625360/154/
-- Donnerstag, 6. Juli 2023 08:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688626080/154/
-- Donnerstag, 6. Juli 2023 09:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688627520/154/
-- Donnerstag, 6. Juli 2023 09:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688628240/154/
-- Donnerstag, 6. Juli 2023 09:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688628960/154/
-- Donnerstag, 6. Juli 2023 09:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688629680/154/
-- Donnerstag, 6. Juli 2023 10:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688630400/154/
-- Donnerstag, 6. Juli 2023 10:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688631120/154/
-- Donnerstag, 6. Juli 2023 10:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688631840/154/
-- Donnerstag, 6. Juli 2023 10:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688632560/154/
+- Donnerstag, 6. Juli 2023 07:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688621760/2938/
+- Donnerstag, 6. Juli 2023 08:24 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688624640/2938/
+- Donnerstag, 6. Juli 2023 08:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688625360/2938/
