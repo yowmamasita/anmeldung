@@ -4,5 +4,3 @@
 - Donnerstag, 11. Mai 2023 13:48 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683805680/844/
 - Donnerstag, 11. Mai 2023 14:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683806400/2851/
 - Donnerstag, 11. Mai 2023 15:48 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683812880/2860/
-- Donnerstag, 11. Mai 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683812880/922/
-- Donnerstag, 11. Mai 2023 17:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683818640/2926/
