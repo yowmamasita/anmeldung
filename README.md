@@ -5,7 +5,8 @@
 - Donnerstag, 11. Mai 2023 11:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683797760/167/
 - Donnerstag, 11. Mai 2023 11:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683798480/167/
 - Donnerstag, 11. Mai 2023 12:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683799200/167/
-- Donnerstag, 11. Mai 2023 12:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683799920/167/
+- Donnerstag, 11. Mai 2023 12:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683799920/190/
+- Donnerstag, 11. Mai 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683799920/167/
 - Donnerstag, 11. Mai 2023 12:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683800640/167/
 - Donnerstag, 11. Mai 2023 12:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683801360/167/
 - Donnerstag, 11. Mai 2023 12:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683802080/167/
@@ -22,5 +23,4 @@
 - Donnerstag, 11. Mai 2023 15:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683810000/167/
 - Donnerstag, 11. Mai 2023 15:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683810720/167/
 - Donnerstag, 11. Mai 2023 15:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683811440/167/
-- Donnerstag, 11. Mai 2023 15:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683812160/167/
 - Donnerstag, 11. Mai 2023 15:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683812880/167/
