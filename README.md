@@ -18,8 +18,7 @@
 - Montag, 3. Juli 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688379840/2857/
 - Montag, 3. Juli 2023 12:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688380560/169/
 - Montag, 3. Juli 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688380560/2857/
-- Montag, 3. Juli 2023 12:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688381280/169/
-- Montag, 3. Juli 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688381280/2857/
+- Montag, 3. Juli 2023 12:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688381280/2857/
 - Montag, 3. Juli 2023 13:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688382000/2857/
 - Montag, 3. Juli 2023 13:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688382720/2857/
 - Montag, 3. Juli 2023 13:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688383440/2857/
@@ -74,8 +73,7 @@
 - Dienstag, 4. Juli 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688479920/2857/
 - Dienstag, 4. Juli 2023 16:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688480640/169/
 - Dienstag, 4. Juli 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688480640/2857/
-- Dienstag, 4. Juli 2023 16:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688481360/169/
-- Dienstag, 4. Juli 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688481360/2857/
+- Dienstag, 4. Juli 2023 16:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688481360/2857/
 - Dienstag, 4. Juli 2023 16:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688482080/2857/
 - Dienstag, 4. Juli 2023 17:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688484960/2857/
 - Dienstag, 4. Juli 2023 17:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688485680/2857/
