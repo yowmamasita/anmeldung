@@ -3,6 +3,5 @@
 - Donnerstag, 11. Mai 2023 10:00 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683792000/2887/
 - Donnerstag, 11. Mai 2023 10:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683792720/2896/
 - Donnerstag, 11. Mai 2023 10:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683793440/2845/
-- Donnerstag, 11. Mai 2023 11:54 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1683798840/153/
 - Donnerstag, 11. Mai 2023 15:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1683812160/153/
 - Donnerstag, 11. Mai 2023 16:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1683816480/153/
