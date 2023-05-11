@@ -5,6 +5,7 @@
 - Donnerstag, 11. Mai 2023 10:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683794160/192/
 - Donnerstag, 11. Mai 2023 12:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683800640/192/
 - Donnerstag, 11. Mai 2023 12:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683802080/192/
+- Donnerstag, 11. Mai 2023 13:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683802800/3238/
 - Donnerstag, 11. Mai 2023 13:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683803520/192/
 - Donnerstag, 11. Mai 2023 13:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683804240/192/
 - Donnerstag, 11. Mai 2023 13:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683804960/192/
