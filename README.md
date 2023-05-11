@@ -101,7 +101,6 @@
 - Donnerstag, 6. Juli 2023 10:12 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688631120/844/
 - Donnerstag, 6. Juli 2023 10:24 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688631840/844/
 - Donnerstag, 6. Juli 2023 10:36 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688632560/844/
-- Donnerstag, 6. Juli 2023 10:42 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1688632920/142/
 - Donnerstag, 6. Juli 2023 10:48 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688633280/844/
 - Donnerstag, 6. Juli 2023 11:00 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688634000/844/
 - Donnerstag, 6. Juli 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1688634000/150/
