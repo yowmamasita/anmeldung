@@ -195,4 +195,3 @@
 - Donnerstag, 6. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688657760/2926/
 - Donnerstag, 6. Juli 2023 17:48 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688658480/844/
 - Donnerstag, 6. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688658480/2926/
-- Montag, 10. Juli 2023 14:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1688991120/172/
