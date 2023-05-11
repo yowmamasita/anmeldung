@@ -71,8 +71,8 @@
 - Donnerstag, 6. Juli 2023 16:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1688654880/168/
 - Donnerstag, 6. Juli 2023 16:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1688655000/147/
 - Donnerstag, 6. Juli 2023  Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688655000/2923/
-- Donnerstag, 6. Juli 2023 17:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1688657040/168/
 - Donnerstag, 6. Juli 2023 17:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688657760/3238/
+- Donnerstag, 6. Juli 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1688657760/168/
 - Donnerstag, 6. Juli 2023 17:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688658600/2923/
 - Montag, 10. Juli 2023 11:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688981040/231/
 - Montag, 10. Juli 2023 12:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688983920/231/
