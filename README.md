@@ -5,7 +5,6 @@
 - Donnerstag, 11. Mai 2023 11:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683796320/170/
 - Donnerstag, 11. Mai 2023 11:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1683797040/312/
 - Donnerstag, 11. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683797040/170/
-- Donnerstag, 11. Mai 2023 11:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683798480/170/
 - Donnerstag, 11. Mai 2023 12:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683799200/170/
 - Donnerstag, 11. Mai 2023 12:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683799920/170/
 - Donnerstag, 11. Mai 2023 12:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683800640/170/
@@ -17,7 +16,5 @@
 - Donnerstag, 11. Mai 2023 16:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683813600/170/
 - Donnerstag, 11. Mai 2023 16:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683814320/170/
 - Donnerstag, 11. Mai 2023 16:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683815040/170/
-- Donnerstag, 11. Mai 2023 16:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683815760/170/
 - Donnerstag, 11. Mai 2023 16:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683816480/170/
 - Donnerstag, 11. Mai 2023 17:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683818640/170/
-- Donnerstag, 11. Mai 2023 17:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1683819360/170/
