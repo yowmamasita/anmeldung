@@ -1,5 +1,4 @@
-- Donnerstag, 6. Juli 2023 10:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688633280/191/
-- Donnerstag, 6. Juli 2023 11:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1688634000/108/
-- Donnerstag, 6. Juli 2023 11:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1688634720/108/
-- Donnerstag, 6. Juli 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688634720/191/
+- Donnerstag, 6. Juli 2023 10:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1688633280/108/
+- Donnerstag, 6. Juli 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688633280/191/
+- Donnerstag, 6. Juli 2023 11:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688634720/191/
 - Donnerstag, 6. Juli 2023 11:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1688635440/108/
