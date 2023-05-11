@@ -3,11 +3,8 @@
 - Donnerstag, 11. Mai 2023 10:00 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683792000/2887/
 - Donnerstag, 11. Mai 2023 10:12 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683792720/2887/
 - Donnerstag, 11. Mai 2023 10:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683793440/2887/
-- Donnerstag, 11. Mai 2023 10:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1683794160/190/
-- Donnerstag, 11. Mai 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683794160/2887/
+- Donnerstag, 11. Mai 2023 10:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683794160/2887/
 - Donnerstag, 11. Mai 2023 10:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683794880/2887/
-- Donnerstag, 11. Mai 2023 11:00 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683795600/2887/
-- Donnerstag, 11. Mai 2023 11:12 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683796320/2887/
 - Donnerstag, 11. Mai 2023 11:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683797040/2887/
 - Donnerstag, 11. Mai 2023 11:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683797760/2887/
 - Donnerstag, 11. Mai 2023 11:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683798480/2887/
@@ -19,5 +16,3 @@
 - Donnerstag, 11. Mai 2023 13:00 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683802800/2887/
 - Donnerstag, 11. Mai 2023 13:12 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683803520/2887/
 - Donnerstag, 11. Mai 2023 13:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683804240/2887/
-- Donnerstag, 11. Mai 2023 13:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683804960/2887/
-- Donnerstag, 11. Mai 2023 13:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683805680/2887/
