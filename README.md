@@ -6,5 +6,4 @@
 - Donnerstag, 11. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683804240/192/
 - Donnerstag, 11. Mai 2023 13:40 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683805200/2881/
 - Donnerstag, 11. Mai 2023 13:48 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683805680/844/
-- Donnerstag, 1. Juni 2023 14:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685622960/2872/
 - Donnerstag, 22. Juni 2023 17:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1687446720/190/
