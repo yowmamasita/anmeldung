@@ -74,7 +74,6 @@
 - Donnerstag, 6. Juli 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688654160/2911/
 - Donnerstag, 6. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688654160/2887/
 - Donnerstag, 6. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688654160/111/
-- Donnerstag, 6. Juli 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688654160/191/
 - Donnerstag, 6. Juli 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688654160/922/
 - Donnerstag, 6. Juli 2023 16:42 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1688654520/141/
 - Donnerstag, 6. Juli 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688654520/2836/
