@@ -18,6 +18,7 @@
 - Freitag, 7. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688722560/2926/
 - Freitag, 7. Juli 2023 11:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688722920/2908/
 - Freitag, 7. Juli 2023 11:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1688723280/381/
+- Freitag, 7. Juli 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1688723280/102/
 - Freitag, 7. Juli 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688723280/154/
 - Freitag, 7. Juli 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688723280/2938/
 - Freitag, 7. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1688723280/103/
