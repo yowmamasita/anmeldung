@@ -59,4 +59,3 @@
 - Freitag, 2. Juni 2023 09:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685689920/2932/
 - Freitag, 2. Juni 2023 09:24 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685690640/2932/
 - Freitag, 2. Juni 2023 09:36 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685691360/2932/
-- Freitag, 2. Juni 2023 09:48 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685692080/2932/
