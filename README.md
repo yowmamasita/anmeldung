@@ -1,34 +1,26 @@
 # List of available Anmeldung appointments as of $NOW
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122254,122252,329742,122260,329745,122262,329748,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,317869,122281,327352,122279,329772,122283,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
-- Dienstag, 4. Juli 2023 13:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688470560/170/
-- Mittwoch, 5. Juli 2023 08:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688536800/170/
-- Mittwoch, 5. Juli 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688536800/2866/
-- Mittwoch, 5. Juli 2023 08:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688537520/170/
-- Mittwoch, 5. Juli 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688537520/2866/
+- Mittwoch, 5. Juli 2023 08:00 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688536800/2866/
+- Mittwoch, 5. Juli 2023 08:12 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688537520/2866/
 - Mittwoch, 5. Juli 2023 08:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688538240/170/
 - Mittwoch, 5. Juli 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688538240/2866/
-- Mittwoch, 5. Juli 2023 08:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688538960/170/
-- Mittwoch, 5. Juli 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688538960/2866/
+- Mittwoch, 5. Juli 2023 08:36 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688538960/2866/
 - Mittwoch, 5. Juli 2023 08:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688539680/170/
 - Mittwoch, 5. Juli 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688539680/2866/
-- Mittwoch, 5. Juli 2023 09:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688540400/170/
-- Mittwoch, 5. Juli 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688540400/2866/
+- Mittwoch, 5. Juli 2023 09:00 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688540400/2866/
 - Mittwoch, 5. Juli 2023 09:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688541120/170/
 - Mittwoch, 5. Juli 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688541120/2866/
 - Mittwoch, 5. Juli 2023 09:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688541840/170/
 - Mittwoch, 5. Juli 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688541840/2866/
-- Mittwoch, 5. Juli 2023 09:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688542560/170/
-- Mittwoch, 5. Juli 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688542560/2866/
+- Mittwoch, 5. Juli 2023 09:36 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688542560/2866/
 - Mittwoch, 5. Juli 2023 09:48 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688543280/2866/
-- Mittwoch, 5. Juli 2023 10:00 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688544000/2866/
 - Mittwoch, 5. Juli 2023 10:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688544720/170/
 - Mittwoch, 5. Juli 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688544720/2866/
 - Mittwoch, 5. Juli 2023 10:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688545440/170/
 - Mittwoch, 5. Juli 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688545440/2866/
 - Mittwoch, 5. Juli 2023 10:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688546160/170/
 - Mittwoch, 5. Juli 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688546160/2866/
-- Mittwoch, 5. Juli 2023 10:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688546880/170/
-- Mittwoch, 5. Juli 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688546880/2866/
+- Mittwoch, 5. Juli 2023 10:48 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688546880/2866/
 - Mittwoch, 5. Juli 2023 11:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688547600/170/
 - Mittwoch, 5. Juli 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688547600/2866/
 - Mittwoch, 5. Juli 2023 11:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688548320/170/
@@ -39,8 +31,7 @@
 - Mittwoch, 5. Juli 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688549760/2866/
 - Mittwoch, 5. Juli 2023 11:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688550480/170/
 - Mittwoch, 5. Juli 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688550480/2866/
-- Mittwoch, 5. Juli 2023 12:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688551200/170/
-- Mittwoch, 5. Juli 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688551200/2866/
+- Mittwoch, 5. Juli 2023 12:00 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688551200/2866/
 - Mittwoch, 5. Juli 2023 12:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688551920/170/
 - Mittwoch, 5. Juli 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688551920/2866/
 - Mittwoch, 5. Juli 2023 12:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688552640/170/
@@ -61,10 +52,8 @@
 - Freitag, 7. Juli 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688708880/2854/
 - Freitag, 7. Juli 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688708880/1018/
 - Freitag, 7. Juli 2023 08:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688709600/3238/
-- Freitag, 7. Juli 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688709600/2854/
 - Freitag, 7. Juli 2023 08:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688710320/3238/
 - Freitag, 7. Juli 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688710320/2854/
-- Freitag, 7. Juli 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688710320/1018/
 - Freitag, 7. Juli 2023 08:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688711040/3238/
 - Freitag, 7. Juli 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688711040/1018/
 - Freitag, 7. Juli 2023 08:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688711760/3238/
@@ -93,14 +82,12 @@
 - Freitag, 7. Juli 2023 10:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688719680/3238/
 - Freitag, 7. Juli 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688719680/2854/
 - Freitag, 7. Juli 2023 11:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688720400/3238/
-- Freitag, 7. Juli 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688720400/1018/
 - Freitag, 7. Juli 2023 11:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688721120/3238/
 - Freitag, 7. Juli 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688721120/2854/
 - Freitag, 7. Juli 2023 11:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688721840/3238/
 - Freitag, 7. Juli 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688721840/2854/
 - Freitag, 7. Juli 2023 11:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688722560/3238/
 - Freitag, 7. Juli 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688722560/2854/
-- Freitag, 7. Juli 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688722560/1018/
 - Freitag, 7. Juli 2023 11:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688723280/3238/
 - Freitag, 7. Juli 2023 12:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688724000/3238/
 - Freitag, 7. Juli 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688724000/2854/
