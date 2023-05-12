@@ -24,7 +24,6 @@
 - Freitag, 7. Juli 2023 09:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688716080/3238/
 - Freitag, 7. Juli 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688716080/167/
 - Freitag, 7. Juli 2023 09:50 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688716200/2884/
-- Freitag, 7. Juli 2023 09:54 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688716440/2911/
 - Freitag, 7. Juli 2023 10:00 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688716800/2887/
 - Freitag, 7. Juli 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688716800/2941/
 - Freitag, 7. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688716800/2926/
