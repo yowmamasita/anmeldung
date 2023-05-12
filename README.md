@@ -3,6 +3,7 @@
 - Freitag, 12. Mai 2023 08:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1683871920/167/
 - Freitag, 12. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683871920/192/
 - Freitag, 12. Mai 2023 08:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683872640/192/
+- Freitag, 12. Mai 2023 08:30 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1683873000/134/
 - Freitag, 12. Mai 2023 08:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683873360/192/
 - Freitag, 12. Mai 2023 08:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683874080/192/
 - Freitag, 12. Mai 2023 09:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1683875520/192/
