@@ -6,7 +6,6 @@
 - Freitag, 12. Mai 2023 08:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683871920/231/
 - Freitag, 12. Mai 2023 08:18 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683872280/2911/
 - Freitag, 12. Mai 2023 08:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683872640/231/
-- Freitag, 12. Mai 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683872640/2854/
 - Freitag, 12. Mai 2023 08:30 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683873000/2911/
 - Freitag, 12. Mai 2023 08:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683873360/231/
 - Freitag, 12. Mai 2023 08:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683874080/231/
@@ -35,3 +34,4 @@
 - Freitag, 12. Mai 2023 11:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683884520/2911/
 - Freitag, 12. Mai 2023 11:54 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683885240/2911/
 - Freitag, 12. Mai 2023 12:18 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683886680/2911/
+- Freitag, 26. Mai 2023 10:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685090160/2938/
