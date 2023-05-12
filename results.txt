@@ -59,7 +59,6 @@
 - Dienstag, 4. Juli 2023 16:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688480640/2863/
 - Dienstag, 4. Juli 2023 16:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688481360/2863/
 - Dienstag, 4. Juli 2023 16:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688482080/2863/
-- Dienstag, 4. Juli 2023 17:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688482800/2863/
 - Dienstag, 4. Juli 2023 17:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688483520/2863/
 - Dienstag, 4. Juli 2023 17:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688484240/2863/
 - Dienstag, 4. Juli 2023 17:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688484960/2863/
@@ -148,7 +147,6 @@
 - Donnerstag, 6. Juli 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688650560/170/
 - Donnerstag, 6. Juli 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688650560/2866/
 - Donnerstag, 6. Juli 2023 15:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688651280/2863/
-- Donnerstag, 6. Juli 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688651280/170/
 - Donnerstag, 6. Juli 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688651280/2866/
 - Donnerstag, 6. Juli 2023 16:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688652000/2863/
 - Donnerstag, 6. Juli 2023 16:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688652720/2863/
@@ -226,7 +224,6 @@
 - Freitag, 7. Juli 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688714280/312/
 - Freitag, 7. Juli 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688714280/898/
 - Freitag, 7. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688714280/111/
-- Freitag, 7. Juli 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1688714280/313/
 - Freitag, 7. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688714280/904/
 - Freitag, 7. Juli 2023 09:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688714640/3238/
 - Freitag, 7. Juli 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688714640/154/
