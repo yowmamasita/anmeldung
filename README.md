@@ -23,16 +23,14 @@
 - Freitag, 12. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683879840/231/
 - Freitag, 12. Mai 2023 10:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683880560/169/
 - Freitag, 12. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683880560/231/
-- Freitag, 12. Mai 2023 10:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683881280/169/
-- Freitag, 12. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683881280/231/
+- Freitag, 12. Mai 2023 10:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683881280/231/
 - Freitag, 12. Mai 2023 11:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683882000/231/
 - Freitag, 12. Mai 2023 11:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683882720/231/
 - Freitag, 12. Mai 2023 11:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683883440/169/
 - Freitag, 12. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683883440/231/
 - Freitag, 12. Mai 2023 11:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683884160/169/
 - Freitag, 12. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683884160/231/
-- Freitag, 12. Mai 2023 11:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1683884880/169/
-- Freitag, 12. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683884880/231/
+- Freitag, 12. Mai 2023 11:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683884880/231/
 - Freitag, 12. Mai 2023 12:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683885600/231/
 - Freitag, 12. Mai 2023 12:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683886320/231/
 - Freitag, 12. Mai 2023 12:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683887040/231/
