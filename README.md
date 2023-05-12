@@ -4,7 +4,6 @@
 - Dienstag, 4. Juli 2023 13:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688469840/170/
 - Dienstag, 4. Juli 2023 13:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688470560/170/
 - Dienstag, 4. Juli 2023 13:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688471280/170/
-- Dienstag, 4. Juli 2023 14:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688472720/170/
 - Dienstag, 4. Juli 2023 14:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688473440/170/
 - Dienstag, 4. Juli 2023 14:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688474160/170/
 - Dienstag, 4. Juli 2023 14:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688474880/170/
