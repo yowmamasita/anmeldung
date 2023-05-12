@@ -19,3 +19,5 @@
 - Freitag, 12. Mai 2023 12:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683885600/2845/
 - Freitag, 12. Mai 2023 12:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683886320/2845/
 - Freitag, 12. Mai 2023 12:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683887040/2845/
+- Montag, 19. Juni 2023 08:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1687156560/168/
+- Montag, 26. Juni 2023 08:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687762080/2899/
