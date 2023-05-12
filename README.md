@@ -5,10 +5,8 @@
 - Montag, 15. Mai 2023 08:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684131120/153/
 - Montag, 15. Mai 2023 08:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684131840/153/
 - Montag, 15. Mai 2023 08:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684132560/153/
-- Montag, 15. Mai 2023 09:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684136880/172/
 - Montag, 15. Mai 2023 13:00 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684148400/153/
 - Montag, 15. Mai 2023 13:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684149120/153/
-- Mittwoch, 17. Mai 2023 09:30 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684308600/153/
 - Mittwoch, 17. Mai 2023 09:54 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684310040/153/
 - Mittwoch, 17. Mai 2023 10:18 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684311480/153/
 - Mittwoch, 17. Mai 2023 10:30 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684312200/153/
@@ -16,6 +14,5 @@
 - Mittwoch, 17. Mai 2023 10:54 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684313640/153/
 - Mittwoch, 17. Mai 2023 11:06 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684314360/153/
 - Mittwoch, 17. Mai 2023 12:18 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684318680/153/
-- Donnerstag, 1. Juni 2023 14:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685621520/2932/
 - Donnerstag, 1. Juni 2023 14:24 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685622240/2932/
 - Donnerstag, 1. Juni 2023 14:36 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685622960/2932/
