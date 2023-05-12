@@ -177,7 +177,6 @@
 - Freitag, 7. Juli 2023 07:54 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688709240/2911/
 - Freitag, 7. Juli 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688709240/2914/
 - Freitag, 7. Juli 2023 08:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1688709600/106/
-- Freitag, 7. Juli 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1688709600/108/
 - Freitag, 7. Juli 2023  Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1688709600/147/
 - Freitag, 7. Juli 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1688709600/190/
 - Freitag, 7. Juli 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688709600/167/
@@ -194,7 +193,8 @@
 - Freitag, 7. Juli 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688709960/898/
 - Freitag, 7. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688709960/904/
 - Freitag, 7. Juli 2023 08:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1688710200/150/
-- Freitag, 7. Juli 2023 08:12 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1688710320/102/
+- Freitag, 7. Juli 2023 08:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1688710320/108/
+- Freitag, 7. Juli 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1688710320/102/
 - Freitag, 7. Juli 2023 08:20 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1688710800/151/
 - Freitag, 7. Juli 2023 08:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1688711040/381/
 - Freitag, 7. Juli 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688711040/3238/
