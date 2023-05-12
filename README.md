@@ -3,6 +3,4 @@
 - Freitag, 12. Mai 2023 09:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683876240/2863/
 - Freitag, 12. Mai 2023 09:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683877680/2899/
 - Freitag, 12. Mai 2023 10:18 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683879480/904/
-- Freitag, 12. Mai 2023 11:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1683882720/231/
-- Freitag, 12. Mai 2023  Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1683882720/2893/
 - Freitag, 30. Juni 2023 11:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688118480/2863/
