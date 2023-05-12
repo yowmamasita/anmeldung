@@ -7,7 +7,6 @@
 - Montag, 15. Mai 2023 08:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684131840/153/
 - Montag, 15. Mai 2023 08:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684132560/153/
 - Montag, 15. Mai 2023 08:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684133280/153/
-- Montag, 15. Mai 2023 12:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684145880/313/
 - Montag, 15. Mai 2023 12:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684146600/313/
 - Montag, 15. Mai 2023 12:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684146960/153/
 - Montag, 15. Mai 2023 12:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684147320/313/
@@ -22,7 +21,6 @@
 - Montag, 15. Mai 2023 14:00 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684152000/153/
 - Montag, 15. Mai 2023 14:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684152720/153/
 - Montag, 15. Mai 2023 14:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684153440/153/
-- Montag, 15. Mai 2023 14:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684154160/153/
 - Montag, 15. Mai 2023 14:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684154880/153/
 - Dienstag, 16. Mai 2023 12:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684233360/153/
 - Dienstag, 16. Mai 2023 12:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684234080/153/
@@ -41,7 +39,6 @@
 - Mittwoch, 17. Mai 2023 10:54 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684313640/153/
 - Mittwoch, 17. Mai 2023 11:06 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684314360/153/
 - Mittwoch, 17. Mai 2023 11:18 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684315080/153/
-- Mittwoch, 17. Mai 2023 11:30 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684315800/153/
 - Mittwoch, 17. Mai 2023 11:42 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684316520/153/
 - Mittwoch, 17. Mai 2023 11:54 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684317240/153/
 - Mittwoch, 17. Mai 2023 12:06 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684317960/153/
