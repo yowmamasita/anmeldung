@@ -12,11 +12,9 @@
 - Mittwoch, 5. Juli 2023 08:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688539680/143/
 - Mittwoch, 5. Juli 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688539680/2851/
 - Mittwoch, 5. Juli 2023 09:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688540400/2851/
-- Mittwoch, 5. Juli 2023 09:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688541120/2851/
 - Mittwoch, 5. Juli 2023 09:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688541840/143/
 - Mittwoch, 5. Juli 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688541840/2851/
 - Mittwoch, 5. Juli 2023 09:36 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688542560/143/
-- Mittwoch, 5. Juli 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688542560/2851/
 - Mittwoch, 5. Juli 2023 09:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688543280/143/
 - Mittwoch, 5. Juli 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688543280/2851/
 - Mittwoch, 5. Juli 2023 10:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688544000/2851/
@@ -50,4 +48,3 @@
 - Mittwoch, 5. Juli 2023 14:00 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688558400/143/
 - Mittwoch, 5. Juli 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688558400/2851/
 - Mittwoch, 5. Juli 2023 14:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688559120/2851/
-- Freitag, 7. Juli 2023 10:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688716800/154/
