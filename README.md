@@ -3,5 +3,4 @@
 - Mittwoch, 12. Juli 2023 14:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1689163200/231/
 - Mittwoch, 12. Juli 2023 14:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1689163920/231/
 - Mittwoch, 12. Juli 2023 14:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1689164640/231/
-- Mittwoch, 12. Juli 2023 14:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1689165360/172/
 - Mittwoch, 12. Juli 2023 14:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1689166080/172/
