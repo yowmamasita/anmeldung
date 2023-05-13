@@ -4,5 +4,4 @@
 - Montag, 15. Mai 2023 12:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684146240/3238/
 - Montag, 15. Mai 2023 12:42 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684147320/898/
 - Montag, 15. Mai 2023 14:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684154160/2938/
-- Freitag, 26. Mai 2023 12:12 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1685095920/142/
 - Mittwoch, 31. Mai 2023 11:30 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685525400/2932/
