@@ -4,8 +4,8 @@
 - Montag, 10. Juli 2023 09:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688973840/2899/
 - Montag, 10. Juli 2023 09:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688974560/2899/
 - Montag, 10. Juli 2023 09:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688975280/2899/
-- Montag, 10. Juli 2023 10:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688976720/2899/
-- Montag, 10. Juli 2023 10:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688977440/2899/
+- Montag, 10. Juli 2023 10:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688977440/2896/
+- Montag, 10. Juli 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688977440/2899/
 - Montag, 10. Juli 2023 10:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688978160/2896/
 - Montag, 10. Juli 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688978160/2899/
 - Montag, 10. Juli 2023 10:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688978880/2899/
