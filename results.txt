@@ -1,18 +1,4 @@
-- Donnerstag, 13. Juli 2023 15:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1689255360/231/
-- Donnerstag, 13. Juli 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1689255360/172/
-- Donnerstag, 13. Juli 2023 15:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1689256080/231/
-- Donnerstag, 13. Juli 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1689256080/146/
-- Donnerstag, 13. Juli 2023 16:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1689256800/231/
-- Donnerstag, 13. Juli 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1689256800/172/
-- Donnerstag, 13. Juli 2023 16:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1689257520/231/
-- Donnerstag, 13. Juli 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1689257520/146/
-- Donnerstag, 13. Juli 2023 16:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1689258240/231/
-- Donnerstag, 13. Juli 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1689258240/172/
-- Donnerstag, 13. Juli 2023 16:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1689258960/172/
-- Donnerstag, 13. Juli 2023 16:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1689259680/231/
-- Donnerstag, 13. Juli 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1689259680/172/
-- Donnerstag, 13. Juli 2023 17:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1689260400/172/
-- Donnerstag, 13. Juli 2023 17:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1689261120/231/
-- Donnerstag, 13. Juli 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1689261120/172/
-- Donnerstag, 13. Juli 2023 17:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1689261840/231/
-- Donnerstag, 13. Juli 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1689261840/172/
+- Dienstag, 16. Mai 2023 14:48 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684241280/2911/
+- Dienstag, 16. Mai 2023 15:00 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684242000/841/
+- Montag, 22. Mai 2023 09:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684740960/2926/
+- Freitag, 26. Mai 2023 08:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685083680/2872/
