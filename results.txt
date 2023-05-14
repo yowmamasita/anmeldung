@@ -1,4 +1,7 @@
-- Montag, 12. Juni 2023 08:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686550680/2914/
+- Dienstag, 11. Juli 2023 15:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689083280/2896/
+- Dienstag, 11. Juli 2023 16:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689084000/2896/
+- Dienstag, 11. Juli 2023 16:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689084720/2896/
+- Dienstag, 11. Juli 2023 16:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689085440/2896/
 - Donnerstag, 13. Juli 2023 15:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1689254640/172/
 - Donnerstag, 13. Juli 2023 15:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1689255360/231/
 - Donnerstag, 13. Juli 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1689255360/146/
@@ -33,5 +36,4 @@
 - Donnerstag, 13. Juli 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1689262560/146/
 - Donnerstag, 13. Juli 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1689262560/172/
 - Donnerstag, 13. Juli 2023 17:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1689263280/231/
-- Donnerstag, 13. Juli 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1689263280/146/
 - Donnerstag, 13. Juli 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1689263280/172/
