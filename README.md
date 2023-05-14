@@ -7,4 +7,3 @@
 - Dienstag, 11. Juli 2023 12:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689072480/2899/
 - Dienstag, 11. Juli 2023 13:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689073920/2899/
 - Dienstag, 11. Juli 2023 13:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689074640/2899/
-- Dienstag, 11. Juli 2023 13:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689075360/2899/
