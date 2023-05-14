@@ -1,4 +1,2 @@
-- Montag, 15. Mai 2023 07:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684129320/2911/
-- Montag, 15. Mai 2023 10:20 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1684138800/148/
-- Dienstag, 16. Mai 2023 17:50 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684252200/2884/
-- Montag, 19. Juni 2023 12:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687171680/192/
+- Montag, 15. Mai 2023 07:30 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684128600/904/
+- Montag, 15. Mai 2023 07:42 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684129320/904/
