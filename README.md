@@ -9,8 +9,5 @@
 - Montag, 15. Mai 2023 11:10 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684141800/2881/
 - Montag, 15. Mai 2023 11:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684143000/313/
 - Montag, 15. Mai 2023 12:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684145520/2851/
-- Montag, 15. Mai 2023 13:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684148760/313/
 - Montag, 15. Mai 2023 14:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684154160/2851/
 - Montag, 15. Mai 2023 15:06 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684155960/904/
-- Mittwoch, 17. Mai 2023 09:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684308240/2854/
-- Dienstag, 27. Juni 2023 11:12 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1687857120/103/
