@@ -17,8 +17,7 @@
 - Montag, 15. Mai 2023 09:06 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1684134360/134/
 - Montag, 15. Mai 2023 09:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684134720/170/
 - Montag, 15. Mai 2023 09:18 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1684135080/134/
-- Montag, 15. Mai 2023 09:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684135440/153/
-- Montag, 15. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684135440/170/
+- Montag, 15. Mai 2023 09:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684135440/170/
 - Montag, 15. Mai 2023 09:30 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1684135800/134/
 - Montag, 15. Mai 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684135800/109/
 - Montag, 15. Mai 2023 09:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684136160/153/
@@ -87,4 +86,3 @@
 - Montag, 15. Mai 2023 14:48 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1684154880/134/
 - Montag, 15. Mai 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1684154880/169/
 - Montag, 15. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684154880/170/
-- Montag, 15. Mai 2023 15:00 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1684155600/134/
