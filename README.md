@@ -46,7 +46,6 @@
 - Montag, 10. Juli 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688993280/2845/
 - Montag, 10. Juli 2023  Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1688993280/134/
 - Montag, 10. Juli 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688993280/2848/
-- Montag, 10. Juli 2023 15:24 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1688995440/103/
 - Mittwoch, 12. Juli 2023 13:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689159600/2899/
 - Mittwoch, 12. Juli 2023 13:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689160320/2899/
 - Mittwoch, 12. Juli 2023 13:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689161040/2899/
