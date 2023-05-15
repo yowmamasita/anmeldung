@@ -12,7 +12,4 @@
 - Dienstag, 16. Mai 2023 16:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1684247040/168/
 - Dienstag, 16. Mai 2023 17:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1684249200/168/
 - Dienstag, 16. Mai 2023 17:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1684249920/168/
-- Dienstag, 16. Mai 2023 17:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1684250640/146/
-- Dienstag, 16. Mai 2023 17:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1684251360/168/
-- Dienstag, 16. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684251360/170/
-- Dienstag, 13. Juni 2023 13:00 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686654000/2932/
+- Dienstag, 16. Mai 2023 17:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684251360/170/
