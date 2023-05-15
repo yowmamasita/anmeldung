@@ -40,7 +40,8 @@
 - Montag, 15. Mai 2023 09:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1684134000/108/
 - Montag, 15. Mai 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684134000/2848/
 - Montag, 15. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684134000/231/
-- Montag, 15. Mai 2023 09:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684134360/2908/
+- Montag, 15. Mai 2023 09:06 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1684134360/134/
+- Montag, 15. Mai 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684134360/2908/
 - Montag, 15. Mai 2023 09:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1684134720/108/
 - Montag, 15. Mai 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684134720/2848/
 - Montag, 15. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684134720/231/
@@ -71,8 +72,7 @@
 - Montag, 15. Mai 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684138680/2908/
 - Montag, 15. Mai 2023 10:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684139040/231/
 - Montag, 15. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684139040/170/
-- Montag, 15. Mai 2023 10:30 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1684139400/134/
-- Montag, 15. Mai 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684139400/2908/
+- Montag, 15. Mai 2023 10:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684139400/2908/
 - Montag, 15. Mai 2023 10:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684139760/231/
 - Montag, 15. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684139760/170/
 - Montag, 15. Mai 2023 10:42 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1684140120/134/
@@ -80,8 +80,7 @@
 - Montag, 15. Mai 2023 10:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684140480/231/
 - Montag, 15. Mai 2023 10:54 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1684140840/134/
 - Montag, 15. Mai 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684140840/2908/
-- Montag, 15. Mai 2023 11:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684141200/231/
-- Montag, 15. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684141200/170/
+- Montag, 15. Mai 2023 11:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684141200/170/
 - Montag, 15. Mai 2023 11:06 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1684141560/134/
 - Montag, 15. Mai 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684141560/2908/
 - Montag, 15. Mai 2023 11:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684141920/2899/
@@ -92,8 +91,8 @@
 - Montag, 15. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684142640/231/
 - Montag, 15. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684142640/170/
 - Montag, 15. Mai 2023 11:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684143000/2908/
-- Montag, 15. Mai 2023 11:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684143360/231/
-- Montag, 15. Mai 2023 11:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684143720/2908/
+- Montag, 15. Mai 2023 11:42 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1684143720/134/
+- Montag, 15. Mai 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684143720/2908/
 - Montag, 15. Mai 2023 11:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684144080/231/
 - Montag, 15. Mai 2023 12:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684144800/231/
 - Montag, 15. Mai 2023 12:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684145520/231/
@@ -106,9 +105,7 @@
 - Montag, 15. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684148400/231/
 - Montag, 15. Mai 2023 13:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684149120/2908/
 - Montag, 15. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684149120/231/
-- Montag, 15. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684149120/170/
-- Montag, 15. Mai 2023 13:24 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1684149840/134/
-- Montag, 15. Mai 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684149840/2908/
+- Montag, 15. Mai 2023 13:24 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684149840/2908/
 - Montag, 15. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684149840/231/
 - Montag, 15. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684149840/170/
 - Montag, 15. Mai 2023 13:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1684150200/312/
@@ -128,5 +125,3 @@
 - Montag, 15. Mai 2023 14:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1684153800/312/
 - Montag, 15. Mai 2023 14:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1684154520/312/
 - Montag, 15. Mai 2023 14:54 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1684155240/312/
-- Montag, 15. Mai 2023 15:06 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1684155960/312/
-- Dienstag, 16. Mai 2023 12:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684231920/2872/
