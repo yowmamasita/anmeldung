@@ -1,4 +1,3 @@
-- Mittwoch, 5. Juli 2023 10:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688546880/2857/
 - Montag, 10. Juli 2023 12:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1688985360/381/
 - Montag, 10. Juli 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688985360/2932/
 - Montag, 10. Juli 2023 12:48 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688986080/2932/
@@ -10,7 +9,6 @@
 - Montag, 10. Juli 2023 13:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1688988240/381/
 - Montag, 10. Juli 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688988240/2932/
 - Montag, 10. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1688988240/103/
-- Montag, 10. Juli 2023 13:30 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688988600/2911/
 - Montag, 10. Juli 2023 13:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1688988960/381/
 - Montag, 10. Juli 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1688988960/153/
 - Montag, 10. Juli 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688988960/2932/
@@ -28,7 +26,6 @@
 - Montag, 10. Juli 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688991120/2932/
 - Montag, 10. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1688991120/103/
 - Montag, 10. Juli 2023 14:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1688991840/381/
-- Montag, 10. Juli 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1688991840/153/
 - Montag, 10. Juli 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688991840/2932/
 - Montag, 10. Juli 2023 14:30 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1688992200/135/
 - Montag, 10. Juli 2023 14:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1688992560/381/
