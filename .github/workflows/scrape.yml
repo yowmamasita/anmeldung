@@ -18,7 +18,7 @@ jobs:
             /var/cache/apt/archives
           key: node_modules-${{ hashfiles('package-lock.json') }}
       - name: install timelimit
-        run: sudo apt update && sudo apt install -y timelimit
+        run: sudo dpkg -i assets/timelimit.deb
       - name: install dependencies
         run: npm ci
       - name: fetch latest data
