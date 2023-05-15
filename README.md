@@ -20,5 +20,3 @@
 - Mittwoch, 12. Juli 2023 13:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689160320/2896/
 - Mittwoch, 12. Juli 2023 13:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689161040/2896/
 - Mittwoch, 12. Juli 2023 13:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689161760/2896/
-- Donnerstag, 13. Juli 2023 17:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1689263280/146/
-- Freitag, 14. Juli 2023 10:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1689321600/172/
