@@ -21,8 +21,7 @@
 - Montag, 15. Mai 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684150200/109/
 - Montag, 15. Mai 2023 13:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684150920/112/
 - Montag, 15. Mai 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684150920/109/
-- Montag, 15. Mai 2023 13:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684151640/112/
-- Montag, 15. Mai 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684151640/109/
+- Montag, 15. Mai 2023 13:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684151640/109/
 - Montag, 15. Mai 2023 14:06 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684152360/112/
 - Montag, 15. Mai 2023 14:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684153080/112/
 - Montag, 15. Mai 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684153080/109/
@@ -31,4 +30,3 @@
 - Montag, 15. Mai 2023 14:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684154520/112/
 - Montag, 15. Mai 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684154520/109/
 - Montag, 15. Mai 2023 14:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684155240/112/
-- Montag, 15. Mai 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684155240/109/
