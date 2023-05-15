@@ -103,7 +103,6 @@
 - Montag, 10. Juli 2023 13:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1688988000/150/
 - Montag, 10. Juli 2023 13:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1688988240/141/
 - Montag, 10. Juli 2023 13:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1688988960/168/
-- Montag, 10. Juli 2023 13:50 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1688989800/151/
 - Montag, 10. Juli 2023 14:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688990400/2836/
 - Montag, 10. Juli 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1688990400/140/
 - Montag, 10. Juli 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688990400/2839/
