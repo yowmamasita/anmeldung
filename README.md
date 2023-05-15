@@ -4,4 +4,3 @@
 - Dienstag, 16. Mai 2023 13:00 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684234800/2893/
 - Dienstag, 16. Mai 2023 14:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684240920/2839/
 - Dienstag, 16. Mai 2023 15:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684244160/2926/
-- Mittwoch, 31. Mai 2023 14:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1685536800/147/
