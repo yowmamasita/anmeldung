@@ -35,7 +35,8 @@
 - Montag, 10. Juli 2023 12:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1688984640/190/
 - Montag, 10. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688984640/2926/
 - Montag, 10. Juli 2023 12:30 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688985000/2941/
-- Montag, 10. Juli 2023 12:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688985360/3238/
+- Montag, 10. Juli 2023 12:36 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688985360/2836/
+- Montag, 10. Juli 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688985360/3238/
 - Montag, 10. Juli 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1688985360/190/
 - Montag, 10. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688985360/2926/
 - Montag, 10. Juli 2023 12:40 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688985600/2881/
@@ -48,7 +49,6 @@
 - Montag, 10. Juli 2023 13:00 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688986800/2923/
 - Montag, 10. Juli 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1688986800/190/
 - Montag, 10. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688986800/2887/
-- Montag, 10. Juli 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1688986800/192/
 - Montag, 10. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688986800/2926/
 - Montag, 10. Juli 2023 13:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688987400/2923/
 - Montag, 10. Juli 2023 13:12 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688987520/2836/
@@ -68,7 +68,6 @@
 - Montag, 10. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688988960/2887/
 - Montag, 10. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688988960/2926/
 - Montag, 10. Juli 2023 13:48 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688989680/2836/
-- Montag, 10. Juli 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1688989680/190/
 - Montag, 10. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688989680/2887/
 - Montag, 10. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688989680/2926/
 - Montag, 10. Juli 2023 14:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1688991120/190/
