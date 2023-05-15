@@ -22,7 +22,6 @@
 - Montag, 15. Mai 2023 14:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684152000/2845/
 - Mittwoch, 17. Mai 2023 08:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684305000/2914/
 - Mittwoch, 17. Mai 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684305000/904/
-- Freitag, 19. Mai 2023 09:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1684479600/169/
 - Montag, 22. Mai 2023 12:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1684751760/168/
 - Mittwoch, 24. Mai 2023 13:30 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684927800/844/
 - Mittwoch, 24. Mai 2023 13:42 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684928520/844/
