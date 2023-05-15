@@ -12,7 +12,5 @@
 - Montag, 15. Mai 2023 11:18 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684142280/154/
 - Montag, 15. Mai 2023 11:30 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684143000/154/
 - Montag, 15. Mai 2023 11:42 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684143720/154/
-- Montag, 15. Mai 2023 11:54 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684144440/154/
 - Montag, 15. Mai 2023 12:18 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684145880/154/
-- Montag, 15. Mai 2023 12:30 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684146600/154/
 - Montag, 15. Mai 2023 12:42 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684147320/154/
