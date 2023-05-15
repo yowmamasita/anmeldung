@@ -2,7 +2,6 @@
 - Montag, 15. Mai 2023 10:48 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684140480/2860/
 - Montag, 15. Mai 2023 11:06 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684141560/2911/
 - Montag, 15. Mai 2023 11:10 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684141800/2881/
-- Montag, 15. Mai 2023 11:24 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1684142640/103/
 - Montag, 15. Mai 2023 12:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684144800/2848/
 - Montag, 15. Mai 2023 12:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684147680/2848/
 - Montag, 15. Mai 2023 13:06 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1684148760/135/
