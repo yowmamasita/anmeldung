@@ -13,7 +13,6 @@
 - Montag, 15. Mai 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684137600/2851/
 - Montag, 15. Mai 2023 10:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684138320/2845/
 - Montag, 15. Mai 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684138320/2851/
-- Montag, 15. Mai 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684138320/2896/
 - Montag, 15. Mai 2023 10:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684139040/2845/
 - Montag, 15. Mai 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684139040/2851/
 - Montag, 15. Mai 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684139040/2896/
@@ -21,7 +20,6 @@
 - Montag, 15. Mai 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684139760/2851/
 - Montag, 15. Mai 2023 10:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684140480/2845/
 - Montag, 15. Mai 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684140480/2851/
-- Montag, 15. Mai 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684140480/1018/
 - Montag, 15. Mai 2023 11:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684141200/2845/
 - Montag, 15. Mai 2023 11:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684141920/2845/
 - Montag, 15. Mai 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684141920/2851/
@@ -51,7 +49,6 @@
 - Montag, 15. Mai 2023 14:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684152000/2845/
 - Montag, 15. Mai 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684152000/1018/
 - Montag, 15. Mai 2023 14:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684152720/2845/
-- Montag, 15. Mai 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684152720/2851/
 - Montag, 15. Mai 2023 14:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684153440/2845/
 - Montag, 15. Mai 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684153440/1018/
 - Montag, 15. Mai 2023 14:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684154160/2845/
