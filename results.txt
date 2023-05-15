@@ -1,8 +1,2 @@
-- Dienstag, 16. Mai 2023 11:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684230480/231/
-- Dienstag, 16. Mai 2023 15:12 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684242720/922/
-- Dienstag, 16. Mai 2023 15:48 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684244880/313/
-- Mittwoch, 17. Mai 2023 09:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684309320/109/
-- Mittwoch, 17. Mai 2023 13:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684324200/2923/
-- Donnerstag, 15. Juni 2023 13:48 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686829680/898/
 - Dienstag, 20. Juni 2023 13:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687261800/150/
 - Mittwoch, 28. Juni 2023 12:42 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687948920/841/
