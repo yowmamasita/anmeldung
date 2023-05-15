@@ -58,7 +58,6 @@
 - Montag, 10. Juli 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688976000/2878/
 - Montag, 10. Juli 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688976000/2881/
 - Montag, 10. Juli 2023 10:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688976360/2908/
-- Montag, 10. Juli 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1688976360/313/
 - Montag, 10. Juli 2023 10:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688976600/2923/
 - Montag, 10. Juli 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688976600/2941/
 - Montag, 10. Juli 2023 10:12 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1688976720/140/
@@ -129,8 +128,8 @@
 - Montag, 10. Juli 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688990400/2881/
 - Montag, 10. Juli 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688990400/2863/
 - Montag, 10. Juli 2023 14:10 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1688991000/151/
+- Montag, 10. Juli 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1688991000/150/
 - Montag, 10. Juli 2023 14:20 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688991600/2923/
-- Montag, 10. Juli 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1688991600/150/
 - Montag, 10. Juli 2023 14:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688991840/2854/
 - Montag, 10. Juli 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1688991840/168/
 - Montag, 10. Juli 2023 15:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688994000/2836/
@@ -145,3 +144,4 @@
 - Mittwoch, 12. Juli 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689147360/2899/
 - Mittwoch, 12. Juli 2023 09:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689148080/2896/
 - Mittwoch, 12. Juli 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689148080/2899/
+- Mittwoch, 12. Juli 2023 10:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689148800/2899/
