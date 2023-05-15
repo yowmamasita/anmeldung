@@ -9,7 +9,6 @@
 - Montag, 10. Juli 2023 12:48 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688986080/922/
 - Montag, 10. Juli 2023 13:00 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688986800/922/
 - Montag, 10. Juli 2023 13:12 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688987520/922/
-- Montag, 10. Juli 2023 13:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688987880/109/
 - Montag, 10. Juli 2023 13:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688988240/191/
 - Montag, 10. Juli 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688988240/922/
 - Montag, 10. Juli 2023 13:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688988960/191/
@@ -18,7 +17,6 @@
 - Montag, 10. Juli 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688989680/922/
 - Montag, 10. Juli 2023 14:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688990400/191/
 - Montag, 10. Juli 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688990400/922/
-- Montag, 10. Juli 2023 14:12 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688991120/922/
 - Mittwoch, 12. Juli 2023 12:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689158160/2896/
 - Mittwoch, 12. Juli 2023 12:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689158880/2896/
 - Mittwoch, 12. Juli 2023 13:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689160320/2896/
