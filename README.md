@@ -4,9 +4,7 @@
 - Dienstag, 16. Mai 2023 11:12 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1684228320/102/
 - Dienstag, 16. Mai 2023 12:24 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1684232640/102/
 - Dienstag, 16. Mai 2023 12:36 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1684233360/102/
-- Dienstag, 16. Mai 2023 14:48 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1684241280/102/
 - Dienstag, 16. Mai 2023 15:12 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1684242720/102/
-- Dienstag, 16. Mai 2023 15:24 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1684243440/102/
 - Dienstag, 16. Mai 2023 16:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684245600/170/
 - Dienstag, 16. Mai 2023 16:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684246320/170/
 - Dienstag, 16. Mai 2023 16:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684247040/170/
