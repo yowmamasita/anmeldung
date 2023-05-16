@@ -13,7 +13,6 @@
 - Dienstag, 11. Juli 2023 15:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689081840/2857/
 - Dienstag, 11. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689081840/2926/
 - Dienstag, 11. Juli 2023 15:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689082560/2857/
-- Dienstag, 11. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689082560/2926/
 - Dienstag, 11. Juli 2023 15:48 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689083280/2908/
 - Dienstag, 11. Juli 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689083280/2857/
 - Dienstag, 11. Juli 2023 16:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689084000/2857/
