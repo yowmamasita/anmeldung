@@ -3,5 +3,4 @@
 - Mittwoch, 17. Mai 2023 09:30 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684308600/153/
 - Mittwoch, 17. Mai 2023 09:42 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684309320/153/
 - Mittwoch, 17. Mai 2023 09:54 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684310040/153/
-- Mittwoch, 17. Mai 2023 10:42 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684312920/153/
 - Mittwoch, 17. Mai 2023 10:54 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1684313640/153/
