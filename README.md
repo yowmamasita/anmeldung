@@ -12,7 +12,6 @@
 - Dienstag, 11. Juli 2023 17:00 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689087600/898/
 - Dienstag, 11. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689087600/904/
 - Dienstag, 11. Juli 2023 17:12 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689088320/898/
-- Dienstag, 11. Juli 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1689088320/313/
 - Dienstag, 11. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689088320/904/
 - Dienstag, 11. Juli 2023 17:24 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689089040/898/
 - Dienstag, 11. Juli 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1689089040/313/
