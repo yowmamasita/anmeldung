@@ -14,8 +14,6 @@
 - Dienstag, 16. Mai 2023 11:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684228320/2848/
 - Dienstag, 16. Mai 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1684228320/312/
 - Dienstag, 16. Mai 2023 11:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684229040/2848/
-- Dienstag, 16. Mai 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1684229040/312/
 - Dienstag, 16. Mai 2023 11:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684229760/2848/
 - Dienstag, 16. Mai 2023 11:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684230480/2848/
 - Dienstag, 16. Mai 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1684230480/312/
-- Dienstag, 16. Mai 2023 12:12 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1684231920/312/
