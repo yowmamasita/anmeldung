@@ -3,4 +3,3 @@
 - Mittwoch, 17. Mai 2023 08:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684305360/170/
 - Mittwoch, 17. Mai 2023 09:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684308960/170/
 - Mittwoch, 17. Mai 2023 09:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684309680/170/
-- Mittwoch, 17. Mai 2023 10:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684311840/170/
