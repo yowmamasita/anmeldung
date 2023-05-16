@@ -96,8 +96,7 @@
 - Dienstag, 11. Juli 2023 14:42 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689079320/2836/
 - Dienstag, 11. Juli 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1689079320/140/
 - Dienstag, 11. Juli 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689079320/2839/
-- Dienstag, 11. Juli 2023 14:54 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1689080040/141/
-- Dienstag, 11. Juli 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689080040/2836/
+- Dienstag, 11. Juli 2023 14:54 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689080040/2836/
 - Dienstag, 11. Juli 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1689080040/140/
 - Dienstag, 11. Juli 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689080040/2839/
 - Dienstag, 11. Juli 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1689080040/142/
