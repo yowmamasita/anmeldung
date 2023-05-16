@@ -3,4 +3,3 @@
 - Mittwoch, 17. Mai 2023 08:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684305360/2863/
 - Mittwoch, 17. Mai 2023 08:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684306080/2863/
 - Mittwoch, 17. Mai 2023 10:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684311120/231/
-- Mittwoch, 17. Mai 2023 10:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684313280/231/
