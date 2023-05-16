@@ -1,1 +1,10 @@
-- Dienstag, 16. Mai 2023 10:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1684226880/312/
+- Dienstag, 16. Mai 2023 10:00 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684224000/109/
+- Dienstag, 16. Mai 2023 10:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684224720/109/
+- Dienstag, 16. Mai 2023 10:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684225440/109/
+- Dienstag, 16. Mai 2023 10:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684226160/109/
+- Dienstag, 16. Mai 2023 10:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684226880/109/
+- Dienstag, 16. Mai 2023 11:00 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684227600/109/
+- Dienstag, 16. Mai 2023 11:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684228320/109/
+- Dienstag, 16. Mai 2023 11:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684230480/109/
+- Dienstag, 16. Mai 2023 12:00 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684231200/109/
+- Dienstag, 16. Mai 2023 12:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684231920/109/
