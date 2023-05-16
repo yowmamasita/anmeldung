@@ -18,20 +18,23 @@
 - Dienstag, 16. Mai 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684229760/172/
 - Dienstag, 16. Mai 2023 11:48 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684230480/2908/
 - Dienstag, 16. Mai 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684230480/172/
-- Dienstag, 16. Mai 2023 12:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684231200/172/
-- Dienstag, 16. Mai 2023 12:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684231920/172/
-- Dienstag, 16. Mai 2023 12:24 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1684232640/134/
+- Dienstag, 16. Mai 2023 12:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684231920/191/
+- Dienstag, 16. Mai 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684231920/172/
+- Dienstag, 16. Mai 2023 12:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684232640/191/
 - Dienstag, 16. Mai 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684232640/172/
-- Dienstag, 16. Mai 2023 12:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684233360/172/
-- Dienstag, 16. Mai 2023 12:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684234080/172/
+- Dienstag, 16. Mai 2023 12:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684233360/191/
+- Dienstag, 16. Mai 2023 12:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684234080/191/
+- Dienstag, 16. Mai 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684234080/172/
 - Dienstag, 16. Mai 2023 13:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684234800/172/
-- Dienstag, 16. Mai 2023 13:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684235520/172/
-- Dienstag, 16. Mai 2023 13:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684236240/172/
-- Dienstag, 16. Mai 2023 13:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684236960/172/
-- Dienstag, 16. Mai 2023 13:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684237680/172/
-- Dienstag, 16. Mai 2023 15:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684243440/172/
+- Dienstag, 16. Mai 2023 13:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684235520/191/
+- Dienstag, 16. Mai 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684235520/172/
+- Dienstag, 16. Mai 2023 13:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684236240/191/
+- Dienstag, 16. Mai 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684236240/172/
+- Dienstag, 16. Mai 2023 13:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684236960/191/
+- Dienstag, 16. Mai 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684236960/172/
+- Dienstag, 16. Mai 2023 13:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684237680/191/
+- Dienstag, 16. Mai 2023 14:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684238400/191/
+- Dienstag, 16. Mai 2023 14:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684239120/191/
 - Dienstag, 16. Mai 2023 15:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684244160/172/
 - Dienstag, 16. Mai 2023 15:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684244880/172/
-- Dienstag, 16. Mai 2023 16:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684247040/172/
 - Dienstag, 16. Mai 2023 16:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684247760/172/
-- Dienstag, 16. Mai 2023 16:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684248480/172/
