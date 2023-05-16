@@ -14,5 +14,4 @@
 - Dienstag, 16. Mai 2023 14:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684239120/2848/
 - Dienstag, 16. Mai 2023 14:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684239840/2848/
 - Dienstag, 16. Mai 2023 14:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684240560/2848/
-- Dienstag, 13. Juni 2023 12:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686652560/2863/
 - Montag, 26. Juni 2023 10:24 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687767840/2839/
