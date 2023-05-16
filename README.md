@@ -15,4 +15,3 @@
 - Dienstag, 16. Mai 2023 14:12 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684239120/313/
 - Dienstag, 16. Mai 2023 14:24 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684239840/313/
 - Dienstag, 16. Mai 2023 14:36 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684240560/313/
-- Dienstag, 16. Mai 2023 14:48 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684241280/313/
