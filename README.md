@@ -5,7 +5,6 @@
 - Dienstag, 11. Juli 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689075360/898/
 - Dienstag, 11. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689075360/103/
 - Dienstag, 11. Juli 2023 13:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689076080/381/
-- Dienstag, 11. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689076080/103/
 - Dienstag, 11. Juli 2023 13:50 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689076200/2941/
 - Dienstag, 11. Juli 2023 14:00 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689076800/103/
 - Dienstag, 11. Juli 2023 14:12 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689077520/381/
