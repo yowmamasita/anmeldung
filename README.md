@@ -20,6 +20,7 @@
 - Dienstag, 16. Mai 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1684226880/146/
 - Dienstag, 16. Mai 2023 11:00 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684227600/112/
 - Dienstag, 16. Mai 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684227600/109/
+- Dienstag, 16. Mai 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1684227600/312/
 - Dienstag, 16. Mai 2023 11:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684228320/112/
 - Dienstag, 16. Mai 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684228320/109/
 - Dienstag, 16. Mai 2023 11:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684229040/112/
