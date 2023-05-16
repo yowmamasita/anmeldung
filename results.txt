@@ -101,11 +101,10 @@
 - Dienstag, 11. Juli 2023 16:42 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689086520/2836/
 - Dienstag, 11. Juli 2023 17:00 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689087600/2923/
 - Dienstag, 11. Juli 2023 17:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1689088200/147/
-- Dienstag, 11. Juli 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689088200/2881/
+- Dienstag, 11. Juli 2023 17:20 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689088800/2881/
 - Dienstag, 11. Juli 2023 17:42 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689090120/2836/
 - Donnerstag, 13. Juli 2023 10:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689237360/2899/
 - Donnerstag, 13. Juli 2023 10:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689238080/2899/
-- Donnerstag, 13. Juli 2023 11:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689238800/2899/
 - Donnerstag, 13. Juli 2023 11:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689239520/2899/
 - Donnerstag, 13. Juli 2023 11:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689240240/2899/
 - Donnerstag, 13. Juli 2023 11:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689240960/2899/
