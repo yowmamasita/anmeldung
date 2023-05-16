@@ -13,4 +13,3 @@
 - Mittwoch, 17. Mai 2023 10:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684311840/231/
 - Mittwoch, 17. Mai 2023 10:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684312560/231/
 - Mittwoch, 17. Mai 2023 10:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684313280/231/
-- Mittwoch, 17. Mai 2023 13:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684321920/231/
