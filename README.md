@@ -64,7 +64,7 @@
 - Mittwoch, 12. Juli 2023 12:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689156600/2941/
 - Mittwoch, 12. Juli 2023 12:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689156720/3238/
 - Mittwoch, 12. Juli 2023 12:30 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1689157800/149/
-- Mittwoch, 12. Juli 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1689157800/150/
+- Mittwoch, 12. Juli 2023 12:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1689158400/150/
 - Mittwoch, 12. Juli 2023 12:48 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1689158880/140/
 - Mittwoch, 12. Juli 2023 13:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689159600/2836/
 - Mittwoch, 12. Juli 2023  Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689159600/2923/
