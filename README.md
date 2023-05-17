@@ -4,5 +4,4 @@
 - Freitag, 19. Mai 2023 11:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1684488960/169/
 - Freitag, 19. Mai 2023 12:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684491840/922/
 - Freitag, 19. Mai 2023 12:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684492920/2911/
-- Montag, 22. Mai 2023 13:12 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1684753920/142/
 - Freitag, 16. Juni 2023 11:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1686906000/146/
