@@ -1,4 +1,5 @@
 - Mittwoch, 17. Mai 2023 07:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684302120/112/
+- Mittwoch, 17. Mai 2023 07:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684302840/112/
 - Mittwoch, 17. Mai 2023 08:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684303200/170/
 - Mittwoch, 17. Mai 2023 08:06 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684303560/112/
 - Mittwoch, 17. Mai 2023 08:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684303920/170/
@@ -24,7 +25,6 @@
 - Mittwoch, 17. Mai 2023 09:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684309680/170/
 - Mittwoch, 17. Mai 2023 09:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684310040/112/
 - Mittwoch, 17. Mai 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1684310040/312/
-- Mittwoch, 17. Mai 2023 10:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684310400/170/
 - Mittwoch, 17. Mai 2023 10:06 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684310760/112/
 - Mittwoch, 17. Mai 2023 10:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684311120/170/
 - Mittwoch, 17. Mai 2023 10:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684311480/112/
@@ -51,8 +51,6 @@
 - Mittwoch, 17. Mai 2023 12:18 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1684318680/312/
 - Mittwoch, 17. Mai 2023 12:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684319040/170/
 - Mittwoch, 17. Mai 2023 12:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684319760/170/
-- Mittwoch, 17. Mai 2023 12:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684320480/170/
 - Mittwoch, 17. Mai 2023 13:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684322280/112/
 - Mittwoch, 17. Mai 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1684322280/312/
-- Mittwoch, 17. Mai 2023 13:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1684323000/312/
 - Mittwoch, 17. Mai 2023 13:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1684323720/312/
