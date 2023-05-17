@@ -92,6 +92,7 @@
 - Mittwoch, 12. Juli 2023 12:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689156600/2941/
 - Mittwoch, 12. Juli 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1689156600/149/
 - Mittwoch, 12. Juli 2023 12:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689156720/3238/
+- Mittwoch, 12. Juli 2023 12:36 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1689158160/145/
 - Mittwoch, 12. Juli 2023 12:48 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1689158880/141/
 - Mittwoch, 12. Juli 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689158880/1018/
 - Mittwoch, 12. Juli 2023 13:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689159600/2836/
