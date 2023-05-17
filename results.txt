@@ -1,10 +1,7 @@
 - Mittwoch, 17. Mai 2023 08:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684306440/313/
-- Mittwoch, 17. Mai 2023 09:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684307880/313/
-- Mittwoch, 17. Mai 2023 09:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684308600/2908/
-- Mittwoch, 17. Mai 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684308600/313/
+- Mittwoch, 17. Mai 2023 09:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684308600/313/
 - Mittwoch, 17. Mai 2023 09:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684309320/313/
 - Mittwoch, 17. Mai 2023 09:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684310040/313/
-- Mittwoch, 17. Mai 2023 10:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684310400/2851/
 - Mittwoch, 17. Mai 2023 10:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684310760/313/
 - Mittwoch, 17. Mai 2023 10:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684311480/313/
 - Mittwoch, 17. Mai 2023 10:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684312200/313/
@@ -15,6 +12,4 @@
 - Mittwoch, 17. Mai 2023 12:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684318680/313/
 - Mittwoch, 17. Mai 2023 12:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684320120/313/
 - Mittwoch, 17. Mai 2023 12:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684320840/313/
-- Mittwoch, 17. Mai 2023 13:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684323000/313/
 - Mittwoch, 17. Mai 2023 13:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684323720/313/
-- Mittwoch, 14. Juni 2023 09:24 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686727440/2893/
