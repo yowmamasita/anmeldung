@@ -1,6 +1,7 @@
-- Mittwoch, 17. Mai 2023 07:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684301400/109/
-- Mittwoch, 17. Mai 2023 07:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684302840/109/
-- Mittwoch, 17. Mai 2023 08:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684305360/170/
-- Mittwoch, 17. Mai 2023 08:54 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684306440/2887/
-- Mittwoch, 17. Mai 2023 09:06 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684307160/109/
-- Mittwoch, 17. Mai 2023 10:12 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684311120/2839/
+- Mittwoch, 17. Mai 2023 07:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684302120/2908/
+- Mittwoch, 17. Mai 2023 08:06 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684303560/109/
+- Mittwoch, 17. Mai 2023 08:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684306440/109/
+- Mittwoch, 17. Mai 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684306440/2926/
+- Mittwoch, 17. Mai 2023 09:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684307520/231/
+- Mittwoch, 17. Mai 2023 09:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684309320/109/
+- Mittwoch, 17. Mai 2023 13:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684323000/109/
