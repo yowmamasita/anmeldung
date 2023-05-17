@@ -18,7 +18,6 @@
 - Mittwoch, 12. Juli 2023 11:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689152400/3238/
 - Mittwoch, 12. Juli 2023 11:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689153120/3238/
 - Mittwoch, 12. Juli 2023 11:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689153840/3238/
-- Mittwoch, 12. Juli 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689153840/2854/
 - Mittwoch, 12. Juli 2023 11:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689154560/3238/
 - Mittwoch, 12. Juli 2023 11:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689155280/3238/
 - Mittwoch, 12. Juli 2023 12:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689156000/3238/
