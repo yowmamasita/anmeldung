@@ -14,6 +14,4 @@
 - Mittwoch, 17. Mai 2023 11:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684314720/170/
 - Mittwoch, 17. Mai 2023 11:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684316160/154/
 - Mittwoch, 17. Mai 2023 13:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684321200/154/
-- Mittwoch, 17. Mai 2023 13:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684322640/154/
 - Mittwoch, 17. Mai 2023 13:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684324080/154/
-- Mittwoch, 17. Mai 2023 14:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684326960/154/
