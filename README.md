@@ -54,4 +54,3 @@
 - Mittwoch, 12. Juli 2023 13:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1689161400/313/
 - Mittwoch, 12. Juli 2023 13:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1689162120/313/
 - Mittwoch, 12. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689162120/2926/
-- Mittwoch, 12. Juli 2023 13:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1689162840/313/
