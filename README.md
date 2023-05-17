@@ -7,4 +7,3 @@
 - Mittwoch, 12. Juli 2023 16:36 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689172560/2932/
 - Mittwoch, 12. Juli 2023 16:48 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689173280/2932/
 - Mittwoch, 12. Juli 2023 17:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689174720/2932/
-- Mittwoch, 12. Juli 2023 17:36 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689176160/2932/
