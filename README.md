@@ -28,4 +28,3 @@
 - Mittwoch, 12. Juli 2023 13:00 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689159600/1018/
 - Mittwoch, 12. Juli 2023 13:12 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689160320/1018/
 - Mittwoch, 12. Juli 2023 13:24 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689161040/1018/
-- Mittwoch, 12. Juli 2023 13:36 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689161760/1018/
