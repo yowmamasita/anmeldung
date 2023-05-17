@@ -12,8 +12,6 @@
 - Mittwoch, 17. Mai 2023 08:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684306080/3238/
 - Mittwoch, 17. Mai 2023 08:54 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1684306440/312/
 - Mittwoch, 17. Mai 2023 09:06 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684307160/112/
-- Mittwoch, 17. Mai 2023 09:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684307520/3238/
-- Mittwoch, 17. Mai 2023 09:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684308240/3238/
 - Mittwoch, 17. Mai 2023 09:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684308600/109/
 - Mittwoch, 17. Mai 2023 09:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684308960/3238/
 - Mittwoch, 17. Mai 2023 09:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684309680/170/
@@ -25,7 +23,4 @@
 - Mittwoch, 17. Mai 2023 10:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684313280/3238/
 - Mittwoch, 17. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684313280/170/
 - Mittwoch, 17. Mai 2023 10:54 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1684313640/312/
-- Mittwoch, 17. Mai 2023 11:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684314720/170/
 - Mittwoch, 17. Mai 2023 11:18 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1684315080/312/
-- Mittwoch, 17. Mai 2023 11:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1684315800/312/
-- Mittwoch, 17. Mai 2023 11:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684316160/170/
