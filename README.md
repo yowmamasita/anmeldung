@@ -3,5 +3,3 @@
 - Mittwoch, 17. Mai 2023 10:18 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1684311480/135/
 - Mittwoch, 17. Mai 2023 11:18 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1684315080/135/
 - Mittwoch, 17. Mai 2023 11:30 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1684315800/135/
-- Mittwoch, 17. Mai 2023 11:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1684316520/135/
-- Mittwoch, 17. Mai 2023 12:30 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1684319400/135/
