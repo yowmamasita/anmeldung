@@ -64,7 +64,6 @@
 - Mittwoch, 12. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689159960/2926/
 - Mittwoch, 12. Juli 2023 13:18 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1689160680/192/
 - Mittwoch, 12. Juli 2023 13:24 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689161040/2836/
-- Mittwoch, 12. Juli 2023 13:30 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1689161400/147/
-- Mittwoch, 12. Juli 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689161400/2881/
+- Mittwoch, 12. Juli 2023 13:30 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689161400/2881/
 - Mittwoch, 12. Juli 2023 13:50 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689162600/2941/
 - Mittwoch, 12. Juli 2023 14:06 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689163560/2926/
