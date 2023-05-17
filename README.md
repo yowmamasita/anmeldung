@@ -5,7 +5,8 @@
 - Mittwoch, 17. Mai 2023 08:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684303200/172/
 - Mittwoch, 17. Mai 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684303200/2899/
 - Mittwoch, 17. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684303200/170/
-- Mittwoch, 17. Mai 2023 08:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684303560/2908/
+- Mittwoch, 17. Mai 2023 08:06 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1684303560/134/
+- Mittwoch, 17. Mai 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684303560/2908/
 - Mittwoch, 17. Mai 2023 08:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684303920/2896/
 - Mittwoch, 17. Mai 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684303920/172/
 - Mittwoch, 17. Mai 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684303920/2899/
@@ -45,10 +46,8 @@
 - Mittwoch, 17. Mai 2023 09:42 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1684309320/134/
 - Mittwoch, 17. Mai 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684309320/2908/
 - Mittwoch, 17. Mai 2023 09:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684309680/2896/
-- Mittwoch, 17. Mai 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684309680/2899/
 - Mittwoch, 17. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684309680/170/
-- Mittwoch, 17. Mai 2023 09:54 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1684310040/134/
-- Mittwoch, 17. Mai 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684310040/2908/
+- Mittwoch, 17. Mai 2023 09:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684310040/2908/
 - Mittwoch, 17. Mai 2023 10:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684310400/3238/
 - Mittwoch, 17. Mai 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684310400/2896/
 - Mittwoch, 17. Mai 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684310400/2899/
@@ -56,7 +55,6 @@
 - Mittwoch, 17. Mai 2023 10:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684311120/2899/
 - Mittwoch, 17. Mai 2023 10:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684311480/2908/
 - Mittwoch, 17. Mai 2023 10:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684312200/2908/
-- Mittwoch, 17. Mai 2023 10:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684312560/2899/
 - Mittwoch, 17. Mai 2023 10:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684312920/2908/
 - Mittwoch, 17. Mai 2023 10:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684313280/170/
 - Mittwoch, 17. Mai 2023 10:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684313640/2908/
@@ -67,7 +65,6 @@
 - Mittwoch, 17. Mai 2023 11:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684316160/170/
 - Mittwoch, 17. Mai 2023 11:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684316880/170/
 - Mittwoch, 17. Mai 2023 12:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684318680/2908/
-- Mittwoch, 17. Mai 2023 12:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684319040/170/
 - Mittwoch, 17. Mai 2023 12:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684319400/2908/
 - Mittwoch, 17. Mai 2023 12:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684320120/2908/
 - Mittwoch, 17. Mai 2023 12:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684320840/2908/
