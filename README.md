@@ -25,8 +25,7 @@
 - Mittwoch, 17. Mai 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684322640/172/
 - Mittwoch, 17. Mai 2023 13:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1684323360/106/
 - Mittwoch, 17. Mai 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684323360/172/
-- Mittwoch, 17. Mai 2023 13:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1684324080/106/
-- Mittwoch, 17. Mai 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684324080/172/
+- Mittwoch, 17. Mai 2023 13:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684324080/172/
 - Mittwoch, 17. Mai 2023 14:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684324800/172/
 - Mittwoch, 17. Mai 2023 14:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684326240/172/
 - Mittwoch, 17. Mai 2023 14:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684326960/172/
