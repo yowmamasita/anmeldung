@@ -7,7 +7,6 @@
 - Mittwoch, 17. Mai 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1684311120/167/
 - Mittwoch, 17. Mai 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684311120/2863/
 - Mittwoch, 17. Mai 2023 10:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684311840/2848/
-- Mittwoch, 17. Mai 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1684311840/167/
 - Mittwoch, 17. Mai 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684311840/2863/
 - Mittwoch, 17. Mai 2023 10:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1684312560/167/
 - Mittwoch, 17. Mai 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684312560/2863/
