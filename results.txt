@@ -1,7 +1,6 @@
 - Freitag, 19. Mai 2023 08:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1684476720/168/
 - Freitag, 19. Mai 2023 08:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1684477440/168/
 - Freitag, 19. Mai 2023 09:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1684480320/168/
-- Freitag, 19. Mai 2023 09:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1684481040/168/
 - Freitag, 19. Mai 2023 09:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1684481760/168/
 - Freitag, 19. Mai 2023 09:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1684482480/168/
 - Freitag, 19. Mai 2023 10:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1684483920/168/
@@ -14,4 +13,3 @@
 - Freitag, 19. Mai 2023 12:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1684490400/168/
 - Freitag, 19. Mai 2023 12:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1684491120/168/
 - Freitag, 19. Mai 2023 12:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1684491840/168/
-- Freitag, 19. Mai 2023 12:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1684492560/168/
