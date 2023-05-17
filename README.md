@@ -12,9 +12,7 @@
 - Mittwoch, 17. Mai 2023 10:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684313280/2857/
 - Mittwoch, 17. Mai 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684313280/154/
 - Mittwoch, 17. Mai 2023 11:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684314720/170/
-- Mittwoch, 17. Mai 2023 11:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684315440/2845/
 - Mittwoch, 17. Mai 2023 11:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684316160/154/
-- Mittwoch, 17. Mai 2023 12:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684317600/154/
 - Mittwoch, 17. Mai 2023 13:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684321200/154/
 - Mittwoch, 17. Mai 2023 13:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684322640/154/
 - Mittwoch, 17. Mai 2023 13:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684324080/154/
