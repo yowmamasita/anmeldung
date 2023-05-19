@@ -1,7 +1,1 @@
-- Freitag, 19. Mai 2023 10:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684483200/191/
-- Freitag, 19. Mai 2023 10:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684484640/191/
-- Freitag, 19. Mai 2023 11:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684487520/191/
-- Freitag, 19. Mai 2023 11:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684488240/191/
-- Freitag, 19. Mai 2023 11:30 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1684488600/134/
 - Freitag, 19. Mai 2023 12:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684490400/191/
-- Freitag, 19. Mai 2023 12:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684491120/191/
