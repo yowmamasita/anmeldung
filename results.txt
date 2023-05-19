@@ -1,6 +1,6 @@
 - Donnerstag, 13. Juli 2023 07:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689226560/154/
-- Donnerstag, 13. Juli 2023 08:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1689228000/108/
-- Donnerstag, 13. Juli 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689228000/154/
+- Donnerstag, 13. Juli 2023 08:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689228000/154/
+- Donnerstag, 13. Juli 2023 08:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1689228720/108/
 - Donnerstag, 13. Juli 2023 08:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1689229440/106/
 - Donnerstag, 13. Juli 2023 09:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689231600/154/
 - Donnerstag, 13. Juli 2023 09:12 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1689232320/106/
@@ -9,7 +9,6 @@
 - Donnerstag, 13. Juli 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689233400/381/
 - Donnerstag, 13. Juli 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1689233400/142/
 - Donnerstag, 13. Juli 2023 09:40 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689234000/103/
-- Donnerstag, 13. Juli 2023 09:48 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1689234480/102/
 - Donnerstag, 13. Juli 2023 09:54 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1689234840/141/
 - Donnerstag, 13. Juli 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689234840/153/
 - Donnerstag, 13. Juli 2023 10:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1689235200/106/
@@ -212,6 +211,7 @@
 - Donnerstag, 13. Juli 2023 16:24 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1689258240/313/
 - Donnerstag, 13. Juli 2023 16:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689258960/112/
 - Donnerstag, 13. Juli 2023 17:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1689260400/106/
+- Donnerstag, 13. Juli 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1689260400/136/
 - Donnerstag, 13. Juli 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1689260400/108/
 - Donnerstag, 13. Juli 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689260400/844/
 - Donnerstag, 13. Juli 2023  Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1689260400/380/
@@ -231,7 +231,6 @@
 - Donnerstag, 13. Juli 2023 17:06 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1689260760/141/
 - Donnerstag, 13. Juli 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1689260760/140/
 - Donnerstag, 13. Juli 2023 17:12 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1689261120/134/
-- Donnerstag, 13. Juli 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1689261120/136/
 - Donnerstag, 13. Juli 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1689261120/102/
 - Donnerstag, 13. Juli 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1689261120/145/
 - Donnerstag, 13. Juli 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1689261120/192/
