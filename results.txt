@@ -1,5 +1,4 @@
 - Freitag, 16. Juni 2023 12:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686910680/2839/
-- Dienstag, 11. Juli 2023 17:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1689089040/146/
 - Donnerstag, 13. Juli 2023 11:30 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689240600/2941/
 - Donnerstag, 13. Juli 2023 11:36 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689240960/2908/
 - Donnerstag, 13. Juli 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689240960/3238/
@@ -183,6 +182,7 @@
 - Freitag, 14. Juli 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689320160/381/
 - Freitag, 14. Juli 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689320160/154/
 - Freitag, 14. Juli 2023 09:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1689320400/150/
+- Freitag, 14. Juli 2023 09:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1689320880/191/
 - Freitag, 14. Juli 2023 09:50 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1689321000/151/
 - Freitag, 14. Juli 2023  Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1689321000/148/
 - Freitag, 14. Juli 2023 10:00 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1689321600/380/
