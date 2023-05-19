@@ -64,8 +64,7 @@
 - Donnerstag, 13. Juli 2023 12:36 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689244560/898/
 - Donnerstag, 13. Juli 2023 12:42 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1689244920/140/
 - Donnerstag, 13. Juli 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689244920/2932/
-- Donnerstag, 13. Juli 2023 12:48 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1689245280/313/
-- Donnerstag, 13. Juli 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689245280/2938/
+- Donnerstag, 13. Juli 2023 12:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689245280/2938/
 - Donnerstag, 13. Juli 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1689245280/192/
 - Donnerstag, 13. Juli 2023 12:54 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1689245640/141/
 - Donnerstag, 13. Juli 2023 13:00 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689246000/2908/
@@ -329,7 +328,6 @@
 - Freitag, 14. Juli 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1689321600/150/
 - Freitag, 14. Juli 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689321600/1018/
 - Freitag, 14. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689321600/2926/
-- Freitag, 14. Juli 2023  Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1689321600/189/
 - Freitag, 14. Juli 2023 10:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689321960/2908/
 - Freitag, 14. Juli 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689321960/2911/
 - Freitag, 14. Juli 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689321960/2914/
@@ -339,6 +337,7 @@
 - Freitag, 14. Juli 2023  Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1689322200/148/
 - Freitag, 14. Juli 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1689322200/149/
 - Freitag, 14. Juli 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689322200/2884/
+- Freitag, 14. Juli 2023  Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1689322200/189/
 - Freitag, 14. Juli 2023 10:12 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1689322320/106/
 - Freitag, 14. Juli 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689322320/2857/
 - Freitag, 14. Juli 2023  Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1689322320/141/
