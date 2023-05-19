@@ -86,7 +86,7 @@
 - Donnerstag, 13. Juli 2023 13:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1689248160/169/
 - Donnerstag, 13. Juli 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689248160/381/
 - Donnerstag, 13. Juli 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1689248160/313/
-- Donnerstag, 13. Juli 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1689248160/191/
+- Donnerstag, 13. Juli 2023 13:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1689248880/191/
 - Donnerstag, 13. Juli 2023 14:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689249600/2848/
 - Donnerstag, 13. Juli 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689249600/844/
 - Donnerstag, 13. Juli 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1689249600/169/
