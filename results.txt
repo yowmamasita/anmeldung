@@ -635,7 +635,6 @@
 - Freitag, 14. Juli 2023 13:24 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1689333840/142/
 - Freitag, 14. Juli 2023 13:36 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1689334560/141/
 - Freitag, 14. Juli 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689334560/1018/
-- Montag, 17. Juli 2023 08:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1689574320/146/
 - Montag, 17. Juli 2023 09:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1689578640/231/
 - Montag, 17. Juli 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1689578640/146/
 - Montag, 17. Juli 2023 09:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1689579360/231/
