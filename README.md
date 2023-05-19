@@ -39,8 +39,7 @@
 - Mittwoch, 12. Juli 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689156720/2866/
 - Mittwoch, 12. Juli 2023 12:24 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689157440/2866/
 - Mittwoch, 12. Juli 2023 12:36 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689158160/2866/
-- Mittwoch, 12. Juli 2023 12:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1689158880/170/
-- Mittwoch, 12. Juli 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689158880/2866/
+- Mittwoch, 12. Juli 2023 12:48 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689158880/2866/
 - Donnerstag, 13. Juli 2023 08:12 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689228720/2938/
 - Donnerstag, 13. Juli 2023 08:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689230880/154/
 - Donnerstag, 13. Juli 2023 09:00 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689231600/2938/
@@ -611,7 +610,6 @@
 - Montag, 17. Juli 2023 10:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1689583680/231/
 - Montag, 17. Juli 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1689583680/146/
 - Montag, 17. Juli 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1689583680/172/
-- Montag, 17. Juli 2023 11:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1689584400/146/
 - Montag, 17. Juli 2023 11:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1689585120/146/
 - Montag, 17. Juli 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1689585120/172/
 - Montag, 17. Juli 2023 11:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1689585840/231/
