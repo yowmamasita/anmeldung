@@ -497,8 +497,8 @@
 - Freitag, 14. Juli 2023 11:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1689326400/150/
 - Freitag, 14. Juli 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689326400/2884/
 - Freitag, 14. Juli 2023 11:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689326640/2854/
-- Freitag, 14. Juli 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689326640/1018/
-- Freitag, 14. Juli 2023 11:36 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1689327360/142/
+- Freitag, 14. Juli 2023 11:36 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689327360/1018/
+- Freitag, 14. Juli 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1689327360/142/
 - Freitag, 14. Juli 2023 11:50 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1689328200/148/
 - Freitag, 14. Juli 2023 12:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689328800/2857/
 - Freitag, 14. Juli 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689328800/2836/
