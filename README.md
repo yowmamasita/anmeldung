@@ -257,4 +257,3 @@
 - Freitag, 14. Juli 2023 12:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689330960/2845/
 - Freitag, 14. Juli 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689330960/2857/
 - Freitag, 14. Juli 2023 13:12 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689333120/2836/
-- Montag, 17. Juli 2023 12:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1689590880/172/
