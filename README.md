@@ -155,7 +155,6 @@
 - Freitag, 14. Juli 2023 10:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689324480/2848/
 - Freitag, 14. Juli 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1689324480/191/
 - Freitag, 14. Juli 2023 10:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1689324600/150/
-- Freitag, 14. Juli 2023 10:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1689324840/313/
 - Freitag, 14. Juli 2023 11:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689325200/2848/
 - Freitag, 14. Juli 2023  Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1689325200/380/
 - Freitag, 14. Juli 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689325200/2836/
