@@ -64,7 +64,6 @@
 - Dienstag, 11. Juli 2023 15:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1689082560/170/
 - Dienstag, 11. Juli 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689082560/2866/
 - Dienstag, 11. Juli 2023 15:48 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689083280/2866/
-- Dienstag, 11. Juli 2023 16:12 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689084720/2866/
 - Mittwoch, 12. Juli 2023 08:00 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689141600/2866/
 - Mittwoch, 12. Juli 2023 08:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1689142320/170/
 - Mittwoch, 12. Juli 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689142320/2866/
@@ -110,8 +109,8 @@
 - Mittwoch, 12. Juli 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689158880/2866/
 - Donnerstag, 13. Juli 2023 08:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689228720/2848/
 - Donnerstag, 13. Juli 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689228720/2938/
-- Donnerstag, 13. Juli 2023 08:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689230160/2845/
-- Donnerstag, 13. Juli 2023 08:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689230880/154/
+- Donnerstag, 13. Juli 2023 08:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689230880/2845/
+- Donnerstag, 13. Juli 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689230880/154/
 - Donnerstag, 13. Juli 2023 09:00 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689231600/2938/
 - Donnerstag, 13. Juli 2023 09:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689232320/2845/
 - Donnerstag, 13. Juli 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689232320/2848/
@@ -158,7 +157,6 @@
 - Donnerstag, 13. Juli 2023 10:42 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689237720/153/
 - Donnerstag, 13. Juli 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1689237720/142/
 - Donnerstag, 13. Juli 2023 10:48 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1689238080/135/
-- Donnerstag, 13. Juli 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689238080/312/
 - Donnerstag, 13. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689238080/111/
 - Donnerstag, 13. Juli 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689238080/2854/
 - Donnerstag, 13. Juli 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1689238080/191/
@@ -470,10 +468,10 @@
 - Donnerstag, 13. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689261120/2926/
 - Donnerstag, 13. Juli 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689261120/2866/
 - Donnerstag, 13. Juli 2023 17:20 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689261600/2881/
-- Donnerstag, 13. Juli 2023 17:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1689261840/106/
-- Donnerstag, 13. Juli 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689261840/2845/
+- Donnerstag, 13. Juli 2023 17:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689261840/2845/
 - Donnerstag, 13. Juli 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689261840/312/
 - Donnerstag, 13. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689261840/111/
+- Donnerstag, 13. Juli 2023 17:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1689262560/106/
 - Donnerstag, 13. Juli 2023 17:48 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1689263280/134/
 - Freitag, 14. Juli 2023 07:12 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689311520/1018/
 - Freitag, 14. Juli 2023 07:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689312240/2854/
