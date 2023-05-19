@@ -217,7 +217,6 @@
 - Donnerstag, 13. Juli 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1689258240/192/
 - Donnerstag, 13. Juli 2023 16:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689258960/153/
 - Donnerstag, 13. Juli 2023 16:40 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689259200/2923/
-- Donnerstag, 13. Juli 2023 16:42 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1689259320/140/
 - Donnerstag, 13. Juli 2023 17:00 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689260400/2911/
 - Donnerstag, 13. Juli 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689260400/3238/
 - Donnerstag, 13. Juli 2023 17:06 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689260760/2836/
