@@ -1,6 +1,6 @@
 - Donnerstag, 13. Juli 2023 10:24 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689236640/2908/
-- Donnerstag, 13. Juli 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689236640/154/
-- Donnerstag, 13. Juli 2023 10:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689237360/2938/
+- Donnerstag, 13. Juli 2023 10:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689237360/154/
+- Donnerstag, 13. Juli 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689237360/2938/
 - Donnerstag, 13. Juli 2023 10:48 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689238080/2911/
 - Donnerstag, 13. Juli 2023 10:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689238200/2923/
 - Donnerstag, 13. Juli 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689238200/2881/
@@ -392,8 +392,8 @@
 - Freitag, 14. Juli 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1689326640/145/
 - Freitag, 14. Juli 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689326640/1018/
 - Freitag, 14. Juli 2023 11:30 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689327000/844/
-- Freitag, 14. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689327000/111/
 - Freitag, 14. Juli 2023 11:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1689327600/150/
+- Freitag, 14. Juli 2023 11:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689327720/111/
 - Freitag, 14. Juli 2023 11:48 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1689328080/142/
 - Freitag, 14. Juli 2023 11:50 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1689328200/148/
 - Freitag, 14. Juli 2023 12:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1689328800/169/
