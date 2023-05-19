@@ -302,8 +302,7 @@
 - Freitag, 14. Juli 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1689329160/313/
 - Freitag, 14. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689329160/904/
 - Freitag, 14. Juli 2023 12:10 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1689329400/149/
-- Freitag, 14. Juli 2023 12:12 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1689329520/102/
-- Freitag, 14. Juli 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689329520/153/
+- Freitag, 14. Juli 2023 12:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689329520/153/
 - Freitag, 14. Juli 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689329520/2932/
 - Freitag, 14. Juli 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1689329520/191/
 - Freitag, 14. Juli 2023 12:18 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1689329880/134/
@@ -313,11 +312,11 @@
 - Freitag, 14. Juli 2023 12:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1689330240/169/
 - Freitag, 14. Juli 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689330240/2857/
 - Freitag, 14. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689330240/2887/
+- Freitag, 14. Juli 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1689330240/102/
 - Freitag, 14. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689330240/103/
 - Freitag, 14. Juli 2023 12:40 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1689331200/148/
 - Freitag, 14. Juli 2023 13:12 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689333120/2836/
 - Dienstag, 18. Juli 2023 12:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1689674400/231/
-- Dienstag, 18. Juli 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1689674400/146/
 - Dienstag, 18. Juli 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1689674400/172/
 - Dienstag, 18. Juli 2023 12:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1689675120/231/
 - Dienstag, 18. Juli 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1689675120/146/
