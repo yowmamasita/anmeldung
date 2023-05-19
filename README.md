@@ -206,14 +206,14 @@
 - Freitag, 14. Juli 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689329160/2839/
 - Freitag, 14. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689329160/904/
 - Freitag, 14. Juli 2023 12:10 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1689329400/149/
-- Freitag, 14. Juli 2023 12:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689329520/153/
-- Freitag, 14. Juli 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689329520/154/
+- Freitag, 14. Juli 2023 12:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689329520/154/
 - Freitag, 14. Juli 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1689329520/192/
 - Freitag, 14. Juli 2023 12:18 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689329880/898/
 - Freitag, 14. Juli 2023 12:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1689330000/147/
 - Freitag, 14. Juli 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689330000/2878/
 - Freitag, 14. Juli 2023 12:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689330240/381/
 - Freitag, 14. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689330240/2887/
+- Freitag, 14. Juli 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689330240/153/
 - Freitag, 14. Juli 2023 12:40 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1689331200/151/
 - Freitag, 14. Juli 2023 12:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689331320/312/
 - Freitag, 14. Juli 2023 12:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1689331680/106/
