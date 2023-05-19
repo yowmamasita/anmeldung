@@ -58,7 +58,6 @@
 - Donnerstag, 13. Juli 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1689238080/192/
 - Donnerstag, 13. Juli 2023 10:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1689238200/147/
 - Donnerstag, 13. Juli 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1689238200/150/
-- Donnerstag, 13. Juli 2023 10:54 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1689238440/142/
 - Donnerstag, 13. Juli 2023 11:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689238800/2845/
 - Donnerstag, 13. Juli 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689238800/2908/
 - Donnerstag, 13. Juli 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689238800/2911/
