@@ -1,8 +1,7 @@
 - Mittwoch, 12. Juli 2023 07:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689138720/143/
 - Mittwoch, 12. Juli 2023 07:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689140160/2851/
 - Mittwoch, 12. Juli 2023 07:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689140880/2851/
-- Mittwoch, 12. Juli 2023 08:00 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689141600/143/
-- Mittwoch, 12. Juli 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689141600/2851/
+- Mittwoch, 12. Juli 2023 08:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689141600/2851/
 - Mittwoch, 12. Juli 2023 08:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689142320/143/
 - Mittwoch, 12. Juli 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689142320/2851/
 - Mittwoch, 12. Juli 2023 08:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689143040/143/
@@ -18,6 +17,7 @@
 - Mittwoch, 12. Juli 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689147360/2851/
 - Mittwoch, 12. Juli 2023 09:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689148080/143/
 - Mittwoch, 12. Juli 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689148080/2851/
+- Mittwoch, 12. Juli 2023 10:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689148800/2851/
 - Mittwoch, 12. Juli 2023 10:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689149520/2851/
 - Mittwoch, 12. Juli 2023 10:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689150960/2851/
 - Mittwoch, 12. Juli 2023 12:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689156720/2851/
@@ -25,5 +25,4 @@
 - Mittwoch, 12. Juli 2023 12:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689158160/2851/
 - Mittwoch, 12. Juli 2023 12:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689158880/143/
 - Mittwoch, 12. Juli 2023 13:00 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689159600/143/
-- Mittwoch, 12. Juli 2023 13:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689160320/143/
 - Mittwoch, 12. Juli 2023 13:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689162480/143/
