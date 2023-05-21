@@ -6,5 +6,4 @@
 - Mittwoch, 24. Mai 2023 08:54 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684911240/847/
 - Donnerstag, 25. Mai 2023 12:12 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685009520/2893/
 - Mittwoch, 7. Juni 2023 11:00 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686128400/2839/
-- Mittwoch, 28. Juni 2023 10:06 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687939560/192/
 - Donnerstag, 29. Juni 2023 11:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688030640/143/
