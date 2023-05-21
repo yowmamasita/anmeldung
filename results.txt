@@ -1,3 +1,3 @@
-- Montag, 22. Mai 2023 13:30 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1684755000/149/
-- Dienstag, 23. Mai 2023 13:10 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1684840200/149/
-- Freitag, 2. Juni 2023 13:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685703600/2836/
+- Montag, 22. Mai 2023 13:24 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684754640/2836/
+- Dienstag, 23. Mai 2023 13:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1684840800/150/
+- Dienstag, 23. Mai 2023 13:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684841040/922/
