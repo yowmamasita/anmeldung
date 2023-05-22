@@ -22,3 +22,4 @@
 - Montag, 17. Juli 2023 14:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1689598440/136/
 - Montag, 17. Juli 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689598440/844/
 - Montag, 17. Juli 2023 15:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1689599160/136/
+- Montag, 17. Juli 2023 15:12 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1689599520/134/
