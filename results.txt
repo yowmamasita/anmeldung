@@ -1,4 +1,3 @@
-- Montag, 17. Juli 2023 14:24 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689596640/2938/
 - Montag, 17. Juli 2023 14:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689597360/2938/
 - Montag, 17. Juli 2023 14:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689598080/2938/
 - Montag, 17. Juli 2023 15:24 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689600240/2938/
@@ -8,7 +7,6 @@
 - Montag, 17. Juli 2023 16:12 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689603120/2938/
 - Montag, 17. Juli 2023 16:24 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689603840/2938/
 - Montag, 17. Juli 2023 16:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689604560/2938/
-- Montag, 17. Juli 2023 16:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689605280/2938/
 - Montag, 17. Juli 2023 17:24 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689607440/2938/
 - Montag, 17. Juli 2023 17:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689608880/2938/
 - Mittwoch, 19. Juli 2023 14:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689768000/2896/
@@ -16,4 +14,3 @@
 - Mittwoch, 19. Juli 2023 14:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689769440/2896/
 - Mittwoch, 19. Juli 2023 14:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689770160/2896/
 - Mittwoch, 19. Juli 2023 14:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689770880/2896/
-- Donnerstag, 20. Juli 2023 14:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1689857280/172/
