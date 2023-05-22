@@ -10,4 +10,3 @@
 - Dienstag, 23. Mai 2023 09:42 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1684827720/133/
 - Dienstag, 23. Mai 2023 10:42 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1684831320/133/
 - Dienstag, 23. Mai 2023 10:54 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1684832040/133/
-- Dienstag, 23. Mai 2023 17:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1684854720/136/
