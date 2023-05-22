@@ -1,16 +1,1 @@
-- Montag, 17. Juli 2023 14:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689597360/2938/
-- Montag, 17. Juli 2023 14:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689598080/2938/
-- Montag, 17. Juli 2023 15:24 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689600240/2938/
-- Montag, 17. Juli 2023 15:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689600960/2938/
-- Montag, 17. Juli 2023 15:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689601680/2938/
-- Montag, 17. Juli 2023 16:00 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689602400/2938/
-- Montag, 17. Juli 2023 16:12 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689603120/2938/
-- Montag, 17. Juli 2023 16:24 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689603840/2938/
-- Montag, 17. Juli 2023 16:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689604560/2938/
-- Montag, 17. Juli 2023 17:24 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689607440/2938/
-- Montag, 17. Juli 2023 17:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689608880/2938/
-- Mittwoch, 19. Juli 2023 14:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689768000/2896/
-- Mittwoch, 19. Juli 2023 14:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689768720/2896/
-- Mittwoch, 19. Juli 2023 14:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689769440/2896/
-- Mittwoch, 19. Juli 2023 14:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689770160/2896/
-- Mittwoch, 19. Juli 2023 14:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689770880/2896/
+- Dienstag, 23. Mai 2023 14:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684844640/3238/
