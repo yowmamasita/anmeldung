@@ -1,6 +1,0 @@
-- Montag, 22. Mai 2023 14:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684757520/231/
-- Mittwoch, 24. Mai 2023 07:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684905120/3238/
-- Mittwoch, 24. Mai 2023 08:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1684911000/150/
-- Mittwoch, 24. Mai 2023 09:20 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684912800/2923/
-- Montag, 12. Juni 2023 13:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1686569760/106/
-- Freitag, 23. Juni 2023 10:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687507200/2851/
