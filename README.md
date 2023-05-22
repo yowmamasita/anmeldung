@@ -4,4 +4,3 @@
 - Mittwoch, 24. Mai 2023 10:00 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684915200/2938/
 - Freitag, 26. Mai 2023 09:06 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685084760/2839/
 - Montag, 12. Juni 2023 10:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686558960/2872/
-- Dienstag, 20. Juni 2023 13:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687260240/231/
