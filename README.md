@@ -1,6 +1,42 @@
 # List of available Anmeldung appointments as of $NOW
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122254,122252,329742,122260,329745,122262,329748,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,317869,122281,327352,122279,329772,122283,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
+- Montag, 22. Mai 2023 09:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1684742040/135/
+- Montag, 22. Mai 2023 10:06 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1684742760/135/
 - Montag, 22. Mai 2023 10:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1684743120/167/
+- Montag, 22. Mai 2023 10:18 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1684743480/135/
+- Montag, 22. Mai 2023 10:30 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1684744200/135/
+- Montag, 22. Mai 2023 10:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1684745640/135/
 - Montag, 22. Mai 2023 11:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1684746720/167/
+- Montag, 22. Mai 2023 11:18 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1684747080/135/
 - Montag, 22. Mai 2023 11:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1684748160/167/
 - Montag, 22. Mai 2023 11:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1684748880/167/
+- Montag, 22. Mai 2023 12:18 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1684750680/135/
+- Montag, 22. Mai 2023 12:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1684752120/135/
+- Montag, 22. Mai 2023 12:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1684752840/135/
+- Montag, 22. Mai 2023 13:18 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1684754280/135/
+- Montag, 22. Mai 2023 13:30 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1684755000/135/
+- Montag, 22. Mai 2023 13:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1684755720/135/
+- Montag, 22. Mai 2023 13:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1684756440/135/
+- Montag, 22. Mai 2023 14:18 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1684757880/135/
+- Montag, 22. Mai 2023 14:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684758240/154/
+- Montag, 22. Mai 2023 14:30 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1684758600/135/
+- Montag, 22. Mai 2023 14:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684758960/154/
+- Montag, 22. Mai 2023 14:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1684759320/135/
+- Montag, 22. Mai 2023 14:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684759680/154/
+- Montag, 22. Mai 2023 14:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1684760040/135/
+- Montag, 22. Mai 2023 15:06 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1684760760/135/
+- Montag, 22. Mai 2023 15:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684761120/154/
+- Montag, 22. Mai 2023 15:18 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1684761480/135/
+- Montag, 22. Mai 2023 15:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684761840/154/
+- Montag, 22. Mai 2023 15:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684762560/154/
+- Montag, 22. Mai 2023 15:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684763280/154/
+- Montag, 22. Mai 2023 16:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684764000/154/
+- Montag, 22. Mai 2023 16:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684764720/154/
+- Montag, 22. Mai 2023 16:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684765440/154/
+- Montag, 22. Mai 2023 16:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684766160/154/
+- Montag, 22. Mai 2023 16:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684766880/154/
+- Montag, 22. Mai 2023 17:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684767600/154/
+- Montag, 22. Mai 2023 17:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684768320/154/
+- Montag, 22. Mai 2023 17:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684769040/154/
+- Montag, 22. Mai 2023 17:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684769760/154/
+- Montag, 22. Mai 2023 17:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684770480/154/
