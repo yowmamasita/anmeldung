@@ -5,7 +5,6 @@
 - Mittwoch, 24. Mai 2023 10:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684915200/2863/
 - Mittwoch, 24. Mai 2023 10:48 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684918080/2920/
 - Mittwoch, 24. Mai 2023 11:06 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684919160/2887/
-- Donnerstag, 25. Mai 2023 11:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1685005920/168/
 - Donnerstag, 25. Mai 2023 13:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1685012400/172/
 - Montag, 5. Juni 2023 08:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685946960/2887/
 - Mittwoch, 21. Juni 2023 09:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687331520/2899/
