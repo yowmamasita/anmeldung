@@ -13,7 +13,6 @@
 - Donnerstag, 6. Juli 2023 13:48 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688644080/841/
 - Donnerstag, 6. Juli 2023 14:12 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688645520/841/
 - Donnerstag, 6. Juli 2023 14:24 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688646240/841/
-- Donnerstag, 6. Juli 2023 16:12 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688652720/841/
 - Freitag, 7. Juli 2023 07:54 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688709240/841/
 - Freitag, 7. Juli 2023 08:18 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688710680/841/
 - Freitag, 7. Juli 2023 08:30 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688711400/841/
@@ -301,7 +300,7 @@
 - Montag, 17. Juli 2023 14:40 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689597600/2941/
 - Montag, 17. Juli 2023 14:50 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1689598200/151/
 - Montag, 17. Juli 2023 15:00 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689598800/2839/
-- Montag, 17. Juli 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1689598800/149/
 - Montag, 17. Juli 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689598800/2881/
 - Montag, 17. Juli 2023 15:10 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689599400/2878/
+- Montag, 17. Juli 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1689599400/149/
 - Montag, 17. Juli 2023 15:12 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689599520/2836/
