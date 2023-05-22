@@ -1,6 +1,4 @@
-- Montag, 17. Juli 2023 12:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689590160/381/
-- Montag, 17. Juli 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689590160/153/
-- Montag, 17. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689590160/103/
+- Montag, 17. Juli 2023 12:36 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689590160/103/
 - Montag, 17. Juli 2023 12:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689590880/381/
 - Montag, 17. Juli 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1689590880/102/
 - Montag, 17. Juli 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689590880/153/
@@ -31,7 +29,6 @@
 - Montag, 17. Juli 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689597360/153/
 - Montag, 17. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689597360/103/
 - Montag, 17. Juli 2023 14:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689598080/381/
-- Montag, 17. Juli 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689598080/153/
 - Montag, 17. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689598080/103/
 - Montag, 17. Juli 2023 15:00 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689598800/381/
 - Montag, 17. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689598800/103/
@@ -42,4 +39,3 @@
 - Montag, 17. Juli 2023 15:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689600960/381/
 - Montag, 17. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689600960/103/
 - Montag, 17. Juli 2023 15:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689601680/381/
-- Montag, 17. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689601680/103/
