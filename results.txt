@@ -1,3 +1,4 @@
+- Montag, 22. Mai 2023 08:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1684736400/150/
 - Montag, 22. Mai 2023 08:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684736640/2851/
 - Montag, 22. Mai 2023 08:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684737360/2851/
 - Montag, 22. Mai 2023 08:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684738080/2851/
@@ -39,7 +40,6 @@
 - Montag, 19. Juni 2023 09:48 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687160880/2920/
 - Montag, 19. Juni 2023  Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687160880/2893/
 - Montag, 19. Juni 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687160880/2872/
-- Montag, 19. Juni 2023 10:00 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687161600/2872/
 - Montag, 19. Juni 2023 10:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687162320/2872/
 - Montag, 19. Juni 2023 10:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687163040/2872/
 - Montag, 19. Juni 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687163040/2875/
