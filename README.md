@@ -7,7 +7,6 @@
 - Montag, 22. Mai 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684738800/3238/
 - Montag, 22. Mai 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684738800/2854/
 - Montag, 22. Mai 2023 09:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684739520/3238/
-- Montag, 22. Mai 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684739520/2887/
 - Montag, 22. Mai 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684739520/2854/
 - Montag, 22. Mai 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684739520/2863/
 - Montag, 22. Mai 2023 09:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684740240/3238/
@@ -42,5 +41,3 @@
 - Montag, 22. Mai 2023 12:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684752480/3238/
 - Montag, 22. Mai 2023 13:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684753920/3238/
 - Montag, 22. Mai 2023 13:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684754640/3238/
-- Montag, 22. Mai 2023 13:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684755360/3238/
-- Montag, 22. Mai 2023 14:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684758240/2854/
