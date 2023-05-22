@@ -19,18 +19,14 @@
 - Montag, 22. Mai 2023 11:48 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684748880/2836/
 - Montag, 22. Mai 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1684748880/167/
 - Montag, 22. Mai 2023 11:54 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684749240/154/
-- Montag, 22. Mai 2023 12:12 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1684750320/102/
 - Montag, 22. Mai 2023 12:18 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684750680/154/
 - Montag, 22. Mai 2023 12:30 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684751400/154/
 - Montag, 22. Mai 2023 12:42 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684752120/154/
 - Montag, 22. Mai 2023 12:54 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684752840/154/
-- Montag, 22. Mai 2023 16:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684764000/154/
-- Montag, 22. Mai 2023 16:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684765440/154/
+- Montag, 22. Mai 2023 15:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684761120/154/
+- Montag, 22. Mai 2023 15:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684762560/154/
 - Mittwoch, 24. Mai 2023 07:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684905840/3238/
-- Mittwoch, 24. Mai 2023 07:42 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684906920/2926/
 - Mittwoch, 24. Mai 2023 08:00 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684908000/2884/
 - Freitag, 26. Mai 2023 11:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685094480/2845/
 - Dienstag, 30. Mai 2023 08:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685427840/3238/
-- Donnerstag, 1. Juni 2023 15:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685625120/3238/
 - Montag, 19. Juni 2023 08:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687155840/381/
-- Montag, 19. Juni 2023 09:48 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1687160880/102/
