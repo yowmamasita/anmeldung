@@ -4,7 +4,6 @@
 - Montag, 17. Juli 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689571800/2911/
 - Montag, 17. Juli 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689571800/898/
 - Montag, 17. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689571800/904/
-- Montag, 17. Juli 2023 07:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689572160/153/
 - Montag, 17. Juli 2023 07:42 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1689572520/134/
 - Montag, 17. Juli 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689572520/2908/
 - Montag, 17. Juli 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689572520/2911/
@@ -141,7 +140,6 @@
 - Montag, 17. Juli 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689581880/2908/
 - Montag, 17. Juli 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689581880/2911/
 - Montag, 17. Juli 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689581880/844/
-- Montag, 17. Juli 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689581880/109/
 - Montag, 17. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689581880/111/
 - Montag, 17. Juli 2023 10:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689582240/153/
 - Montag, 17. Juli 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689582240/2932/
