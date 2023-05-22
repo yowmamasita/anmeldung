@@ -4,7 +4,6 @@
 - Montag, 17. Juli 2023 13:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689593760/381/
 - Montag, 17. Juli 2023 13:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689594480/381/
 - Montag, 17. Juli 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689594480/2932/
-- Montag, 17. Juli 2023 14:00 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689595200/2932/
 - Montag, 17. Juli 2023 14:12 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689595920/381/
 - Montag, 17. Juli 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689595920/2932/
 - Montag, 17. Juli 2023 14:24 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689596640/2932/
