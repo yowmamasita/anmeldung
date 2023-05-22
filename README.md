@@ -5,4 +5,3 @@
 - Montag, 22. Mai 2023 11:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1684746720/167/
 - Montag, 22. Mai 2023 11:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1684748160/167/
 - Montag, 22. Mai 2023 11:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1684748880/167/
-- Mittwoch, 28. Juni 2023 12:48 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1687949280/142/
