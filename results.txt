@@ -1,8 +1,1 @@
-- Montag, 22. Mai 2023 13:36 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684755360/2836/
-- Montag, 22. Mai 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1684755360/381/
-- Mittwoch, 24. Mai 2023 08:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684908720/2899/
 - Mittwoch, 24. Mai 2023 10:36 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684917360/2866/
-- Mittwoch, 24. Mai 2023 11:30 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684920600/898/
-- Mittwoch, 24. Mai 2023 12:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1684924800/150/
-- Mittwoch, 31. Mai 2023 07:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685509200/3238/
-- Montag, 19. Juni 2023 11:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687168080/2872/
