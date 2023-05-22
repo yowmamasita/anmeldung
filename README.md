@@ -10,9 +10,9 @@
 - Montag, 17. Juli 2023 14:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689595920/2908/
 - Montag, 17. Juli 2023 14:18 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689596280/844/
 - Montag, 17. Juli 2023 14:24 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689596640/2908/
-- Montag, 17. Juli 2023 14:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689597000/111/
+- Montag, 17. Juli 2023 14:30 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689597000/844/
+- Montag, 17. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689597000/111/
 - Montag, 17. Juli 2023 14:36 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689597360/2908/
 - Montag, 17. Juli 2023 14:42 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689597720/844/
 - Montag, 17. Juli 2023 14:48 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689598080/2908/
 - Montag, 17. Juli 2023 15:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689599160/2914/
-- Mittwoch, 19. Juli 2023 14:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689770880/2899/
