@@ -1,4 +1,3 @@
-- Montag, 22. Mai 2023 08:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1684735200/167/
 - Montag, 22. Mai 2023 08:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684736640/231/
 - Montag, 22. Mai 2023 08:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684737360/231/
 - Montag, 22. Mai 2023 09:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684739520/231/
@@ -10,4 +9,4 @@
 - Montag, 22. Mai 2023 10:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1684744560/167/
 - Montag, 22. Mai 2023 10:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684745280/231/
 - Montag, 22. Mai 2023 11:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1684747440/167/
-- Montag, 22. Mai 2023 13:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684753200/170/
+- Donnerstag, 25. Mai 2023 12:30 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685010600/2932/
