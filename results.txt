@@ -1,8 +1,2 @@
-- Freitag, 14. Juli 2023 07:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689312240/143/
-- Freitag, 14. Juli 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689312240/2851/
-- Freitag, 14. Juli 2023 08:00 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689314400/143/
-- Freitag, 14. Juli 2023 08:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689317280/2851/
-- Freitag, 14. Juli 2023 09:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689318720/143/
-- Freitag, 14. Juli 2023 10:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1689323040/192/
-- Freitag, 14. Juli 2023 10:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689323760/2851/
-- Freitag, 14. Juli 2023 13:00 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689332400/143/
+- Montag, 22. Mai 2023 08:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684738080/170/
+- Montag, 22. Mai 2023 10:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684745280/170/
