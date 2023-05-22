@@ -18,10 +18,9 @@
 - Montag, 22. Mai 2023 13:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684754640/231/
 - Montag, 22. Mai 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684754640/2899/
 - Montag, 22. Mai 2023 13:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684755360/2899/
-- Montag, 22. Mai 2023 13:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684756080/231/
-- Montag, 22. Mai 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684756080/2899/
+- Montag, 22. Mai 2023 13:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684756080/2899/
 - Montag, 22. Mai 2023 14:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684756800/2899/
-- Montag, 22. Mai 2023 14:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684757520/2899/
+- Montag, 22. Mai 2023 14:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684757520/231/
+- Montag, 22. Mai 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684757520/2899/
 - Montag, 22. Mai 2023 14:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684758240/2899/
 - Montag, 22. Mai 2023 14:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684758960/2899/
-- Montag, 22. Mai 2023 14:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684759680/2899/
