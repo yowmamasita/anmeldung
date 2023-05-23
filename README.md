@@ -19,7 +19,6 @@
 - Freitag, 14. Juli 2023 11:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1689326640/168/
 - Freitag, 14. Juli 2023 11:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1689327360/168/
 - Freitag, 14. Juli 2023 11:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1689328080/168/
-- Freitag, 14. Juli 2023 12:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1689328800/168/
 - Freitag, 14. Juli 2023 12:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1689329520/168/
 - Freitag, 14. Juli 2023 12:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1689330240/168/
 - Freitag, 14. Juli 2023 12:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1689330960/168/
