@@ -1,5 +1,3 @@
-- Mittwoch, 24. Mai 2023 09:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684911960/2908/
-- Donnerstag, 25. Mai 2023 10:12 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685002320/2911/
 - Dienstag, 20. Juni 2023 10:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687250160/2899/
 - Dienstag, 20. Juni 2023 17:10 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687273800/2881/
 - Dienstag, 27. Juni 2023 16:24 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687875840/2866/
