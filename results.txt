@@ -1,6 +1,0 @@
-- Dienstag, 23. Mai 2023 17:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684854720/170/
-- Donnerstag, 25. Mai 2023 14:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685018160/2863/
-- Donnerstag, 25. Mai 2023 16:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1685023800/147/
-- Freitag, 26. Mai 2023 10:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1685090880/168/
-- Mittwoch, 31. Mai 2023 09:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1685518560/169/
-- Donnerstag, 22. Juni 2023 16:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687445280/312/
