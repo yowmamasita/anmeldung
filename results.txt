@@ -1,4 +1,7 @@
-- Dienstag, 23. Mai 2023 11:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684835280/191/
-- Dienstag, 23. Mai 2023 12:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684837440/112/
+- Dienstag, 23. Mai 2023 13:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684840320/192/
 - Dienstag, 23. Mai 2023 14:36 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1684845360/134/
-- Dienstag, 23. Mai 2023 14:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684846080/112/
+- Dienstag, 23. Mai 2023 15:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1684846800/106/
+- Dienstag, 23. Mai 2023 15:12 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1684847520/106/
+- Dienstag, 23. Mai 2023 15:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1684848240/106/
+- Dienstag, 23. Mai 2023 15:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1684848960/106/
+- Dienstag, 23. Mai 2023 15:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1684849680/106/
