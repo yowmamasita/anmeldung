@@ -4,4 +4,3 @@
 - Mittwoch, 24. Mai 2023 08:30 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684909800/844/
 - Mittwoch, 24. Mai 2023 09:00 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1684911600/381/
 - Mittwoch, 24. Mai 2023 09:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1684912200/147/
-- Mittwoch, 24. Mai 2023 10:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684916640/231/
