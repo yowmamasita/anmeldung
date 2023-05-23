@@ -1,7 +1,7 @@
-- Dienstag, 18. Juli 2023 16:24 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689690240/904/
-- Dienstag, 18. Juli 2023 16:36 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689690960/898/
-- Dienstag, 18. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689690960/904/
-- Dienstag, 18. Juli 2023 16:48 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689691680/898/
-- Dienstag, 18. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689691680/904/
-- Dienstag, 18. Juli 2023 17:00 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689692400/904/
-- Dienstag, 18. Juli 2023 17:12 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689693120/898/
+- Dienstag, 23. Mai 2023 16:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684853280/2887/
+- Dienstag, 23. Mai 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684853280/2866/
+- Dienstag, 23. Mai 2023 17:48 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684856880/844/
+- Donnerstag, 1. Juni 2023 12:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1685615760/146/
+- Mittwoch, 7. Juni 2023 10:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686125520/3238/
+- Freitag, 9. Juni 2023 08:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686290400/3238/
+- Donnerstag, 29. Juni 2023 10:30 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688027400/2932/
