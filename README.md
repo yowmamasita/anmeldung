@@ -6,7 +6,6 @@
 - Dienstag, 18. Juli 2023 14:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689683760/381/
 - Dienstag, 18. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689683760/103/
 - Dienstag, 18. Juli 2023 15:30 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689687000/2836/
-- Dienstag, 18. Juli 2023 15:48 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689688080/103/
 - Dienstag, 18. Juli 2023 17:00 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689692400/381/
 - Dienstag, 18. Juli 2023 17:12 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689693120/381/
 - Dienstag, 18. Juli 2023 17:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689694560/381/
