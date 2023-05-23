@@ -15,8 +15,7 @@
 - Dienstag, 18. Juli 2023 13:12 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689678720/922/
 - Dienstag, 18. Juli 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1689678720/192/
 - Dienstag, 18. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689678720/2926/
-- Dienstag, 18. Juli 2023 13:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1689679440/191/
-- Dienstag, 18. Juli 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689679440/922/
+- Dienstag, 18. Juli 2023 13:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689679440/922/
 - Dienstag, 18. Juli 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1689679440/192/
 - Dienstag, 18. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689679440/2926/
 - Dienstag, 18. Juli 2023 13:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1689680160/191/
@@ -34,7 +33,6 @@
 - Dienstag, 18. Juli 2023 14:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1689682320/192/
 - Dienstag, 18. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689682320/2926/
 - Dienstag, 18. Juli 2023 14:20 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689682800/2923/
-- Dienstag, 18. Juli 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689682800/2881/
 - Dienstag, 18. Juli 2023 14:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1689683040/192/
 - Dienstag, 18. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689683040/2926/
 - Dienstag, 18. Juli 2023 14:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689683760/2926/
