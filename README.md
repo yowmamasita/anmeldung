@@ -3,9 +3,9 @@
 - Dienstag, 18. Juli 2023 10:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689670200/2923/
 - Dienstag, 18. Juli 2023 11:00 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689670800/2923/
 - Dienstag, 18. Juli 2023 11:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689671400/2941/
+- Dienstag, 18. Juli 2023 11:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689671520/2908/
 - Dienstag, 18. Juli 2023 11:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1689672000/147/
-- Dienstag, 18. Juli 2023 11:24 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689672240/2908/
-- Dienstag, 18. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689672240/904/
+- Dienstag, 18. Juli 2023 11:24 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689672240/904/
 - Dienstag, 18. Juli 2023 11:36 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689672960/2911/
 - Dienstag, 18. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689672960/2887/
 - Dienstag, 18. Juli 2023 11:40 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689673200/2881/
@@ -49,11 +49,11 @@
 - Dienstag, 18. Juli 2023 13:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1689679440/136/
 - Dienstag, 18. Juli 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1689679440/190/
 - Dienstag, 18. Juli 2023 13:42 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689680520/2836/
-- Dienstag, 18. Juli 2023 14:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1689681600/169/
-- Dienstag, 18. Juli 2023  Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689681600/2923/
+- Dienstag, 18. Juli 2023 14:00 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689681600/2923/
 - Dienstag, 18. Juli 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689681600/2941/
 - Dienstag, 18. Juli 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689681600/2881/
 - Dienstag, 18. Juli 2023 14:10 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1689682200/148/
+- Dienstag, 18. Juli 2023 14:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1689682320/169/
 - Dienstag, 18. Juli 2023 14:18 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689682680/2836/
 - Dienstag, 18. Juli 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689682680/2839/
 - Dienstag, 18. Juli 2023 14:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1689682800/150/
