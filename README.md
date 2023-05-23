@@ -23,4 +23,3 @@
 - Mittwoch, 24. Mai 2023 10:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1684915920/167/
 - Mittwoch, 24. Mai 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1684915920/168/
 - Mittwoch, 24. Mai 2023 10:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1684916640/168/
-- Mittwoch, 24. Mai 2023 10:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1684917360/168/
