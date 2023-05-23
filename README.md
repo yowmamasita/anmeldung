@@ -26,6 +26,7 @@
 - Donnerstag, 13. Juli 2023 16:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1689259680/168/
 - Donnerstag, 13. Juli 2023 17:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1689260400/168/
 - Donnerstag, 13. Juli 2023 17:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1689261120/168/
+- Donnerstag, 13. Juli 2023 17:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1689261840/168/
 - Donnerstag, 13. Juli 2023 17:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1689263280/168/
 - Dienstag, 18. Juli 2023 13:06 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1689678360/142/
 - Dienstag, 18. Juli 2023 13:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1689680880/106/
