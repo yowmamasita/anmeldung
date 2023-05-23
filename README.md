@@ -5,7 +5,6 @@
 - Dienstag, 20. Juni 2023 16:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687272480/2872/
 - Dienstag, 20. Juni 2023 17:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687275360/2872/
 - Dienstag, 20. Juni 2023 17:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687276080/2872/
-- Donnerstag, 13. Juli 2023 12:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1689243120/168/
 - Donnerstag, 13. Juli 2023 12:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1689243840/168/
 - Donnerstag, 13. Juli 2023 12:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1689244560/168/
 - Donnerstag, 13. Juli 2023 12:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1689245280/168/
