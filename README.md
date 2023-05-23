@@ -6,6 +6,4 @@
 - Donnerstag, 25. Mai 2023 11:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685007720/2839/
 - Donnerstag, 25. Mai 2023 14:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685018160/2845/
 - Freitag, 26. Mai 2023 09:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1685086920/312/
-- Dienstag, 30. Mai 2023 15:30 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685453400/2884/
-- Freitag, 9. Juni 2023 12:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1686305520/169/
 - Mittwoch, 14. Juni 2023 11:18 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686734280/904/
