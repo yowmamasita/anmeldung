@@ -1,4 +1,3 @@
-- Mittwoch, 24. Mai 2023 08:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1684908000/167/
 - Mittwoch, 24. Mai 2023 08:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1684908720/167/
 - Mittwoch, 24. Mai 2023 08:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1684909440/167/
 - Mittwoch, 24. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684909440/170/
@@ -28,3 +27,4 @@
 - Mittwoch, 24. Mai 2023 12:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1684923120/167/
 - Mittwoch, 24. Mai 2023 12:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1684923840/167/
 - Mittwoch, 24. Mai 2023 12:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1684924560/167/
+- Mittwoch, 24. Mai 2023 12:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684925280/170/
