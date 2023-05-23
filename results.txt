@@ -1,4 +1,3 @@
-- Freitag, 16. Juni 2023 11:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686906000/2926/
 - Dienstag, 4. Juli 2023 10:12 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688458320/2911/
 - Dienstag, 4. Juli 2023 10:24 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688459040/2911/
 - Mittwoch, 12. Juli 2023 12:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689158880/143/
@@ -50,7 +49,6 @@
 - Dienstag, 18. Juli 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689694560/844/
 - Dienstag, 18. Juli 2023 17:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689695280/2887/
 - Donnerstag, 20. Juli 2023 15:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689859440/2896/
-- Donnerstag, 20. Juli 2023 15:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689860160/2899/
 - Donnerstag, 20. Juli 2023 15:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689860880/2896/
 - Donnerstag, 20. Juli 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689860880/2899/
 - Donnerstag, 20. Juli 2023 16:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689861600/2896/
