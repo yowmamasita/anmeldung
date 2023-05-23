@@ -20,7 +20,6 @@
 - Dienstag, 18. Juli 2023 16:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689689520/2908/
 - Dienstag, 18. Juli 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689689520/2911/
 - Dienstag, 18. Juli 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689689520/844/
-- Dienstag, 18. Juli 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689689520/922/
 - Dienstag, 18. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689689520/2926/
 - Dienstag, 18. Juli 2023 16:24 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689690240/2911/
 - Dienstag, 18. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689690240/2926/
@@ -39,7 +38,6 @@
 - Dienstag, 18. Juli 2023 17:00 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689692400/2887/
 - Dienstag, 18. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689692400/2926/
 - Dienstag, 18. Juli 2023 17:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689693120/2908/
-- Dienstag, 18. Juli 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689693120/922/
 - Dienstag, 18. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689693120/2926/
 - Dienstag, 18. Juli 2023 17:24 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689693840/2908/
 - Dienstag, 18. Juli 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689693840/844/
@@ -50,7 +48,6 @@
 - Dienstag, 18. Juli 2023 17:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689695280/2914/
 - Dienstag, 18. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689695280/2887/
 - Donnerstag, 20. Juli 2023 15:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689859440/2896/
-- Donnerstag, 20. Juli 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689859440/2899/
 - Donnerstag, 20. Juli 2023 15:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689860160/2896/
 - Donnerstag, 20. Juli 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689860160/2899/
 - Donnerstag, 20. Juli 2023 15:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689860880/2896/
