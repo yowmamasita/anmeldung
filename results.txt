@@ -1,5 +1,4 @@
-- Dienstag, 18. Juli 2023 09:54 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689666840/154/
-- Dienstag, 18. Juli 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689666840/2938/
+- Dienstag, 18. Juli 2023 09:54 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689666840/2938/
 - Dienstag, 18. Juli 2023 10:06 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689667560/2836/
 - Dienstag, 18. Juli 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689667560/2839/
 - Dienstag, 18. Juli 2023 10:18 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689668280/2836/
@@ -69,8 +68,7 @@
 - Dienstag, 18. Juli 2023 13:54 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689681240/2836/
 - Dienstag, 18. Juli 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1689681240/140/
 - Dienstag, 18. Juli 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689681240/2839/
-- Dienstag, 18. Juli 2023 14:06 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1689681960/141/
-- Dienstag, 18. Juli 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689681960/2836/
+- Dienstag, 18. Juli 2023 14:06 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689681960/2836/
 - Dienstag, 18. Juli 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1689681960/140/
 - Dienstag, 18. Juli 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689681960/2839/
 - Dienstag, 18. Juli 2023 14:18 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1689682680/141/
