@@ -1,6 +1,1 @@
-- Montag, 3. Juli 2023 08:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688364000/2857/
-- Mittwoch, 12. Juli 2023 11:06 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689152760/2887/
-- Dienstag, 18. Juli 2023 14:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1689682200/147/
-- Dienstag, 18. Juli 2023 14:36 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689683760/103/
-- Dienstag, 18. Juli 2023 15:48 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689688080/103/
-- Dienstag, 18. Juli 2023 16:40 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689691200/2923/
+- Dienstag, 23. Mai 2023 14:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1684844640/190/
