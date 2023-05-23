@@ -22,8 +22,6 @@
 - Dienstag, 23. Mai 2023 15:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684849680/109/
 - Dienstag, 23. Mai 2023 16:00 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684850400/109/
 - Dienstag, 23. Mai 2023 16:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684851120/109/
-- Dienstag, 23. Mai 2023 16:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684851840/109/
-- Dienstag, 23. Mai 2023 16:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684852560/109/
 - Dienstag, 23. Mai 2023 16:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684853280/109/
 - Dienstag, 23. Mai 2023 17:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684856160/109/
 - Dienstag, 23. Mai 2023 17:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684856880/109/
