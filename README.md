@@ -9,4 +9,3 @@
 - Dienstag, 18. Juli 2023 16:12 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689689520/381/
 - Dienstag, 18. Juli 2023 16:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689690240/381/
 - Dienstag, 18. Juli 2023 16:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689690960/381/
-- Dienstag, 18. Juli 2023 16:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689691680/381/
