@@ -1,11 +1,8 @@
-- Dienstag, 23. Mai 2023 10:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684831680/191/
 - Dienstag, 23. Mai 2023 11:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684833840/170/
 - Dienstag, 23. Mai 2023 11:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684834560/170/
-- Dienstag, 23. Mai 2023 11:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684835280/170/
 - Dienstag, 23. Mai 2023 12:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1684837200/149/
 - Dienstag, 23. Mai 2023 12:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684837440/170/
-- Dienstag, 23. Mai 2023 12:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684838160/191/
-- Dienstag, 23. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684838160/170/
+- Dienstag, 23. Mai 2023 12:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684838160/170/
 - Dienstag, 23. Mai 2023 13:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684839600/170/
 - Dienstag, 23. Mai 2023 13:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684840320/2899/
 - Dienstag, 23. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684840320/192/
@@ -16,7 +13,3 @@
 - Dienstag, 23. Mai 2023 13:30 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1684841400/149/
 - Dienstag, 23. Mai 2023 13:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684841760/170/
 - Dienstag, 23. Mai 2023 13:40 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1684842000/149/
-- Dienstag, 23. Mai 2023 14:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1684844400/149/
-- Dienstag, 23. Mai 2023 16:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684850400/2857/
-- Dienstag, 23. Mai 2023 16:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684853280/2857/
-- Dienstag, 20. Juni 2023 11:24 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687253040/2920/
