@@ -13,7 +13,5 @@
 - Dienstag, 23. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684851840/192/
 - Dienstag, 23. Mai 2023 16:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684852560/192/
 - Dienstag, 23. Mai 2023 16:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684853280/191/
-- Dienstag, 23. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684853280/192/
 - Dienstag, 23. Mai 2023 17:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684854720/192/
-- Dienstag, 23. Mai 2023 17:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684855440/192/
 - Dienstag, 23. Mai 2023 17:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684856160/192/
