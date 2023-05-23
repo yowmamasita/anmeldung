@@ -4,4 +4,3 @@
 - Mittwoch, 24. Mai 2023 09:18 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684912680/191/
 - Mittwoch, 24. Mai 2023 10:06 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684915560/2887/
 - Mittwoch, 24. Mai 2023 14:18 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684930680/2887/
-- Donnerstag, 25. Mai 2023 14:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1685018160/170/
