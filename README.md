@@ -95,5 +95,3 @@
 - Dienstag, 18. Juli 2023 16:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1689690960/168/
 - Dienstag, 18. Juli 2023 17:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1689692400/168/
 - Dienstag, 18. Juli 2023 17:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1689693840/168/
-- Dienstag, 18. Juli 2023 17:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1689694560/168/
-- Donnerstag, 20. Juli 2023 11:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689845760/2899/
