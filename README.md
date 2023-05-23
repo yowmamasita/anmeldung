@@ -24,11 +24,9 @@
 - Dienstag, 23. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684836000/231/
 - Dienstag, 23. Mai 2023 12:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684836720/112/
 - Dienstag, 23. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684836720/231/
-- Dienstag, 23. Mai 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684836720/2899/
 - Dienstag, 23. Mai 2023 12:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684837440/2914/
 - Dienstag, 23. Mai 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684837440/112/
 - Dienstag, 23. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684837440/231/
-- Dienstag, 23. Mai 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684837440/2896/
 - Dienstag, 23. Mai 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684837440/2899/
 - Dienstag, 23. Mai 2023 12:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684838160/2914/
 - Dienstag, 23. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684838160/231/
@@ -37,7 +35,6 @@
 - Dienstag, 23. Mai 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684838880/2896/
 - Dienstag, 23. Mai 2023 13:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684839600/231/
 - Dienstag, 23. Mai 2023 13:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684841760/231/
-- Dienstag, 23. Mai 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684841760/2896/
 - Dienstag, 23. Mai 2023 13:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684842480/231/
 - Dienstag, 23. Mai 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1684842480/146/
 - Dienstag, 23. Mai 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684842480/2896/
@@ -63,7 +60,6 @@
 - Dienstag, 23. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684848960/231/
 - Dienstag, 23. Mai 2023 15:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684849680/112/
 - Dienstag, 23. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684849680/231/
-- Dienstag, 23. Mai 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1684849680/102/
 - Dienstag, 23. Mai 2023 16:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684850400/231/
 - Dienstag, 23. Mai 2023 16:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684851120/112/
 - Dienstag, 23. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684851120/231/
