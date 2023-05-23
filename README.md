@@ -5,6 +5,5 @@
 - Mittwoch, 24. Mai 2023 10:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1684915200/168/
 - Mittwoch, 24. Mai 2023 10:54 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684918440/2887/
 - Mittwoch, 24. Mai 2023 13:18 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684927080/2887/
-- Mittwoch, 24. Mai 2023 13:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684929240/109/
 - Freitag, 26. Mai 2023 12:15 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1685096100/380/
 - Donnerstag, 1. Juni 2023 11:40 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685612400/2941/
