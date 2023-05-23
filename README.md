@@ -6,7 +6,6 @@
 - Mittwoch, 24. Mai 2023 12:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684924920/2908/
 - Mittwoch, 24. Mai 2023 13:24 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684927440/2839/
 - Donnerstag, 25. Mai 2023 11:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1685008080/112/
-- Donnerstag, 25. Mai 2023 16:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685023920/2926/
 - Freitag, 26. Mai 2023 08:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1685081880/109/
 - Freitag, 26. Mai 2023 08:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1685082600/109/
 - Freitag, 26. Mai 2023 08:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1685083320/109/
@@ -16,4 +15,3 @@
 - Freitag, 26. Mai 2023 10:06 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685088360/847/
 - Freitag, 26. Mai 2023 11:06 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1685091960/109/
 - Freitag, 26. Mai 2023 11:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1685092680/109/
-- Donnerstag, 29. Juni 2023 14:24 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1688041440/103/
