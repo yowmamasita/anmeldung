@@ -9,7 +9,6 @@
 - Dienstag, 20. Juni 2023 11:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687253760/2872/
 - Dienstag, 20. Juni 2023 11:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687254480/2872/
 - Dienstag, 20. Juni 2023 12:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687257360/2872/
-- Dienstag, 20. Juni 2023 12:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687258080/2872/
 - Dienstag, 18. Juli 2023 09:30 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689665400/2839/
 - Dienstag, 18. Juli 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689665400/2938/
 - Dienstag, 18. Juli 2023 09:42 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1689666120/141/
@@ -59,7 +58,7 @@
 - Dienstag, 18. Juli 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1689689160/140/
 - Dienstag, 18. Juli 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689689160/2839/
 - Dienstag, 18. Juli 2023 16:18 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1689689880/141/
-- Dienstag, 18. Juli 2023 16:30 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1689690600/142/
+- Dienstag, 18. Juli 2023 16:42 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1689691320/142/
 - Dienstag, 18. Juli 2023 17:06 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1689692760/141/
 - Dienstag, 18. Juli 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689692760/2836/
 - Dienstag, 18. Juli 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1689692760/140/
