@@ -3,5 +3,4 @@
 - Mittwoch, 24. Mai 2023 08:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684908360/191/
 - Mittwoch, 24. Mai 2023 08:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684909440/2863/
 - Mittwoch, 24. Mai 2023 08:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684910160/2863/
-- Mittwoch, 24. Mai 2023 08:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684910520/191/
 - Mittwoch, 24. Mai 2023 08:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684911240/191/
