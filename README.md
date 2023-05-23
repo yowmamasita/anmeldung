@@ -9,7 +9,6 @@
 - Dienstag, 18. Juli 2023 15:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689686640/381/
 - Dienstag, 18. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689686640/103/
 - Dienstag, 18. Juli 2023 15:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689687360/381/
-- Dienstag, 18. Juli 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1689687360/313/
 - Dienstag, 18. Juli 2023 15:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689688080/381/
 - Dienstag, 18. Juli 2023 16:00 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689688800/381/
 - Dienstag, 18. Juli 2023 16:12 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689689520/381/
