@@ -1,7 +1,5 @@
 - Dienstag, 23. Mai 2023 10:06 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684829160/154/
 - Dienstag, 23. Mai 2023 10:18 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684829880/154/
-- Dienstag, 23. Mai 2023 10:24 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684830240/2908/
-- Dienstag, 23. Mai 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1684830240/102/
 - Dienstag, 23. Mai 2023 10:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684830960/109/
 - Dienstag, 23. Mai 2023 10:42 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684831320/154/
 - Dienstag, 23. Mai 2023 10:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684831680/109/
@@ -33,13 +31,11 @@
 - Dienstag, 23. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684841040/170/
 - Dienstag, 23. Mai 2023 13:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684841760/231/
 - Dienstag, 23. Mai 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684841760/2872/
-- Dienstag, 23. Mai 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1684841760/168/
 - Dienstag, 23. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684841760/192/
 - Dienstag, 23. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684841760/170/
 - Dienstag, 23. Mai 2023 13:48 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1684842480/102/
 - Dienstag, 23. Mai 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684842480/2872/
 - Dienstag, 23. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684842480/192/
-- Dienstag, 23. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684842480/170/
 - Dienstag, 23. Mai 2023 14:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684843200/154/
 - Dienstag, 23. Mai 2023 14:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684844640/2872/
 - Dienstag, 23. Mai 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684844640/154/
@@ -52,5 +48,4 @@
 - Dienstag, 23. Mai 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684848240/2872/
 - Dienstag, 23. Mai 2023 15:48 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1684849680/102/
 - Dienstag, 23. Mai 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684849680/2872/
-- Dienstag, 23. Mai 2023 16:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684851120/109/
 - Dienstag, 23. Mai 2023 17:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684854720/2872/
