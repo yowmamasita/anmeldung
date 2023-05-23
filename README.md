@@ -3,5 +3,4 @@
 - Dienstag, 23. Mai 2023 10:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684828800/2848/
 - Dienstag, 23. Mai 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684828800/112/
 - Dienstag, 23. Mai 2023 10:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684829520/112/
-- Dienstag, 23. Mai 2023 10:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684830240/2848/
-- Dienstag, 23. Mai 2023 10:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684830960/112/
+- Dienstag, 23. Mai 2023 10:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684831680/112/
