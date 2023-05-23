@@ -8,4 +8,3 @@
 - Mittwoch, 24. Mai 2023 12:06 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684922760/2887/
 - Mittwoch, 24. Mai 2023 12:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684924920/2908/
 - Mittwoch, 24. Mai 2023 13:18 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684927080/2887/
-- Montag, 12. Juni 2023 14:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686574080/143/
