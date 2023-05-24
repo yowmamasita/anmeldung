@@ -4,5 +4,4 @@
 - Mittwoch, 24. Mai 2023 12:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684925280/154/
 - Mittwoch, 24. Mai 2023 13:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684926720/2899/
 - Mittwoch, 24. Mai 2023 14:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684931040/154/
-- Dienstag, 13. Juni 2023 14:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686659040/191/
 - Donnerstag, 22. Juni 2023 11:48 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1687427280/134/
