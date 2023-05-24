@@ -4,5 +4,4 @@
 - Donnerstag, 25. Mai 2023 10:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1685002320/231/
 - Donnerstag, 25. Mai 2023 12:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1685010240/231/
 - Donnerstag, 25. Mai 2023 15:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1685019600/231/
-- Mittwoch, 31. Mai 2023 10:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1685522160/146/
 - Mittwoch, 7. Juni 2023 11:30 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686130200/2926/
