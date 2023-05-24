@@ -7,7 +7,6 @@
 - Mittwoch, 24. Mai 2023 08:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684909080/112/
 - Mittwoch, 24. Mai 2023 08:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1684909440/167/
 - Mittwoch, 24. Mai 2023 08:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1684910160/167/
-- Mittwoch, 24. Mai 2023 08:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1684910880/167/
 - Mittwoch, 24. Mai 2023 09:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684911600/231/
 - Mittwoch, 24. Mai 2023 09:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684912320/231/
 - Mittwoch, 24. Mai 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1684912320/167/
