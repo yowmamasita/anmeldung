@@ -3,18 +3,12 @@
 - Mittwoch, 24. Mai 2023 07:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684907640/112/
 - Mittwoch, 24. Mai 2023 08:06 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684908360/112/
 - Mittwoch, 24. Mai 2023 08:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684909080/112/
-- Mittwoch, 24. Mai 2023 08:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684911240/112/
 - Mittwoch, 24. Mai 2023 09:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684912680/112/
 - Mittwoch, 24. Mai 2023 09:30 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684913400/112/
-- Mittwoch, 24. Mai 2023 09:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684914120/112/
 - Mittwoch, 24. Mai 2023 09:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684914840/112/
 - Mittwoch, 24. Mai 2023 10:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684916280/112/
-- Mittwoch, 24. Mai 2023 11:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1684922040/136/
 - Mittwoch, 24. Mai 2023 12:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1684923480/136/
-- Mittwoch, 24. Mai 2023 12:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1684924200/136/
 - Mittwoch, 24. Mai 2023 12:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1684924920/136/
 - Mittwoch, 24. Mai 2023 12:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1684925640/136/
-- Mittwoch, 24. Mai 2023 13:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1684926360/136/
 - Mittwoch, 24. Mai 2023 13:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684927080/112/
-- Mittwoch, 24. Mai 2023 13:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1684927800/136/
-- Mittwoch, 24. Mai 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684927800/112/
+- Mittwoch, 24. Mai 2023 13:30 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684927800/112/
