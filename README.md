@@ -17,7 +17,6 @@
 - Mittwoch, 24. Mai 2023 10:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684916640/154/
 - Mittwoch, 24. Mai 2023 10:30 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684917000/192/
 - Mittwoch, 24. Mai 2023 10:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684917360/154/
-- Mittwoch, 24. Mai 2023 10:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684918080/154/
 - Mittwoch, 24. Mai 2023 11:30 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684920600/192/
 - Mittwoch, 24. Mai 2023 11:54 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684922040/2887/
 - Mittwoch, 24. Mai 2023 12:30 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684924200/192/
