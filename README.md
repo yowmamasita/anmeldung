@@ -3,8 +3,4 @@
 - Mittwoch, 24. Mai 2023 09:06 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684911960/109/
 - Mittwoch, 24. Mai 2023 09:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684912320/170/
 - Mittwoch, 24. Mai 2023 09:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684913040/2851/
-- Mittwoch, 24. Mai 2023 09:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1684913400/150/
 - Mittwoch, 24. Mai 2023 09:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1684913760/172/
-- Mittwoch, 24. Mai 2023 10:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684917360/154/
-- Mittwoch, 24. Mai 2023 11:00 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1684918800/150/
-- Mittwoch, 24. Mai 2023 11:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1684921800/150/
