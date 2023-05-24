@@ -12,16 +12,15 @@
 - Mittwoch, 24. Mai 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1684909440/102/
 - Mittwoch, 24. Mai 2023 08:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684909800/109/
 - Mittwoch, 24. Mai 2023  Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1684909800/148/
-- Mittwoch, 24. Mai 2023 08:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684910160/2848/
 - Mittwoch, 24. Mai 2023 08:40 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1684910400/148/
 - Mittwoch, 24. Mai 2023 08:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684910520/2908/
 - Mittwoch, 24. Mai 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684910520/109/
-- Mittwoch, 24. Mai 2023 08:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684910880/2848/
+- Mittwoch, 24. Mai 2023 08:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1684910880/108/
+- Mittwoch, 24. Mai 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684910880/2848/
 - Mittwoch, 24. Mai 2023 08:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684911240/2908/
 - Mittwoch, 24. Mai 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684911240/109/
 - Mittwoch, 24. Mai 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684911240/313/
-- Mittwoch, 24. Mai 2023 09:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684911600/2848/
-- Mittwoch, 24. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684911600/231/
+- Mittwoch, 24. Mai 2023 09:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684911600/231/
 - Mittwoch, 24. Mai 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684911600/2896/
 - Mittwoch, 24. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684911600/170/
 - Mittwoch, 24. Mai 2023 09:06 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684911960/109/
