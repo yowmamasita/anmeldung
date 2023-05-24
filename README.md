@@ -3,4 +3,3 @@
 - Mittwoch, 24. Mai 2023 08:30 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1684909800/135/
 - Mittwoch, 24. Mai 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684909800/109/
 - Mittwoch, 24. Mai 2023 08:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684910520/109/
-- Mittwoch, 24. Mai 2023 09:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684912680/2908/
