@@ -1,3 +1,4 @@
+- Mittwoch, 19. Juli 2023 08:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689747840/2848/
 - Mittwoch, 19. Juli 2023 10:18 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689754680/2926/
 - Mittwoch, 19. Juli 2023 10:30 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689755400/2923/
 - Mittwoch, 19. Juli 2023 10:42 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689756120/2926/
@@ -9,6 +10,7 @@
 - Mittwoch, 19. Juli 2023 11:18 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689758280/2926/
 - Mittwoch, 19. Juli 2023 11:20 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689758400/2923/
 - Mittwoch, 19. Juli 2023 11:30 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689759000/2926/
+- Mittwoch, 19. Juli 2023 11:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1689759360/108/
 - Mittwoch, 19. Juli 2023 11:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689759720/2911/
 - Mittwoch, 19. Juli 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1689759720/136/
 - Mittwoch, 19. Juli 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689759720/2914/
@@ -19,8 +21,7 @@
 - Mittwoch, 19. Juli 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689760440/898/
 - Mittwoch, 19. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689760440/2926/
 - Mittwoch, 19. Juli 2023 12:00 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689760800/2938/
-- Mittwoch, 19. Juli 2023 12:06 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689761160/312/
-- Mittwoch, 19. Juli 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689761160/898/
+- Mittwoch, 19. Juli 2023 12:06 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689761160/898/
 - Mittwoch, 19. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689761160/904/
 - Mittwoch, 19. Juli 2023 12:12 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689761520/381/
 - Mittwoch, 19. Juli 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689761520/2938/
@@ -35,7 +36,6 @@
 - Mittwoch, 19. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689762600/2926/
 - Mittwoch, 19. Juli 2023 12:36 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689762960/2839/
 - Mittwoch, 19. Juli 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689762960/381/
-- Mittwoch, 19. Juli 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689762960/2896/
 - Mittwoch, 19. Juli 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689762960/2938/
 - Mittwoch, 19. Juli 2023 12:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689763320/2911/
 - Mittwoch, 19. Juli 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1689763320/136/
