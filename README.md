@@ -27,3 +27,4 @@
 - Mittwoch, 24. Mai 2023 10:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684915560/2908/
 - Mittwoch, 24. Mai 2023 10:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684915920/231/
 - Mittwoch, 24. Mai 2023 10:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684916640/231/
+- Mittwoch, 24. Mai 2023 11:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684922040/191/
