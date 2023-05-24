@@ -1,11 +1,10 @@
-- Mittwoch, 24. Mai 2023 09:30 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684913400/192/
 - Mittwoch, 24. Mai 2023 09:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684913760/2845/
 - Mittwoch, 24. Mai 2023 10:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684915920/2863/
 - Mittwoch, 24. Mai 2023 10:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684916640/2863/
 - Mittwoch, 24. Mai 2023 10:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684917360/2863/
 - Mittwoch, 24. Mai 2023 10:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684918080/2863/
-- Mittwoch, 24. Mai 2023 11:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684918800/2863/
 - Mittwoch, 24. Mai 2023 11:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684919520/2863/
 - Mittwoch, 24. Mai 2023 11:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684920960/2863/
 - Mittwoch, 24. Mai 2023 11:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684921680/2863/
 - Mittwoch, 24. Mai 2023 12:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684923840/2863/
+- Mittwoch, 24. Mai 2023 12:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684925280/2863/
