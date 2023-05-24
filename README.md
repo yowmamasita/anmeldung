@@ -8,7 +8,6 @@
 - Mittwoch, 24. Mai 2023 09:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684911600/231/
 - Mittwoch, 24. Mai 2023 09:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684912320/231/
 - Mittwoch, 24. Mai 2023 09:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684913040/231/
-- Mittwoch, 24. Mai 2023 09:30 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684913400/192/
 - Mittwoch, 24. Mai 2023 09:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684913760/231/
 - Mittwoch, 24. Mai 2023 09:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684914480/231/
 - Mittwoch, 24. Mai 2023 09:54 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684914840/192/
@@ -28,7 +27,6 @@
 - Mittwoch, 24. Mai 2023 11:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684921680/231/
 - Mittwoch, 24. Mai 2023 11:54 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684922040/192/
 - Mittwoch, 24. Mai 2023 12:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684922400/231/
-- Mittwoch, 24. Mai 2023 12:06 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684922760/898/
 - Mittwoch, 24. Mai 2023 12:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684923120/231/
 - Mittwoch, 24. Mai 2023 12:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684923840/231/
 - Mittwoch, 24. Mai 2023 12:30 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684924200/192/
@@ -44,4 +42,3 @@
 - Mittwoch, 24. Mai 2023 14:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684930320/231/
 - Mittwoch, 24. Mai 2023 14:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684931040/231/
 - Mittwoch, 24. Mai 2023 14:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684931760/231/
-- Donnerstag, 25. Mai 2023 12:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1685011680/231/
