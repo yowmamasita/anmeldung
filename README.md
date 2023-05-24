@@ -6,4 +6,5 @@
 - Mittwoch, 24. Mai 2023 09:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684911600/170/
 - Mittwoch, 24. Mai 2023 09:06 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684911960/192/
 - Mittwoch, 24. Mai 2023 09:18 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684912680/192/
-- Mittwoch, 24. Mai 2023 12:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684924200/2908/
+- Mittwoch, 24. Mai 2023 11:54 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684922040/2887/
+- Mittwoch, 21. Juni 2023 09:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687334040/2914/
