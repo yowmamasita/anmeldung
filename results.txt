@@ -1,7 +1,1 @@
-- Donnerstag, 25. Mai 2023 10:48 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1685004480/135/
-- Donnerstag, 25. Mai 2023 11:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685008080/2896/
-- Donnerstag, 25. Mai 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1685008080/168/
-- Donnerstag, 25. Mai 2023 12:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1685008800/168/
 - Donnerstag, 25. Mai 2023 12:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685010960/2863/
-- Donnerstag, 25. Mai 2023 12:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685011680/2863/
-- Mittwoch, 28. Juni 2023 09:36 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1687937760/142/
