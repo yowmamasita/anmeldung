@@ -33,7 +33,6 @@
 - Montag, 17. Juli 2023 14:24 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689596640/2866/
 - Montag, 17. Juli 2023 14:36 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689597360/2866/
 - Montag, 17. Juli 2023 14:48 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689598080/2866/
-- Dienstag, 18. Juli 2023 11:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1689672240/170/
 - Dienstag, 18. Juli 2023 11:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1689672960/170/
 - Dienstag, 18. Juli 2023 11:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1689673680/170/
 - Dienstag, 18. Juli 2023 12:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1689674400/170/
