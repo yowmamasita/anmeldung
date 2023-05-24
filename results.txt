@@ -1,4 +1,2 @@
-- Mittwoch, 24. Mai 2023 11:18 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1684919880/135/
-- Mittwoch, 24. Mai 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684919880/2887/
-- Mittwoch, 24. Mai 2023 11:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1684920960/106/
-- Mittwoch, 24. Mai 2023 11:40 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1684921200/149/
+- Mittwoch, 24. Mai 2023 10:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1684916640/106/
+- Mittwoch, 24. Mai 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684916640/2845/
