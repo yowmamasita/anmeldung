@@ -34,7 +34,6 @@
 - Mittwoch, 24. Mai 2023 10:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684917000/109/
 - Mittwoch, 24. Mai 2023 10:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684917360/231/
 - Mittwoch, 24. Mai 2023 10:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684917720/109/
-- Mittwoch, 24. Mai 2023 10:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1684918440/109/
 - Mittwoch, 24. Mai 2023 11:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684920600/313/
 - Mittwoch, 24. Mai 2023 12:18 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1684923480/134/
 - Mittwoch, 24. Mai 2023 13:18 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1684927080/134/
