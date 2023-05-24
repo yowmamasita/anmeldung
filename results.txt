@@ -44,12 +44,9 @@
 - Mittwoch, 24. Mai 2023 12:18 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684923480/191/
 - Mittwoch, 24. Mai 2023 12:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684924200/191/
 - Mittwoch, 24. Mai 2023 12:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684924920/191/
-- Mittwoch, 24. Mai 2023 12:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684925280/170/
 - Mittwoch, 24. Mai 2023 12:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684925640/191/
 - Mittwoch, 24. Mai 2023 13:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684926360/191/
-- Mittwoch, 24. Mai 2023 13:18 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684927080/191/
-- Mittwoch, 24. Mai 2023 13:30 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684927800/112/
-- Mittwoch, 24. Mai 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684927800/191/
+- Mittwoch, 24. Mai 2023 13:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684927800/191/
 - Mittwoch, 24. Mai 2023 13:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684928520/191/
 - Mittwoch, 24. Mai 2023 13:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684929240/191/
 - Mittwoch, 24. Mai 2023 14:18 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684930680/191/
