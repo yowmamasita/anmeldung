@@ -5,4 +5,4 @@
 - Mittwoch, 24. Mai 2023 10:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684916640/2845/
 - Mittwoch, 24. Mai 2023 10:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684917360/154/
 - Mittwoch, 24. Mai 2023 10:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684918440/112/
-- Mittwoch, 24. Mai 2023 12:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684922760/313/
+- Freitag, 26. Mai 2023 09:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685085120/2899/
