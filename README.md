@@ -22,7 +22,6 @@
 - Mittwoch, 24. Mai 2023 09:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684913400/313/
 - Mittwoch, 24. Mai 2023 09:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684913760/231/
 - Mittwoch, 24. Mai 2023 09:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684914120/313/
-- Mittwoch, 24. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684914120/192/
 - Mittwoch, 24. Mai 2023 09:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684914480/231/
 - Mittwoch, 24. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684914480/170/
 - Mittwoch, 24. Mai 2023 09:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684914840/313/
@@ -55,8 +54,7 @@
 - Mittwoch, 24. Mai 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684921320/191/
 - Mittwoch, 24. Mai 2023 11:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684922040/313/
 - Mittwoch, 24. Mai 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684922040/191/
-- Mittwoch, 24. Mai 2023 12:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684922760/313/
-- Mittwoch, 24. Mai 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684922760/191/
+- Mittwoch, 24. Mai 2023 12:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684922760/191/
 - Mittwoch, 24. Mai 2023 12:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1684923120/170/
 - Mittwoch, 24. Mai 2023 12:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684923480/313/
 - Mittwoch, 24. Mai 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684923480/191/
@@ -70,4 +68,4 @@
 - Mittwoch, 24. Mai 2023 13:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684927080/313/
 - Mittwoch, 24. Mai 2023 13:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684927800/313/
 - Mittwoch, 24. Mai 2023 13:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684928520/313/
-- Mittwoch, 24. Mai 2023 13:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684929240/313/
+- Mittwoch, 24. Mai 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1684928520/191/
