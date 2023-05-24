@@ -11,7 +11,6 @@
 - Mittwoch, 24. Mai 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684916640/2863/
 - Mittwoch, 24. Mai 2023 10:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684917360/2845/
 - Mittwoch, 24. Mai 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684917360/2863/
-- Mittwoch, 24. Mai 2023 11:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1684920240/169/
 - Montag, 12. Juni 2023 11:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686561840/2872/
 - Dienstag, 20. Juni 2023 10:24 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1687249440/103/
 - Montag, 26. Juni 2023 11:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1687770360/136/
