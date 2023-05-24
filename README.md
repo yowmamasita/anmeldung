@@ -4,4 +4,3 @@
 - Mittwoch, 24. Mai 2023 12:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684922400/154/
 - Mittwoch, 24. Mai 2023 12:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684923120/154/
 - Mittwoch, 24. Mai 2023 12:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684923840/154/
-- Mittwoch, 24. Mai 2023 12:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1684925280/154/
