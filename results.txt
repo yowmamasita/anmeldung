@@ -1,10 +1,9 @@
 - Mittwoch, 24. Mai 2023 10:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684915200/2845/
 - Mittwoch, 24. Mai 2023 10:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684915920/2863/
 - Mittwoch, 24. Mai 2023 11:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684918800/2863/
-- Mittwoch, 24. Mai 2023 11:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684919520/2848/
 - Mittwoch, 24. Mai 2023 11:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684920240/2848/
 - Mittwoch, 24. Mai 2023 11:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684921680/2848/
+- Mittwoch, 24. Mai 2023 12:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684922400/2848/
 - Mittwoch, 24. Mai 2023 12:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684923840/2848/
 - Mittwoch, 24. Mai 2023 12:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684924560/2848/
 - Mittwoch, 24. Mai 2023 12:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684925280/2848/
-- Mittwoch, 24. Mai 2023 13:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684926000/2848/
