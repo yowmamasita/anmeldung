@@ -45,7 +45,6 @@
 - Mittwoch, 19. Juli 2023 09:42 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689752520/841/
 - Mittwoch, 19. Juli 2023 09:48 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1689752880/141/
 - Mittwoch, 19. Juli 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1689752880/140/
-- Mittwoch, 19. Juli 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1689752880/168/
 - Mittwoch, 19. Juli 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689752880/2938/
 - Mittwoch, 19. Juli 2023 10:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689753600/2836/
 - Mittwoch, 19. Juli 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1689753600/140/
@@ -113,3 +112,4 @@
 - Mittwoch, 19. Juli 2023 13:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689765840/3238/
 - Mittwoch, 19. Juli 2023 14:20 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689769200/2923/
 - Freitag, 21. Juli 2023 08:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689920640/2899/
+- Freitag, 21. Juli 2023 09:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689925680/2896/
