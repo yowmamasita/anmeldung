@@ -5,13 +5,11 @@
 - Mittwoch, 19. Juli 2023 12:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1689764040/191/
 - Mittwoch, 19. Juli 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689764040/922/
 - Mittwoch, 19. Juli 2023 13:06 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689764760/922/
-- Mittwoch, 19. Juli 2023 13:18 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689765480/844/
-- Mittwoch, 19. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689765480/111/
+- Mittwoch, 19. Juli 2023 13:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689765480/111/
 - Mittwoch, 19. Juli 2023 13:30 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689766200/922/
 - Mittwoch, 19. Juli 2023 13:42 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689766920/844/
 - Mittwoch, 19. Juli 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1689766920/191/
 - Mittwoch, 19. Juli 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689766920/922/
-- Mittwoch, 19. Juli 2023 13:54 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689767640/844/
-- Mittwoch, 19. Juli 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689767640/922/
+- Mittwoch, 19. Juli 2023 13:54 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689767640/922/
 - Mittwoch, 19. Juli 2023 14:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1689768360/191/
 - Mittwoch, 19. Juli 2023 14:18 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689769080/922/
