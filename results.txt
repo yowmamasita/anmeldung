@@ -13,8 +13,7 @@
 - Mittwoch, 24. Mai 2023 11:06 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684919160/192/
 - Mittwoch, 24. Mai 2023 11:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1684920000/150/
 - Mittwoch, 24. Mai 2023 11:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1684920600/150/
-- Mittwoch, 24. Mai 2023 12:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1684922760/313/
-- Mittwoch, 24. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684922760/192/
+- Mittwoch, 24. Mai 2023 12:06 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684922760/192/
 - Mittwoch, 24. Mai 2023 12:30 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684924200/192/
-- Mittwoch, 24. Mai 2023 13:18 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684927080/192/
+- Mittwoch, 24. Mai 2023 12:54 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1684925640/192/
 - Donnerstag, 15. Juni 2023 12:00 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1686823200/190/
