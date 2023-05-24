@@ -13,7 +13,6 @@
 - Mittwoch, 24. Mai 2023 09:30 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684913400/112/
 - Mittwoch, 24. Mai 2023 09:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684914120/112/
 - Mittwoch, 24. Mai 2023 09:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684914840/112/
-- Mittwoch, 24. Mai 2023 10:06 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684915560/112/
 - Mittwoch, 24. Mai 2023 10:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684916280/112/
 - Mittwoch, 24. Mai 2023 10:30 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684917000/112/
 - Mittwoch, 24. Mai 2023 10:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1684917720/112/
