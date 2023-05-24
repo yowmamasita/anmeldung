@@ -27,8 +27,7 @@
 - Mittwoch, 24. Mai 2023  Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1684913400/135/
 - Mittwoch, 24. Mai 2023 09:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684913760/231/
 - Mittwoch, 24. Mai 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1684913760/167/
-- Mittwoch, 24. Mai 2023 09:42 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1684914120/134/
-- Mittwoch, 24. Mai 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684914120/2908/
+- Mittwoch, 24. Mai 2023 09:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1684914120/2908/
 - Mittwoch, 24. Mai 2023 09:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684914480/231/
 - Mittwoch, 24. Mai 2023 09:54 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1684914840/134/
 - Mittwoch, 24. Mai 2023 10:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684915200/231/
@@ -62,7 +61,6 @@
 - Mittwoch, 24. Mai 2023 13:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684928880/231/
 - Mittwoch, 24. Mai 2023 14:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684930320/231/
 - Mittwoch, 24. Mai 2023 14:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684931040/231/
-- Mittwoch, 24. Mai 2023 14:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1684931760/231/
 - Donnerstag, 25. Mai 2023 12:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1685009520/231/
 - Donnerstag, 25. Mai 2023 14:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1685016720/191/
 - Donnerstag, 25. Mai 2023 16:20 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685024400/2881/
