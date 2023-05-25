@@ -148,4 +148,3 @@
 - Montag, 24. Juli 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1690202160/146/
 - Montag, 24. Juli 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1690202160/172/
 - Montag, 24. Juli 2023 14:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1690202880/146/
-- Montag, 24. Juli 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1690202880/172/
