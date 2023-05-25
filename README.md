@@ -3,6 +3,5 @@
 - Donnerstag, 25. Mai 2023 14:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685017440/2845/
 - Donnerstag, 25. Mai 2023  Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685017440/2920/
 - Freitag, 26. Mai 2023 08:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1685082960/381/
-- Dienstag, 6. Juni 2023 11:30 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1686043800/151/
 - Mittwoch, 21. Juni 2023 13:00 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687345200/2920/
 - Montag, 26. Juni 2023 09:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687765680/2845/
