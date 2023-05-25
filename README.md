@@ -13,4 +13,3 @@
 - Donnerstag, 25. Mai 2023 15:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685021040/2857/
 - Donnerstag, 25. Mai 2023 15:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685022480/2857/
 - Donnerstag, 25. Mai 2023 17:24 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1685028240/103/
-- Freitag, 26. Mai 2023 09:00 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685084400/2881/
