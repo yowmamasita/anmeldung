@@ -6,4 +6,3 @@
 - Donnerstag, 25. Mai 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685023920/2845/
 - Donnerstag, 25. Mai 2023 16:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685024640/2845/
 - Donnerstag, 25. Mai 2023 16:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685025360/2845/
-- Donnerstag, 25. Mai 2023 16:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685026080/2863/
