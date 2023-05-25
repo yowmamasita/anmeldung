@@ -9,6 +9,4 @@
 - Donnerstag, 25. Mai 2023 12:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685009520/2857/
 - Donnerstag, 25. Mai 2023 12:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685011680/2857/
 - Donnerstag, 25. Mai 2023 13:36 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685014560/844/
-- Donnerstag, 25. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1685014560/170/
 - Donnerstag, 25. Mai 2023 17:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1685027400/150/
-- Freitag, 26. Mai 2023 12:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685095200/2836/
