@@ -14,4 +14,4 @@
 - Donnerstag, 20. Juli 2023 16:20 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689862800/2923/
 - Donnerstag, 20. Juli 2023 16:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689863040/381/
 - Donnerstag, 20. Juli 2023 16:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689863760/381/
-- Donnerstag, 20. Juli 2023 16:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689864600/2923/
+- Donnerstag, 20. Juli 2023 17:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689866640/381/
