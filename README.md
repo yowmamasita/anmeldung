@@ -4,4 +4,3 @@
 - Donnerstag, 20. Juli 2023 14:42 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689856920/2836/
 - Donnerstag, 20. Juli 2023 15:00 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689858000/898/
 - Donnerstag, 20. Juli 2023 15:12 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689858720/898/
-- Donnerstag, 20. Juli 2023 15:36 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689860160/904/
