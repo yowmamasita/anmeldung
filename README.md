@@ -94,6 +94,6 @@
 - Donnerstag, 20. Juli 2023 16:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689863040/2854/
 - Donnerstag, 20. Juli 2023 16:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1689864480/169/
 - Donnerstag, 20. Juli 2023 16:50 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1689864600/149/
-- Donnerstag, 20. Juli 2023 17:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689865920/3238/
 - Donnerstag, 20. Juli 2023 17:20 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689866400/2941/
 - Donnerstag, 20. Juli 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689866400/2881/
+- Donnerstag, 20. Juli 2023 17:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689866640/3238/
