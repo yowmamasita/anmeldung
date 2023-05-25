@@ -5,4 +5,3 @@
 - Donnerstag, 25. Mai 2023 13:30 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1685014200/148/
 - Donnerstag, 25. Mai 2023 14:24 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685017440/2920/
 - Donnerstag, 25. Mai 2023 15:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685021040/2857/
-- Freitag, 26. Mai 2023 08:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1685082960/381/
