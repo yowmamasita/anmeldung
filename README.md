@@ -5,7 +5,6 @@
 - Freitag, 26. Mai 2023 07:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1685080440/109/
 - Freitag, 26. Mai 2023 09:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685086560/2863/
 - Freitag, 26. Mai 2023 09:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685086920/2908/
-- Freitag, 26. Mai 2023 12:30 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1685097000/134/
 - Montag, 12. Juni 2023 08:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686550680/2908/
 - Montag, 12. Juni 2023 08:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686552120/2908/
 - Montag, 12. Juni 2023 08:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686552840/2908/
