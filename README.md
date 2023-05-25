@@ -3,5 +3,3 @@
 - Donnerstag, 25. Mai 2023 13:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685012400/2845/
 - Donnerstag, 25. Mai 2023 13:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685013120/2851/
 - Donnerstag, 25. Mai 2023 13:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685013840/2845/
-- Donnerstag, 25. Mai 2023 13:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685015280/2845/
-- Dienstag, 27. Juni 2023 16:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1687877280/136/
