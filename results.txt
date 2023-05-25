@@ -1,8 +1,5 @@
 - Donnerstag, 25. Mai 2023 10:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1685003040/381/
-- Donnerstag, 25. Mai 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1685003040/146/
 - Donnerstag, 25. Mai 2023 10:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685003760/2896/
-- Dienstag, 13. Juni 2023 09:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1686641760/153/
-- Dienstag, 13. Juni 2023 10:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1686644640/153/
 - Dienstag, 13. Juni 2023 10:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1686645360/153/
 - Dienstag, 13. Juni 2023 10:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1686646080/153/
 - Dienstag, 13. Juni 2023 11:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1686648240/153/
@@ -27,7 +24,6 @@
 - Donnerstag, 15. Juni 2023 12:18 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1686824280/153/
 - Donnerstag, 15. Juni 2023 12:30 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1686825000/153/
 - Donnerstag, 15. Juni 2023 12:42 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1686825720/153/
-- Donnerstag, 15. Juni 2023 12:54 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1686826440/153/
 - Mittwoch, 21. Juni 2023 09:30 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1687332600/153/
 - Mittwoch, 21. Juni 2023 09:42 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1687333320/153/
 - Mittwoch, 21. Juni 2023 09:54 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1687334040/153/
