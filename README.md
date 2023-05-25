@@ -20,6 +20,7 @@
 - Donnerstag, 20. Juli 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689856560/898/
 - Donnerstag, 20. Juli 2023 14:40 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689856800/2923/
 - Donnerstag, 20. Juli 2023 14:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689857280/381/
+- Donnerstag, 20. Juli 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689857280/3238/
 - Donnerstag, 20. Juli 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689857280/898/
 - Donnerstag, 20. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689857280/904/
 - Donnerstag, 20. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689857280/103/
@@ -49,6 +50,5 @@
 - Donnerstag, 20. Juli 2023 16:40 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689864000/2923/
 - Donnerstag, 20. Juli 2023 16:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689864480/381/
 - Donnerstag, 20. Juli 2023 17:00 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689865200/381/
-- Donnerstag, 20. Juli 2023 17:12 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689865920/103/
 - Donnerstag, 20. Juli 2023 17:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689866640/381/
 - Montag, 24. Juli 2023 13:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1690197120/146/
