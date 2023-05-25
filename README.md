@@ -7,11 +7,9 @@
 - Donnerstag, 25. Mai 2023 10:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685003760/192/
 - Donnerstag, 25. Mai 2023 10:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685004480/192/
 - Donnerstag, 25. Mai 2023 11:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685005920/192/
-- Donnerstag, 25. Mai 2023 11:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685006640/192/
 - Donnerstag, 25. Mai 2023 11:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685007360/192/
 - Donnerstag, 25. Mai 2023 11:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1685008080/167/
 - Donnerstag, 25. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685008080/192/
-- Donnerstag, 25. Mai 2023 12:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685008800/192/
 - Donnerstag, 25. Mai 2023 12:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685009520/192/
 - Donnerstag, 25. Mai 2023 12:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685010240/192/
 - Donnerstag, 25. Mai 2023 12:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685011680/192/
@@ -19,5 +17,3 @@
 - Donnerstag, 25. Mai 2023 13:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685014560/192/
 - Donnerstag, 25. Mai 2023 13:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685015280/192/
 - Donnerstag, 25. Mai 2023 14:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685016000/192/
-- Donnerstag, 25. Mai 2023 14:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685016720/192/
-- Donnerstag, 25. Mai 2023 14:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685017440/192/
