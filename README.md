@@ -7,7 +7,6 @@
 - Donnerstag, 25. Mai 2023 12:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1685009520/231/
 - Donnerstag, 25. Mai 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1685009520/167/
 - Donnerstag, 25. Mai 2023 12:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1685010240/167/
-- Donnerstag, 25. Mai 2023 12:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1685010960/167/
 - Donnerstag, 25. Mai 2023 12:42 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1685011320/133/
 - Donnerstag, 25. Mai 2023 12:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1685011680/167/
 - Donnerstag, 25. Mai 2023 13:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1685013120/167/
@@ -15,3 +14,4 @@
 - Donnerstag, 25. Mai 2023 13:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1685014560/167/
 - Donnerstag, 25. Mai 2023 13:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1685015280/167/
 - Donnerstag, 25. Mai 2023 14:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1685016720/167/
+- Donnerstag, 25. Mai 2023 14:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1685017440/167/
