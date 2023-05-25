@@ -124,11 +124,11 @@
 - Donnerstag, 20. Juli 2023 15:54 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1689861240/140/
 - Donnerstag, 20. Juli 2023 16:00 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1689861600/147/
 - Donnerstag, 20. Juli 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1689861600/149/
-- Donnerstag, 20. Juli 2023 16:06 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1689861960/140/
-- Donnerstag, 20. Juli 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689861960/2839/
+- Donnerstag, 20. Juli 2023 16:06 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689861960/2839/
 - Donnerstag, 20. Juli 2023 16:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689862200/2923/
 - Donnerstag, 20. Juli 2023  Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1689862200/148/
 - Donnerstag, 20. Juli 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689862200/2881/
+- Donnerstag, 20. Juli 2023 16:18 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1689862680/140/
 - Donnerstag, 20. Juli 2023 16:20 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689862800/2941/
 - Donnerstag, 20. Juli 2023 16:36 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689863760/841/
 - Donnerstag, 20. Juli 2023 17:00 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689865200/2881/
