@@ -29,7 +29,6 @@
 - Donnerstag, 25. Mai 2023 13:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685013840/2857/
 - Donnerstag, 25. Mai 2023 13:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685014560/2857/
 - Donnerstag, 25. Mai 2023 13:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1685014800/150/
-- Donnerstag, 25. Mai 2023 13:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685015280/2857/
 - Donnerstag, 25. Mai 2023 13:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1685015400/150/
 - Donnerstag, 25. Mai 2023 14:00 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1685016000/150/
 - Donnerstag, 25. Mai 2023 14:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1685016600/150/
@@ -45,10 +44,9 @@
 - Donnerstag, 25. Mai 2023 16:00 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1685023200/150/
 - Donnerstag, 25. Mai 2023 16:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1685023800/150/
 - Donnerstag, 25. Mai 2023 16:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1685025000/150/
-- Donnerstag, 25. Mai 2023 16:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685025360/2857/
+- Donnerstag, 25. Mai 2023 16:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1685025360/169/
+- Donnerstag, 25. Mai 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685025360/2857/
 - Donnerstag, 25. Mai 2023 16:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1685025600/150/
-- Donnerstag, 25. Mai 2023 16:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1685026080/169/
-- Donnerstag, 25. Mai 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685026080/2857/
+- Donnerstag, 25. Mai 2023 16:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685026080/2857/
 - Donnerstag, 25. Mai 2023 17:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1685027400/150/
-- Donnerstag, 25. Mai 2023 17:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1685028000/150/
 - Dienstag, 27. Juni 2023 08:00 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687845600/2932/
