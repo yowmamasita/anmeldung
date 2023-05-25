@@ -3,8 +3,6 @@
 - Donnerstag, 25. Mai 2023 14:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1685017440/112/
 - Donnerstag, 25. Mai 2023 15:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685021040/922/
 - Donnerstag, 25. Mai 2023 15:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1685022480/112/
-- Donnerstag, 25. Mai 2023 16:00 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1685023200/112/
-- Donnerstag, 25. Mai 2023 16:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1685023920/112/
 - Donnerstag, 25. Mai 2023 16:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1685024640/112/
 - Donnerstag, 25. Mai 2023 16:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1685025360/112/
 - Donnerstag, 25. Mai 2023 16:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1685026080/112/
