@@ -23,8 +23,7 @@
 - Donnerstag, 20. Juli 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1689863040/313/
 - Donnerstag, 20. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689863040/904/
 - Donnerstag, 20. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689863040/2926/
-- Donnerstag, 20. Juli 2023 16:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1689863760/106/
-- Donnerstag, 20. Juli 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689863760/2845/
+- Donnerstag, 20. Juli 2023 16:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689863760/2845/
 - Donnerstag, 20. Juli 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689863760/2908/
 - Donnerstag, 20. Juli 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689863760/2911/
 - Donnerstag, 20. Juli 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689863760/312/
@@ -66,6 +65,7 @@
 - Donnerstag, 20. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689866640/904/
 - Donnerstag, 20. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689866640/2926/
 - Donnerstag, 20. Juli 2023 17:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689867360/2845/
+- Donnerstag, 20. Juli 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689867360/2908/
 - Donnerstag, 20. Juli 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689867360/2911/
 - Donnerstag, 20. Juli 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689867360/312/
 - Donnerstag, 20. Juli 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689867360/898/
