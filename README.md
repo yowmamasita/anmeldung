@@ -26,7 +26,6 @@
 - Donnerstag, 25. Mai 2023 15:24 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1685021040/134/
 - Donnerstag, 25. Mai 2023 15:36 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1685021760/134/
 - Donnerstag, 25. Mai 2023 15:48 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1685022480/134/
-- Donnerstag, 25. Mai 2023 16:00 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1685023200/134/
 - Donnerstag, 25. Mai 2023 16:12 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1685023920/134/
 - Donnerstag, 25. Mai 2023 16:24 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1685024640/134/
 - Donnerstag, 25. Mai 2023 16:36 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1685025360/134/
@@ -34,4 +33,3 @@
 - Donnerstag, 25. Mai 2023 17:12 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1685027520/134/
 - Donnerstag, 25. Mai 2023 17:24 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1685028240/134/
 - Donnerstag, 25. Mai 2023 17:36 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1685028960/134/
-- Donnerstag, 25. Mai 2023 17:48 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1685029680/134/
