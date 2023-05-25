@@ -5,4 +5,3 @@
 - Donnerstag, 25. Mai 2023 15:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1685021040/106/
 - Donnerstag, 25. Mai 2023 15:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1685021760/106/
 - Donnerstag, 25. Mai 2023 15:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1685022480/106/
-- Donnerstag, 25. Mai 2023 17:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1685028240/112/
