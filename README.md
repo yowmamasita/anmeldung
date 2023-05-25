@@ -36,7 +36,6 @@
 - Donnerstag, 20. Juli 2023 11:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1689845400/150/
 - Donnerstag, 20. Juli 2023 11:40 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1689846000/149/
 - Donnerstag, 20. Juli 2023 11:48 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689846480/841/
-- Donnerstag, 20. Juli 2023 11:54 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689846840/2839/
 - Donnerstag, 20. Juli 2023 12:00 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1689847200/134/
 - Donnerstag, 20. Juli 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689847200/2908/
 - Donnerstag, 20. Juli 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689847200/2914/
