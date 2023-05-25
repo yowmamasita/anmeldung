@@ -6,5 +6,3 @@
 - Donnerstag, 25. Mai 2023 11:36 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1685007360/135/
 - Donnerstag, 25. Mai 2023 11:48 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1685008080/135/
 - Donnerstag, 25. Mai 2023 12:24 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1685010240/135/
-- Donnerstag, 25. Mai 2023 12:36 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1685010960/135/
-- Donnerstag, 25. Mai 2023 12:48 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1685011680/135/
