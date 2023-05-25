@@ -28,8 +28,7 @@
 - Donnerstag, 20. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689857280/904/
 - Donnerstag, 20. Juli 2023 14:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689857400/2923/
 - Donnerstag, 20. Juli 2023 15:00 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689858000/904/
-- Donnerstag, 20. Juli 2023 15:12 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689858720/898/
-- Donnerstag, 20. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689858720/904/
+- Donnerstag, 20. Juli 2023 15:12 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689858720/904/
 - Donnerstag, 20. Juli 2023 15:20 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689859200/2923/
 - Donnerstag, 20. Juli 2023 15:30 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689859800/2923/
 - Donnerstag, 20. Juli 2023 15:40 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689860400/2923/
