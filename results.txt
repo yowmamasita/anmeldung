@@ -1,9 +1,4 @@
-- Donnerstag, 25. Mai 2023 11:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685005920/2872/
-- Donnerstag, 25. Mai 2023 11:48 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685008080/2908/
 - Donnerstag, 25. Mai 2023 13:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685015280/2872/
 - Donnerstag, 25. Mai 2023 14:00 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685016000/2872/
 - Donnerstag, 25. Mai 2023 14:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685016720/2872/
 - Donnerstag, 25. Mai 2023 14:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685017440/2872/
-- Donnerstag, 25. Mai 2023 14:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685018160/2872/
-- Freitag, 26. Mai 2023 08:54 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685084040/844/
-- Freitag, 26. Mai 2023 12:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685095200/2926/
