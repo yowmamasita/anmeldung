@@ -6,4 +6,3 @@
 - Donnerstag, 25. Mai 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1685021040/172/
 - Donnerstag, 25. Mai 2023 15:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1685022480/146/
 - Donnerstag, 25. Mai 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1685022480/172/
-- Donnerstag, 25. Mai 2023 16:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1685023200/231/
