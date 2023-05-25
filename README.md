@@ -15,7 +15,6 @@
 - Freitag, 26. Mai 2023 09:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685087280/2857/
 - Freitag, 26. Mai 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685087280/2899/
 - Freitag, 26. Mai 2023 10:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685088000/2857/
-- Freitag, 26. Mai 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685088000/2899/
 - Freitag, 26. Mai 2023 10:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685088720/2857/
 - Freitag, 26. Mai 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685088720/2899/
 - Freitag, 26. Mai 2023 10:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685089440/2857/
