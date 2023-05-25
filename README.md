@@ -9,8 +9,6 @@
 - Donnerstag, 25. Mai 2023 12:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1685011680/167/
 - Donnerstag, 25. Mai 2023 13:12 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685013120/2860/
 - Donnerstag, 25. Mai 2023 13:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685015280/2851/
-- Donnerstag, 25. Mai 2023 14:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1685018160/167/
 - Donnerstag, 25. Mai 2023 15:00 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685019600/2860/
 - Donnerstag, 25. Mai 2023 16:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685024640/2926/
 - Donnerstag, 25. Mai 2023 17:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685026800/3238/
-- Donnerstag, 25. Mai 2023 17:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1685028960/312/
