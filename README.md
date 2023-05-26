@@ -23,11 +23,11 @@
 - Freitag, 21. Juli 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689921360/922/
 - Freitag, 21. Juli 2023 08:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1689921600/147/
 - Freitag, 21. Juli 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689921600/2878/
-- Freitag, 21. Juli 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1689921600/149/
 - Freitag, 21. Juli 2023 08:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689921720/2914/
 - Freitag, 21. Juli 2023 08:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689922080/2848/
 - Freitag, 21. Juli 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1689922080/192/
 - Freitag, 21. Juli 2023 08:50 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1689922200/151/
+- Freitag, 21. Juli 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1689922200/149/
 - Freitag, 21. Juli 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1689922200/150/
 - Freitag, 21. Juli 2023 08:54 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689922440/841/
 - Freitag, 21. Juli 2023 09:00 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1689922800/380/
@@ -81,7 +81,6 @@
 - Freitag, 21. Juli 2023 10:30 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1689928200/140/
 - Freitag, 21. Juli 2023 10:36 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1689928560/141/
 - Freitag, 21. Juli 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1689928560/142/
-- Freitag, 21. Juli 2023 10:40 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1689928800/148/
 - Freitag, 21. Juli 2023 10:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689929640/109/
 - Freitag, 21. Juli 2023 11:00 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1689930000/380/
 - Freitag, 21. Juli 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689930000/2836/
