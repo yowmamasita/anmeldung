@@ -111,6 +111,5 @@
 - Freitag, 21. Juli 2023 12:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689936480/3238/
 - Dienstag, 25. Juli 2023 10:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1690274160/172/
 - Dienstag, 25. Juli 2023 11:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1690275600/172/
-- Dienstag, 25. Juli 2023 11:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1690276320/146/
-- Dienstag, 25. Juli 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1690276320/172/
+- Dienstag, 25. Juli 2023 11:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1690276320/172/
 - Dienstag, 25. Juli 2023 11:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1690277040/172/
