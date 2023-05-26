@@ -5,7 +5,6 @@
 - Freitag, 7. Juli 2023 08:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688709960/2908/
 - Donnerstag, 13. Juli 2023 08:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689228000/2848/
 - Montag, 17. Juli 2023 14:00 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689595200/922/
-- Freitag, 21. Juli 2023 07:00 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689915600/2854/
 - Freitag, 21. Juli 2023 09:40 Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1689925200/189/
 - Freitag, 21. Juli 2023 10:00 Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1689926400/189/
 - Freitag, 21. Juli 2023 10:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689927000/2923/
