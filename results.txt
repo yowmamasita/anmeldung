@@ -1,9 +1,9 @@
-- Freitag, 26. Mai 2023 09:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685084400/192/
-- Freitag, 26. Mai 2023 11:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1685092320/169/
-- Freitag, 26. Mai 2023 11:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1685093040/169/
-- Freitag, 26. Mai 2023 11:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1685093760/169/
-- Freitag, 26. Mai 2023 11:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1685094480/169/
-- Freitag, 26. Mai 2023 12:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1685095920/169/
-- Freitag, 26. Mai 2023 12:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1685096640/169/
-- Freitag, 26. Mai 2023 12:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1685097360/169/
-- Freitag, 26. Mai 2023 12:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1685098080/169/
+- Freitag, 26. Mai 2023 09:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685084400/2863/
+- Freitag, 26. Mai 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1685084400/154/
+- Freitag, 26. Mai 2023 09:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1685085120/154/
+- Freitag, 26. Mai 2023 09:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685085480/2908/
+- Freitag, 26. Mai 2023 09:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1685085840/154/
+- Freitag, 26. Mai 2023 09:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1685087280/154/
+- Freitag, 26. Mai 2023 10:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1685090520/109/
+- Freitag, 26. Mai 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685090520/2839/
+- Freitag, 26. Mai 2023 11:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1685091600/170/
