@@ -28,8 +28,7 @@
 - Freitag, 21. Juli 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689919560/898/
 - Freitag, 21. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689919560/111/
 - Freitag, 21. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689919560/904/
-- Freitag, 21. Juli 2023 08:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689919800/2923/
-- Freitag, 21. Juli 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689919800/2884/
+- Freitag, 21. Juli 2023 08:10 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689919800/2884/
 - Freitag, 21. Juli 2023 08:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689919920/2845/
 - Freitag, 21. Juli 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689919920/3238/
 - Freitag, 21. Juli 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1689919920/190/
@@ -42,6 +41,7 @@
 - Freitag, 21. Juli 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689920280/2914/
 - Freitag, 21. Juli 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1689920280/313/
 - Freitag, 21. Juli 2023 08:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1689920400/147/
+- Freitag, 21. Juli 2023  Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689920400/2923/
 - Freitag, 21. Juli 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1689920400/151/
 - Freitag, 21. Juli 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689920400/2941/
 - Freitag, 21. Juli 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689920400/2878/
