@@ -3,4 +3,3 @@
 - Freitag, 26. Mai 2023 12:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1685095200/106/
 - Freitag, 26. Mai 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1685095200/172/
 - Freitag, 26. Mai 2023 12:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1685095920/172/
-- Freitag, 26. Mai 2023 12:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1685096640/172/
