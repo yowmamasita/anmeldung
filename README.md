@@ -14,5 +14,5 @@
 - Freitag, 26. Mai 2023 10:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1685088000/170/
 - Freitag, 26. Mai 2023 10:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1685088720/170/
 - Freitag, 26. Mai 2023 10:18 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1685089080/134/
+- Freitag, 26. Mai 2023 10:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1685089440/170/
 - Freitag, 26. Mai 2023 10:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1685090160/170/
-- Freitag, 26. Mai 2023 11:18 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1685092680/134/
