@@ -4,4 +4,3 @@
 - Freitag, 26. Mai 2023 08:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1685083320/312/
 - Freitag, 26. Mai 2023 08:54 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1685084040/312/
 - Freitag, 26. Mai 2023 09:06 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1685084760/312/
-- Freitag, 26. Mai 2023 09:18 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1685085480/312/
