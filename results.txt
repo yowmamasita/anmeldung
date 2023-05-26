@@ -1,5 +1,1 @@
-- Donnerstag, 20. Juli 2023 14:30 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1689856200/380/
-- Freitag, 21. Juli 2023 11:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689931800/2908/
-- Freitag, 21. Juli 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689931800/2839/
-- Freitag, 21. Juli 2023 12:20 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689934800/2884/
-- Freitag, 21. Juli 2023 12:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689935400/2914/
+- Freitag, 21. Juli 2023 12:18 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689934680/898/
