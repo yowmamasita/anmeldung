@@ -48,7 +48,6 @@
 - Freitag, 21. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689922800/2887/
 - Freitag, 21. Juli 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689922800/2941/
 - Freitag, 21. Juli 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689922800/2878/
-- Freitag, 21. Juli 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689922800/153/
 - Freitag, 21. Juli 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689922800/2881/
 - Freitag, 21. Juli 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1689922800/191/
 - Freitag, 21. Juli 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689922800/922/
@@ -69,6 +68,7 @@
 - Freitag, 21. Juli 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689923520/2848/
 - Freitag, 21. Juli 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689923520/3238/
 - Freitag, 21. Juli 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1689923520/190/
+- Freitag, 21. Juli 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689923520/153/
 - Freitag, 21. Juli 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1689923520/145/
 - Freitag, 21. Juli 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1689923520/192/
 - Freitag, 21. Juli 2023 09:18 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689923880/2911/
@@ -153,12 +153,12 @@
 - Freitag, 21. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689933960/111/
 - Freitag, 21. Juli 2023 12:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689934200/2923/
 - Freitag, 21. Juli 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1689934200/150/
-- Freitag, 21. Juli 2023 12:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1689934320/169/
-- Freitag, 21. Juli 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689934320/3238/
+- Freitag, 21. Juli 2023 12:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689934320/3238/
 - Freitag, 21. Juli 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689934320/2854/
 - Freitag, 21. Juli 2023 12:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689934680/109/
 - Freitag, 21. Juli 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689934680/2839/
 - Freitag, 21. Juli 2023 12:20 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1689934800/151/
+- Freitag, 21. Juli 2023 12:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1689935040/169/
 - Freitag, 21. Juli 2023 12:36 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1689935760/142/
 - Freitag, 21. Juli 2023 13:12 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689937920/2836/
 - Freitag, 21. Juli 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689937920/3238/
