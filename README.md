@@ -4,7 +4,6 @@
 - Freitag, 26. Mai 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685081880/2914/
 - Freitag, 26. Mai 2023 08:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1685082600/109/
 - Freitag, 26. Mai 2023 08:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685083320/2914/
-- Freitag, 26. Mai 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1685083320/109/
 - Freitag, 26. Mai 2023 08:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1685084040/136/
 - Freitag, 26. Mai 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685084040/2914/
 - Freitag, 26. Mai 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1685084040/109/
@@ -17,7 +16,6 @@
 - Freitag, 26. Mai 2023 10:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685088360/2914/
 - Freitag, 26. Mai 2023 10:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685089080/2914/
 - Freitag, 26. Mai 2023 10:24 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685089440/1018/
-- Freitag, 26. Mai 2023 10:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685089800/2914/
 - Freitag, 26. Mai 2023 10:36 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685090160/1018/
 - Freitag, 26. Mai 2023 10:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685090520/2914/
 - Freitag, 26. Mai 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1685090520/109/
