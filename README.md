@@ -12,7 +12,6 @@
 - Freitag, 26. Mai 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685082960/2896/
 - Freitag, 26. Mai 2023 08:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1685083680/146/
 - Freitag, 26. Mai 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685083680/2896/
-- Freitag, 26. Mai 2023 08:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1685084040/109/
 - Freitag, 26. Mai 2023 09:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1685084400/146/
 - Freitag, 26. Mai 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685084400/2896/
 - Freitag, 26. Mai 2023 09:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1685085120/146/
@@ -39,7 +38,6 @@
 - Freitag, 26. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1685093040/170/
 - Freitag, 26. Mai 2023 11:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685093760/2896/
 - Freitag, 26. Mai 2023 11:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685094480/2896/
-- Freitag, 26. Mai 2023 12:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685095200/2896/
 - Freitag, 26. Mai 2023 12:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685095920/2896/
 - Freitag, 26. Mai 2023 12:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685096640/2896/
 - Freitag, 26. Mai 2023 12:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685097360/2896/
