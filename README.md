@@ -20,11 +20,11 @@
 - Freitag, 21. Juli 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689924000/2884/
 - Freitag, 21. Juli 2023 09:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689924240/2887/
 - Freitag, 21. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689924240/2926/
-- Freitag, 21. Juli 2023 09:30 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689924600/841/
-- Freitag, 21. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689924600/904/
+- Freitag, 21. Juli 2023 09:30 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689924600/904/
 - Freitag, 21. Juli 2023 09:36 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689924960/2836/
 - Freitag, 21. Juli 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689924960/3238/
-- Freitag, 21. Juli 2023 09:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689925320/2839/
+- Freitag, 21. Juli 2023 09:42 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689925320/841/
+- Freitag, 21. Juli 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689925320/2839/
 - Freitag, 21. Juli 2023 09:50 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689925800/2878/
 - Freitag, 21. Juli 2023 09:54 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689926040/2911/
 - Freitag, 21. Juli 2023 10:00 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1689926400/380/
@@ -68,8 +68,8 @@
 - Freitag, 21. Juli 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689931200/2884/
 - Freitag, 21. Juli 2023 11:24 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689931440/2836/
 - Freitag, 21. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689931440/2887/
-- Freitag, 21. Juli 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1689931440/192/
 - Freitag, 21. Juli 2023 11:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1689932160/191/
+- Freitag, 21. Juli 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1689932160/192/
 - Freitag, 21. Juli 2023 11:40 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1689932400/151/
 - Freitag, 21. Juli 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689932400/2878/
 - Freitag, 21. Juli 2023 11:42 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689932520/844/
