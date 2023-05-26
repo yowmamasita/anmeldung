@@ -174,7 +174,6 @@
 - Freitag, 21. Juli 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1689933600/142/
 - Freitag, 21. Juli 2023 12:06 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689933960/112/
 - Freitag, 21. Juli 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689933960/844/
-- Freitag, 21. Juli 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689933960/109/
 - Freitag, 21. Juli 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689933960/841/
 - Freitag, 21. Juli 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689933960/2839/
 - Freitag, 21. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689933960/111/
