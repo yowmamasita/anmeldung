@@ -97,7 +97,6 @@
 - Freitag, 21. Juli 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1689934200/149/
 - Freitag, 21. Juli 2023 12:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1689934320/191/
 - Freitag, 21. Juli 2023 12:15 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1689934500/380/
-- Freitag, 21. Juli 2023 12:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1689934800/150/
 - Freitag, 21. Juli 2023 12:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689935040/2887/
 - Freitag, 21. Juli 2023 12:30 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689935400/2839/
 - Freitag, 21. Juli 2023 12:42 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689936120/844/
