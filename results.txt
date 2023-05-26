@@ -1,4 +1,3 @@
-- Freitag, 26. Mai 2023 07:48 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685080080/1018/
 - Freitag, 26. Mai 2023 08:00 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685080800/1018/
 - Freitag, 26. Mai 2023 08:24 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685082240/1018/
 - Freitag, 26. Mai 2023 08:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685082960/2863/
@@ -14,4 +13,3 @@
 - Freitag, 26. Mai 2023 10:48 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685090880/1018/
 - Freitag, 26. Mai 2023 13:12 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685099520/1018/
 - Freitag, 26. Mai 2023 13:24 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685100240/1018/
-- Freitag, 26. Mai 2023 13:48 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685101680/1018/
