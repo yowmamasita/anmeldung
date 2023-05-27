@@ -31,4 +31,3 @@
 - Mittwoch, 19. Juli 2023 13:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689765840/2851/
 - Mittwoch, 19. Juli 2023 13:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689766560/2851/
 - Mittwoch, 19. Juli 2023 13:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689767280/143/
-- Mittwoch, 19. Juli 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689767280/2851/
