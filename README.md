@@ -5,6 +5,5 @@
 - Mittwoch, 26. Juli 2023 14:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1690373520/172/
 - Mittwoch, 26. Juli 2023 14:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690374240/231/
 - Mittwoch, 26. Juli 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1690374240/172/
-- Mittwoch, 26. Juli 2023 14:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690374960/231/
-- Mittwoch, 26. Juli 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1690374960/146/
+- Mittwoch, 26. Juli 2023 14:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1690374960/146/
 - Mittwoch, 26. Juli 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1690374960/172/
