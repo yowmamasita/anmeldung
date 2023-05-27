@@ -1,7 +1,0 @@
-- Montag, 24. Juli 2023 14:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690202160/2899/
-- Mittwoch, 26. Juli 2023 13:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690369920/231/
-- Mittwoch, 26. Juli 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1690369920/146/
-- Mittwoch, 26. Juli 2023 13:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690370640/231/
-- Mittwoch, 26. Juli 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1690370640/172/
-- Mittwoch, 26. Juli 2023 13:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1690371360/146/
-- Mittwoch, 26. Juli 2023 13:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690372080/231/
