@@ -1,7 +1,1 @@
-- Dienstag, 18. Juli 2023 10:20 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689668400/2923/
-- Dienstag, 25. Juli 2023 17:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690297920/2896/
-- Dienstag, 25. Juli 2023 17:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690298640/2896/
-- Dienstag, 25. Juli 2023 17:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690299360/2896/
-- Donnerstag, 27. Juli 2023 15:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690464960/231/
-- Donnerstag, 27. Juli 2023 16:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690467120/231/
-- Donnerstag, 27. Juli 2023 16:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1690468560/172/
+- Dienstag, 30. Mai 2023 15:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1685451600/172/
