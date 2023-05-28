@@ -1,3 +1,5 @@
-- Dienstag, 30. Mai 2023 11:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1685440080/153/
-- Dienstag, 30. Mai 2023 15:00 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685451600/2938/
-- Mittwoch, 7. Juni 2023 12:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686132000/3238/
+- Dienstag, 30. Mai 2023 10:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685434680/2839/
+- Dienstag, 30. Mai 2023 11:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685440080/2872/
+- Dienstag, 30. Mai 2023 13:48 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685447280/844/
+- Dienstag, 30. Mai 2023 14:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685450880/2851/
+- Dienstag, 30. Mai 2023 15:00 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685451600/2866/
