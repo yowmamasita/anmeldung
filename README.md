@@ -17,7 +17,6 @@
 - Donnerstag, 20. Juli 2023 17:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689865920/143/
 - Dienstag, 25. Juli 2023 10:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690272000/2896/
 - Dienstag, 25. Juli 2023 10:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690273440/2896/
-- Dienstag, 25. Juli 2023 10:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690274160/2899/
 - Dienstag, 25. Juli 2023 10:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690274880/2899/
 - Dienstag, 25. Juli 2023 11:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690275600/2896/
 - Dienstag, 25. Juli 2023 11:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690277040/2899/
