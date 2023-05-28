@@ -50,4 +50,5 @@
 - Donnerstag, 20. Juli 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689866640/2851/
 - Donnerstag, 20. Juli 2023 17:36 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689867360/143/
 - Donnerstag, 20. Juli 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689867360/2851/
+- Donnerstag, 27. Juli 2023 10:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690444800/231/
 - Donnerstag, 27. Juli 2023 11:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1690450560/146/
