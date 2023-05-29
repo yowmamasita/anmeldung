@@ -206,8 +206,7 @@
 - Mittwoch, 26. Juli 2023 08:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690351200/2896/
 - Mittwoch, 26. Juli 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690351200/2899/
 - Mittwoch, 26. Juli 2023 08:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690351920/2896/
-- Mittwoch, 26. Juli 2023 08:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690352640/2896/
-- Mittwoch, 26. Juli 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690352640/2899/
+- Mittwoch, 26. Juli 2023 08:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690352640/2899/
 - Mittwoch, 26. Juli 2023 08:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690353360/2899/
 - Mittwoch, 26. Juli 2023 08:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690354080/2896/
 - Mittwoch, 26. Juli 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690354080/2899/
@@ -225,7 +224,6 @@
 - Freitag, 28. Juli 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1690525440/146/
 - Freitag, 28. Juli 2023 08:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1690526160/146/
 - Freitag, 28. Juli 2023 08:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1690526880/146/
-- Freitag, 28. Juli 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1690526880/172/
 - Freitag, 28. Juli 2023 09:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1690529760/172/
 - Freitag, 28. Juli 2023 09:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690530480/231/
 - Freitag, 28. Juli 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1690530480/146/
