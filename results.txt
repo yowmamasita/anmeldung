@@ -23,6 +23,7 @@
 - Montag, 24. Juli 2023 09:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690182600/2941/
 - Montag, 24. Juli 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690182600/2881/
 - Montag, 24. Juli 2023 09:12 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690182720/2836/
+- Montag, 24. Juli 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1690182720/140/
 - Montag, 24. Juli 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690182720/2839/
 - Montag, 24. Juli 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690182720/3238/
 - Montag, 24. Juli 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1690182720/190/
@@ -38,7 +39,6 @@
 - Montag, 24. Juli 2023 09:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690183440/2845/
 - Montag, 24. Juli 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690183440/922/
 - Montag, 24. Juli 2023 09:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690184160/2848/
-- Montag, 24. Juli 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1690184160/140/
 - Montag, 24. Juli 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690184160/2932/
 - Montag, 24. Juli 2023 09:40 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690184400/2878/
 - Montag, 24. Juli 2023 09:50 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1690185000/149/
@@ -146,6 +146,7 @@
 - Montag, 24. Juli 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690196400/2908/
 - Montag, 24. Juli 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1690196400/108/
 - Montag, 24. Juli 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690196400/2848/
+- Montag, 24. Juli 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1690196400/140/
 - Montag, 24. Juli 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1690196400/381/
 - Montag, 24. Juli 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690196400/3238/
 - Montag, 24. Juli 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1690196400/190/
@@ -172,7 +173,6 @@
 - Montag, 24. Juli 2023 13:20 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690197600/2923/
 - Montag, 24. Juli 2023 13:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690197840/153/
 - Montag, 24. Juli 2023 13:36 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1690198560/141/
-- Montag, 24. Juli 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1690198560/140/
 - Montag, 24. Juli 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690198560/2854/
 - Montag, 24. Juli 2023 13:40 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1690198800/149/
 - Montag, 24. Juli 2023 14:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1690200000/106/
