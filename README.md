@@ -150,7 +150,6 @@
 - Montag, 24. Juli 2023 15:24 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690205040/2836/
 - Montag, 24. Juli 2023 15:36 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690205760/2839/
 - Montag, 24. Juli 2023 16:00 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690207200/2938/
-- Mittwoch, 26. Juli 2023 11:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690364160/2899/
 - Mittwoch, 26. Juli 2023 12:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690365600/2899/
 - Mittwoch, 26. Juli 2023 12:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690367760/2899/
 - Mittwoch, 26. Juli 2023 12:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690368480/2899/
