@@ -205,6 +205,7 @@
 - Montag, 24. Juli 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690204800/2881/
 - Montag, 24. Juli 2023 15:24 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1690205040/140/
 - Montag, 24. Juli 2023 15:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690206000/150/
+- Montag, 24. Juli 2023 15:48 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1690206480/141/
 - Mittwoch, 26. Juli 2023 08:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690354080/2896/
 - Mittwoch, 26. Juli 2023 09:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690354800/2896/
 - Mittwoch, 26. Juli 2023 09:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690355520/2896/
