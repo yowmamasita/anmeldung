@@ -218,9 +218,9 @@
 - Montag, 24. Juli 2023 15:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690203600/2836/
 - Montag, 24. Juli 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690203600/2941/
 - Montag, 24. Juli 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690203600/2881/
-- Montag, 24. Juli 2023 15:10 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690204200/2878/
 - Montag, 24. Juli 2023 15:12 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690204320/2839/
-- Montag, 24. Juli 2023 15:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1690204800/149/
+- Montag, 24. Juli 2023 15:20 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690204800/2878/
+- Montag, 24. Juli 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1690204800/149/
 - Montag, 24. Juli 2023 15:24 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1690205040/140/
 - Montag, 24. Juli 2023 15:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690205400/150/
 - Montag, 24. Juli 2023 15:36 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1690205760/141/
