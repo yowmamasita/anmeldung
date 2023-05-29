@@ -62,8 +62,7 @@
 - Montag, 24. Juli 2023 09:30 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690183800/844/
 - Montag, 24. Juli 2023 09:36 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690184160/2932/
 - Montag, 24. Juli 2023 09:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690184400/150/
-- Montag, 24. Juli 2023 09:48 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1690184880/141/
-- Montag, 24. Juli 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690184880/2854/
+- Montag, 24. Juli 2023 09:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690184880/2854/
 - Montag, 24. Juli 2023 09:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1690185240/111/
 - Montag, 24. Juli 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1690185240/154/
 - Montag, 24. Juli 2023 10:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690185600/2836/
