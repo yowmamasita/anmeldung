@@ -4,5 +4,4 @@
 - Mittwoch, 31. Mai 2023 09:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685516400/2851/
 - Mittwoch, 31. Mai 2023 09:30 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685518200/904/
 - Mittwoch, 31. Mai 2023 09:40 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685518800/2881/
-- Mittwoch, 31. Mai 2023 09:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1685519400/147/
 - Donnerstag, 1. Juni 2023 11:30 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685611800/2839/
