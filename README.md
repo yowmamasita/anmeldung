@@ -130,7 +130,6 @@
 - Montag, 24. Juli 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690202880/2932/
 - Montag, 24. Juli 2023 15:00 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690203600/2908/
 - Montag, 24. Juli 2023 15:18 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690204680/898/
-- Montag, 24. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690204680/904/
 - Montag, 24. Juli 2023 15:24 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690205040/2836/
 - Montag, 24. Juli 2023 15:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690205760/2938/
 - Montag, 24. Juli 2023 15:48 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690206480/2839/
