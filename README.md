@@ -88,10 +88,10 @@
 - Montag, 24. Juli 2023 09:24 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690183440/103/
 - Montag, 24. Juli 2023 09:30 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1690183800/154/
 - Montag, 24. Juli 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690183800/2938/
-- Montag, 24. Juli 2023 09:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1690184160/381/
 - Montag, 24. Juli 2023 09:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690184400/150/
 - Montag, 24. Juli 2023 09:42 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1690184520/134/
 - Montag, 24. Juli 2023  Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690184520/135/
+- Montag, 24. Juli 2023 09:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1690184880/381/
 - Montag, 24. Juli 2023 09:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1690185240/136/
 - Montag, 24. Juli 2023 10:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690185600/2836/
 - Montag, 24. Juli 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1690185600/140/
