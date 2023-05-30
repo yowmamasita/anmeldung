@@ -9,12 +9,12 @@
 - Dienstag, 25. Juli 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1690272000/149/
 - Dienstag, 25. Juli 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1690272000/191/
 - Dienstag, 25. Juli 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690272000/150/
+- Dienstag, 25. Juli 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1690272000/192/
 - Dienstag, 25. Juli 2023 10:12 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1690272720/106/
 - Dienstag, 25. Juli 2023  Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690272720/135/
 - Dienstag, 25. Juli 2023 10:20 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1690273200/151/
 - Dienstag, 25. Juli 2023 10:24 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690273440/103/
 - Dienstag, 25. Juli 2023 11:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1690275600/106/
-- Dienstag, 25. Juli 2023  Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690275600/135/
 - Dienstag, 25. Juli 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1690275600/108/
 - Dienstag, 25. Juli 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690275600/109/
 - Dienstag, 25. Juli 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1690275600/190/
@@ -22,9 +22,11 @@
 - Dienstag, 25. Juli 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1690275600/149/
 - Dienstag, 25. Juli 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1690275600/191/
 - Dienstag, 25. Juli 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690275600/150/
+- Dienstag, 25. Juli 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1690275600/192/
 - Dienstag, 25. Juli 2023 11:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690276200/147/
 - Dienstag, 25. Juli 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1690276200/151/
-- Dienstag, 25. Juli 2023 11:12 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690276320/103/
+- Dienstag, 25. Juli 2023 11:12 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690276320/135/
+- Dienstag, 25. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690276320/103/
 - Dienstag, 25. Juli 2023 11:18 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1690276680/141/
 - Dienstag, 25. Juli 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690276680/2839/
 - Dienstag, 25. Juli 2023 11:54 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690278840/2938/
