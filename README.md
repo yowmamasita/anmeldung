@@ -3,7 +3,6 @@
 - Mittwoch, 31. Mai 2023 09:30 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685518200/2887/
 - Mittwoch, 31. Mai 2023 09:42 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685518920/2887/
 - Mittwoch, 31. Mai 2023 09:54 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685519640/2887/
-- Mittwoch, 31. Mai 2023 10:06 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685520360/2887/
 - Mittwoch, 31. Mai 2023 10:18 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685521080/2887/
 - Mittwoch, 31. Mai 2023 10:30 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685521800/2887/
 - Mittwoch, 31. Mai 2023 10:42 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685522520/2887/
@@ -20,10 +19,5 @@
 - Mittwoch, 31. Mai 2023 12:54 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685530440/2887/
 - Mittwoch, 31. Mai 2023 13:30 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685532600/2887/
 - Mittwoch, 31. Mai 2023 13:42 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685533320/2887/
-- Mittwoch, 31. Mai 2023 13:54 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685534040/2887/
-- Dienstag, 27. Juni 2023 14:24 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687868640/2875/
-- Dienstag, 27. Juni 2023 14:36 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687869360/2875/
-- Dienstag, 27. Juni 2023 14:48 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687870080/2875/
 - Dienstag, 27. Juni 2023 15:00 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687870800/2875/
 - Dienstag, 27. Juni 2023 15:12 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687871520/2875/
-- Dienstag, 27. Juni 2023 15:24 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687872240/2875/
