@@ -1,8 +1,2 @@
-- Dienstag, 25. Juli 2023 12:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690280640/2926/
-- Dienstag, 25. Juli 2023 13:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690283520/2926/
-- Dienstag, 25. Juli 2023 13:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690284240/2926/
-- Dienstag, 25. Juli 2023 13:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690284960/2926/
-- Dienstag, 25. Juli 2023 13:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690285680/2926/
-- Dienstag, 25. Juli 2023 14:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690287120/2926/
-- Dienstag, 25. Juli 2023 14:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690287840/2926/
-- Dienstag, 25. Juli 2023 15:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690293000/2923/
+- Dienstag, 30. Mai 2023 14:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685450160/2896/
+- Mittwoch, 28. Juni 2023 14:06 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687953960/922/
