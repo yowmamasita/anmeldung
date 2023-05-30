@@ -10,7 +10,6 @@
 - Mittwoch, 31. Mai 2023 09:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685517840/2857/
 - Mittwoch, 31. Mai 2023 09:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685518560/2857/
 - Mittwoch, 31. Mai 2023 09:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685519280/2857/
-- Mittwoch, 31. Mai 2023 10:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685520000/2857/
 - Mittwoch, 31. Mai 2023 10:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685520720/2857/
 - Mittwoch, 31. Mai 2023 10:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685521440/2857/
 - Mittwoch, 31. Mai 2023 10:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685522160/2857/
@@ -25,4 +24,3 @@
 - Mittwoch, 31. Mai 2023 12:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685528640/2857/
 - Mittwoch, 31. Mai 2023 12:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1685529000/191/
 - Mittwoch, 31. Mai 2023 12:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685529360/2857/
-- Mittwoch, 31. Mai 2023 12:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685530080/2857/
