@@ -6,5 +6,3 @@
 - Mittwoch, 31. Mai 2023 11:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685525040/2848/
 - Donnerstag, 1. Juni 2023 14:00 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685620800/898/
 - Donnerstag, 1. Juni 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685620800/2932/
-- Donnerstag, 1. Juni 2023 15:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1685625120/168/
-- Montag, 5. Juni 2023 08:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1685946600/150/
