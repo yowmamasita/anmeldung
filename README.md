@@ -102,7 +102,6 @@
 - Dienstag, 25. Juli 2023 14:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690287600/147/
 - Dienstag, 25. Juli 2023  Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690287600/2923/
 - Dienstag, 25. Juli 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690287600/2941/
-- Dienstag, 25. Juli 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690287600/150/
 - Dienstag, 25. Juli 2023 14:30 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690288200/2836/
 - Dienstag, 25. Juli 2023  Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690288200/147/
 - Dienstag, 25. Juli 2023  Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690288200/2923/
