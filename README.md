@@ -51,8 +51,7 @@
 - Dienstag, 25. Juli 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690279200/898/
 - Dienstag, 25. Juli 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1690279200/149/
 - Dienstag, 25. Juli 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690279200/2881/
-- Dienstag, 25. Juli 2023 12:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690279800/150/
-- Dienstag, 25. Juli 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690279800/2884/
+- Dienstag, 25. Juli 2023 12:10 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690279800/2884/
 - Dienstag, 25. Juli 2023 12:12 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690279920/2911/
 - Dienstag, 25. Juli 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690279920/844/
 - Dienstag, 25. Juli 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690279920/841/
@@ -61,6 +60,7 @@
 - Dienstag, 25. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690279920/904/
 - Dienstag, 25. Juli 2023 12:18 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1690280280/154/
 - Dienstag, 25. Juli 2023 12:20 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690280400/2941/
+- Dienstag, 25. Juli 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690280400/150/
 - Dienstag, 25. Juli 2023 12:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690280640/2887/
 - Dienstag, 25. Juli 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1690280640/313/
 - Dienstag, 25. Juli 2023 12:30 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690281000/2839/
@@ -88,7 +88,6 @@
 - Dienstag, 25. Juli 2023 14:42 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690288920/2836/
 - Dienstag, 25. Juli 2023 15:00 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690290000/147/
 - Dienstag, 25. Juli 2023  Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690290000/2923/
-- Dienstag, 25. Juli 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690290000/841/
 - Dienstag, 25. Juli 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690290000/2941/
 - Dienstag, 25. Juli 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690290000/2881/
 - Dienstag, 25. Juli 2023 15:06 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690290360/2836/
