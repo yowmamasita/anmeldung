@@ -26,7 +26,6 @@
 - Dienstag, 25. Juli 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690296480/844/
 - Dienstag, 25. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1690296480/111/
 - Dienstag, 25. Juli 2023 17:00 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690297200/2914/
-- Dienstag, 25. Juli 2023 17:06 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1690297560/142/
 - Dienstag, 25. Juli 2023 17:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690297920/2908/
 - Dienstag, 25. Juli 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690297920/2914/
 - Dienstag, 25. Juli 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690297920/844/
@@ -38,4 +37,3 @@
 - Dienstag, 25. Juli 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690299360/2908/
 - Dienstag, 25. Juli 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690299360/844/
 - Dienstag, 25. Juli 2023 17:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690300080/2914/
-- Dienstag, 25. Juli 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690300080/844/
