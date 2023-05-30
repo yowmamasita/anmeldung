@@ -16,7 +16,6 @@
 - Mittwoch, 31. Mai 2023 12:18 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1685528280/191/
 - Mittwoch, 31. Mai 2023 12:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1685529000/191/
 - Mittwoch, 31. Mai 2023 12:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1685529720/191/
-- Mittwoch, 31. Mai 2023 12:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1685530440/191/
 - Mittwoch, 31. Mai 2023 13:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1685531160/191/
 - Mittwoch, 31. Mai 2023 13:18 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1685531880/191/
 - Mittwoch, 31. Mai 2023 13:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1685532600/191/
