@@ -46,7 +46,6 @@
 - Mittwoch, 31. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1685525760/170/
 - Mittwoch, 31. Mai 2023 11:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1685526480/168/
 - Mittwoch, 31. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1685526480/170/
-- Mittwoch, 31. Mai 2023 12:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1685527200/168/
 - Mittwoch, 31. Mai 2023 12:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1685527920/168/
 - Mittwoch, 31. Mai 2023 12:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1685528640/168/
 - Mittwoch, 31. Mai 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1685528640/170/
