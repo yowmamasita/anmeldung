@@ -1,7 +1,4 @@
-- Dienstag, 30. Mai 2023 12:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685442240/2863/
 - Dienstag, 30. Mai 2023 12:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685443680/2914/
-- Mittwoch, 31. Mai 2023 08:54 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685516040/922/
-- Mittwoch, 31. Mai 2023 11:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1685525040/168/
 - Donnerstag, 15. Juni 2023 14:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686832560/2926/
 - Donnerstag, 22. Juni 2023 14:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687437360/2854/
 - Donnerstag, 29. Juni 2023 15:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688045040/2896/
