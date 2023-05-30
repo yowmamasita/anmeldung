@@ -1,7 +1,5 @@
-- Donnerstag, 20. Juli 2023 13:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689852240/2857/
 - Donnerstag, 20. Juli 2023 13:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689852960/2857/
 - Donnerstag, 20. Juli 2023 14:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689855840/2857/
-- Donnerstag, 20. Juli 2023 17:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689865200/2857/
 - Dienstag, 25. Juli 2023 11:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1690277760/169/
 - Dienstag, 25. Juli 2023 12:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1690279200/169/
 - Dienstag, 25. Juli 2023 13:00 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690282800/844/
@@ -16,7 +14,6 @@
 - Dienstag, 25. Juli 2023 14:24 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690287840/2911/
 - Dienstag, 25. Juli 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1690287840/190/
 - Dienstag, 25. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690287840/2887/
-- Dienstag, 25. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690287840/904/
 - Dienstag, 25. Juli 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1690287840/154/
 - Dienstag, 25. Juli 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690287840/2938/
 - Dienstag, 25. Juli 2023 14:36 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690288560/2911/
@@ -79,7 +76,6 @@
 - Dienstag, 25. Juli 2023 17:24 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690298640/2911/
 - Dienstag, 25. Juli 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1690298640/190/
 - Dienstag, 25. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690298640/2887/
-- Dienstag, 25. Juli 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1690298640/154/
 - Dienstag, 25. Juli 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690298640/2938/
 - Dienstag, 25. Juli 2023 17:36 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690299360/2911/
 - Dienstag, 25. Juli 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1690299360/190/
