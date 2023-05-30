@@ -1,2 +1,13 @@
-- Dienstag, 25. Juli 2023 16:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1690295040/106/
-- Dienstag, 25. Juli 2023 16:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1690296480/190/
+- Dienstag, 25. Juli 2023 16:12 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1690294320/312/
+- Dienstag, 25. Juli 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1690294320/313/
+- Dienstag, 25. Juli 2023 16:24 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1690295040/313/
+- Dienstag, 25. Juli 2023 16:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1690295760/312/
+- Dienstag, 25. Juli 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1690295760/313/
+- Dienstag, 25. Juli 2023 16:48 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1690296480/313/
+- Dienstag, 25. Juli 2023 17:00 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1690297200/312/
+- Dienstag, 25. Juli 2023 17:12 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1690297920/312/
+- Dienstag, 25. Juli 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1690297920/313/
+- Dienstag, 25. Juli 2023 17:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1690298640/312/
+- Dienstag, 25. Juli 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1690298640/313/
+- Dienstag, 25. Juli 2023 17:36 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1690299360/313/
+- Dienstag, 25. Juli 2023 17:48 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1690300080/313/
