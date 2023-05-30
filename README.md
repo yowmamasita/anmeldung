@@ -4,4 +4,3 @@
 - Dienstag, 30. Mai 2023 09:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1685431440/153/
 - Dienstag, 30. Mai 2023 10:00 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1685433600/153/
 - Dienstag, 30. Mai 2023 11:00 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1685437200/153/
-- Dienstag, 30. Mai 2023 11:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1685439360/153/
