@@ -5,4 +5,3 @@
 - Dienstag, 30. Mai 2023 14:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1685450880/167/
 - Dienstag, 30. Mai 2023 15:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1685451600/167/
 - Dienstag, 30. Mai 2023 15:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1685452320/167/
-- Dienstag, 30. Mai 2023 15:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1685453040/167/
