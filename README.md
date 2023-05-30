@@ -18,5 +18,3 @@
 - Mittwoch, 31. Mai 2023 11:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685526480/2857/
 - Mittwoch, 31. Mai 2023 12:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685527200/2857/
 - Mittwoch, 31. Mai 2023 12:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685527920/2857/
-- Mittwoch, 31. Mai 2023 12:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685528640/2857/
-- Mittwoch, 7. Juni 2023 10:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686127680/231/
