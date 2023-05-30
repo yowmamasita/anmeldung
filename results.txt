@@ -1,3 +1,5 @@
+- Dienstag, 30. Mai 2023 13:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685447280/2845/
+- Dienstag, 30. Mai 2023 14:00 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685448000/898/
 - Mittwoch, 31. Mai 2023 07:30 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685511000/2887/
 - Mittwoch, 31. Mai 2023 09:30 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685518200/2887/
 - Mittwoch, 31. Mai 2023 09:54 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685519640/2887/
@@ -8,8 +10,8 @@
 - Mittwoch, 31. Mai 2023 10:54 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685523240/2887/
 - Mittwoch, 31. Mai 2023 11:06 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685523960/2887/
 - Mittwoch, 31. Mai 2023 11:18 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685524680/2887/
-- Mittwoch, 31. Mai 2023 11:30 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685525400/2887/
 - Mittwoch, 31. Mai 2023 11:42 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685526120/2887/
 - Mittwoch, 31. Mai 2023 12:30 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685529000/2887/
-- Mittwoch, 31. Mai 2023 12:54 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685530440/2887/
-- Dienstag, 27. Juni 2023 15:12 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687871520/2875/
+- Donnerstag, 1. Juni 2023 14:54 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685624040/2839/
+- Freitag, 16. Juni 2023 11:30 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686907800/844/
+- Mittwoch, 28. Juni 2023 10:42 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687941720/2926/
