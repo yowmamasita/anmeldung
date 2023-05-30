@@ -10,6 +10,5 @@
 - Mittwoch, 31. Mai 2023 11:06 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685523960/2887/
 - Mittwoch, 31. Mai 2023 11:12 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1685524320/142/
 - Mittwoch, 31. Mai 2023 13:42 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685533320/904/
-- Donnerstag, 1. Juni 2023 12:36 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685615760/2911/
 - Donnerstag, 1. Juni 2023 13:12 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685617920/898/
 - Donnerstag, 1. Juni 2023 17:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685633040/3238/
