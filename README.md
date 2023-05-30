@@ -5,4 +5,3 @@
 - Mittwoch, 19. Juli 2023 09:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689752520/112/
 - Mittwoch, 19. Juli 2023 10:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689754680/112/
 - Mittwoch, 19. Juli 2023 10:30 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689755400/112/
-- Mittwoch, 19. Juli 2023 10:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689756120/112/
