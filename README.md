@@ -6,7 +6,6 @@
 - Mittwoch, 19. Juli 2023 08:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689749640/112/
 - Mittwoch, 19. Juli 2023 09:06 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689750360/112/
 - Mittwoch, 19. Juli 2023 09:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689751080/112/
-- Mittwoch, 19. Juli 2023 09:30 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689751800/112/
 - Mittwoch, 19. Juli 2023 09:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689752520/112/
 - Mittwoch, 19. Juli 2023 09:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689753240/112/
 - Mittwoch, 19. Juli 2023 10:06 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689753960/112/
@@ -14,4 +13,3 @@
 - Mittwoch, 19. Juli 2023 10:30 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689755400/112/
 - Mittwoch, 19. Juli 2023 10:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689756120/112/
 - Mittwoch, 19. Juli 2023 10:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689756840/112/
-- Donnerstag, 20. Juli 2023 13:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689851520/2908/
