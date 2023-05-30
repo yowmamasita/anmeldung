@@ -73,7 +73,6 @@
 - Dienstag, 25. Juli 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1690282800/149/
 - Dienstag, 25. Juli 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690282800/2881/
 - Dienstag, 25. Juli 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690282800/150/
-- Dienstag, 25. Juli 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1690282800/145/
 - Dienstag, 25. Juli 2023 13:10 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1690283400/151/
 - Dienstag, 25. Juli 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690283400/2941/
 - Dienstag, 25. Juli 2023 13:18 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690283880/2836/
@@ -112,8 +111,7 @@
 - Dienstag, 25. Juli 2023 17:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690299720/2839/
 - Dienstag, 25. Juli 2023 17:48 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690300080/841/
 - Donnerstag, 27. Juli 2023 10:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690445520/2899/
-- Donnerstag, 27. Juli 2023 11:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690449840/2896/
-- Donnerstag, 27. Juli 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690449840/2899/
+- Donnerstag, 27. Juli 2023 11:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690449840/2899/
 - Donnerstag, 27. Juli 2023 11:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690450560/2896/
 - Donnerstag, 27. Juli 2023 12:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690452000/2899/
 - Donnerstag, 27. Juli 2023 12:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690452720/2899/
