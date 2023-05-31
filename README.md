@@ -1,6 +1,6 @@
 # List of available Anmeldung appointments as of $NOW
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122254,122252,329742,122260,329745,122262,329748,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,317869,122281,327352,122279,329772,122283,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
-- Dienstag, 18. Juli 2023 11:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689672240/2863/
+- Dienstag, 18. Juli 2023 11:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689670800/2863/
 - Dienstag, 18. Juli 2023 11:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689672960/2863/
 - Dienstag, 18. Juli 2023 11:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689673680/2863/
 - Dienstag, 18. Juli 2023 12:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689674400/2863/
@@ -26,8 +26,6 @@
 - Dienstag, 18. Juli 2023 16:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689689520/2863/
 - Dienstag, 18. Juli 2023 16:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689690240/2863/
 - Dienstag, 18. Juli 2023 16:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689690960/2863/
-- Dienstag, 18. Juli 2023 16:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689691680/2863/
-- Dienstag, 18. Juli 2023 17:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689693840/2863/
 - Montag, 24. Juli 2023 08:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690178400/168/
 - Montag, 24. Juli 2023 08:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690179120/168/
 - Montag, 24. Juli 2023 08:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690179840/168/
@@ -63,11 +61,45 @@
 - Montag, 24. Juli 2023 14:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690201440/168/
 - Montag, 24. Juli 2023 14:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690202160/168/
 - Montag, 24. Juli 2023 14:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690202880/168/
+- Dienstag, 25. Juli 2023 11:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690275600/168/
+- Dienstag, 25. Juli 2023 11:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690276320/168/
+- Dienstag, 25. Juli 2023 11:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690277040/168/
+- Dienstag, 25. Juli 2023 11:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690277760/168/
+- Dienstag, 25. Juli 2023 11:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690278480/168/
+- Dienstag, 25. Juli 2023 12:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690279200/168/
+- Dienstag, 25. Juli 2023 12:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690279920/168/
+- Dienstag, 25. Juli 2023 12:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690280640/168/
+- Dienstag, 25. Juli 2023 12:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690281360/168/
+- Dienstag, 25. Juli 2023 12:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690282080/168/
+- Dienstag, 25. Juli 2023 13:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690282800/168/
+- Dienstag, 25. Juli 2023 13:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690283520/168/
+- Dienstag, 25. Juli 2023 13:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690284240/168/
+- Dienstag, 25. Juli 2023 13:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690284960/168/
+- Dienstag, 25. Juli 2023 13:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690285680/168/
+- Dienstag, 25. Juli 2023 14:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690286400/168/
+- Dienstag, 25. Juli 2023 14:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690287120/168/
+- Dienstag, 25. Juli 2023 14:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690287840/168/
+- Dienstag, 25. Juli 2023 14:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690288560/168/
+- Dienstag, 25. Juli 2023 14:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690289280/168/
+- Dienstag, 25. Juli 2023 15:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690290000/168/
+- Dienstag, 25. Juli 2023 15:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690290720/168/
+- Dienstag, 25. Juli 2023 15:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690291440/168/
+- Dienstag, 25. Juli 2023 15:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690292160/168/
+- Dienstag, 25. Juli 2023 15:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690292880/168/
+- Dienstag, 25. Juli 2023 16:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690293600/168/
+- Dienstag, 25. Juli 2023 16:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690294320/168/
+- Dienstag, 25. Juli 2023 16:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690295040/168/
+- Dienstag, 25. Juli 2023 16:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690295760/168/
+- Dienstag, 25. Juli 2023 16:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690296480/168/
+- Dienstag, 25. Juli 2023 17:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690297200/168/
+- Dienstag, 25. Juli 2023 17:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690297920/168/
+- Dienstag, 25. Juli 2023 17:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690298640/168/
+- Dienstag, 25. Juli 2023 17:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690299360/168/
+- Dienstag, 25. Juli 2023 17:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690300080/168/
 - Mittwoch, 26. Juli 2023 08:06 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690351560/2911/
 - Mittwoch, 26. Juli 2023 09:36 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690356960/2839/
 - Mittwoch, 26. Juli 2023 09:40 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690357200/2923/
 - Mittwoch, 26. Juli 2023 09:42 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1690357320/192/
-- Mittwoch, 26. Juli 2023 10:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690359000/2923/
 - Mittwoch, 26. Juli 2023 10:18 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690359480/2926/
 - Mittwoch, 26. Juli 2023 10:30 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690360200/2923/
 - Mittwoch, 26. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690360200/2887/
@@ -83,14 +115,12 @@
 - Mittwoch, 26. Juli 2023 11:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690362600/2923/
 - Mittwoch, 26. Juli 2023 11:12 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690362720/2839/
 - Mittwoch, 26. Juli 2023 11:18 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690363080/2911/
-- Mittwoch, 26. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1690363080/111/
 - Mittwoch, 26. Juli 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690363080/922/
 - Mittwoch, 26. Juli 2023 11:20 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690363200/2923/
 - Mittwoch, 26. Juli 2023 11:24 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690363440/2836/
 - Mittwoch, 26. Juli 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690363440/2839/
 - Mittwoch, 26. Juli 2023 11:30 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690363800/2911/
 - Mittwoch, 26. Juli 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690363800/844/
-- Mittwoch, 26. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1690363800/111/
 - Mittwoch, 26. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690363800/2926/
 - Mittwoch, 26. Juli 2023 11:36 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690364160/2836/
 - Mittwoch, 26. Juli 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690364160/2839/
@@ -135,7 +165,6 @@
 - Mittwoch, 26. Juli 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690367040/2839/
 - Mittwoch, 26. Juli 2023 12:30 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690367400/2911/
 - Mittwoch, 26. Juli 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690367400/844/
-- Mittwoch, 26. Juli 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690367400/109/
 - Mittwoch, 26. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690367400/2887/
 - Mittwoch, 26. Juli 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690367400/922/
 - Mittwoch, 26. Juli 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690367400/2884/
@@ -182,7 +211,6 @@
 - Mittwoch, 26. Juli 2023 13:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690371720/2911/
 - Mittwoch, 26. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690371720/2926/
 - Mittwoch, 26. Juli 2023 13:54 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690372440/2926/
-- Freitag, 28. Juli 2023 11:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690535520/2896/
 - Freitag, 28. Juli 2023 11:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690536240/2896/
 - Freitag, 28. Juli 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690536240/2899/
 - Freitag, 28. Juli 2023 11:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690536960/2899/
