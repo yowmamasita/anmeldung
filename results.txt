@@ -14,8 +14,7 @@
 - Mittwoch, 26. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690367400/2926/
 - Mittwoch, 26. Juli 2023 12:36 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690367760/2839/
 - Mittwoch, 26. Juli 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690367760/2938/
-- Mittwoch, 26. Juli 2023 12:42 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1690368120/134/
-- Mittwoch, 26. Juli 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690368120/2908/
+- Mittwoch, 26. Juli 2023 12:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690368120/2908/
 - Mittwoch, 26. Juli 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690368120/2914/
 - Mittwoch, 26. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690368120/2887/
 - Mittwoch, 26. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690368120/2926/
@@ -53,7 +52,6 @@
 - Mittwoch, 26. Juli 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690372080/2938/
 - Mittwoch, 26. Juli 2023 13:54 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690372440/2926/
 - Mittwoch, 26. Juli 2023 14:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1690372800/154/
-- Mittwoch, 26. Juli 2023 14:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1690373520/154/
-- Mittwoch, 26. Juli 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690373520/2938/
+- Mittwoch, 26. Juli 2023 14:12 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690373520/2938/
 - Mittwoch, 26. Juli 2023 14:24 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690374240/2938/
 - Mittwoch, 26. Juli 2023 14:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690374960/2938/
