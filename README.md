@@ -13,4 +13,3 @@
 - Mittwoch, 31. Mai 2023 13:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685530800/2851/
 - Mittwoch, 31. Mai 2023 13:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685532960/2851/
 - Mittwoch, 31. Mai 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685532960/2896/
-- Mittwoch, 31. Mai 2023 14:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685534400/2899/
