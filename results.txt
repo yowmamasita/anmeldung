@@ -1,5 +1,3 @@
-- Montag, 24. Juli 2023 08:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690179840/168/
-- Montag, 24. Juli 2023 13:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690198560/168/
 - Dienstag, 25. Juli 2023 12:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690282080/168/
 - Dienstag, 25. Juli 2023 13:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690283520/168/
 - Dienstag, 25. Juli 2023 13:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690284240/168/
@@ -101,7 +99,6 @@
 - Mittwoch, 26. Juli 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1690368120/136/
 - Mittwoch, 26. Juli 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690368120/2914/
 - Mittwoch, 26. Juli 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690368120/844/
-- Mittwoch, 26. Juli 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690368120/109/
 - Mittwoch, 26. Juli 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690368120/898/
 - Mittwoch, 26. Juli 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1690368120/190/
 - Mittwoch, 26. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690368120/2887/
@@ -116,7 +113,6 @@
 - Mittwoch, 26. Juli 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1690368840/136/
 - Mittwoch, 26. Juli 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690368840/2914/
 - Mittwoch, 26. Juli 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690368840/844/
-- Mittwoch, 26. Juli 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1690368840/312/
 - Mittwoch, 26. Juli 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690368840/898/
 - Mittwoch, 26. Juli 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1690368840/190/
 - Mittwoch, 26. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690368840/2887/
@@ -168,3 +164,4 @@
 - Mittwoch, 26. Juli 2023 14:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1690374240/154/
 - Mittwoch, 26. Juli 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690374240/2938/
 - Mittwoch, 26. Juli 2023 14:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690374960/2938/
+- Freitag, 28. Juli 2023 11:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690537680/2899/
