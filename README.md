@@ -3,8 +3,6 @@
 - Mittwoch, 31. Mai 2023 09:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1685517840/172/
 - Mittwoch, 31. Mai 2023 09:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1685518560/169/
 - Mittwoch, 31. Mai 2023 11:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685525040/2899/
-- Mittwoch, 31. Mai 2023 13:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685532240/2851/
-- Montag, 12. Juni 2023 09:24 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686554640/2836/
 - Montag, 12. Juni 2023 13:12 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686568320/2836/
 - Mittwoch, 21. Juni 2023 13:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687348080/2938/
 - Montag, 26. Juni 2023 09:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687764240/2872/
