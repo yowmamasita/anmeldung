@@ -1,7 +1,5 @@
-- Freitag, 2. Juni 2023 08:00 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1685685600/381/
 - Dienstag, 13. Juni 2023 14:12 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686658320/2911/
 - Freitag, 23. Juni 2023 12:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687516560/2863/
-- Montag, 26. Juni 2023 17:24 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687793040/2938/
 - Mittwoch, 28. Juni 2023 12:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687949640/191/
 - Dienstag, 18. Juli 2023 16:30 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1689690600/142/
 - Donnerstag, 20. Juli 2023 15:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1689858000/168/
