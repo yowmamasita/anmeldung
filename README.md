@@ -24,8 +24,7 @@
 - Mittwoch, 31. Mai 2023 12:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1685528640/106/
 - Mittwoch, 31. Mai 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685528640/2845/
 - Mittwoch, 31. Mai 2023 12:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685529360/2845/
-- Mittwoch, 31. Mai 2023 12:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1685530080/106/
-- Mittwoch, 31. Mai 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685530080/2845/
+- Mittwoch, 31. Mai 2023 12:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685530080/2845/
 - Mittwoch, 31. Mai 2023 13:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685530800/2845/
 - Mittwoch, 31. Mai 2023 13:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685531520/2845/
 - Mittwoch, 31. Mai 2023 13:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685532960/3238/
