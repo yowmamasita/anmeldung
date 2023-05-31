@@ -18,10 +18,8 @@
 - Mittwoch, 31. Mai 2023 10:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685521080/2914/
 - Mittwoch, 31. Mai 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1685521080/313/
 - Mittwoch, 31. Mai 2023 10:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1685521800/313/
-- Mittwoch, 31. Mai 2023 10:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1685522520/112/
-- Mittwoch, 31. Mai 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1685522520/313/
+- Mittwoch, 31. Mai 2023 10:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1685522520/313/
 - Mittwoch, 31. Mai 2023 10:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1685523240/313/
-- Mittwoch, 31. Mai 2023 11:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1685523960/313/
 - Mittwoch, 31. Mai 2023 11:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1685524680/313/
 - Mittwoch, 31. Mai 2023 11:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1685525400/313/
 - Mittwoch, 31. Mai 2023 11:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1685526120/313/
@@ -32,4 +30,3 @@
 - Mittwoch, 31. Mai 2023 12:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1685529720/313/
 - Mittwoch, 31. Mai 2023 12:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1685530440/313/
 - Mittwoch, 31. Mai 2023 13:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1685531160/313/
-- Mittwoch, 31. Mai 2023 13:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1685532600/313/
