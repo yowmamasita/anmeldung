@@ -10,6 +10,7 @@
 - Mittwoch, 26. Juli 2023 09:24 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690356240/2836/
 - Mittwoch, 26. Juli 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690356240/2839/
 - Mittwoch, 26. Juli 2023 09:30 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690356600/2911/
+- Mittwoch, 26. Juli 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690356600/841/
 - Mittwoch, 26. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690356600/2887/
 - Mittwoch, 26. Juli 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690356600/2941/
 - Mittwoch, 26. Juli 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690356600/2881/
@@ -18,8 +19,7 @@
 - Mittwoch, 26. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690356600/2926/
 - Mittwoch, 26. Juli 2023 09:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690356960/2938/
 - Mittwoch, 26. Juli 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690356960/2866/
-- Mittwoch, 26. Juli 2023 09:42 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690357320/841/
-- Mittwoch, 26. Juli 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1690357320/192/
+- Mittwoch, 26. Juli 2023 09:42 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1690357320/192/
 - Mittwoch, 26. Juli 2023 09:54 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690358040/153/
 - Mittwoch, 26. Juli 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690358040/2932/
 - Mittwoch, 26. Juli 2023 10:06 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1690358760/190/
