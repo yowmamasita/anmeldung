@@ -14,12 +14,11 @@
 - Mittwoch, 31. Mai 2023 08:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685516040/2914/
 - Mittwoch, 31. Mai 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1685516040/312/
 - Mittwoch, 31. Mai 2023 09:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685516760/2914/
-- Mittwoch, 31. Mai 2023 09:30 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1685518200/135/
-- Mittwoch, 31. Mai 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685518200/2914/
-- Mittwoch, 31. Mai 2023 09:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1685518920/136/
-- Mittwoch, 31. Mai 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685518920/2914/
+- Mittwoch, 31. Mai 2023 09:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685518200/2914/
+- Mittwoch, 31. Mai 2023 09:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685518920/2914/
 - Mittwoch, 31. Mai 2023 09:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685519640/2914/
 - Mittwoch, 31. Mai 2023 10:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685520360/2914/
 - Mittwoch, 31. Mai 2023 10:18 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1685521080/134/
+- Mittwoch, 31. Mai 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685521080/2914/
 - Mittwoch, 31. Mai 2023 10:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685521800/2914/
 - Mittwoch, 31. Mai 2023 11:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685525400/2914/
