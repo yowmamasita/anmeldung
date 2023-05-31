@@ -3,5 +3,4 @@
 - Mittwoch, 26. Juli 2023 12:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690367760/2938/
 - Mittwoch, 26. Juli 2023 13:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1690369560/191/
 - Mittwoch, 26. Juli 2023 13:36 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690371360/103/
-- Mittwoch, 26. Juli 2023 13:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690372080/2938/
 - Mittwoch, 26. Juli 2023 14:18 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690373880/922/
