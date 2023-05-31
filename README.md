@@ -3,3 +3,4 @@
 - Mittwoch, 31. Mai 2023 10:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1685520720/231/
 - Mittwoch, 31. Mai 2023 10:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1685521440/169/
 - Mittwoch, 31. Mai 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1685521440/231/
+- Mittwoch, 31. Mai 2023 10:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1685522880/231/
