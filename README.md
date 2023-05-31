@@ -10,8 +10,7 @@
 - Mittwoch, 31. Mai 2023 08:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685514960/2854/
 - Mittwoch, 31. Mai 2023 08:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685515680/2854/
 - Mittwoch, 31. Mai 2023 09:12 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685517120/2854/
-- Mittwoch, 31. Mai 2023 09:18 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1685517480/134/
 - Mittwoch, 31. Mai 2023 09:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685518560/2854/
 - Mittwoch, 31. Mai 2023 09:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685519280/2854/
 - Mittwoch, 31. Mai 2023 10:12 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685520720/2854/
-- Mittwoch, 31. Mai 2023 13:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685532240/2854/
+- Mittwoch, 31. Mai 2023 14:00 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685534400/2854/
