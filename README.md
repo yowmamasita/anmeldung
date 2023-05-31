@@ -3,4 +3,3 @@
 - Donnerstag, 1. Juni 2023 09:42 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1685605320/153/
 - Donnerstag, 1. Juni 2023 09:54 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1685606040/153/
 - Donnerstag, 1. Juni 2023 10:06 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1685606760/153/
-- Donnerstag, 1. Juni 2023 10:42 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1685608920/153/
