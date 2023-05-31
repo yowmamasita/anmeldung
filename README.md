@@ -9,7 +9,6 @@
 - Mittwoch, 31. Mai 2023 08:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1685513520/231/
 - Mittwoch, 31. Mai 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1685513520/167/
 - Mittwoch, 31. Mai 2023 08:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1685513880/112/
-- Mittwoch, 31. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685513880/192/
 - Mittwoch, 31. Mai 2023 08:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1685514240/231/
 - Mittwoch, 31. Mai 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1685514240/167/
 - Mittwoch, 31. Mai 2023 08:30 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1685514600/112/
@@ -34,7 +33,6 @@
 - Mittwoch, 31. Mai 2023 09:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1685519280/231/
 - Mittwoch, 31. Mai 2023 09:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1685519640/112/
 - Mittwoch, 31. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685519640/192/
-- Mittwoch, 31. Mai 2023 10:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1685520000/231/
 - Mittwoch, 31. Mai 2023 10:06 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1685520360/112/
 - Mittwoch, 31. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685520360/192/
 - Mittwoch, 31. Mai 2023 10:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1685520720/231/
@@ -46,7 +44,8 @@
 - Mittwoch, 31. Mai 2023 10:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1685522160/231/
 - Mittwoch, 31. Mai 2023 10:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1685522520/112/
 - Mittwoch, 31. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685522520/192/
-- Mittwoch, 31. Mai 2023 10:54 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685523240/192/
+- Mittwoch, 31. Mai 2023 10:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1685523240/112/
+- Mittwoch, 31. Mai 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685523240/192/
 - Mittwoch, 31. Mai 2023 11:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1685523600/231/
 - Mittwoch, 31. Mai 2023 11:06 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685523960/192/
 - Mittwoch, 31. Mai 2023 11:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1685524320/231/
@@ -66,11 +65,9 @@
 - Mittwoch, 31. Mai 2023 12:54 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685530440/192/
 - Mittwoch, 31. Mai 2023 13:06 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685531160/192/
 - Mittwoch, 31. Mai 2023 13:18 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685531880/192/
-- Mittwoch, 31. Mai 2023 13:30 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685532600/192/
 - Mittwoch, 31. Mai 2023 13:42 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685533320/192/
 - Mittwoch, 31. Mai 2023 13:54 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685534040/192/
 - Mittwoch, 31. Mai 2023 14:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1685534400/231/
 - Mittwoch, 31. Mai 2023 14:06 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685534760/192/
 - Mittwoch, 31. Mai 2023 14:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1685535120/231/
 - Mittwoch, 31. Mai 2023 14:18 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685535480/192/
-- Mittwoch, 31. Mai 2023 14:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1685536560/231/
