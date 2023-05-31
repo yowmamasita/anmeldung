@@ -4,4 +4,3 @@
 - Freitag, 2. Juni 2023 10:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685694960/192/
 - Freitag, 2. Juni 2023 10:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685695680/192/
 - Montag, 5. Juni 2023 10:12 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685952720/2839/
-- Dienstag, 6. Juni 2023 14:36 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686054960/143/
