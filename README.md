@@ -4,5 +4,4 @@
 - Mittwoch, 31. Mai 2023 11:18 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1685524680/153/
 - Mittwoch, 31. Mai 2023 11:30 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1685525400/153/
 - Mittwoch, 31. Mai 2023 11:42 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1685526120/153/
-- Mittwoch, 31. Mai 2023 11:54 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1685526840/312/
-- Mittwoch, 31. Mai 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1685526840/153/
+- Mittwoch, 31. Mai 2023 11:54 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1685526840/153/
