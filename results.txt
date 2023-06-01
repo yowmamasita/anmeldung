@@ -1,14 +1,10 @@
 - Donnerstag, 27. Juli 2023 13:12 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690456320/904/
-- Donnerstag, 27. Juli 2023 13:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690457040/2845/
-- Donnerstag, 27. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690457040/904/
-- Donnerstag, 27. Juli 2023 13:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1690457760/312/
-- Donnerstag, 27. Juli 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690457760/898/
-- Donnerstag, 27. Juli 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1690457760/313/
+- Donnerstag, 27. Juli 2023 13:24 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690457040/904/
+- Donnerstag, 27. Juli 2023 13:36 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690457760/898/
 - Donnerstag, 27. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690457760/904/
 - Donnerstag, 27. Juli 2023 13:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690458480/2845/
 - Donnerstag, 27. Juli 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1690458480/312/
 - Donnerstag, 27. Juli 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690458480/898/
-- Donnerstag, 27. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1690458480/111/
 - Donnerstag, 27. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690458480/904/
 - Donnerstag, 27. Juli 2023 14:00 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690459200/898/
 - Donnerstag, 27. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690459200/904/
@@ -24,7 +20,6 @@
 - Donnerstag, 27. Juli 2023 14:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690461360/2848/
 - Donnerstag, 27. Juli 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1690461360/312/
 - Donnerstag, 27. Juli 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690461360/898/
-- Donnerstag, 27. Juli 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1690461360/313/
 - Donnerstag, 27. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690461360/904/
 - Donnerstag, 27. Juli 2023 14:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1690462080/312/
 - Donnerstag, 27. Juli 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690462080/898/
@@ -45,8 +40,6 @@
 - Donnerstag, 27. Juli 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1690464960/313/
 - Donnerstag, 27. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690464960/904/
 - Donnerstag, 27. Juli 2023 15:48 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690465680/898/
-- Donnerstag, 27. Juli 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1690465680/313/
 - Donnerstag, 27. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690465680/904/
 - Donnerstag, 27. Juli 2023 16:00 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690466400/898/
 - Donnerstag, 27. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690466400/904/
-- Montag, 31. Juli 2023 13:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690802640/231/
