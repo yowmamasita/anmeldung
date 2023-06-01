@@ -185,7 +185,6 @@
 - Donnerstag, 27. Juli 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690472160/3238/
 - Donnerstag, 27. Juli 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690472160/2866/
 - Donnerstag, 27. Juli 2023 17:40 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690472400/2923/
-- Donnerstag, 27. Juli 2023 17:42 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1690472520/140/
 - Donnerstag, 27. Juli 2023 17:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690472880/3238/
 - Donnerstag, 27. Juli 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690472880/2866/
 - Donnerstag, 27. Juli 2023 17:50 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690473000/2941/
