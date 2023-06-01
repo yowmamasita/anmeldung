@@ -15,7 +15,6 @@
 - Donnerstag, 27. Juli 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690446960/922/
 - Donnerstag, 27. Juli 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1690446960/192/
 - Donnerstag, 27. Juli 2023 10:40 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690447200/2941/
-- Donnerstag, 27. Juli 2023 10:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690447320/2839/
 - Donnerstag, 27. Juli 2023 10:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690447680/2845/
 - Donnerstag, 27. Juli 2023  Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1690447680/134/
 - Donnerstag, 27. Juli 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690447680/2848/
@@ -100,7 +99,7 @@
 - Donnerstag, 27. Juli 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690462800/2941/
 - Donnerstag, 27. Juli 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690462800/2881/
 - Donnerstag, 27. Juli 2023 15:30 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1690464600/149/
-- Donnerstag, 27. Juli 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690464600/150/
+- Donnerstag, 27. Juli 2023 15:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690465200/150/
 - Donnerstag, 27. Juli 2023 16:00 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690466400/2923/
 - Donnerstag, 27. Juli 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690466400/2881/
 - Donnerstag, 27. Juli 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690466400/150/
