@@ -9,10 +9,8 @@
 - Donnerstag, 1. Juni 2023 11:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1685611440/112/
 - Donnerstag, 1. Juni 2023 11:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1685612160/112/
 - Donnerstag, 1. Juni 2023 11:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1685612880/112/
-- Donnerstag, 1. Juni 2023 12:00 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1685613600/112/
 - Donnerstag, 1. Juni 2023 12:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1685614320/112/
-- Donnerstag, 1. Juni 2023 14:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1685623680/112/
-- Donnerstag, 1. Juni 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1685623680/109/
+- Donnerstag, 1. Juni 2023 14:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1685623680/109/
 - Donnerstag, 1. Juni 2023 15:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1685625120/109/
 - Donnerstag, 1. Juni 2023 15:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1685625840/109/
 - Donnerstag, 1. Juni 2023 15:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1685626560/112/
@@ -24,7 +22,6 @@
 - Donnerstag, 1. Juni 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1685628000/109/
 - Donnerstag, 1. Juni 2023 16:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1685628720/112/
 - Donnerstag, 1. Juni 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1685628720/109/
-- Donnerstag, 1. Juni 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1685628720/102/
 - Donnerstag, 1. Juni 2023 16:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1685629440/112/
 - Donnerstag, 1. Juni 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1685629440/109/
 - Donnerstag, 1. Juni 2023 16:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1685630160/112/
