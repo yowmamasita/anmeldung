@@ -1,11 +1,11 @@
+- Donnerstag, 1. Juni 2023 15:36 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1685626560/313/
 - Donnerstag, 27. Juli 2023 12:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690453440/2926/
 - Donnerstag, 27. Juli 2023 12:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690454160/2926/
 - Donnerstag, 27. Juli 2023 12:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1690454880/112/
 - Donnerstag, 27. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690454880/2926/
 - Donnerstag, 27. Juli 2023 13:00 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690455600/844/
 - Donnerstag, 27. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690455600/2926/
-- Donnerstag, 27. Juli 2023 13:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1690456320/112/
-- Donnerstag, 27. Juli 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690456320/844/
+- Donnerstag, 27. Juli 2023 13:12 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690456320/844/
 - Donnerstag, 27. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690456320/2926/
 - Donnerstag, 27. Juli 2023 13:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1690457040/112/
 - Donnerstag, 27. Juli 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690457040/844/
@@ -25,7 +25,8 @@
 - Donnerstag, 27. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690459920/2926/
 - Donnerstag, 27. Juli 2023 14:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690460640/2926/
 - Donnerstag, 27. Juli 2023 14:30 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690461000/2923/
-- Donnerstag, 27. Juli 2023 14:36 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690461360/2866/
+- Donnerstag, 27. Juli 2023 14:36 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1690461360/145/
+- Donnerstag, 27. Juli 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690461360/2866/
 - Donnerstag, 27. Juli 2023 14:40 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690461600/2923/
 - Donnerstag, 27. Juli 2023 14:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690462200/2923/
 - Donnerstag, 27. Juli 2023 15:00 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690462800/2923/
