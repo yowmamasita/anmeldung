@@ -66,10 +66,10 @@
 - Donnerstag, 27. Juli 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1690452720/313/
 - Donnerstag, 27. Juli 2023 12:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690453080/2839/
 - Donnerstag, 27. Juli 2023 12:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1690453200/149/
-- Donnerstag, 27. Juli 2023 12:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1690453440/312/
+- Donnerstag, 27. Juli 2023 12:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1690453440/381/
+- Donnerstag, 27. Juli 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1690453440/312/
 - Donnerstag, 27. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1690453440/111/
 - Donnerstag, 27. Juli 2023 12:30 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1690453800/140/
-- Donnerstag, 27. Juli 2023 12:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1690454160/381/
 - Donnerstag, 27. Juli 2023 12:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690454400/150/
 - Donnerstag, 27. Juli 2023 12:42 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690454520/2836/
 - Donnerstag, 27. Juli 2023 13:00 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690455600/2908/
