@@ -3,7 +3,6 @@
 - Donnerstag, 1. Juni 2023 15:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685626560/2845/
 - Freitag, 30. Juni 2023 09:48 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688111280/2866/
 - Montag, 10. Juli 2023 10:36 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1688978160/102/
-- Mittwoch, 26. Juli 2023 10:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1690361280/381/
 - Donnerstag, 27. Juli 2023 11:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1690449120/169/
 - Donnerstag, 27. Juli 2023 12:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1690454880/169/
 - Donnerstag, 27. Juli 2023 14:00 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1690459200/380/
