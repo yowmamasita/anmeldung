@@ -1,5 +1,4 @@
-- Donnerstag, 27. Juli 2023 12:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1690454880/169/
-- Donnerstag, 27. Juli 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690454880/2854/
+- Donnerstag, 27. Juli 2023 12:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690454880/2854/
 - Donnerstag, 27. Juli 2023 14:00 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1690459200/380/
 - Donnerstag, 27. Juli 2023 14:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690459920/2857/
 - Donnerstag, 27. Juli 2023 14:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690460640/2857/
@@ -49,8 +48,7 @@
 - Donnerstag, 27. Juli 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1690465680/192/
 - Donnerstag, 27. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690465680/2926/
 - Donnerstag, 27. Juli 2023 15:54 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690466040/2836/
-- Donnerstag, 27. Juli 2023 16:00 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690466400/844/
-- Donnerstag, 27. Juli 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1690466400/192/
+- Donnerstag, 27. Juli 2023 16:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1690466400/192/
 - Donnerstag, 27. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690466400/2926/
 - Donnerstag, 27. Juli 2023 16:06 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1690466760/141/
 - Donnerstag, 27. Juli 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690466760/2836/
