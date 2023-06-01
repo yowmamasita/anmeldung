@@ -6,7 +6,8 @@
 - Donnerstag, 27. Juli 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690460640/2908/
 - Donnerstag, 27. Juli 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1690460640/190/
 - Donnerstag, 27. Juli 2023 14:30 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1690461000/380/
-- Donnerstag, 27. Juli 2023 14:36 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690461360/2908/
+- Donnerstag, 27. Juli 2023 14:36 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1690461360/134/
+- Donnerstag, 27. Juli 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690461360/2908/
 - Donnerstag, 27. Juli 2023 14:45 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1690461900/380/
 - Donnerstag, 27. Juli 2023 14:48 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1690462080/134/
 - Donnerstag, 27. Juli 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690462080/2908/
@@ -91,5 +92,4 @@
 - Donnerstag, 27. Juli 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690472160/2908/
 - Donnerstag, 27. Juli 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690472160/2911/
 - Donnerstag, 27. Juli 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690472160/2932/
-- Donnerstag, 27. Juli 2023 17:48 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1690472880/134/
-- Donnerstag, 27. Juli 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690472880/2908/
+- Donnerstag, 27. Juli 2023 17:48 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690472880/2908/
