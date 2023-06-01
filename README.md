@@ -6,5 +6,4 @@
 - Freitag, 2. Juni 2023 10:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1685693520/231/
 - Freitag, 2. Juni 2023 11:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1685697840/231/
 - Freitag, 2. Juni 2023 12:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1685700720/231/
-- Dienstag, 4. Juli 2023 16:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688482080/2857/
 - Donnerstag, 27. Juli 2023 09:54 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1690444440/142/
