@@ -1,16 +1,8 @@
-- Donnerstag, 1. Juni 2023 15:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685624400/2848/
-- Donnerstag, 1. Juni 2023 15:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1685625120/108/
-- Donnerstag, 1. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685625120/2848/
-- Donnerstag, 1. Juni 2023 15:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1685625840/108/
-- Donnerstag, 1. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685625840/2848/
-- Donnerstag, 1. Juni 2023 15:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685626560/2848/
-- Donnerstag, 1. Juni 2023 15:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1685627280/108/
-- Donnerstag, 1. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685627280/2848/
-- Donnerstag, 1. Juni 2023 16:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1685628000/108/
+- Donnerstag, 1. Juni 2023 14:12 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685621520/898/
+- Donnerstag, 1. Juni 2023 15:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1685624400/108/
 - Donnerstag, 1. Juni 2023 16:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1685628720/108/
-- Donnerstag, 1. Juni 2023 16:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1685629440/108/
-- Donnerstag, 1. Juni 2023 16:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1685630160/108/
-- Donnerstag, 1. Juni 2023 16:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1685630880/108/
-- Donnerstag, 1. Juni 2023 17:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1685631600/108/
-- Donnerstag, 1. Juni 2023 17:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1685632320/108/
-- Donnerstag, 1. Juni 2023 17:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1685633040/108/
+- Mittwoch, 26. Juli 2023 13:00 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690369200/2884/
+- Donnerstag, 27. Juli 2023 14:48 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690462080/898/
+- Donnerstag, 27. Juli 2023 16:12 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1690467120/381/
+- Donnerstag, 27. Juli 2023 16:24 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690467840/103/
+- Donnerstag, 27. Juli 2023 17:48 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690472880/103/
