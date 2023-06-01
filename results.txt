@@ -86,4 +86,3 @@
 - Donnerstag, 27. Juli 2023 17:36 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690472160/841/
 - Donnerstag, 27. Juli 2023 17:40 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690472400/2923/
 - Montag, 31. Juli 2023 11:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1690796160/172/
-- Montag, 31. Juli 2023 11:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1690796880/172/
