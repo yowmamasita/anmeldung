@@ -27,8 +27,7 @@
 - Donnerstag, 27. Juli 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1690450920/140/
 - Donnerstag, 27. Juli 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690450920/2839/
 - Donnerstag, 27. Juli 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690450920/2932/
-- Donnerstag, 27. Juli 2023 11:54 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1690451640/141/
-- Donnerstag, 27. Juli 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690451640/2836/
+- Donnerstag, 27. Juli 2023 11:54 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690451640/2836/
 - Donnerstag, 27. Juli 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1690451640/140/
 - Donnerstag, 27. Juli 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690451640/2839/
 - Donnerstag, 27. Juli 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690451640/2932/
@@ -82,4 +81,3 @@
 - Donnerstag, 27. Juli 2023 16:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690467480/2839/
 - Donnerstag, 27. Juli 2023 16:54 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690469640/2839/
 - Donnerstag, 27. Juli 2023 17:06 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690470360/2839/
-- Donnerstag, 27. Juli 2023 17:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690472520/2839/
