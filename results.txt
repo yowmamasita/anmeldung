@@ -1,7 +1,5 @@
-- Montag, 24. Juli 2023 11:48 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690192080/2839/
 - Mittwoch, 26. Juli 2023 13:36 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690371360/2836/
-- Donnerstag, 27. Juli 2023 14:00 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690459200/2887/
-- Donnerstag, 27. Juli 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690459200/2932/
+- Donnerstag, 27. Juli 2023 14:00 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690459200/2932/
 - Donnerstag, 27. Juli 2023 14:12 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690459920/135/
 - Donnerstag, 27. Juli 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1690459920/190/
 - Donnerstag, 27. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690459920/2887/
@@ -10,7 +8,6 @@
 - Donnerstag, 27. Juli 2023 14:24 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690460640/2911/
 - Donnerstag, 27. Juli 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1690460640/190/
 - Donnerstag, 27. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690460640/2887/
-- Donnerstag, 27. Juli 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1690460640/102/
 - Donnerstag, 27. Juli 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690460640/2932/
 - Donnerstag, 27. Juli 2023 14:30 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1690461000/380/
 - Donnerstag, 27. Juli 2023 14:36 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690461360/2911/
