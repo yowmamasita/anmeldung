@@ -1,8 +1,4 @@
 - Donnerstag, 1. Juni 2023 11:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1685610000/169/
-- Donnerstag, 1. Juni 2023 11:30 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1685611800/153/
-- Donnerstag, 1. Juni 2023 13:00 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685617200/841/
-- Donnerstag, 1. Juni 2023 13:12 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1685617920/312/
-- Donnerstag, 1. Juni 2023 13:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685618640/2899/
 - Montag, 17. Juli 2023 14:00 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689595200/2866/
 - Dienstag, 25. Juli 2023 10:48 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690274880/841/
 - Dienstag, 25. Juli 2023 11:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690277760/109/
