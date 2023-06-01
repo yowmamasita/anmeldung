@@ -3,7 +3,6 @@
 - Dienstag, 25. Juli 2023 10:48 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690274880/841/
 - Dienstag, 25. Juli 2023 11:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690277760/109/
 - Dienstag, 25. Juli 2023 12:00 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690279200/841/
-- Dienstag, 25. Juli 2023 16:50 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690296600/2881/
 - Donnerstag, 27. Juli 2023 09:30 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690443000/2932/
 - Donnerstag, 27. Juli 2023 10:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690445400/2923/
 - Donnerstag, 27. Juli 2023 10:24 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690446240/898/
