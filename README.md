@@ -53,8 +53,8 @@
 - Donnerstag, 27. Juli 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690452720/841/
 - Donnerstag, 27. Juli 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1690452720/190/
 - Donnerstag, 27. Juli 2023 12:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1690453200/149/
-- Donnerstag, 27. Juli 2023 12:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1690453440/381/
-- Donnerstag, 27. Juli 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1690453440/313/
+- Donnerstag, 27. Juli 2023 12:24 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1690453440/313/
+- Donnerstag, 27. Juli 2023 12:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1690454160/381/
 - Donnerstag, 27. Juli 2023 12:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690454400/150/
 - Donnerstag, 27. Juli 2023 12:54 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690455240/2839/
 - Donnerstag, 27. Juli 2023 13:00 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690455600/2911/
