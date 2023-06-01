@@ -1,6 +1,5 @@
 - Donnerstag, 27. Juli 2023 12:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690453440/2926/
-- Donnerstag, 27. Juli 2023 12:36 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690454160/844/
-- Donnerstag, 27. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690454160/2926/
+- Donnerstag, 27. Juli 2023 12:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690454160/2926/
 - Donnerstag, 27. Juli 2023 12:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1690454880/112/
 - Donnerstag, 27. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690454880/2926/
 - Donnerstag, 27. Juli 2023 13:00 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1690455600/112/
@@ -19,7 +18,6 @@
 - Donnerstag, 27. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690457760/2926/
 - Donnerstag, 27. Juli 2023 13:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1690458480/112/
 - Donnerstag, 27. Juli 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690458480/844/
-- Donnerstag, 27. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1690458480/111/
 - Donnerstag, 27. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690458480/2926/
 - Donnerstag, 27. Juli 2023 14:00 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690459200/844/
 - Donnerstag, 27. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1690459200/111/
