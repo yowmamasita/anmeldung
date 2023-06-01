@@ -1,21 +1,195 @@
 # List of available Anmeldung appointments as of $NOW
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122254,122252,329742,122260,329745,122262,329748,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,317869,122281,327352,122279,329772,122283,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
+- Donnerstag, 8. Juni 2023 12:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686220560/112/
+- Donnerstag, 8. Juni 2023 13:00 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686222000/112/
+- Donnerstag, 8. Juni 2023 13:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686222720/112/
+- Donnerstag, 8. Juni 2023 13:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686223440/112/
+- Donnerstag, 8. Juni 2023 13:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686224160/112/
+- Donnerstag, 8. Juni 2023 13:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686224880/112/
+- Donnerstag, 8. Juni 2023 14:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686226320/112/
+- Donnerstag, 15. Juni 2023 12:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686825360/112/
+- Donnerstag, 15. Juni 2023 12:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686826080/112/
+- Donnerstag, 15. Juni 2023 13:00 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686826800/112/
+- Donnerstag, 15. Juni 2023 13:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686827520/112/
+- Donnerstag, 15. Juni 2023 13:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686828240/112/
+- Donnerstag, 15. Juni 2023 13:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686828960/112/
+- Donnerstag, 15. Juni 2023 13:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686829680/112/
+- Donnerstag, 15. Juni 2023 14:00 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686830400/112/
+- Donnerstag, 15. Juni 2023 14:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686831120/112/
+- Donnerstag, 15. Juni 2023 14:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686831840/112/
+- Donnerstag, 22. Juni 2023 12:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1687430160/112/
+- Donnerstag, 22. Juni 2023 12:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1687430880/112/
+- Donnerstag, 22. Juni 2023 13:00 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1687431600/112/
+- Donnerstag, 22. Juni 2023 13:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1687432320/112/
+- Donnerstag, 22. Juni 2023 13:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1687433040/112/
+- Donnerstag, 22. Juni 2023 13:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1687433760/112/
+- Donnerstag, 22. Juni 2023 13:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1687434480/112/
+- Donnerstag, 22. Juni 2023 14:00 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1687435200/112/
+- Donnerstag, 22. Juni 2023 14:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1687435920/112/
+- Donnerstag, 22. Juni 2023 14:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1687436640/112/
+- Donnerstag, 29. Juni 2023 12:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688034960/112/
+- Donnerstag, 29. Juni 2023 12:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688035680/112/
+- Donnerstag, 29. Juni 2023 13:00 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688036400/112/
+- Donnerstag, 29. Juni 2023 13:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688037120/112/
+- Donnerstag, 29. Juni 2023 13:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688037840/112/
+- Donnerstag, 29. Juni 2023 13:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688038560/112/
+- Donnerstag, 29. Juni 2023 13:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688039280/112/
+- Donnerstag, 29. Juni 2023 14:00 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688040000/112/
+- Donnerstag, 29. Juni 2023 14:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688040720/112/
+- Donnerstag, 29. Juni 2023 14:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688041440/112/
+- Donnerstag, 6. Juli 2023 12:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688639760/112/
+- Donnerstag, 6. Juli 2023 12:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688640480/112/
+- Donnerstag, 6. Juli 2023 13:00 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688641200/112/
+- Donnerstag, 6. Juli 2023 13:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688641920/112/
+- Donnerstag, 6. Juli 2023 13:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688642640/112/
+- Donnerstag, 6. Juli 2023 13:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688643360/112/
+- Donnerstag, 6. Juli 2023 13:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688644080/112/
+- Donnerstag, 6. Juli 2023 14:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688645520/112/
+- Donnerstag, 6. Juli 2023 14:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688646240/112/
+- Donnerstag, 13. Juli 2023 12:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689244560/112/
+- Donnerstag, 13. Juli 2023 12:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689245280/112/
+- Donnerstag, 13. Juli 2023 13:00 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689246000/112/
+- Donnerstag, 13. Juli 2023 13:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689246720/112/
+- Donnerstag, 13. Juli 2023 13:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689247440/112/
+- Donnerstag, 13. Juli 2023 13:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689248160/112/
+- Donnerstag, 13. Juli 2023 13:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689248880/112/
+- Donnerstag, 13. Juli 2023 14:00 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689249600/112/
+- Donnerstag, 13. Juli 2023 14:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689250320/112/
+- Donnerstag, 13. Juli 2023 14:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689251040/112/
+- Donnerstag, 20. Juli 2023 12:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689849360/112/
+- Donnerstag, 20. Juli 2023 12:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689850080/112/
+- Donnerstag, 20. Juli 2023 13:00 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689850800/112/
+- Donnerstag, 20. Juli 2023 13:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689851520/112/
+- Donnerstag, 20. Juli 2023 13:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689852240/112/
+- Donnerstag, 20. Juli 2023 13:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689852960/112/
+- Donnerstag, 20. Juli 2023 13:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689853680/112/
+- Donnerstag, 20. Juli 2023 14:00 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689854400/112/
 - Donnerstag, 20. Juli 2023 14:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689855120/112/
-- Donnerstag, 27. Juli 2023 11:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690449480/2839/
-- Donnerstag, 27. Juli 2023 11:30 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690450200/2836/
+- Donnerstag, 20. Juli 2023 14:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689855840/112/
+- Donnerstag, 27. Juli 2023 10:00 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1690444800/134/
+- Donnerstag, 27. Juli 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1690444800/136/
+- Donnerstag, 27. Juli 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1690444800/108/
+- Donnerstag, 27. Juli 2023 10:12 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1690445520/106/
+- Donnerstag, 27. Juli 2023  Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1690445520/134/
+- Donnerstag, 27. Juli 2023  Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690445520/135/
+- Donnerstag, 27. Juli 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1690445520/108/
+- Donnerstag, 27. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1690445520/111/
+- Donnerstag, 27. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690445520/103/
+- Donnerstag, 27. Juli 2023 10:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1690446240/106/
+- Donnerstag, 27. Juli 2023  Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1690446240/134/
+- Donnerstag, 27. Juli 2023  Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690446240/135/
+- Donnerstag, 27. Juli 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1690446240/108/
+- Donnerstag, 27. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1690446240/111/
+- Donnerstag, 27. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690446240/103/
+- Donnerstag, 27. Juli 2023 10:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1690446960/106/
+- Donnerstag, 27. Juli 2023  Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1690446960/134/
+- Donnerstag, 27. Juli 2023  Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690446960/135/
+- Donnerstag, 27. Juli 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1690446960/136/
+- Donnerstag, 27. Juli 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1690446960/108/
+- Donnerstag, 27. Juli 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690446960/109/
+- Donnerstag, 27. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1690446960/111/
+- Donnerstag, 27. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690446960/103/
+- Donnerstag, 27. Juli 2023 10:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1690447680/106/
+- Donnerstag, 27. Juli 2023  Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1690447680/134/
+- Donnerstag, 27. Juli 2023  Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690447680/135/
+- Donnerstag, 27. Juli 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1690447680/108/
+- Donnerstag, 27. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1690447680/111/
+- Donnerstag, 27. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690447680/103/
+- Donnerstag, 27. Juli 2023 11:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1690448400/106/
+- Donnerstag, 27. Juli 2023  Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1690448400/134/
+- Donnerstag, 27. Juli 2023  Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690448400/135/
+- Donnerstag, 27. Juli 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1690448400/108/
+- Donnerstag, 27. Juli 2023  Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690448400/147/
+- Donnerstag, 27. Juli 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690448400/109/
+- Donnerstag, 27. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1690448400/111/
+- Donnerstag, 27. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690448400/103/
+- Donnerstag, 27. Juli 2023 11:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690449000/147/
+- Donnerstag, 27. Juli 2023 11:12 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1690449120/106/
+- Donnerstag, 27. Juli 2023  Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1690449120/134/
+- Donnerstag, 27. Juli 2023  Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690449120/135/
+- Donnerstag, 27. Juli 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1690449120/108/
+- Donnerstag, 27. Juli 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690449120/109/
+- Donnerstag, 27. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1690449120/111/
+- Donnerstag, 27. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690449120/103/
+- Donnerstag, 27. Juli 2023 11:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690449600/147/
+- Donnerstag, 27. Juli 2023 11:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1690449840/106/
+- Donnerstag, 27. Juli 2023  Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1690449840/134/
+- Donnerstag, 27. Juli 2023  Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690449840/135/
+- Donnerstag, 27. Juli 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1690449840/108/
+- Donnerstag, 27. Juli 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690449840/109/
+- Donnerstag, 27. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1690449840/111/
+- Donnerstag, 27. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690449840/103/
+- Donnerstag, 27. Juli 2023 11:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1690450560/106/
+- Donnerstag, 27. Juli 2023  Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1690450560/134/
+- Donnerstag, 27. Juli 2023  Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690450560/135/
+- Donnerstag, 27. Juli 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1690450560/108/
+- Donnerstag, 27. Juli 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690450560/109/
+- Donnerstag, 27. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1690450560/111/
+- Donnerstag, 27. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690450560/103/
+- Donnerstag, 27. Juli 2023 11:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690450800/147/
 - Donnerstag, 27. Juli 2023 11:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690450920/2839/
+- Donnerstag, 27. Juli 2023 11:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1690451280/106/
+- Donnerstag, 27. Juli 2023  Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1690451280/134/
+- Donnerstag, 27. Juli 2023  Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690451280/135/
+- Donnerstag, 27. Juli 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1690451280/108/
+- Donnerstag, 27. Juli 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690451280/109/
+- Donnerstag, 27. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1690451280/111/
+- Donnerstag, 27. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690451280/103/
+- Donnerstag, 27. Juli 2023 11:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690451400/147/
 - Donnerstag, 27. Juli 2023 11:54 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690451640/2839/
-- Donnerstag, 27. Juli 2023 12:18 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690453080/2836/
-- Donnerstag, 27. Juli 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690453080/2839/
+- Donnerstag, 27. Juli 2023 12:00 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1690452000/134/
+- Donnerstag, 27. Juli 2023  Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690452000/135/
+- Donnerstag, 27. Juli 2023  Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690452000/147/
+- Donnerstag, 27. Juli 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690452000/109/
+- Donnerstag, 27. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1690452000/111/
+- Donnerstag, 27. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690452000/103/
+- Donnerstag, 27. Juli 2023 12:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690452600/147/
+- Donnerstag, 27. Juli 2023 12:12 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1690452720/134/
+- Donnerstag, 27. Juli 2023  Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690452720/135/
+- Donnerstag, 27. Juli 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690452720/109/
+- Donnerstag, 27. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1690452720/111/
+- Donnerstag, 27. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690452720/103/
+- Donnerstag, 27. Juli 2023 12:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690453200/147/
+- Donnerstag, 27. Juli 2023 12:24 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1690453440/134/
+- Donnerstag, 27. Juli 2023  Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690453440/135/
+- Donnerstag, 27. Juli 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690453440/109/
+- Donnerstag, 27. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1690453440/111/
+- Donnerstag, 27. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690453440/103/
 - Donnerstag, 27. Juli 2023 12:30 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690453800/2836/
+- Donnerstag, 27. Juli 2023 12:36 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1690454160/134/
+- Donnerstag, 27. Juli 2023  Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690454160/135/
 - Donnerstag, 27. Juli 2023 12:42 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690454520/2836/
 - Donnerstag, 27. Juli 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690454520/2839/
+- Donnerstag, 27. Juli 2023 12:48 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1690454880/134/
+- Donnerstag, 27. Juli 2023  Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690454880/135/
+- Donnerstag, 27. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690454880/103/
 - Donnerstag, 27. Juli 2023 12:54 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690455240/2836/
 - Donnerstag, 27. Juli 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690455240/2839/
+- Donnerstag, 27. Juli 2023 13:00 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1690455600/134/
+- Donnerstag, 27. Juli 2023  Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690455600/135/
 - Donnerstag, 27. Juli 2023 13:06 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690455960/2839/
+- Donnerstag, 27. Juli 2023 13:12 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1690456320/134/
 - Donnerstag, 27. Juli 2023 13:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690456680/2839/
 - Donnerstag, 27. Juli 2023 13:30 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690457400/2839/
 - Donnerstag, 27. Juli 2023 13:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690458120/2839/
 - Donnerstag, 27. Juli 2023 13:54 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690458840/2839/
 - Donnerstag, 27. Juli 2023 14:06 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690459560/2839/
+- Donnerstag, 27. Juli 2023 14:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690459800/147/
 - Donnerstag, 27. Juli 2023 14:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690460280/2839/
+- Donnerstag, 27. Juli 2023 14:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690460400/147/
+- Donnerstag, 27. Juli 2023 14:30 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690461000/147/
+- Donnerstag, 27. Juli 2023 14:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690461600/147/
+- Donnerstag, 27. Juli 2023 14:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690462200/147/
+- Donnerstag, 27. Juli 2023 15:00 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690462800/147/
+- Donnerstag, 27. Juli 2023 15:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690463400/147/
+- Donnerstag, 27. Juli 2023 15:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690464000/147/
+- Donnerstag, 27. Juli 2023 15:30 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690464600/147/
+- Donnerstag, 27. Juli 2023 15:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690465200/147/
+- Donnerstag, 27. Juli 2023 15:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690465800/147/
+- Donnerstag, 27. Juli 2023 16:30 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690468200/147/
+- Donnerstag, 27. Juli 2023 16:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690468800/147/
+- Donnerstag, 27. Juli 2023 16:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690469400/147/
+- Donnerstag, 27. Juli 2023 17:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690470600/147/
+- Donnerstag, 27. Juli 2023 17:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690471200/147/
+- Donnerstag, 27. Juli 2023 17:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690472400/147/
+- Donnerstag, 27. Juli 2023 17:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690473000/147/
