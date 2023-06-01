@@ -1,3 +1,4 @@
+- Mittwoch, 26. Juli 2023 14:06 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1690373160/190/
 - Donnerstag, 27. Juli 2023 10:00 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690444800/922/
 - Donnerstag, 27. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690444800/2926/
 - Donnerstag, 27. Juli 2023 10:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690445520/2908/
@@ -7,10 +8,10 @@
 - Donnerstag, 27. Juli 2023 10:36 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690446960/841/
 - Donnerstag, 27. Juli 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690446960/3238/
 - Donnerstag, 27. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690446960/904/
-- Donnerstag, 27. Juli 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1690446960/145/
 - Donnerstag, 27. Juli 2023 10:40 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690447200/2878/
 - Donnerstag, 27. Juli 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1690447200/149/
 - Donnerstag, 27. Juli 2023 10:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1690447680/191/
+- Donnerstag, 27. Juli 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1690447680/145/
 - Donnerstag, 27. Juli 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1690447680/192/
 - Donnerstag, 27. Juli 2023 11:00 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690448400/2908/
 - Donnerstag, 27. Juli 2023  Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690448400/2923/
