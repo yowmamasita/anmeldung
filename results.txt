@@ -1,18 +1,7 @@
-- Donnerstag, 1. Juni 2023 10:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1685607840/231/
-- Donnerstag, 1. Juni 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1685607840/192/
-- Donnerstag, 1. Juni 2023 10:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1685608560/231/
-- Donnerstag, 1. Juni 2023 11:12 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685610720/904/
-- Donnerstag, 1. Juni 2023 11:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685611440/2887/
-- Donnerstag, 1. Juni 2023 13:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685620080/2857/
-- Donnerstag, 1. Juni 2023 17:12 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1685632320/134/
-- Montag, 12. Juni 2023 14:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686571920/191/
-- Donnerstag, 29. Juni 2023 12:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688035680/112/
+- Donnerstag, 29. Juni 2023 13:00 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688036400/112/
 - Donnerstag, 29. Juni 2023 13:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688037120/112/
 - Donnerstag, 29. Juni 2023 13:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688037840/112/
 - Donnerstag, 29. Juni 2023 13:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688038560/112/
-- Donnerstag, 29. Juni 2023 13:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688039280/112/
-- Donnerstag, 29. Juni 2023 14:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688040720/112/
-- Donnerstag, 6. Juli 2023 12:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688639760/112/
 - Donnerstag, 6. Juli 2023 12:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688640480/112/
 - Donnerstag, 6. Juli 2023 13:00 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688641200/112/
 - Donnerstag, 6. Juli 2023 13:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688641920/112/
