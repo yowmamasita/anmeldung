@@ -94,7 +94,7 @@
 - Donnerstag, 27. Juli 2023 17:12 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690470720/2866/
 - Donnerstag, 27. Juli 2023 17:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690471440/2854/
 - Donnerstag, 27. Juli 2023 17:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690473000/147/
-- Montag, 31. Juli 2023 11:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1690794000/172/
+- Donnerstag, 27. Juli 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690473000/2881/
 - Montag, 31. Juli 2023 11:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690794720/231/
 - Montag, 31. Juli 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1690794720/172/
 - Montag, 31. Juli 2023 11:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690795440/231/
