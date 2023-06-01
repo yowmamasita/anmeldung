@@ -30,8 +30,7 @@
 - Donnerstag, 27. Juli 2023 14:54 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1690462440/141/
 - Donnerstag, 27. Juli 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690462440/2836/
 - Donnerstag, 27. Juli 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1690462440/142/
-- Donnerstag, 27. Juli 2023 15:00 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690462800/2908/
-- Donnerstag, 27. Juli 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690462800/2914/
+- Donnerstag, 27. Juli 2023 15:00 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690462800/2914/
 - Donnerstag, 27. Juli 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690462800/2857/
 - Donnerstag, 27. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690462800/2887/
 - Donnerstag, 27. Juli 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690462800/922/
