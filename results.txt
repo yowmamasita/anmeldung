@@ -1,4 +1,3 @@
-- Mittwoch, 14. Juni 2023 12:54 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686740040/2932/
-- Mittwoch, 14. Juni 2023 14:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686744720/2932/
-- Donnerstag, 27. Juli 2023 15:00 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690462800/2911/
-- Freitag, 28. Juli 2023 11:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690537680/2938/
+- Mittwoch, 14. Juni 2023 10:42 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1686732120/153/
+- Mittwoch, 14. Juni 2023 11:42 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1686735720/153/
+- Mittwoch, 14. Juni 2023 12:30 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686738600/2932/
