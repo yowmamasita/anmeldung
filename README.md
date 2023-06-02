@@ -5,4 +5,3 @@
 - Dienstag, 1. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1690892640/172/
 - Dienstag, 1. August 2023 14:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1690893360/146/
 - Dienstag, 1. August 2023 14:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1690894080/146/
-- Dienstag, 1. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1690894080/172/
