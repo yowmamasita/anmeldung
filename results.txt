@@ -1,4 +1,3 @@
-- Freitag, 2. Juni 2023 11:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1685699640/112/
 - Freitag, 28. Juli 2023 09:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690530600/2923/
 - Freitag, 28. Juli 2023 10:00 Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1690531200/189/
 - Freitag, 28. Juli 2023 10:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690531800/2941/
@@ -11,7 +10,6 @@
 - Freitag, 28. Juli 2023 10:30 Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1690533000/189/
 - Freitag, 28. Juli 2023 10:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1690533360/190/
 - Freitag, 28. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690533360/2887/
-- Freitag, 28. Juli 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690533360/922/
 - Freitag, 28. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690533360/2926/
 - Freitag, 28. Juli 2023 10:40 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690533600/2941/
 - Freitag, 28. Juli 2023 10:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1690534080/190/
