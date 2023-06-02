@@ -86,10 +86,10 @@
 - Freitag, 28. Juli 2023 11:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690535400/147/
 - Freitag, 28. Juli 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690535400/2941/
 - Freitag, 28. Juli 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690535400/2881/
-- Freitag, 28. Juli 2023 11:12 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1690535520/141/
-- Freitag, 28. Juli 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1690535520/170/
+- Freitag, 28. Juli 2023 11:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1690535520/170/
 - Freitag, 28. Juli 2023 11:18 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690535880/844/
 - Freitag, 28. Juli 2023 11:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1690536000/149/
+- Freitag, 28. Juli 2023 11:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1690536240/141/
 - Freitag, 28. Juli 2023 11:30 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690536600/2839/
 - Freitag, 28. Juli 2023 11:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690536960/3238/
 - Freitag, 28. Juli 2023 11:40 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690537200/2878/
