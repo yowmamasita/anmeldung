@@ -1,4 +1,4 @@
-- Freitag, 2. Juni 2023 09:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685689200/2845/
+- Freitag, 2. Juni 2023 10:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685694240/2845/
 - Freitag, 30. Juni 2023 08:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688107680/2872/
 - Freitag, 30. Juni 2023 09:12 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688109120/2920/
 - Freitag, 30. Juni 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688109120/2872/
@@ -14,10 +14,8 @@
 - Freitag, 30. Juni 2023 10:12 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688112720/2920/
 - Freitag, 30. Juni 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688112720/2872/
 - Freitag, 30. Juni 2023 10:24 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688113440/2920/
-- Freitag, 30. Juni 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688113440/2872/
 - Freitag, 30. Juni 2023 10:36 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688114160/2920/
 - Freitag, 30. Juni 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688114160/2875/
-- Dienstag, 25. Juli 2023 08:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690264800/2851/
 - Dienstag, 25. Juli 2023 08:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690265520/2851/
 - Dienstag, 25. Juli 2023 08:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690266240/2851/
 - Dienstag, 25. Juli 2023 08:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690266960/2851/
@@ -184,7 +182,6 @@
 - Freitag, 28. Juli 2023 12:20 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1690539600/151/
 - Freitag, 28. Juli 2023 12:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1690539840/170/
 - Freitag, 28. Juli 2023 12:30 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690540200/844/
-- Freitag, 28. Juli 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690540200/2839/
 - Freitag, 28. Juli 2023 12:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690540560/3238/
 - Freitag, 28. Juli 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1690540560/145/
 - Freitag, 28. Juli 2023 13:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690542000/2836/
