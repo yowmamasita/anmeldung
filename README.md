@@ -98,7 +98,6 @@
 - Freitag, 28. Juli 2023 11:18 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690535880/844/
 - Freitag, 28. Juli 2023 11:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1690536000/149/
 - Freitag, 28. Juli 2023 11:30 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690536600/2839/
-- Freitag, 28. Juli 2023 11:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690536960/3238/
 - Freitag, 28. Juli 2023 11:40 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690537200/2878/
 - Freitag, 28. Juli 2023 12:00 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1690538400/380/
 - Freitag, 28. Juli 2023  Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1690538400/141/
