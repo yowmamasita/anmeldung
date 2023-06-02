@@ -3,10 +3,14 @@
 - Freitag, 28. Juli 2023 11:36 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1690536960/102/
 - Freitag, 28. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690536960/103/
 - Freitag, 28. Juli 2023 11:48 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1690537680/102/
+- Freitag, 28. Juli 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1690537680/154/
 - Freitag, 28. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690537680/103/
-- Freitag, 28. Juli 2023 11:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690537800/2923/
 - Freitag, 28. Juli 2023 12:00 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690538400/103/
-- Freitag, 28. Juli 2023 12:12 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690539120/103/
-- Freitag, 28. Juli 2023 12:24 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690539840/103/
-- Freitag, 28. Juli 2023 12:36 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690540560/103/
-- Freitag, 28. Juli 2023 12:48 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690541280/103/
+- Freitag, 28. Juli 2023 12:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1690539120/154/
+- Freitag, 28. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690539120/103/
+- Freitag, 28. Juli 2023 12:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1690539840/154/
+- Freitag, 28. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690539840/103/
+- Freitag, 28. Juli 2023 12:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1690540560/154/
+- Freitag, 28. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690540560/103/
+- Freitag, 28. Juli 2023 12:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1690541280/154/
+- Freitag, 28. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690541280/103/
