@@ -1,11 +1,10 @@
-- Mittwoch, 7. Juni 2023 07:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1686115800/312/
+- Freitag, 2. Juni 2023 09:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1685690640/231/
 - Mittwoch, 7. Juni 2023 07:54 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1686117240/312/
 - Mittwoch, 7. Juni 2023 08:06 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1686117960/312/
-- Mittwoch, 7. Juni 2023 08:18 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1686118680/312/
-- Mittwoch, 7. Juni 2023 08:54 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1686120840/312/
 - Mittwoch, 7. Juni 2023 09:18 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1686122280/312/
 - Mittwoch, 7. Juni 2023 09:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1686123000/312/
 - Mittwoch, 7. Juni 2023 10:06 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1686125160/312/
+- Mittwoch, 7. Juni 2023 10:18 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1686125880/312/
 - Mittwoch, 7. Juni 2023 10:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1686127320/312/
 - Mittwoch, 7. Juni 2023 10:54 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1686128040/312/
 - Mittwoch, 7. Juni 2023 11:18 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1686129480/312/
@@ -14,7 +13,6 @@
 - Mittwoch, 7. Juni 2023 11:54 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1686131640/312/
 - Mittwoch, 7. Juni 2023 12:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1686133800/312/
 - Mittwoch, 7. Juni 2023 13:18 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1686136680/312/
-- Mittwoch, 7. Juni 2023 13:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1686137400/312/
 - Mittwoch, 26. Juli 2023 09:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690355400/150/
 - Freitag, 28. Juli 2023 07:30 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690522200/2839/
 - Freitag, 28. Juli 2023 07:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690522560/3238/
