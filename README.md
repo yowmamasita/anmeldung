@@ -5,8 +5,7 @@
 - Freitag, 28. Juli 2023 10:12 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690531920/2836/
 - Freitag, 28. Juli 2023 10:30 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1690533000/380/
 - Freitag, 28. Juli 2023  Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1690533000/189/
-- Freitag, 28. Juli 2023 10:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1690533360/190/
-- Freitag, 28. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690533360/2926/
+- Freitag, 28. Juli 2023 10:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690533360/2926/
 - Freitag, 28. Juli 2023 10:40 Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1690533600/189/
 - Freitag, 28. Juli 2023 10:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690534080/2887/
 - Freitag, 28. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690534080/2926/
@@ -28,7 +27,6 @@
 - Freitag, 28. Juli 2023  Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1690536600/189/
 - Freitag, 28. Juli 2023 11:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1690536960/190/
 - Freitag, 28. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690536960/2887/
-- Freitag, 28. Juli 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690536960/922/
 - Freitag, 28. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690536960/2926/
 - Freitag, 28. Juli 2023 11:40 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690537200/2923/
 - Freitag, 28. Juli 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690537200/2941/
