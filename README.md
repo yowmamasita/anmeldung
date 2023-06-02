@@ -12,10 +12,8 @@
 - Freitag, 28. Juli 2023 10:10 Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1690531800/189/
 - Freitag, 28. Juli 2023 10:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1690531920/190/
 - Freitag, 28. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690531920/2926/
-- Freitag, 28. Juli 2023 10:18 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690532280/898/
-- Freitag, 28. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690532280/904/
+- Freitag, 28. Juli 2023 10:18 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690532280/904/
 - Freitag, 28. Juli 2023 10:20 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690532400/2923/
-- Freitag, 28. Juli 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690532400/2881/
 - Freitag, 28. Juli 2023  Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1690532400/189/
 - Freitag, 28. Juli 2023 10:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1690532640/190/
 - Freitag, 28. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690532640/2887/
@@ -80,7 +78,6 @@
 - Freitag, 28. Juli 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1690536600/312/
 - Freitag, 28. Juli 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690536600/898/
 - Freitag, 28. Juli 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690536600/2881/
-- Freitag, 28. Juli 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1690536600/313/
 - Freitag, 28. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690536600/904/
 - Freitag, 28. Juli 2023  Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1690536600/189/
 - Freitag, 28. Juli 2023 11:36 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690536960/2836/
