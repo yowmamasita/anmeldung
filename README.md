@@ -38,7 +38,6 @@
 - Montag, 3. Juli 2023 13:48 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688384880/1018/
 - Montag, 3. Juli 2023 14:00 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688385600/1018/
 - Montag, 3. Juli 2023 14:12 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688386320/1018/
-- Montag, 3. Juli 2023 14:24 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688387040/1018/
 - Montag, 10. Juli 2023 08:00 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688968800/1018/
 - Montag, 10. Juli 2023 08:12 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688969520/1018/
 - Montag, 10. Juli 2023 08:24 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688970240/1018/
@@ -67,6 +66,7 @@
 - Montag, 10. Juli 2023 13:36 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688988960/1018/
 - Montag, 10. Juli 2023 13:48 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688989680/1018/
 - Montag, 10. Juli 2023 14:12 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688991120/1018/
+- Mittwoch, 12. Juli 2023 10:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1689150960/169/
 - Montag, 17. Juli 2023 08:00 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689573600/1018/
 - Montag, 17. Juli 2023 08:12 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689574320/1018/
 - Montag, 17. Juli 2023 08:24 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689575040/1018/
