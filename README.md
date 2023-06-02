@@ -8,8 +8,6 @@
 - Montag, 5. Juni 2023 10:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685953440/922/
 - Montag, 5. Juni 2023 10:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685954160/922/
 - Montag, 5. Juni 2023 10:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685954880/2857/
-- Montag, 5. Juni 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685954880/922/
-- Donnerstag, 22. Juni 2023 14:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687437360/922/
 - Dienstag, 11. Juli 2023 13:18 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1689074280/142/
 - Montag, 24. Juli 2023 12:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690194240/168/
 - Dienstag, 25. Juli 2023 16:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690294200/150/
