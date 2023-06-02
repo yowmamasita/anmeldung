@@ -19,8 +19,7 @@
 - Freitag, 28. Juli 2023 08:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690526520/2911/
 - Freitag, 28. Juli 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690526520/2914/
 - Freitag, 28. Juli 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690526520/841/
-- Freitag, 28. Juli 2023 08:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690526880/2845/
-- Freitag, 28. Juli 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690526880/2938/
+- Freitag, 28. Juli 2023 08:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690526880/2938/
 - Freitag, 28. Juli 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690526880/2866/
 - Freitag, 28. Juli 2023 08:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690527000/2923/
 - Freitag, 28. Juli 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690527000/2878/
@@ -32,7 +31,6 @@
 - Freitag, 28. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690527600/2887/
 - Freitag, 28. Juli 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690527600/2884/
 - Freitag, 28. Juli 2023  Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1690527600/189/
-- Freitag, 28. Juli 2023 09:06 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690527960/2911/
 - Freitag, 28. Juli 2023 09:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690528200/2941/
 - Freitag, 28. Juli 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690528200/2881/
 - Freitag, 28. Juli 2023 09:12 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690528320/2836/
@@ -40,7 +38,8 @@
 - Freitag, 28. Juli 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690528320/922/
 - Freitag, 28. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690528320/2926/
 - Freitag, 28. Juli 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690528320/2866/
-- Freitag, 28. Juli 2023 09:18 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690528680/898/
+- Freitag, 28. Juli 2023 09:18 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690528680/2911/
+- Freitag, 28. Juli 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690528680/898/
 - Freitag, 28. Juli 2023 09:20 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690528800/2923/
 - Freitag, 28. Juli 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1690528800/149/
 - Freitag, 28. Juli 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690528800/150/
@@ -50,6 +49,7 @@
 - Freitag, 28. Juli 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690529400/2878/
 - Freitag, 28. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690529400/904/
 - Freitag, 28. Juli 2023 09:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690529760/2845/
+- Freitag, 28. Juli 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690529760/2848/
 - Freitag, 28. Juli 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690529760/2938/
 - Freitag, 28. Juli 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1690529760/170/
 - Freitag, 28. Juli 2023 09:40 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1690530000/151/
@@ -115,4 +115,3 @@
 - Freitag, 28. Juli 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1690541280/142/
 - Freitag, 28. Juli 2023 13:12 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1690542720/141/
 - Freitag, 28. Juli 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690542720/2836/
-- Montag, 31. Juli 2023 08:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1690784640/172/
