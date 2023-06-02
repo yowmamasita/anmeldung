@@ -1,5 +1,5 @@
-- Freitag, 2. Juni 2023 09:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685691720/2914/
-- Freitag, 2. Juni 2023 10:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1685693160/313/
+- Freitag, 2. Juni 2023 08:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685686680/2914/
+- Freitag, 2. Juni 2023 08:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685687400/2914/
 - Montag, 10. Juli 2023 08:24 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688970240/1018/
 - Montag, 10. Juli 2023 08:36 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688970960/1018/
 - Montag, 10. Juli 2023 08:48 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688971680/1018/
@@ -61,7 +61,6 @@
 - Freitag, 28. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1690522920/111/
 - Freitag, 28. Juli 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1690522920/313/
 - Freitag, 28. Juli 2023 07:54 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1690523640/140/
-- Freitag, 28. Juli 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1690523640/312/
 - Freitag, 28. Juli 2023 08:06 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1690524360/134/
 - Freitag, 28. Juli 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690524360/2908/
 - Freitag, 28. Juli 2023  Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690524360/135/
