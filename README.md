@@ -21,5 +21,4 @@
 - Mittwoch, 2. August 2023 12:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690971840/231/
 - Mittwoch, 2. August 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1690971840/146/
 - Mittwoch, 2. August 2023 12:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690972560/231/
-- Mittwoch, 2. August 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1690972560/146/
 - Mittwoch, 2. August 2023 12:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690973280/231/
