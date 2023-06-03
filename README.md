@@ -3,3 +3,4 @@
 - Montag, 5. Juni 2023 08:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1685946000/147/
 - Montag, 5. Juni 2023 09:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1685949600/150/
 - Montag, 5. Juni 2023 13:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685965320/2911/
+- Montag, 5. Juni 2023 15:06 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685970360/2911/
