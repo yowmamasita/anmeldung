@@ -20,7 +20,6 @@
 - Donnerstag, 3. August 2023 13:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1691061120/231/
 - Donnerstag, 3. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1691061120/172/
 - Donnerstag, 3. August 2023 13:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1691061840/231/
-- Donnerstag, 3. August 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1691061840/146/
 - Donnerstag, 3. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1691061840/172/
 - Donnerstag, 3. August 2023 13:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1691062560/231/
 - Donnerstag, 3. August 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1691062560/146/
