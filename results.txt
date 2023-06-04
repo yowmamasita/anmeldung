@@ -1,3 +1,5 @@
-- Montag, 5. Juni 2023 15:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1685970360/313/
-- Montag, 5. Juni 2023 15:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1685971080/313/
-- Dienstag, 6. Juni 2023 16:48 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686062880/904/
+- Dienstag, 6. Juni 2023 11:54 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1686045240/142/
+- Dienstag, 6. Juni 2023 13:50 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686052200/2884/
+- Dienstag, 6. Juni 2023 15:30 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686058200/2839/
+- Mittwoch, 21. Juni 2023 11:30 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687339800/2911/
+- Mittwoch, 12. Juli 2023 11:54 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689155640/312/
