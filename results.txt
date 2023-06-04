@@ -1,5 +1,2 @@
-- Montag, 5. Juni 2023 10:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685954880/2857/
-- Montag, 5. Juni 2023 12:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685959200/2836/
-- Montag, 5. Juni 2023 13:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1685964600/150/
+- Montag, 5. Juni 2023 11:42 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685958120/844/
 - Montag, 5. Juni 2023 14:18 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685967480/844/
-- Dienstag, 6. Juni 2023 08:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686034080/2851/
