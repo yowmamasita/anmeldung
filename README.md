@@ -24,7 +24,6 @@
 - Donnerstag, 27. Juli 2023 14:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690462080/143/
 - Donnerstag, 27. Juli 2023 16:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690467840/143/
 - Donnerstag, 27. Juli 2023 16:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690469280/143/
-- Donnerstag, 27. Juli 2023 17:00 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690470000/143/
 - Donnerstag, 27. Juli 2023 17:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690470720/143/
 - Donnerstag, 27. Juli 2023 17:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690471440/143/
 - Donnerstag, 27. Juli 2023 17:36 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690472160/143/
