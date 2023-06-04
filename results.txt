@@ -1,2 +1,6 @@
-- Montag, 5. Juni 2023 13:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1685964960/169/
-- Mittwoch, 21. Juni 2023 11:18 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687339080/898/
+- Montag, 5. Juni 2023 09:30 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685950200/2911/
+- Montag, 5. Juni 2023 12:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685961720/2911/
+- Dienstag, 6. Juni 2023 09:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686037680/3238/
+- Dienstag, 6. Juni 2023 13:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1686051360/172/
+- Montag, 24. Juli 2023 09:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690185000/150/
+- Donnerstag, 27. Juli 2023 11:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690449480/2839/
