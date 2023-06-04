@@ -4,4 +4,3 @@
 - Dienstag, 6. Juni 2023 15:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1686057840/169/
 - Mittwoch, 14. Juni 2023 10:18 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686730680/2932/
 - Donnerstag, 22. Juni 2023 16:15 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1687443300/380/
-- Dienstag, 11. Juli 2023 16:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1689085200/149/
