@@ -3,6 +3,4 @@
 - Donnerstag, 27. Juli 2023 11:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690451280/143/
 - Donnerstag, 27. Juli 2023 12:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690454880/2851/
 - Donnerstag, 27. Juli 2023 13:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690457760/2851/
-- Dienstag, 1. August 2023 10:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690877520/2899/
 - Dienstag, 1. August 2023 10:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690879680/2899/
-- Dienstag, 1. August 2023 11:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690881120/2899/
