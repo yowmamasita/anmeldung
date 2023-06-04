@@ -1,4 +1,3 @@
-- Montag, 5. Juni 2023 09:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685949000/2923/
-- Montag, 5. Juni 2023 09:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1685950200/312/
-- Dienstag, 6. Juni 2023 10:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1686040560/192/
-- Donnerstag, 27. Juli 2023 16:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690467120/2932/
+- Montag, 5. Juni 2023 08:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1685946240/231/
+- Dienstag, 6. Juni 2023 11:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686043440/2851/
+- Mittwoch, 7. Juni 2023 08:18 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686118680/847/
