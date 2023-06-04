@@ -4,4 +4,3 @@
 - Montag, 5. Juni 2023 13:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1685964240/169/
 - Dienstag, 6. Juni 2023 14:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686054960/2938/
 - Dienstag, 6. Juni 2023 15:06 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686056760/2839/
-- Dienstag, 4. Juli 2023 14:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688473440/154/
