@@ -1,7 +1,5 @@
 - Montag, 5. Juni 2023 08:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1685948040/313/
 - Montag, 5. Juni 2023 10:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1685953440/169/
-- Montag, 5. Juni 2023 10:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685954160/2851/
-- Montag, 5. Juni 2023 12:36 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685961360/2842/
 - Freitag, 16. Juni 2023 12:00 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1686909600/190/
 - Montag, 31. Juli 2023 07:54 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690782840/898/
 - Montag, 31. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690782840/904/
@@ -36,7 +34,6 @@
 - Montag, 31. Juli 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1690786800/149/
 - Montag, 31. Juli 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690786800/922/
 - Montag, 31. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690786800/103/
-- Montag, 31. Juli 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1690786800/142/
 - Montag, 31. Juli 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1690786800/192/
 - Montag, 31. Juli 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1690786800/170/
 - Montag, 31. Juli 2023 09:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690787160/2908/
@@ -45,6 +42,7 @@
 - Montag, 31. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690787160/904/
 - Montag, 31. Juli 2023 09:10 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1690787400/151/
 - Montag, 31. Juli 2023 09:12 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1690787520/381/
+- Montag, 31. Juli 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1690787520/142/
 - Montag, 31. Juli 2023 09:18 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690787880/2911/
 - Montag, 31. Juli 2023 09:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690788000/150/
 - Montag, 31. Juli 2023 09:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1690788240/141/
