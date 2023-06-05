@@ -9,9 +9,7 @@
 - Dienstag, 6. Juni 2023 13:12 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686049920/313/
 - Dienstag, 6. Juni 2023 13:24 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686050640/313/
 - Dienstag, 6. Juni 2023 13:36 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686051360/313/
-- Dienstag, 6. Juni 2023 13:48 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686052080/313/
 - Dienstag, 6. Juni 2023 14:24 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686054240/313/
 - Dienstag, 6. Juni 2023 14:36 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686054960/313/
-- Dienstag, 6. Juni 2023 14:48 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686055680/313/
 - Donnerstag, 20. Juli 2023 15:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689858720/2857/
 - Montag, 31. Juli 2023 09:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690788960/3238/
