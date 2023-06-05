@@ -5,17 +5,16 @@
 - Donnerstag, 13. Juli 2023 16:12 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689257520/2860/
 - Donnerstag, 13. Juli 2023 16:36 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689258960/2860/
 - Donnerstag, 13. Juli 2023 17:24 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689261840/2860/
-- Freitag, 14. Juli 2023 08:12 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689315120/2860/
 - Freitag, 14. Juli 2023 08:36 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689316560/2860/
 - Freitag, 14. Juli 2023 08:48 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689317280/2860/
 - Freitag, 14. Juli 2023 09:24 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689319440/2860/
 - Freitag, 14. Juli 2023 09:48 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689320880/2860/
 - Freitag, 14. Juli 2023 10:12 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689322320/2860/
 - Freitag, 14. Juli 2023 10:24 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689323040/2860/
+- Freitag, 14. Juli 2023 10:36 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689323760/2860/
 - Freitag, 14. Juli 2023 10:48 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689324480/2860/
 - Freitag, 14. Juli 2023 11:12 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689325920/2860/
 - Freitag, 14. Juli 2023 11:24 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689326640/2860/
-- Freitag, 14. Juli 2023 11:36 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689327360/2860/
 - Freitag, 14. Juli 2023 11:48 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689328080/2860/
 - Freitag, 14. Juli 2023 12:00 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689328800/2860/
 - Freitag, 14. Juli 2023 12:12 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689329520/2860/
@@ -24,7 +23,6 @@
 - Mittwoch, 19. Juli 2023 08:36 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689748560/2860/
 - Mittwoch, 19. Juli 2023 10:36 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689755760/2860/
 - Mittwoch, 19. Juli 2023 12:12 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689761520/2860/
-- Mittwoch, 19. Juli 2023 12:36 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689762960/2860/
 - Donnerstag, 20. Juli 2023 11:00 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689843600/2860/
 - Donnerstag, 20. Juli 2023 11:12 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689844320/2860/
 - Donnerstag, 20. Juli 2023 11:24 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689845040/2860/
