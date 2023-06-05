@@ -3,9 +3,5 @@
 - Montag, 5. Juni 2023 07:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1685944440/112/
 - Montag, 5. Juni 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1685944440/312/
 - Montag, 5. Juni 2023 09:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1685949480/313/
-- Montag, 5. Juni 2023 09:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1685950920/313/
-- Montag, 5. Juni 2023 10:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1685955240/313/
 - Montag, 5. Juni 2023 11:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1685955960/313/
 - Montag, 5. Juni 2023 11:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1685956680/313/
-- Montag, 5. Juni 2023 11:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1685957400/313/
-- Dienstag, 25. Juli 2023 16:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690296480/2899/
