@@ -1,8 +1,0 @@
-- Montag, 31. Juli 2023 08:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690783920/2857/
-- Montag, 31. Juli 2023 08:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690786080/2857/
-- Montag, 31. Juli 2023 11:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690795440/2857/
-- Montag, 31. Juli 2023 11:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690796880/2857/
-- Montag, 31. Juli 2023 12:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690799040/2857/
-- Montag, 31. Juli 2023 12:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690800480/2857/
-- Montag, 31. Juli 2023 14:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690804800/2857/
-- Montag, 31. Juli 2023 14:06 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690805160/898/
