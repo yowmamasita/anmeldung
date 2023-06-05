@@ -3,7 +3,6 @@
 - Dienstag, 6. Juni 2023 10:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1686039840/146/
 - Dienstag, 6. Juni 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1686039840/172/
 - Dienstag, 6. Juni 2023 10:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1686040560/146/
-- Dienstag, 6. Juni 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1686040560/172/
 - Dienstag, 6. Juni 2023 10:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1686041280/146/
 - Dienstag, 6. Juni 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1686041280/172/
 - Dienstag, 6. Juni 2023 11:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1686042000/146/
@@ -11,8 +10,6 @@
 - Dienstag, 6. Juni 2023 11:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1686042720/146/
 - Dienstag, 6. Juni 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1686042720/172/
 - Dienstag, 6. Juni 2023 11:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1686043440/146/
-- Dienstag, 6. Juni 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1686043440/172/
 - Dienstag, 6. Juni 2023 11:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1686044160/146/
-- Dienstag, 6. Juni 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1686044160/172/
 - Dienstag, 6. Juni 2023 11:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1686044880/146/
 - Montag, 31. Juli 2023 14:06 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690805160/898/
