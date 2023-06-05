@@ -8,14 +8,107 @@
 - Montag, 5. Juni 2023 09:42 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1685950920/154/
 - Montag, 5. Juni 2023 09:54 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1685951640/154/
 - Montag, 5. Juni 2023 10:06 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1685952360/154/
-- Montag, 5. Juni 2023 10:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1685953440/169/
+- Montag, 5. Juni 2023 13:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685965680/3238/
+- Dienstag, 6. Juni 2023 10:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686038400/191/
+- Dienstag, 6. Juni 2023 10:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686039120/191/
+- Dienstag, 6. Juni 2023 10:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686039840/191/
+- Dienstag, 6. Juni 2023 10:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686040560/191/
+- Dienstag, 6. Juni 2023 10:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686041280/191/
+- Dienstag, 6. Juni 2023 11:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686042000/191/
+- Dienstag, 6. Juni 2023 11:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686042720/191/
+- Dienstag, 6. Juni 2023 11:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686043440/191/
+- Dienstag, 6. Juni 2023 11:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686044160/191/
+- Dienstag, 6. Juni 2023 11:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686044880/191/
+- Dienstag, 6. Juni 2023 12:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686045600/191/
+- Dienstag, 6. Juni 2023 12:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686046320/191/
+- Dienstag, 6. Juni 2023 12:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686047040/191/
+- Dienstag, 6. Juni 2023 12:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686047760/191/
+- Dienstag, 6. Juni 2023 12:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686048480/191/
+- Dienstag, 6. Juni 2023 13:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686049200/191/
+- Dienstag, 6. Juni 2023 13:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686049920/191/
+- Dienstag, 6. Juni 2023 13:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686050640/191/
+- Dienstag, 6. Juni 2023 13:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686051360/191/
+- Dienstag, 6. Juni 2023 13:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686052080/191/
+- Dienstag, 6. Juni 2023 14:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686052800/191/
+- Dienstag, 6. Juni 2023 14:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686053520/191/
+- Dienstag, 6. Juni 2023 14:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686054240/191/
+- Dienstag, 6. Juni 2023 14:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686054960/191/
+- Dienstag, 6. Juni 2023 14:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686055680/191/
+- Dienstag, 6. Juni 2023 15:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686057120/191/
+- Dienstag, 6. Juni 2023 15:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686057840/191/
+- Dienstag, 6. Juni 2023 15:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686058560/191/
+- Dienstag, 6. Juni 2023 15:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686059280/191/
+- Dienstag, 6. Juni 2023 16:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686060000/191/
+- Dienstag, 6. Juni 2023 16:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686060720/191/
+- Dienstag, 6. Juni 2023 16:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686061440/191/
+- Dienstag, 6. Juni 2023 16:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686062160/191/
+- Dienstag, 6. Juni 2023 16:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686062880/191/
+- Dienstag, 6. Juni 2023 17:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686063600/191/
+- Dienstag, 6. Juni 2023 17:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686064320/191/
+- Dienstag, 6. Juni 2023 17:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686065040/191/
+- Dienstag, 6. Juni 2023 17:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686065760/191/
+- Dienstag, 6. Juni 2023 17:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686066480/191/
+- Mittwoch, 7. Juni 2023 09:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686123000/191/
+- Mittwoch, 7. Juni 2023 09:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686123720/191/
+- Mittwoch, 7. Juni 2023 09:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686124440/191/
+- Mittwoch, 7. Juni 2023 10:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686125160/191/
+- Mittwoch, 7. Juni 2023 10:18 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686125880/191/
+- Mittwoch, 7. Juni 2023 10:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686126600/191/
+- Mittwoch, 7. Juni 2023 10:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686127320/191/
+- Mittwoch, 7. Juni 2023 10:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686128040/191/
+- Mittwoch, 7. Juni 2023 11:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686128760/191/
+- Mittwoch, 7. Juni 2023 11:18 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686129480/191/
+- Mittwoch, 7. Juni 2023 11:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686130200/191/
+- Mittwoch, 7. Juni 2023 11:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686130920/191/
+- Mittwoch, 7. Juni 2023 11:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686131640/191/
+- Mittwoch, 7. Juni 2023 12:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686132360/191/
+- Mittwoch, 7. Juni 2023 12:18 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686133080/191/
+- Mittwoch, 7. Juni 2023 12:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686133800/191/
+- Mittwoch, 7. Juni 2023 12:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686134520/191/
+- Mittwoch, 7. Juni 2023 12:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686135240/191/
+- Mittwoch, 7. Juni 2023 13:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686135960/191/
+- Mittwoch, 7. Juni 2023 13:18 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686136680/191/
+- Mittwoch, 7. Juni 2023 13:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686137400/191/
+- Mittwoch, 7. Juni 2023 13:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686138120/191/
+- Mittwoch, 7. Juni 2023 13:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686138840/191/
+- Mittwoch, 7. Juni 2023 14:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686139560/191/
+- Mittwoch, 7. Juni 2023 14:18 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686140280/191/
+- Donnerstag, 8. Juni 2023 12:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686218400/191/
+- Donnerstag, 8. Juni 2023 12:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686219120/191/
+- Donnerstag, 8. Juni 2023 12:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686219840/191/
+- Donnerstag, 8. Juni 2023 12:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686220560/191/
+- Donnerstag, 8. Juni 2023 12:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686221280/191/
+- Donnerstag, 8. Juni 2023 13:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686222000/191/
+- Donnerstag, 8. Juni 2023 13:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686222720/191/
+- Donnerstag, 8. Juni 2023 13:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686223440/191/
+- Donnerstag, 8. Juni 2023 13:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686224160/191/
+- Donnerstag, 8. Juni 2023 13:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686224880/191/
+- Donnerstag, 8. Juni 2023 14:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686225600/191/
+- Donnerstag, 8. Juni 2023 14:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686226320/191/
+- Donnerstag, 8. Juni 2023 14:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686227040/191/
+- Donnerstag, 8. Juni 2023 14:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686227760/191/
+- Donnerstag, 8. Juni 2023 14:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686228480/191/
+- Donnerstag, 8. Juni 2023 15:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686229200/191/
+- Donnerstag, 8. Juni 2023 15:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686229920/191/
+- Donnerstag, 8. Juni 2023 15:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686230640/191/
+- Donnerstag, 8. Juni 2023 15:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686231360/191/
+- Donnerstag, 8. Juni 2023 15:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686232080/191/
+- Donnerstag, 8. Juni 2023 16:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686232800/191/
+- Donnerstag, 8. Juni 2023 16:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686233520/191/
+- Donnerstag, 8. Juni 2023 16:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686234240/191/
+- Donnerstag, 8. Juni 2023 16:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686234960/191/
+- Donnerstag, 8. Juni 2023 16:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686235680/191/
+- Donnerstag, 8. Juni 2023 17:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686236400/191/
+- Donnerstag, 8. Juni 2023 17:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686237120/191/
+- Donnerstag, 8. Juni 2023 17:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686237840/191/
+- Donnerstag, 8. Juni 2023 17:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686238560/191/
+- Donnerstag, 8. Juni 2023 17:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686239280/191/
 - Mittwoch, 5. Juli 2023 07:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688535720/191/
-- Mittwoch, 5. Juli 2023 08:18 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688537880/191/
+- Mittwoch, 5. Juli 2023 09:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688540760/191/
 - Montag, 10. Juli 2023 13:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688989680/191/
 - Montag, 10. Juli 2023 14:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688990400/191/
 - Montag, 10. Juli 2023 14:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688991120/191/
 - Montag, 10. Juli 2023 14:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688991840/191/
-- Montag, 10. Juli 2023 14:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688992560/191/
 - Mittwoch, 12. Juli 2023 07:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1689140520/191/
 - Mittwoch, 12. Juli 2023 07:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1689141240/191/
 - Mittwoch, 12. Juli 2023 08:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1689141960/191/
@@ -45,7 +138,6 @@
 - Montag, 24. Juli 2023 14:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1690201440/191/
 - Montag, 24. Juli 2023 14:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1690202160/191/
 - Montag, 24. Juli 2023 14:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1690202880/191/
-- Dienstag, 25. Juli 2023 08:36 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690266960/2932/
 - Mittwoch, 26. Juli 2023 07:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1690349400/191/
 - Mittwoch, 26. Juli 2023 07:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1690350120/191/
 - Mittwoch, 26. Juli 2023 07:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1690350840/191/
@@ -71,14 +163,14 @@
 - Montag, 31. Juli 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690784400/2881/
 - Montag, 31. Juli 2023 08:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690784640/2845/
 - Montag, 31. Juli 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690784640/2839/
-- Montag, 31. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690784640/2887/
 - Montag, 31. Juli 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690784640/2854/
 - Montag, 31. Juli 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1690784640/192/
 - Montag, 31. Juli 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1690784640/170/
 - Montag, 31. Juli 2023 08:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690785000/2908/
 - Montag, 31. Juli 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1690785000/112/
 - Montag, 31. Juli 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1690785000/149/
-- Montag, 31. Juli 2023 08:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690785360/922/
+- Montag, 31. Juli 2023 08:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690785360/2887/
+- Montag, 31. Juli 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690785360/922/
 - Montag, 31. Juli 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1690785360/142/
 - Montag, 31. Juli 2023 08:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690785600/147/
 - Montag, 31. Juli 2023 08:42 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690785720/841/
