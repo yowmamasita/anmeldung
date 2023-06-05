@@ -8,7 +8,6 @@
 - Mittwoch, 19. Juli 2023 08:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1689749640/191/
 - Montag, 24. Juli 2023 13:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1690198560/191/
 - Montag, 24. Juli 2023 13:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1690199280/191/
-- Montag, 24. Juli 2023 14:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1690200000/191/
 - Montag, 24. Juli 2023 14:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1690200720/191/
 - Montag, 24. Juli 2023 14:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1690201440/191/
 - Montag, 24. Juli 2023 14:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1690202160/191/
@@ -28,8 +27,8 @@
 - Montag, 31. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690782840/904/
 - Montag, 31. Juli 2023 08:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690783200/3238/
 - Montag, 31. Juli 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1690783200/191/
-- Montag, 31. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690783200/2926/
 - Montag, 31. Juli 2023 08:12 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690783920/2836/
+- Montag, 31. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690783920/2926/
 - Montag, 31. Juli 2023 08:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690784280/2914/
 - Montag, 31. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690784280/904/
 - Montag, 31. Juli 2023 08:20 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690784400/2941/
