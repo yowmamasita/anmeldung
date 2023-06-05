@@ -1,8 +1,4 @@
-- Montag, 5. Juni 2023 13:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685964960/2863/
-- Montag, 5. Juni 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685964960/2899/
-- Montag, 5. Juni 2023 14:00 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685966400/2839/
-- Freitag, 9. Juni 2023 09:10 Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1686294600/189/
-- Mittwoch, 28. Juni 2023 10:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687941360/2899/
+- Montag, 5. Juni 2023 13:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685964960/2899/
 - Montag, 3. Juli 2023 13:00 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688382000/2920/
 - Montag, 3. Juli 2023 13:12 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688382720/2920/
 - Montag, 3. Juli 2023 13:24 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688383440/2920/
@@ -18,7 +14,6 @@
 - Freitag, 28. Juli 2023 11:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690538040/2908/
 - Montag, 31. Juli 2023 10:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690793280/2926/
 - Montag, 31. Juli 2023 11:18 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690795080/898/
-- Montag, 31. Juli 2023 11:30 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690795800/898/
 - Montag, 31. Juli 2023 11:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690796160/2926/
 - Montag, 31. Juli 2023 11:42 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690796520/898/
 - Montag, 31. Juli 2023 11:54 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690797240/898/
@@ -31,7 +26,6 @@
 - Montag, 31. Juli 2023 12:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690800120/2911/
 - Montag, 31. Juli 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690800120/898/
 - Montag, 31. Juli 2023 12:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1690800480/381/
-- Montag, 31. Juli 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690800480/153/
 - Montag, 31. Juli 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690800480/2932/
 - Montag, 31. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690800480/103/
 - Montag, 31. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690800480/2926/
