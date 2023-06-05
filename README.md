@@ -4,6 +4,4 @@
 - Dienstag, 6. Juni 2023 11:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686044160/168/
 - Dienstag, 6. Juni 2023 11:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1686044880/146/
 - Dienstag, 6. Juni 2023 12:48 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686048480/313/
-- Dienstag, 6. Juni 2023 15:36 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686058560/313/
 - Mittwoch, 7. Juni 2023 08:30 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686119400/2926/
-- Mittwoch, 7. Juni 2023 11:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686131640/191/
