@@ -1,3 +1,4 @@
+- Montag, 5. Juni 2023 15:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1685972160/154/
 - Montag, 31. Juli 2023 12:36 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690799760/2866/
 - Montag, 31. Juli 2023 13:30 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690803000/844/
 - Montag, 31. Juli 2023 14:06 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690805160/898/
@@ -19,5 +20,3 @@
 - Montag, 31. Juli 2023 16:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690814160/2938/
 - Montag, 31. Juli 2023 16:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690814880/2938/
 - Montag, 31. Juli 2023 17:12 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690816320/2938/
-- Mittwoch, 2. August 2023 14:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690979760/2896/
-- Mittwoch, 2. August 2023 14:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690980480/2896/
