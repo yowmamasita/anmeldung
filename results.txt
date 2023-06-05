@@ -1,10 +1,6 @@
-- Montag, 5. Juni 2023 09:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1685950200/109/
-- Montag, 5. Juni 2023 10:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685952720/2845/
 - Montag, 5. Juni 2023 10:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685953440/2845/
 - Montag, 5. Juni 2023 10:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685954160/2845/
 - Montag, 5. Juni 2023 10:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1685954880/2845/
-- Donnerstag, 22. Juni 2023 10:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1687420800/106/
-- Montag, 10. Juli 2023 13:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688989680/191/
 - Montag, 10. Juli 2023 14:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688991120/191/
 - Mittwoch, 26. Juli 2023 07:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1690350120/191/
 - Mittwoch, 26. Juli 2023 07:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1690350840/191/
@@ -13,6 +9,7 @@
 - Mittwoch, 26. Juli 2023 08:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1690353000/191/
 - Mittwoch, 26. Juli 2023 08:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1690353720/191/
 - Mittwoch, 26. Juli 2023 08:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1690354440/191/
+- Freitag, 28. Juli 2023 07:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690521120/143/
 - Montag, 31. Juli 2023 07:54 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690782840/2911/
 - Montag, 31. Juli 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690782840/904/
 - Montag, 31. Juli 2023 08:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690783200/3238/
@@ -33,8 +30,8 @@
 - Montag, 31. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690785360/2887/
 - Montag, 31. Juli 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690785360/922/
 - Montag, 31. Juli 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1690785360/142/
-- Montag, 31. Juli 2023 08:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690785720/2908/
-- Montag, 31. Juli 2023 08:54 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690786440/2911/
+- Montag, 31. Juli 2023 08:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690786440/2908/
+- Montag, 31. Juli 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690786440/2911/
 - Montag, 31. Juli 2023 09:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690786800/2836/
 - Montag, 31. Juli 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690786800/3238/
 - Montag, 31. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690786800/2887/
