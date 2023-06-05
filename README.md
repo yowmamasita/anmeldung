@@ -13,7 +13,6 @@
 - Freitag, 9. Juni 2023 12:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686305520/191/
 - Freitag, 9. Juni 2023 12:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686306240/191/
 - Freitag, 9. Juni 2023 12:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686306960/191/
-- Freitag, 9. Juni 2023 12:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686307680/191/
 - Freitag, 21. Juli 2023 08:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1689921360/167/
 - Freitag, 21. Juli 2023 09:12 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689923520/2860/
 - Freitag, 21. Juli 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689923520/2863/
