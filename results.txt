@@ -1,6 +1,6 @@
-- Montag, 26. Juni 2023 12:18 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687774680/898/
+- Mittwoch, 7. Juni 2023 09:06 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686121560/841/
 - Montag, 26. Juni 2023 12:54 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687776840/898/
-- Dienstag, 27. Juni 2023 12:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687862880/2896/
+- Montag, 3. Juli 2023 09:12 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688368320/922/
 - Montag, 3. Juli 2023 12:54 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688381640/898/
 - Mittwoch, 12. Juli 2023 11:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689152400/2896/
 - Montag, 17. Juli 2023 11:18 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689585480/898/
@@ -48,7 +48,6 @@
 - Montag, 31. Juli 2023 14:06 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690805160/2911/
 - Montag, 31. Juli 2023 14:12 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1690805520/381/
 - Montag, 31. Juli 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690805520/2932/
-- Montag, 31. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690805520/103/
 - Montag, 31. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690805520/2926/
 - Montag, 31. Juli 2023 14:18 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690805880/2911/
 - Montag, 31. Juli 2023 14:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1690806240/381/
