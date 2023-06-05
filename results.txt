@@ -1,3 +1,4 @@
+- Montag, 5. Juni 2023 10:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1685953440/108/
 - Montag, 17. Juli 2023 10:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1689583680/167/
 - Montag, 17. Juli 2023 11:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1689584400/167/
 - Montag, 17. Juli 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689584400/2860/
@@ -11,7 +12,6 @@
 - Montag, 17. Juli 2023 14:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1689595200/167/
 - Montag, 17. Juli 2023 14:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1689596640/167/
 - Montag, 17. Juli 2023 14:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1689597360/167/
-- Montag, 17. Juli 2023 14:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1689598080/167/
 - Dienstag, 18. Juli 2023 11:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1689672240/167/
 - Dienstag, 18. Juli 2023 11:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1689672960/167/
 - Dienstag, 18. Juli 2023 11:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1689673680/167/
@@ -414,6 +414,3 @@
 - Montag, 31. Juli 2023 15:12 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1690809120/140/
 - Montag, 31. Juli 2023 15:20 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690809600/2941/
 - Montag, 31. Juli 2023 15:36 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690810560/2836/
-- Mittwoch, 2. August 2023 09:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690961040/2899/
-- Mittwoch, 2. August 2023 10:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690963200/2899/
-- Freitag, 4. August 2023 09:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1691133120/146/
