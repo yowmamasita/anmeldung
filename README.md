@@ -314,4 +314,3 @@
 - Montag, 31. Juli 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1690806960/191/
 - Montag, 31. Juli 2023 15:00 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690808400/2839/
 - Montag, 31. Juli 2023 15:20 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690809600/2941/
-- Mittwoch, 2. August 2023 09:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1690962480/172/
