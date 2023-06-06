@@ -81,7 +81,7 @@
 - Dienstag, 1. August 2023 17:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1690903440/381/
 - Dienstag, 1. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690903440/2938/
 - Dienstag, 1. August 2023 17:36 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1690904160/134/
-- Dienstag, 1. August 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1690904160/136/
+- Dienstag, 1. August 2023 17:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1690904880/136/
 - Dienstag, 1. August 2023 17:50 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690905000/2881/
 - Donnerstag, 3. August 2023 14:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691064720/2899/
 - Donnerstag, 3. August 2023 14:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691065440/2899/
