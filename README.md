@@ -17,9 +17,5 @@
 - Dienstag, 6. Juni 2023 11:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1686044160/153/
 - Dienstag, 6. Juni 2023 11:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1686044880/153/
 - Dienstag, 6. Juni 2023 12:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1686047760/153/
-- Dienstag, 6. Juni 2023 12:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1686048480/153/
-- Dienstag, 6. Juni 2023 13:00 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1686049200/153/
-- Dienstag, 6. Juni 2023 13:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1686049920/153/
 - Dienstag, 6. Juni 2023 13:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1686050640/153/
 - Dienstag, 6. Juni 2023 13:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1686051360/153/
-- Dienstag, 6. Juni 2023 13:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1686052080/153/
