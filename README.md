@@ -133,6 +133,4 @@
 - Dienstag, 1. August 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690904880/898/
 - Dienstag, 1. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690904880/904/
 - Dienstag, 1. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690904880/2926/
-- Donnerstag, 3. August 2023 16:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691072640/2899/
 - Donnerstag, 3. August 2023 16:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691073360/2899/
-- Donnerstag, 3. August 2023 17:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691075520/2899/
