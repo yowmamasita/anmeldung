@@ -15,20 +15,16 @@
 - Dienstag, 6. Juni 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686042000/112/
 - Dienstag, 6. Juni 2023 11:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686042720/2845/
 - Dienstag, 6. Juni 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686042720/112/
-- Dienstag, 6. Juni 2023 11:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686043440/2845/
-- Dienstag, 6. Juni 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686043440/112/
+- Dienstag, 6. Juni 2023 11:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686043440/112/
 - Dienstag, 6. Juni 2023 11:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686044160/112/
 - Dienstag, 6. Juni 2023 12:00 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686045600/112/
 - Dienstag, 6. Juni 2023 12:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686046320/112/
-- Dienstag, 6. Juni 2023 13:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686049920/2872/
 - Dienstag, 6. Juni 2023 13:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686051360/2872/
 - Dienstag, 6. Juni 2023 13:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686052080/2872/
-- Dienstag, 6. Juni 2023 14:00 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686052800/313/
 - Dienstag, 6. Juni 2023 14:24 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686054240/313/
-- Dienstag, 6. Juni 2023 14:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686054960/2872/
-- Dienstag, 6. Juni 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686054960/313/
+- Dienstag, 6. Juni 2023 14:36 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686054960/313/
+- Dienstag, 6. Juni 2023 14:48 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686055680/313/
 - Dienstag, 6. Juni 2023 15:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686057120/112/
-- Dienstag, 6. Juni 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686057120/2872/
 - Dienstag, 4. Juli 2023 10:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688459040/2872/
 - Dienstag, 4. Juli 2023 10:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688459760/2872/
 - Dienstag, 4. Juli 2023 10:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688460480/2872/
@@ -36,11 +32,11 @@
 - Dienstag, 4. Juli 2023 11:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688462640/2872/
 - Dienstag, 4. Juli 2023 11:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688463360/2872/
 - Dienstag, 4. Juli 2023 11:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688464080/2872/
-- Dienstag, 4. Juli 2023 12:00 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688464800/2872/
 - Dienstag, 4. Juli 2023 12:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688465520/2872/
 - Dienstag, 4. Juli 2023 12:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688466240/2872/
+- Dienstag, 4. Juli 2023 12:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688466960/2872/
+- Mittwoch, 12. Juli 2023 09:06 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689145560/847/
 - Donnerstag, 13. Juli 2023 12:24 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689243840/847/
-- Donnerstag, 13. Juli 2023 17:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1689261120/136/
 - Montag, 17. Juli 2023 08:06 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689573960/847/
 - Montag, 17. Juli 2023 09:30 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689579000/847/
 - Montag, 17. Juli 2023 11:18 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689585480/847/
@@ -141,7 +137,6 @@
 - Freitag, 28. Juli 2023 11:18 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690535880/847/
 - Freitag, 28. Juli 2023 11:42 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690537320/847/
 - Freitag, 28. Juli 2023 12:12 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690539120/2854/
-- Montag, 31. Juli 2023 08:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1690783200/172/
 - Montag, 31. Juli 2023 08:18 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690784280/847/
 - Montag, 31. Juli 2023 08:42 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690785720/847/
 - Montag, 31. Juli 2023 08:54 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690786440/847/
