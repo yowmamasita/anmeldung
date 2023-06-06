@@ -33,10 +33,10 @@
 - Dienstag, 1. August 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690885440/898/
 - Dienstag, 1. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690885440/904/
 - Dienstag, 1. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690885440/2866/
-- Dienstag, 1. August 2023 12:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1690886160/190/
-- Dienstag, 1. August 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690886160/2887/
+- Dienstag, 1. August 2023 12:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690886160/2887/
 - Dienstag, 1. August 2023 12:42 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1690886520/140/
 - Dienstag, 1. August 2023 12:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690886880/109/
+- Dienstag, 1. August 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1690886880/190/
 - Dienstag, 1. August 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1690886880/111/
 - Dienstag, 1. August 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690886880/2932/
 - Dienstag, 1. August 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1690886880/192/
@@ -69,7 +69,6 @@
 - Dienstag, 1. August 2023 14:00 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690891200/109/
 - Dienstag, 1. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690891200/841/
 - Dienstag, 1. August 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690891200/2941/
-- Dienstag, 1. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690891200/847/
 - Dienstag, 1. August 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690891200/2881/
 - Dienstag, 1. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690891200/922/
 - Dienstag, 1. August 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1690891200/192/
@@ -78,6 +77,7 @@
 - Dienstag, 1. August 2023 14:10 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690891800/2884/
 - Dienstag, 1. August 2023 14:12 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690891920/844/
 - Dienstag, 1. August 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1690891920/111/
+- Dienstag, 1. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690891920/847/
 - Dienstag, 1. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1690891920/191/
 - Dienstag, 1. August 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1690891920/170/
 - Dienstag, 1. August 2023 14:18 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1690892280/141/
@@ -110,7 +110,7 @@
 - Dienstag, 1. August 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1690901280/170/
 - Dienstag, 1. August 2023 16:50 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690901400/2941/
 - Dienstag, 1. August 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1690901400/149/
-- Dienstag, 1. August 2023 17:20 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690903200/2881/
 - Dienstag, 1. August 2023 17:24 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690903440/2866/
 - Dienstag, 1. August 2023 17:30 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690903800/2941/
 - Dienstag, 1. August 2023 17:40 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1690904400/149/
+- Dienstag, 1. August 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690904400/2881/
