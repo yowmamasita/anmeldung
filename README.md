@@ -30,14 +30,14 @@
 - Dienstag, 1. August 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1690891200/190/
 - Dienstag, 1. August 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690891200/2887/
 - Dienstag, 1. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690891200/2938/
-- Dienstag, 1. August 2023 14:12 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1690891920/134/
-- Dienstag, 1. August 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690891920/2908/
+- Dienstag, 1. August 2023 14:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690891920/2908/
 - Dienstag, 1. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1690891920/154/
 - Dienstag, 1. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690891920/2926/
 - Dienstag, 1. August 2023 14:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690892280/2839/
 - Dienstag, 1. August 2023 14:20 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690892400/2941/
 - Dienstag, 1. August 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690892400/2881/
 - Dienstag, 1. August 2023 14:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690892640/2845/
+- Dienstag, 1. August 2023  Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1690892640/134/
 - Dienstag, 1. August 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690892640/2848/
 - Dienstag, 1. August 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690892640/844/
 - Dienstag, 1. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690892640/841/
