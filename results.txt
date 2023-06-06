@@ -9,7 +9,6 @@
 - Dienstag, 6. Juni 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686039840/109/
 - Dienstag, 6. Juni 2023 10:30 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686040200/154/
 - Dienstag, 6. Juni 2023 10:36 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1686040560/135/
-- Dienstag, 6. Juni 2023 10:42 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686040920/154/
 - Dienstag, 6. Juni 2023 10:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686041280/109/
 - Dienstag, 6. Juni 2023 10:54 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686041640/154/
 - Dienstag, 6. Juni 2023 11:00 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686042000/109/
@@ -37,15 +36,12 @@
 - Dienstag, 6. Juni 2023 12:42 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686048120/154/
 - Dienstag, 6. Juni 2023 12:48 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1686048480/135/
 - Dienstag, 6. Juni 2023 12:54 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686048840/154/
-- Dienstag, 6. Juni 2023 13:00 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1686049200/135/
 - Dienstag, 6. Juni 2023 14:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686052800/154/
 - Dienstag, 6. Juni 2023 14:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686053520/154/
 - Dienstag, 6. Juni 2023 14:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686054240/154/
-- Dienstag, 6. Juni 2023 14:36 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1686054960/135/
-- Dienstag, 6. Juni 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686054960/154/
+- Dienstag, 6. Juni 2023 14:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686054960/154/
 - Dienstag, 6. Juni 2023 14:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686055680/154/
 - Dienstag, 6. Juni 2023 15:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686057120/154/
-- Dienstag, 6. Juni 2023 15:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686058560/154/
 - Donnerstag, 20. Juli 2023 10:48 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689842880/847/
 - Donnerstag, 20. Juli 2023 11:24 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689845040/847/
 - Donnerstag, 20. Juli 2023 11:36 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689845760/847/
