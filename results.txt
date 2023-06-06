@@ -1,13 +1,17 @@
-- Dienstag, 6. Juni 2023 12:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686045600/191/
-- Dienstag, 6. Juni 2023 12:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686046320/191/
+- Dienstag, 6. Juni 2023 12:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686045600/2863/
+- Dienstag, 6. Juni 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686045600/191/
+- Dienstag, 6. Juni 2023 12:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686046320/2863/
+- Dienstag, 6. Juni 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686046320/191/
+- Dienstag, 6. Juni 2023 12:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686047040/2863/
+- Dienstag, 6. Juni 2023 12:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686047760/2863/
+- Dienstag, 6. Juni 2023 12:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686048480/2863/
+- Dienstag, 6. Juni 2023 13:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686049200/2863/
+- Dienstag, 6. Juni 2023 13:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686049920/2863/
 - Dienstag, 6. Juni 2023 15:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686058560/191/
-- Dienstag, 6. Juni 2023 16:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686060000/191/
 - Dienstag, 6. Juni 2023 16:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686060720/191/
 - Dienstag, 6. Juni 2023 16:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686061440/191/
 - Dienstag, 6. Juni 2023 16:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686062160/191/
 - Dienstag, 6. Juni 2023 16:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686062880/191/
-- Dienstag, 6. Juni 2023 17:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686063600/191/
 - Dienstag, 6. Juni 2023 17:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686064320/191/
 - Dienstag, 6. Juni 2023 17:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686065040/191/
-- Dienstag, 6. Juni 2023 17:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686065760/191/
 - Mittwoch, 26. Juli 2023 11:54 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690365240/847/
