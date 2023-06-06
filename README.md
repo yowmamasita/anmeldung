@@ -18,10 +18,7 @@
 - Dienstag, 6. Juni 2023 13:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1686049920/172/
 - Dienstag, 6. Juni 2023 13:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1686050640/169/
 - Dienstag, 6. Juni 2023 13:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1686051360/169/
-- Dienstag, 6. Juni 2023 15:00 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686056400/313/
 - Dienstag, 6. Juni 2023 15:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686057840/109/
 - Dienstag, 6. Juni 2023 15:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686058560/109/
 - Dienstag, 6. Juni 2023 15:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686059280/109/
-- Dienstag, 6. Juni 2023 16:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1686060720/169/
-- Dienstag, 6. Juni 2023 16:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686062160/109/
-- Dienstag, 6. Juni 2023 17:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686066480/109/
+- Dienstag, 6. Juni 2023 17:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686064320/109/
