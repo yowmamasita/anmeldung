@@ -83,10 +83,10 @@
 - Dienstag, 1. August 2023 14:10 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690891800/2884/
 - Dienstag, 1. August 2023 14:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1690891920/191/
 - Dienstag, 1. August 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1690891920/170/
+- Dienstag, 1. August 2023 14:18 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1690892280/141/
 - Dienstag, 1. August 2023 14:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690892400/147/
 - Dienstag, 1. August 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690892400/2878/
-- Dienstag, 1. August 2023 14:30 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1690893000/141/
-- Dienstag, 1. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690893000/2836/
+- Dienstag, 1. August 2023 14:30 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690893000/2836/
 - Dienstag, 1. August 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1690893000/140/
 - Dienstag, 1. August 2023 14:36 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690893360/2866/
 - Dienstag, 1. August 2023 15:00 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690894800/2881/
@@ -117,6 +117,5 @@
 - Dienstag, 1. August 2023 17:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1690903200/149/
 - Dienstag, 1. August 2023 17:24 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690903440/2866/
 - Dienstag, 1. August 2023 17:30 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690903800/2941/
-- Donnerstag, 3. August 2023 13:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691060400/2896/
 - Donnerstag, 3. August 2023 13:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691061120/2896/
 - Donnerstag, 3. August 2023 13:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691062560/2896/
