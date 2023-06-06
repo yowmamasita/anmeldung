@@ -69,7 +69,6 @@
 - Dienstag, 1. August 2023 13:30 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1690889400/141/
 - Dienstag, 1. August 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1690889400/140/
 - Dienstag, 1. August 2023 13:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1690889760/170/
-- Dienstag, 1. August 2023 13:40 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690890000/2878/
 - Dienstag, 1. August 2023 13:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1690890480/167/
 - Dienstag, 1. August 2023 13:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690890600/150/
 - Dienstag, 1. August 2023 14:00 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690891200/841/
