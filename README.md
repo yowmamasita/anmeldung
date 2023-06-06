@@ -27,4 +27,3 @@
 - Dienstag, 6. Juni 2023 14:18 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1686053880/133/
 - Dienstag, 6. Juni 2023 14:30 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1686054600/133/
 - Dienstag, 6. Juni 2023 14:42 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1686055320/133/
-- Dienstag, 6. Juni 2023 14:54 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1686056040/133/
