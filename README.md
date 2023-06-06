@@ -9,7 +9,6 @@
 - Mittwoch, 7. Juni 2023 09:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686121920/168/
 - Mittwoch, 7. Juni 2023 09:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686122640/168/
 - Mittwoch, 7. Juni 2023 09:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686123360/168/
-- Mittwoch, 7. Juni 2023 10:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686124800/168/
 - Mittwoch, 7. Juni 2023 10:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686125520/168/
 - Mittwoch, 7. Juni 2023 10:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686126240/168/
 - Mittwoch, 7. Juni 2023 10:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686126960/168/
@@ -17,4 +16,5 @@
 - Mittwoch, 7. Juni 2023 11:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686129120/168/
 - Mittwoch, 7. Juni 2023 11:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686129840/168/
 - Mittwoch, 7. Juni 2023 11:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686130560/168/
+- Mittwoch, 7. Juni 2023 11:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686131280/168/
 - Montag, 17. Juli 2023 12:00 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689588000/2887/
