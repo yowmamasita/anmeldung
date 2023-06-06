@@ -4,7 +4,6 @@
 - Mittwoch, 7. Juni 2023 12:24 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686133440/2938/
 - Dienstag, 27. Juni 2023 15:24 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687872240/2866/
 - Dienstag, 4. Juli 2023 16:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688480640/2872/
-- Dienstag, 11. Juli 2023 15:50 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1689083400/149/
 - Donnerstag, 27. Juli 2023 16:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690469280/143/
 - Montag, 31. Juli 2023 08:18 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690784280/841/
 - Montag, 31. Juli 2023 08:42 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690785720/841/
