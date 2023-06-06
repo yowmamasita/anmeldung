@@ -1,20 +1,10 @@
-- Dienstag, 6. Juni 2023 10:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686039120/2848/
-- Dienstag, 6. Juni 2023 10:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686040560/2848/
+- Dienstag, 6. Juni 2023 10:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1686039120/108/
+- Dienstag, 6. Juni 2023 10:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686039840/2848/
 - Dienstag, 6. Juni 2023 10:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686041280/2848/
-- Dienstag, 6. Juni 2023 11:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686042000/2848/
-- Dienstag, 6. Juni 2023 11:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686042720/2848/
-- Dienstag, 6. Juni 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1686042720/169/
-- Dienstag, 6. Juni 2023 11:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686043440/2848/
-- Dienstag, 6. Juni 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1686043440/169/
-- Dienstag, 6. Juni 2023 11:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686044160/2848/
-- Dienstag, 6. Juni 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1686044160/169/
-- Dienstag, 6. Juni 2023 11:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686044880/2848/
-- Dienstag, 6. Juni 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1686044880/169/
-- Dienstag, 6. Juni 2023 12:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1686048480/169/
-- Dienstag, 6. Juni 2023 13:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1686049200/169/
+- Dienstag, 6. Juni 2023 11:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1686042000/169/
 - Montag, 24. Juli 2023 09:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690182360/2914/
-- Montag, 24. Juli 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690182360/847/
 - Montag, 24. Juli 2023 11:30 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690191000/847/
+- Montag, 24. Juli 2023 11:54 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690192440/847/
 - Montag, 24. Juli 2023 13:54 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690199640/847/
 - Dienstag, 25. Juli 2023 10:12 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690272720/847/
 - Dienstag, 25. Juli 2023 10:48 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690274880/847/
@@ -48,7 +38,6 @@
 - Donnerstag, 27. Juli 2023 10:12 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690445520/847/
 - Donnerstag, 27. Juli 2023 10:24 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690446240/847/
 - Donnerstag, 27. Juli 2023 10:36 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690446960/847/
-- Donnerstag, 27. Juli 2023 10:48 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690447680/847/
 - Donnerstag, 27. Juli 2023 11:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690449120/2908/
 - Donnerstag, 27. Juli 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690449120/847/
 - Donnerstag, 27. Juli 2023 11:24 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690449840/847/
@@ -97,7 +86,6 @@
 - Montag, 31. Juli 2023 09:06 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690787160/847/
 - Montag, 31. Juli 2023 09:18 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690787880/847/
 - Montag, 31. Juli 2023 09:30 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690788600/847/
-- Montag, 31. Juli 2023 10:18 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690791480/841/
 - Montag, 31. Juli 2023 10:30 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690792200/847/
 - Montag, 31. Juli 2023 10:42 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690792920/847/
 - Montag, 31. Juli 2023 10:54 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690793640/847/
