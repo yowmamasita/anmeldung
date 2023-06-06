@@ -1,12 +1,6 @@
 # List of available Anmeldung appointments as of $NOW
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122254,122252,329742,122260,329745,122262,329748,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,317869,122281,327352,122279,329772,122283,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
-- Mittwoch, 5. Juli 2023 07:54 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688536440/847/
-- Mittwoch, 5. Juli 2023 08:30 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688538600/847/
-- Mittwoch, 5. Juli 2023 08:42 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688539320/847/
-- Mittwoch, 5. Juli 2023 08:54 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688540040/847/
 - Mittwoch, 5. Juli 2023 09:06 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688540760/847/
-- Mittwoch, 5. Juli 2023 09:18 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688541480/847/
-- Mittwoch, 5. Juli 2023 09:42 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688542920/847/
 - Mittwoch, 5. Juli 2023 09:54 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688543640/847/
 - Mittwoch, 5. Juli 2023 10:06 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688544360/847/
 - Mittwoch, 5. Juli 2023 10:18 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688545080/847/
@@ -17,7 +11,6 @@
 - Mittwoch, 5. Juli 2023 11:42 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688550120/847/
 - Mittwoch, 5. Juli 2023 11:54 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688550840/847/
 - Mittwoch, 5. Juli 2023 12:18 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688552280/847/
-- Mittwoch, 5. Juli 2023 12:30 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688553000/847/
 - Mittwoch, 5. Juli 2023 12:42 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688553720/847/
 - Donnerstag, 6. Juli 2023 10:00 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688630400/847/
 - Donnerstag, 6. Juli 2023 10:24 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688631840/847/
@@ -40,12 +33,8 @@
 - Donnerstag, 6. Juli 2023 14:24 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688646240/847/
 - Donnerstag, 6. Juli 2023 14:36 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688646960/847/
 - Donnerstag, 6. Juli 2023 14:48 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688647680/847/
-- Donnerstag, 6. Juli 2023 16:00 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688652000/847/
 - Donnerstag, 6. Juli 2023 16:12 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688652720/847/
 - Donnerstag, 6. Juli 2023 16:36 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688654160/847/
-- Donnerstag, 6. Juli 2023 16:48 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688654880/847/
-- Donnerstag, 6. Juli 2023 17:12 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688656320/847/
-- Donnerstag, 6. Juli 2023 17:24 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688657040/847/
 - Freitag, 7. Juli 2023 08:06 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688709960/847/
 - Freitag, 7. Juli 2023 08:18 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688710680/847/
 - Freitag, 7. Juli 2023 08:30 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688711400/847/
@@ -56,7 +45,6 @@
 - Freitag, 7. Juli 2023 09:54 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688716440/847/
 - Freitag, 7. Juli 2023 10:06 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688717160/847/
 - Freitag, 7. Juli 2023 10:18 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688717880/847/
-- Freitag, 7. Juli 2023 10:30 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688718600/847/
 - Freitag, 7. Juli 2023 10:42 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688719320/847/
 - Freitag, 7. Juli 2023 10:54 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688720040/847/
 - Freitag, 7. Juli 2023 11:18 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688721480/847/
@@ -89,7 +77,6 @@
 - Montag, 10. Juli 2023 12:30 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688985000/847/
 - Montag, 10. Juli 2023 12:42 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688985720/847/
 - Montag, 10. Juli 2023 12:54 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688986440/847/
-- Montag, 10. Juli 2023 13:06 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688987160/847/
 - Montag, 10. Juli 2023 13:18 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688987880/847/
 - Montag, 10. Juli 2023 13:30 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688988600/847/
 - Montag, 10. Juli 2023 13:42 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688989320/847/
@@ -131,11 +118,8 @@
 - Dienstag, 11. Juli 2023 16:00 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689084000/847/
 - Dienstag, 11. Juli 2023 16:12 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689084720/847/
 - Dienstag, 11. Juli 2023 16:24 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689085440/847/
-- Dienstag, 11. Juli 2023 16:36 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689086160/847/
-- Dienstag, 11. Juli 2023 16:48 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689086880/847/
 - Mittwoch, 12. Juli 2023 07:30 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689139800/847/
 - Mittwoch, 12. Juli 2023 07:42 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689140520/847/
-- Mittwoch, 12. Juli 2023 07:54 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689141240/847/
 - Mittwoch, 12. Juli 2023 08:06 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689141960/847/
 - Mittwoch, 12. Juli 2023 08:18 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689142680/847/
 - Mittwoch, 12. Juli 2023 08:30 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689143400/847/
@@ -165,7 +149,6 @@
 - Mittwoch, 12. Juli 2023 13:30 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689161400/847/
 - Mittwoch, 12. Juli 2023 13:42 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689162120/847/
 - Mittwoch, 12. Juli 2023 13:54 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689162840/847/
-- Donnerstag, 13. Juli 2023 10:12 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689235920/847/
 - Donnerstag, 13. Juli 2023 10:24 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689236640/847/
 - Donnerstag, 13. Juli 2023 10:36 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689237360/847/
 - Donnerstag, 13. Juli 2023 10:48 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689238080/847/
@@ -174,7 +157,6 @@
 - Donnerstag, 13. Juli 2023 11:24 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689240240/847/
 - Donnerstag, 13. Juli 2023 11:36 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689240960/847/
 - Donnerstag, 13. Juli 2023 11:48 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689241680/847/
-- Donnerstag, 13. Juli 2023 12:00 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689242400/847/
 - Donnerstag, 13. Juli 2023 12:12 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689243120/847/
 - Donnerstag, 13. Juli 2023 12:24 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689243840/847/
 - Donnerstag, 13. Juli 2023 12:36 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689244560/847/
@@ -193,7 +175,6 @@
 - Donnerstag, 13. Juli 2023 15:24 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689254640/847/
 - Donnerstag, 13. Juli 2023 15:36 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689255360/847/
 - Donnerstag, 13. Juli 2023 15:48 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689256080/847/
-- Donnerstag, 13. Juli 2023 16:00 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689256800/847/
 - Donnerstag, 13. Juli 2023 16:12 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689257520/847/
 - Donnerstag, 13. Juli 2023 16:24 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689258240/847/
 - Donnerstag, 13. Juli 2023 16:36 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689258960/847/
@@ -477,7 +458,6 @@
 - Dienstag, 25. Juli 2023 17:12 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690297920/847/
 - Dienstag, 25. Juli 2023 17:24 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690298640/847/
 - Dienstag, 25. Juli 2023 17:36 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690299360/847/
-- Dienstag, 25. Juli 2023 17:48 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690300080/847/
 - Mittwoch, 26. Juli 2023 07:30 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690349400/847/
 - Mittwoch, 26. Juli 2023 07:42 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690350120/847/
 - Mittwoch, 26. Juli 2023 07:54 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690350840/847/
@@ -551,7 +531,6 @@
 - Donnerstag, 27. Juli 2023 17:24 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690471440/847/
 - Donnerstag, 27. Juli 2023 17:36 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690472160/847/
 - Donnerstag, 27. Juli 2023 17:48 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690472880/847/
-- Freitag, 28. Juli 2023 07:30 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690522200/847/
 - Freitag, 28. Juli 2023 07:42 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690522920/847/
 - Freitag, 28. Juli 2023 07:54 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690523640/847/
 - Freitag, 28. Juli 2023 08:06 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690524360/847/
@@ -559,7 +538,6 @@
 - Freitag, 28. Juli 2023 08:30 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690525800/847/
 - Freitag, 28. Juli 2023 08:42 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690526520/847/
 - Freitag, 28. Juli 2023 08:54 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690527240/847/
-- Freitag, 28. Juli 2023 09:06 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690527960/847/
 - Freitag, 28. Juli 2023 09:18 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690528680/847/
 - Freitag, 28. Juli 2023 09:30 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690529400/847/
 - Freitag, 28. Juli 2023 09:42 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690530120/847/
@@ -576,6 +554,7 @@
 - Freitag, 28. Juli 2023 11:54 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690538040/847/
 - Freitag, 28. Juli 2023 12:06 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690538760/847/
 - Freitag, 28. Juli 2023 12:18 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690539480/847/
+- Freitag, 28. Juli 2023 12:30 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690540200/847/
 - Freitag, 28. Juli 2023 12:42 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690540920/847/
 - Freitag, 28. Juli 2023 12:54 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690541640/847/
 - Montag, 31. Juli 2023 07:42 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690782120/847/
@@ -591,7 +570,6 @@
 - Montag, 31. Juli 2023 09:54 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690790040/847/
 - Montag, 31. Juli 2023 10:06 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690790760/847/
 - Montag, 31. Juli 2023 10:18 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690791480/847/
-- Montag, 31. Juli 2023 10:30 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690792200/847/
 - Montag, 31. Juli 2023 10:42 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690792920/847/
 - Montag, 31. Juli 2023 10:54 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690793640/847/
 - Montag, 31. Juli 2023 11:06 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690794360/847/
