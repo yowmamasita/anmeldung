@@ -1,6 +1,0 @@
-- Mittwoch, 7. Juni 2023 08:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1686118320/169/
-- Mittwoch, 7. Juni 2023 08:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1686118800/147/
-- Mittwoch, 7. Juni 2023 10:12 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1686125520/381/
-- Donnerstag, 8. Juni 2023 17:36 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686238560/904/
-- Dienstag, 18. Juli 2023 09:42 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689666120/2938/
-- Mittwoch, 26. Juli 2023 07:50 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1690350600/151/
