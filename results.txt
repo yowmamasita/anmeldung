@@ -8,7 +8,6 @@
 - Dienstag, 6. Juni 2023 12:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686047040/136/
 - Dienstag, 6. Juni 2023 12:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686047760/136/
 - Dienstag, 6. Juni 2023 12:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686048480/136/
-- Dienstag, 6. Juni 2023 13:00 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686049200/136/
 - Dienstag, 6. Juni 2023 13:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686049920/136/
 - Dienstag, 6. Juni 2023 13:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686050640/136/
 - Dienstag, 6. Juni 2023 14:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686054240/136/
@@ -22,13 +21,10 @@
 - Dienstag, 6. Juni 2023 16:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686061440/136/
 - Dienstag, 6. Juni 2023 16:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686062160/136/
 - Dienstag, 6. Juni 2023 16:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686062880/136/
-- Dienstag, 6. Juni 2023 17:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686064320/136/
-- Dienstag, 6. Juni 2023 17:24 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1686065040/134/
 - Dienstag, 6. Juni 2023 17:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686065760/136/
 - Dienstag, 6. Juni 2023 17:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686066480/136/
 - Mittwoch, 19. Juli 2023 10:18 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689754680/847/
 - Mittwoch, 19. Juli 2023 10:42 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689756120/847/
-- Mittwoch, 19. Juli 2023 10:54 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689756840/847/
 - Mittwoch, 19. Juli 2023 11:30 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689759000/847/
 - Donnerstag, 20. Juli 2023 10:36 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689842160/847/
 - Donnerstag, 20. Juli 2023 10:48 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689842880/847/
@@ -222,7 +218,6 @@
 - Montag, 31. Juli 2023 10:30 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690792200/847/
 - Montag, 31. Juli 2023 10:42 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690792920/847/
 - Montag, 31. Juli 2023 10:54 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690793640/847/
-- Montag, 31. Juli 2023 11:06 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690794360/847/
 - Montag, 31. Juli 2023 11:18 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690795080/847/
 - Montag, 31. Juli 2023 11:30 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690795800/847/
 - Montag, 31. Juli 2023 11:42 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690796520/847/
