@@ -166,7 +166,6 @@
 - Dienstag, 1. August 2023 15:54 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690898040/2836/
 - Dienstag, 1. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690898040/2839/
 - Dienstag, 1. August 2023 16:00 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690898400/103/
-- Dienstag, 1. August 2023 16:10 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1690899000/149/
 - Dienstag, 1. August 2023 16:12 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690899120/103/
 - Dienstag, 1. August 2023 16:18 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690899480/2836/
 - Dienstag, 1. August 2023 16:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690899600/147/
