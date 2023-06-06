@@ -1,4 +1,3 @@
-- Mittwoch, 7. Juni 2023 08:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1686117600/146/
 - Mittwoch, 7. Juni 2023 08:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1686118320/146/
 - Mittwoch, 7. Juni 2023 08:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1686119040/146/
 - Mittwoch, 7. Juni 2023 08:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1686119760/146/
@@ -12,4 +11,3 @@
 - Mittwoch, 7. Juni 2023 10:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1686125520/146/
 - Mittwoch, 7. Juni 2023 10:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1686126240/146/
 - Mittwoch, 7. Juni 2023 10:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1686126960/146/
-- Mittwoch, 7. Juni 2023 10:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1686127680/146/
