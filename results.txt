@@ -170,5 +170,4 @@
 - Dienstag, 1. August 2023 17:24 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690903440/847/
 - Dienstag, 1. August 2023 17:30 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1690903800/141/
 - Dienstag, 1. August 2023 17:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690904400/150/
-- Donnerstag, 3. August 2023 10:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691051040/2899/
 - Donnerstag, 3. August 2023 12:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691058240/2899/
