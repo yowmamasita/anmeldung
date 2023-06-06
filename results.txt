@@ -270,7 +270,6 @@
 - Dienstag, 1. August 2023 11:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690881840/3238/
 - Dienstag, 1. August 2023 11:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690882560/3238/
 - Dienstag, 1. August 2023 11:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690883280/3238/
-- Dienstag, 1. August 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690883280/2854/
 - Dienstag, 1. August 2023 12:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690884000/3238/
 - Dienstag, 1. August 2023 12:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690886160/3238/
 - Dienstag, 1. August 2023 12:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690886880/3238/
@@ -279,7 +278,6 @@
 - Dienstag, 1. August 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1690888320/145/
 - Dienstag, 1. August 2023 13:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690889040/3238/
 - Dienstag, 1. August 2023 13:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690889760/3238/
-- Dienstag, 1. August 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1690889760/145/
 - Dienstag, 1. August 2023 13:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690890480/3238/
 - Dienstag, 1. August 2023 14:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690891920/3238/
 - Dienstag, 1. August 2023 14:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690892640/3238/
