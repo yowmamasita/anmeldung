@@ -3,15 +3,9 @@
 - Mittwoch, 7. Juni 2023 11:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686131280/2938/
 - Mittwoch, 7. Juni 2023 12:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686134520/191/
 - Mittwoch, 7. Juni 2023 12:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686134880/2863/
-- Donnerstag, 8. Juni 2023 15:30 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686231000/2836/
-- Donnerstag, 8. Juni 2023 15:48 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1686232080/134/
-- Freitag, 9. Juni 2023 08:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686290400/168/
-- Freitag, 9. Juni 2023 09:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686296160/168/
 - Freitag, 9. Juni 2023 09:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686296880/168/
-- Freitag, 9. Juni 2023 10:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686298320/168/
-- Freitag, 9. Juni 2023 10:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686299040/168/
+- Freitag, 9. Juni 2023 10:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686297600/168/
 - Mittwoch, 28. Juni 2023 10:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687939920/146/
-- Dienstag, 4. Juli 2023 10:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688460480/2926/
 - Montag, 17. Juli 2023 11:24 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689585840/2866/
 - Freitag, 28. Juli 2023 08:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690526160/168/
 - Freitag, 28. Juli 2023 08:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690526880/168/
