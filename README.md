@@ -8,9 +8,7 @@
 - Donnerstag, 8. Juni 2023 13:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686222720/168/
 - Donnerstag, 8. Juni 2023 13:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686224160/168/
 - Donnerstag, 8. Juni 2023 13:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686224880/168/
-- Donnerstag, 8. Juni 2023 14:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686227760/168/
 - Donnerstag, 8. Juni 2023 15:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686229920/168/
 - Freitag, 9. Juni 2023 09:54 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686297240/2839/
 - Freitag, 23. Juni 2023 11:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687511520/146/
-- Donnerstag, 13. Juli 2023 11:42 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689241320/2836/
 - Freitag, 28. Juli 2023 08:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690526160/2863/
