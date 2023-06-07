@@ -1,5 +1,4 @@
 - Mittwoch, 7. Juni 2023 07:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686115800/109/
-- Mittwoch, 7. Juni 2023 07:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686116520/109/
 - Mittwoch, 7. Juni 2023 07:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686117240/109/
 - Mittwoch, 7. Juni 2023 08:06 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686117960/109/
 - Mittwoch, 7. Juni 2023 08:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686118680/109/
@@ -12,12 +11,9 @@
 - Mittwoch, 7. Juni 2023 09:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686123720/109/
 - Mittwoch, 7. Juni 2023 09:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686124440/109/
 - Mittwoch, 7. Juni 2023 10:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686125880/109/
-- Mittwoch, 7. Juni 2023 10:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686126600/109/
 - Mittwoch, 7. Juni 2023 10:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686127320/109/
 - Mittwoch, 7. Juni 2023 10:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686128040/109/
 - Mittwoch, 7. Juni 2023 13:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686137400/109/
-- Mittwoch, 7. Juni 2023 13:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686138120/109/
-- Freitag, 14. Juli 2023 09:48 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689320880/103/
 - Freitag, 21. Juli 2023 08:00 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689919200/103/
 - Freitag, 21. Juli 2023 08:12 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689919920/103/
 - Freitag, 21. Juli 2023 08:24 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689920640/103/
