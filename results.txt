@@ -151,7 +151,6 @@
 - Mittwoch, 2. August 2023 12:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1690972920/191/
 - Mittwoch, 2. August 2023 12:48 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1690973280/142/
 - Mittwoch, 2. August 2023 12:50 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1690973400/151/
-- Mittwoch, 2. August 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1690973400/149/
 - Mittwoch, 2. August 2023 13:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690974000/2836/
 - Mittwoch, 2. August 2023  Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690974000/147/
 - Mittwoch, 2. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690974000/2839/
