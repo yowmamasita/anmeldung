@@ -35,11 +35,11 @@
 - Mittwoch, 2. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690963560/2926/
 - Mittwoch, 2. August 2023 10:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690963800/2941/
 - Mittwoch, 2. August 2023 10:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690964280/2908/
-- Mittwoch, 2. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690964280/841/
 - Mittwoch, 2. August 2023 10:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690964400/147/
 - Mittwoch, 2. August 2023 10:24 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690964640/2839/
 - Mittwoch, 2. August 2023 10:36 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690965360/2836/
-- Mittwoch, 2. August 2023 10:42 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1690965720/190/
+- Mittwoch, 2. August 2023 10:42 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690965720/841/
+- Mittwoch, 2. August 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1690965720/190/
 - Mittwoch, 2. August 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690965720/2932/
 - Mittwoch, 2. August 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1690965720/192/
 - Mittwoch, 2. August 2023 10:48 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1690966080/141/
