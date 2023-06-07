@@ -201,4 +201,3 @@
 - Freitag, 4. August 2023 09:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691135280/2896/
 - Freitag, 4. August 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691135280/2899/
 - Freitag, 4. August 2023 10:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691137440/2899/
-- Freitag, 4. August 2023 10:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691138160/2899/
