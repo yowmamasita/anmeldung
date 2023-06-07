@@ -13,7 +13,6 @@
 - Mittwoch, 7. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686119400/136/
 - Mittwoch, 7. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686119400/2914/
 - Mittwoch, 7. Juni 2023 08:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686120120/2908/
-- Mittwoch, 7. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686120120/136/
 - Mittwoch, 7. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686120120/2914/
 - Mittwoch, 7. Juni 2023 08:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686120840/136/
 - Mittwoch, 7. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686120840/2914/
@@ -30,12 +29,11 @@
 - Mittwoch, 7. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686123720/2914/
 - Mittwoch, 7. Juni 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686123720/109/
 - Mittwoch, 7. Juni 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686123720/191/
-- Mittwoch, 7. Juni 2023 09:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686124080/2848/
-- Mittwoch, 7. Juni 2023  Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686124080/2842/
+- Mittwoch, 7. Juni 2023 09:48 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686124080/2842/
 - Mittwoch, 7. Juni 2023 09:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686124440/136/
 - Mittwoch, 7. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686124440/2914/
 - Mittwoch, 7. Juni 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686124440/191/
-- Mittwoch, 7. Juni 2023 10:00 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686124800/2842/
 - Mittwoch, 7. Juni 2023 10:12 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686125520/2842/
 - Mittwoch, 7. Juni 2023 10:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686125880/136/
 - Mittwoch, 7. Juni 2023 10:24 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686126240/2842/
+- Mittwoch, 7. Juni 2023 10:36 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686126960/2842/
