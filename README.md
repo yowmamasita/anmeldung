@@ -72,11 +72,11 @@
 - Mittwoch, 2. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690967880/847/
 - Mittwoch, 2. August 2023 11:20 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690968000/2941/
 - Mittwoch, 2. August 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690968000/2881/
-- Mittwoch, 2. August 2023 11:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1690968240/106/
-- Mittwoch, 2. August 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1690968240/108/
+- Mittwoch, 2. August 2023 11:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1690968240/108/
 - Mittwoch, 2. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690968240/2836/
 - Mittwoch, 2. August 2023 11:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1690968600/191/
-- Mittwoch, 2. August 2023 11:36 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1690968960/141/
+- Mittwoch, 2. August 2023 11:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1690968960/106/
+- Mittwoch, 2. August 2023  Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1690968960/141/
 - Mittwoch, 2. August 2023 11:42 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690969320/2932/
 - Mittwoch, 2. August 2023 11:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690970040/135/
 - Mittwoch, 2. August 2023 12:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690970400/2836/
