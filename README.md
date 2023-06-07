@@ -46,5 +46,4 @@
 - Mittwoch, 7. Juni 2023  Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686126960/2842/
 - Mittwoch, 7. Juni 2023 10:48 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686127680/2842/
 - Mittwoch, 7. Juni 2023 11:24 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686129840/2842/
-- Mittwoch, 7. Juni 2023 12:24 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686133440/2842/
 - Mittwoch, 7. Juni 2023 12:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686134520/2908/
