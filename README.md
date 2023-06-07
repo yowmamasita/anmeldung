@@ -48,4 +48,5 @@
 - Mittwoch, 2. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690975800/922/
 - Mittwoch, 2. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690975800/2926/
 - Mittwoch, 2. August 2023 13:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690976520/2914/
+- Mittwoch, 2. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690976520/904/
 - Mittwoch, 2. August 2023 13:54 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690977240/2926/
