@@ -20,4 +20,3 @@
 - Mittwoch, 7. Juni 2023 12:30 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1686133800/135/
 - Mittwoch, 7. Juni 2023 12:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1686134520/135/
 - Mittwoch, 7. Juni 2023 12:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1686135240/135/
-- Mittwoch, 7. Juni 2023 13:18 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1686136680/135/
