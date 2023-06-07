@@ -4,6 +4,4 @@
 - Donnerstag, 8. Juni 2023 14:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686226320/2863/
 - Donnerstag, 8. Juni 2023 15:36 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686231360/847/
 - Donnerstag, 8. Juni 2023 17:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686237120/3238/
-- Dienstag, 13. Juni 2023 14:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686659760/2899/
-- Montag, 26. Juni 2023 17:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687793760/2938/
 - Donnerstag, 29. Juni 2023 13:00 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688036400/841/
