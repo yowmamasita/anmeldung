@@ -3,4 +3,3 @@
 - Mittwoch, 26. Juli 2023 09:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690354800/168/
 - Mittwoch, 26. Juli 2023 09:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690355520/168/
 - Mittwoch, 26. Juli 2023 09:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690356960/168/
-- Freitag, 28. Juli 2023 08:12 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690524720/103/
