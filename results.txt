@@ -81,13 +81,13 @@
 - Mittwoch, 2. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690971480/841/
 - Mittwoch, 2. August 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1690971480/111/
 - Mittwoch, 2. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690971480/847/
-- Mittwoch, 2. August 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1690971480/313/
 - Mittwoch, 2. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690971480/904/
 - Mittwoch, 2. August 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1690971480/192/
 - Mittwoch, 2. August 2023 12:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1690971840/106/
 - Mittwoch, 2. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690971840/2839/
 - Mittwoch, 2. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1690971840/154/
 - Mittwoch, 2. August 2023 12:30 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690972200/2932/
+- Mittwoch, 2. August 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1690972200/313/
 - Mittwoch, 2. August 2023 12:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690972920/135/
 - Mittwoch, 2. August 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1690972920/312/
 - Mittwoch, 2. August 2023 12:48 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1690973280/140/
