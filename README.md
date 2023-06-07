@@ -40,7 +40,6 @@
 - Mittwoch, 2. August 2023 09:20 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690960800/2884/
 - Mittwoch, 2. August 2023 09:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690961040/3238/
 - Mittwoch, 2. August 2023 09:42 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690962120/844/
-- Mittwoch, 2. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1690962120/191/
 - Mittwoch, 2. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690962120/922/
 - Mittwoch, 2. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690962120/2926/
 - Mittwoch, 2. August 2023 09:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690962480/2848/
@@ -52,6 +51,7 @@
 - Mittwoch, 2. August 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690962840/2887/
 - Mittwoch, 2. August 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690962840/153/
 - Mittwoch, 2. August 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690962840/2932/
+- Mittwoch, 2. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1690962840/191/
 - Mittwoch, 2. August 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1690962840/192/
 - Mittwoch, 2. August 2023 10:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690963560/2908/
 - Mittwoch, 2. August 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690963560/2911/
