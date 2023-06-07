@@ -37,7 +37,6 @@
 - Mittwoch, 2. August 2023 09:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690959960/2914/
 - Mittwoch, 2. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690959960/841/
 - Mittwoch, 2. August 2023 09:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690960200/147/
-- Mittwoch, 2. August 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1690960200/149/
 - Mittwoch, 2. August 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690960200/2881/
 - Mittwoch, 2. August 2023 09:12 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690960320/2836/
 - Mittwoch, 2. August 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1690960320/140/
@@ -46,7 +45,8 @@
 - Mittwoch, 2. August 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690960680/2911/
 - Mittwoch, 2. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690960680/847/
 - Mittwoch, 2. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690960680/904/
-- Mittwoch, 2. August 2023 09:20 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690960800/2884/
+- Mittwoch, 2. August 2023 09:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1690960800/149/
+- Mittwoch, 2. August 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690960800/2884/
 - Mittwoch, 2. August 2023 09:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1690961040/381/
 - Mittwoch, 2. August 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690961040/3238/
 - Mittwoch, 2. August 2023 09:30 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690961400/844/
@@ -55,12 +55,12 @@
 - Mittwoch, 2. August 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690961400/2932/
 - Mittwoch, 2. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690961400/922/
 - Mittwoch, 2. August 2023 09:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690961760/2848/
-- Mittwoch, 2. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690961760/2866/
 - Mittwoch, 2. August 2023 09:40 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1690962000/151/
 - Mittwoch, 2. August 2023 09:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1690962120/191/
 - Mittwoch, 2. August 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1690962120/192/
 - Mittwoch, 2. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690962120/2926/
 - Mittwoch, 2. August 2023 09:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1690962480/170/
+- Mittwoch, 2. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690962480/2866/
 - Mittwoch, 2. August 2023 09:54 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1690962840/134/
 - Mittwoch, 2. August 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690962840/153/
 - Mittwoch, 2. August 2023 10:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690963200/2848/
