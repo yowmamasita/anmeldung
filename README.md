@@ -57,8 +57,7 @@
 - Mittwoch, 2. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690968960/2938/
 - Mittwoch, 2. August 2023 11:42 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690969320/2932/
 - Mittwoch, 2. August 2023 11:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1690969680/381/
-- Mittwoch, 2. August 2023 11:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1690970040/136/
-- Mittwoch, 2. August 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690970040/109/
+- Mittwoch, 2. August 2023 11:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690970040/109/
 - Mittwoch, 2. August 2023 12:00 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690970400/2881/
 - Mittwoch, 2. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690970400/2938/
 - Mittwoch, 2. August 2023 12:06 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1690970760/134/
@@ -89,9 +88,9 @@
 - Mittwoch, 2. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690971840/2839/
 - Mittwoch, 2. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1690971840/154/
 - Mittwoch, 2. August 2023 12:30 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690972200/2932/
-- Mittwoch, 2. August 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1690972200/313/
 - Mittwoch, 2. August 2023 12:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690972920/135/
 - Mittwoch, 2. August 2023 12:48 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1690973280/140/
+- Mittwoch, 2. August 2023 12:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1690973640/313/
 - Mittwoch, 2. August 2023 13:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1690974000/106/
 - Mittwoch, 2. August 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690974000/2845/
 - Mittwoch, 2. August 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690974000/2848/
