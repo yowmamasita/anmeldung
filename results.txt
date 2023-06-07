@@ -103,7 +103,6 @@
 - Mittwoch, 7. Juni 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686132000/154/
 - Mittwoch, 7. Juni 2023 12:06 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1686132360/192/
 - Mittwoch, 7. Juni 2023 12:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686132720/231/
-- Mittwoch, 7. Juni 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1686132720/167/
 - Mittwoch, 7. Juni 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686132720/154/
 - Mittwoch, 7. Juni 2023 12:18 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1686133080/192/
 - Mittwoch, 7. Juni 2023 12:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686133440/231/
@@ -112,7 +111,8 @@
 - Mittwoch, 7. Juni 2023 12:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686134160/231/
 - Mittwoch, 7. Juni 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686134160/154/
 - Mittwoch, 7. Juni 2023 12:42 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1686134520/192/
-- Mittwoch, 7. Juni 2023 12:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686134880/154/
+- Mittwoch, 7. Juni 2023 12:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686134880/231/
+- Mittwoch, 7. Juni 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686134880/154/
 - Mittwoch, 7. Juni 2023 12:54 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1686135240/192/
 - Mittwoch, 7. Juni 2023 13:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686135600/154/
 - Mittwoch, 7. Juni 2023 13:06 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1686135960/192/
