@@ -4,4 +4,3 @@
 - Mittwoch, 7. Juni 2023 09:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686121920/2863/
 - Mittwoch, 7. Juni 2023 09:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686122640/2863/
 - Mittwoch, 7. Juni 2023 09:42 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1686123720/192/
-- Mittwoch, 7. Juni 2023 12:30 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1686133800/135/
