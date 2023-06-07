@@ -85,5 +85,4 @@
 - Mittwoch, 7. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686135240/2914/
 - Mittwoch, 7. Juni 2023 13:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686135960/2914/
 - Mittwoch, 7. Juni 2023 13:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686136680/2914/
-- Donnerstag, 20. Juli 2023 14:18 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1689855480/140/
 - Dienstag, 25. Juli 2023 12:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1690279920/190/
