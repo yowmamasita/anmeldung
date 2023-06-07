@@ -29,4 +29,3 @@
 - Mittwoch, 7. Juni 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686125520/154/
 - Mittwoch, 7. Juni 2023  Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686125520/2842/
 - Mittwoch, 7. Juni 2023 10:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686127320/112/
-- Mittwoch, 7. Juni 2023 12:30 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1686133800/192/
