@@ -3,8 +3,6 @@
 - Freitag, 9. Juni 2023 12:30 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1686306600/135/
 - Freitag, 9. Juni 2023 12:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686306960/2854/
 - Freitag, 9. Juni 2023 12:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1686307800/150/
-- Freitag, 9. Juni 2023 13:12 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686309120/2836/
-- Mittwoch, 12. Juli 2023 08:42 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689144120/2926/
 - Donnerstag, 27. Juli 2023 13:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690457760/2863/
 - Donnerstag, 27. Juli 2023 14:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690459200/2863/
 - Freitag, 28. Juli 2023 10:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690534080/2926/
