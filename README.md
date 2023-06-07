@@ -25,8 +25,7 @@
 - Mittwoch, 7. Juni 2023 08:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686119760/2848/
 - Mittwoch, 7. Juni 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1686119760/167/
 - Mittwoch, 7. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686119760/2896/
-- Mittwoch, 7. Juni 2023 08:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686120120/2908/
-- Mittwoch, 7. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686120120/136/
+- Mittwoch, 7. Juni 2023 08:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686120120/136/
 - Mittwoch, 7. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686120120/2914/
 - Mittwoch, 7. Juni 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686120120/112/
 - Mittwoch, 7. Juni 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1686120120/190/
@@ -52,8 +51,6 @@
 - Mittwoch, 7. Juni 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686123720/109/
 - Mittwoch, 7. Juni 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1686123720/192/
 - Mittwoch, 7. Juni 2023 09:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686124080/2848/
-- Mittwoch, 7. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686124080/231/
-- Mittwoch, 7. Juni 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1686124080/167/
 - Mittwoch, 7. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686124080/2896/
 - Mittwoch, 7. Juni 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686124080/154/
 - Mittwoch, 7. Juni 2023 09:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686124440/136/
@@ -86,7 +83,6 @@
 - Mittwoch, 7. Juni 2023 11:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686131280/231/
 - Mittwoch, 7. Juni 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686131280/154/
 - Mittwoch, 7. Juni 2023 12:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686132000/231/
-- Mittwoch, 7. Juni 2023 12:06 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1686132360/192/
 - Mittwoch, 7. Juni 2023 12:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686132720/231/
 - Mittwoch, 7. Juni 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686132720/154/
 - Mittwoch, 7. Juni 2023 12:18 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1686133080/192/
