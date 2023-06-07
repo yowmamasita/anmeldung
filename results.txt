@@ -1,3 +1,4 @@
+- Mittwoch, 7. Juni 2023 07:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686116520/2908/
 - Mittwoch, 7. Juni 2023 07:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686117240/2908/
 - Mittwoch, 7. Juni 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686117240/109/
 - Mittwoch, 7. Juni 2023 08:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1686117600/108/
@@ -23,7 +24,6 @@
 - Mittwoch, 7. Juni 2023 08:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686120840/2908/
 - Mittwoch, 7. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686120840/136/
 - Mittwoch, 7. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686120840/2914/
-- Mittwoch, 7. Juni 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686120840/109/
 - Mittwoch, 7. Juni 2023 09:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1686121200/108/
 - Mittwoch, 7. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686121200/2848/
 - Mittwoch, 7. Juni 2023 09:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686121560/2908/
@@ -60,7 +60,6 @@
 - Mittwoch, 7. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686125880/2914/
 - Mittwoch, 7. Juni 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686125880/109/
 - Mittwoch, 7. Juni 2023 10:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686126240/2848/
-- Mittwoch, 7. Juni 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1686126240/170/
 - Mittwoch, 7. Juni 2023 10:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686126600/2908/
 - Mittwoch, 7. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686126600/2914/
 - Mittwoch, 7. Juni 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686126600/109/
