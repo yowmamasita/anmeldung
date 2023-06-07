@@ -116,6 +116,7 @@
 - Mittwoch, 2. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690977240/922/
 - Mittwoch, 2. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690977240/2926/
 - Mittwoch, 2. August 2023 14:00 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690977600/153/
+- Mittwoch, 2. August 2023 14:06 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690977960/922/
 - Mittwoch, 2. August 2023 14:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690978320/153/
 - Mittwoch, 2. August 2023 14:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690979040/153/
 - Mittwoch, 2. August 2023 14:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690979760/153/
