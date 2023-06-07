@@ -9,7 +9,6 @@
 - Mittwoch, 2. August 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1690955640/190/
 - Mittwoch, 2. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690955640/847/
 - Mittwoch, 2. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690955640/904/
-- Mittwoch, 2. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1690955640/191/
 - Mittwoch, 2. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690955640/922/
 - Mittwoch, 2. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690955640/2926/
 - Mittwoch, 2. August 2023 08:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690956360/2908/
@@ -33,6 +32,7 @@
 - Mittwoch, 2. August 2023 08:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690958160/2848/
 - Mittwoch, 2. August 2023 08:42 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1690958520/134/
 - Mittwoch, 2. August 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690958520/898/
+- Mittwoch, 2. August 2023 08:48 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1690958880/140/
 - Mittwoch, 2. August 2023 08:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690959240/2914/
 - Mittwoch, 2. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690959240/841/
 - Mittwoch, 2. August 2023 09:00 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690959600/2839/
