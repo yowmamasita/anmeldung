@@ -10,7 +10,6 @@
 - Mittwoch, 7. Juni 2023 08:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686117960/2908/
 - Mittwoch, 7. Juni 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686117960/109/
 - Mittwoch, 7. Juni 2023 08:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686118320/2848/
-- Mittwoch, 7. Juni 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686118320/2854/
 - Mittwoch, 7. Juni 2023 08:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686118680/2908/
 - Mittwoch, 7. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686118680/136/
 - Mittwoch, 7. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686118680/2914/
@@ -115,6 +114,4 @@
 - Mittwoch, 7. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686135960/2914/
 - Mittwoch, 7. Juni 2023 13:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686136680/2914/
 - Mittwoch, 7. Juni 2023 13:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686137400/2914/
-- Mittwoch, 7. Juni 2023 13:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686138120/109/
-- Dienstag, 18. Juli 2023 14:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1689682800/150/
 - Donnerstag, 27. Juli 2023 12:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1690452720/191/
