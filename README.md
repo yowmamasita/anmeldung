@@ -3,8 +3,5 @@
 - Mittwoch, 7. Juni 2023 12:00 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686132000/2878/
 - Mittwoch, 7. Juni 2023 12:10 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686132600/2878/
 - Mittwoch, 7. Juni 2023 12:20 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686133200/2878/
-- Mittwoch, 7. Juni 2023 12:30 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686133800/2878/
-- Donnerstag, 6. Juli 2023 10:36 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688632560/847/
-- Mittwoch, 26. Juli 2023 09:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690356960/2863/
 - Mittwoch, 26. Juli 2023 11:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690364880/2863/
 - Mittwoch, 26. Juli 2023 12:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690366320/2863/
