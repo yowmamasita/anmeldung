@@ -20,7 +20,6 @@
 - Freitag, 28. Juli 2023 12:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690538400/168/
 - Freitag, 28. Juli 2023 12:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690539120/168/
 - Freitag, 28. Juli 2023 12:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690539840/168/
-- Freitag, 28. Juli 2023 12:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690540560/168/
 - Dienstag, 1. August 2023 11:36 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690882560/103/
 - Dienstag, 1. August 2023 17:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690904880/109/
 - Mittwoch, 2. August 2023 07:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690954560/3238/
