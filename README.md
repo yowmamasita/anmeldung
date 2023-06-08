@@ -6,3 +6,4 @@
 - Freitag, 9. Juni 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686292560/168/
 - Freitag, 9. Juni 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1686292560/172/
 - Freitag, 9. Juni 2023 09:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686294720/168/
+- Donnerstag, 13. Juli 2023 12:06 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689242760/2839/
