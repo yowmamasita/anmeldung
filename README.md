@@ -164,6 +164,5 @@
 - Donnerstag, 3. August 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691076240/3238/
 - Donnerstag, 3. August 2023 17:30 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1691076600/141/
 - Donnerstag, 3. August 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691076600/2881/
-- Donnerstag, 3. August 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1691076600/142/
 - Donnerstag, 3. August 2023 17:36 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1691076960/111/
 - Donnerstag, 3. August 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691076960/2932/
