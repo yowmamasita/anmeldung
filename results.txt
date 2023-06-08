@@ -26,8 +26,7 @@
 - Donnerstag, 8. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686220560/231/
 - Donnerstag, 8. Juni 2023 12:48 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1686221280/135/
 - Donnerstag, 8. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686221280/231/
-- Donnerstag, 8. Juni 2023 13:00 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1686222000/135/
-- Donnerstag, 8. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686222000/231/
+- Donnerstag, 8. Juni 2023 13:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686222000/231/
 - Donnerstag, 8. Juni 2023 13:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686222720/231/
 - Donnerstag, 8. Juni 2023 13:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686223440/231/
 - Donnerstag, 8. Juni 2023 13:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686224160/231/
@@ -47,5 +46,4 @@
 - Donnerstag, 8. Juni 2023 15:12 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1686229920/135/
 - Donnerstag, 8. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686229920/231/
 - Donnerstag, 8. Juni 2023 15:24 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1686230640/135/
-- Donnerstag, 8. Juni 2023 15:36 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1686231360/135/
 - Donnerstag, 8. Juni 2023 15:48 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1686232080/135/
