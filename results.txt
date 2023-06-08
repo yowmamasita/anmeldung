@@ -1,12 +1,4 @@
-- Donnerstag, 3. August 2023 07:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691041680/2938/
-- Donnerstag, 3. August 2023 08:00 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691042400/2938/
-- Donnerstag, 3. August 2023 08:12 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691043120/2938/
-- Donnerstag, 3. August 2023 08:24 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691043840/2938/
-- Donnerstag, 3. August 2023 08:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691044560/2938/
-- Donnerstag, 3. August 2023 08:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691045280/2938/
-- Donnerstag, 3. August 2023 09:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1691046720/154/
-- Donnerstag, 3. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691046720/2938/
-- Donnerstag, 3. August 2023 09:24 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691047440/2938/
-- Donnerstag, 3. August 2023 09:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1691048160/154/
-- Donnerstag, 3. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691048160/2938/
-- Donnerstag, 3. August 2023 10:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1691050320/154/
+- Donnerstag, 8. Juni 2023 08:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686204720/2848/
+- Donnerstag, 8. Juni 2023 10:00 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686211200/109/
+- Donnerstag, 8. Juni 2023 11:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686217680/109/
+- Donnerstag, 8. Juni 2023 15:00 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686229200/844/
