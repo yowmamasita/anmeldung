@@ -4,7 +4,6 @@
 - Donnerstag, 8. Juni 2023 10:42 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1686213720/153/
 - Donnerstag, 8. Juni 2023 11:54 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1686218040/153/
 - Donnerstag, 8. Juni 2023 12:42 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1686220920/153/
-- Donnerstag, 8. Juni 2023 12:54 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1686221640/153/
 - Donnerstag, 8. Juni 2023 14:48 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1686228480/135/
 - Donnerstag, 8. Juni 2023 17:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1686237840/153/
 - Donnerstag, 8. Juni 2023 17:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1686239280/153/
