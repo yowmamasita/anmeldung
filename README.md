@@ -3,7 +3,7 @@
 - Donnerstag, 8. Juni 2023 10:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686213360/191/
 - Donnerstag, 8. Juni 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686213360/2875/
 - Donnerstag, 8. Juni 2023 10:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686214080/191/
-- Donnerstag, 8. Juni 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686214080/2875/
+- Donnerstag, 8. Juni 2023 11:36 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686216960/2875/
 - Donnerstag, 8. Juni 2023 12:12 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686219120/2875/
-- Donnerstag, 8. Juni 2023 13:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1686222000/192/
+- Mittwoch, 19. Juli 2023 13:30 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689766200/904/
 - Montag, 24. Juli 2023 09:00 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1690182000/190/
