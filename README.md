@@ -5,4 +5,3 @@
 - Donnerstag, 8. Juni 2023 10:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686214080/191/
 - Donnerstag, 8. Juni 2023 11:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686215520/191/
 - Donnerstag, 8. Juni 2023 11:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686216240/191/
-- Donnerstag, 8. Juni 2023 11:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686216960/191/
