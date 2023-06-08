@@ -36,4 +36,3 @@
 - Donnerstag, 8. Juni 2023 14:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1686226200/150/
 - Donnerstag, 8. Juni 2023 14:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1686226800/150/
 - Donnerstag, 8. Juni 2023 14:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1686227400/150/
-- Donnerstag, 8. Juni 2023 15:00 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1686229200/150/
