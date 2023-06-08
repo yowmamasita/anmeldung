@@ -6,4 +6,3 @@
 - Donnerstag, 8. Juni 2023 15:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686230640/2848/
 - Donnerstag, 8. Juni 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686230640/2863/
 - Donnerstag, 8. Juni 2023 15:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686232080/112/
-- Donnerstag, 20. Juli 2023 11:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1689845760/168/
