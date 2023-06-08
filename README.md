@@ -24,7 +24,6 @@
 - Dienstag, 1. August 2023 17:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690902000/2863/
 - Dienstag, 1. August 2023 17:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690902720/2863/
 - Dienstag, 1. August 2023 17:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690903440/2863/
-- Mittwoch, 2. August 2023 10:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1690963200/154/
 - Donnerstag, 3. August 2023 10:36 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691051760/904/
 - Donnerstag, 3. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691051760/922/
 - Donnerstag, 3. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691051760/2926/
@@ -97,9 +96,9 @@
 - Donnerstag, 3. August 2023 12:30 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691058600/2836/
 - Donnerstag, 3. August 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1691058600/151/
 - Donnerstag, 3. August 2023 12:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1691058960/112/
-- Donnerstag, 3. August 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1691058960/111/
 - Donnerstag, 3. August 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1691058960/167/
-- Donnerstag, 3. August 2023 12:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691059680/2938/
+- Donnerstag, 3. August 2023 12:48 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1691059680/111/
+- Donnerstag, 3. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691059680/2938/
 - Donnerstag, 3. August 2023 12:54 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691060040/2932/
 - Donnerstag, 3. August 2023 13:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1691060400/106/
 - Donnerstag, 3. August 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691060400/2845/
