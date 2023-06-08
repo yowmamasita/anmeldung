@@ -3,4 +3,3 @@
 - Donnerstag, 8. Juni 2023 15:24 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686230640/2875/
 - Donnerstag, 8. Juni 2023 15:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686232080/112/
 - Donnerstag, 8. Juni 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686232080/2875/
-- Donnerstag, 8. Juni 2023 16:24 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686234240/2875/
