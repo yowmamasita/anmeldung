@@ -3,12 +3,9 @@
 - Montag, 31. Juli 2023 10:36 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690792560/143/
 - Montag, 31. Juli 2023 10:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690793280/143/
 - Montag, 31. Juli 2023 12:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690798320/143/
-- Montag, 31. Juli 2023 12:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690799040/143/
 - Montag, 31. Juli 2023 12:36 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690799760/143/
-- Montag, 31. Juli 2023 13:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690801920/143/
 - Montag, 31. Juli 2023 13:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690802640/143/
 - Montag, 31. Juli 2023 13:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690804080/143/
-- Montag, 31. Juli 2023 14:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690805520/143/
 - Montag, 31. Juli 2023 14:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690806240/143/
 - Montag, 31. Juli 2023 14:36 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690806960/143/
 - Montag, 31. Juli 2023 14:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690807680/143/
@@ -23,9 +20,7 @@
 - Donnerstag, 3. August 2023 09:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1691046000/108/
 - Donnerstag, 3. August 2023 09:12 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1691046720/106/
 - Donnerstag, 3. August 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1691046720/108/
-- Donnerstag, 3. August 2023 09:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1691047440/106/
-- Donnerstag, 3. August 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1691047440/108/
-- Donnerstag, 3. August 2023 09:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1691048160/106/
+- Donnerstag, 3. August 2023 09:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1691047440/108/
 - Montag, 7. August 2023 08:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1691388720/172/
 - Montag, 7. August 2023 08:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1691389440/172/
 - Montag, 7. August 2023 08:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1691390160/231/
