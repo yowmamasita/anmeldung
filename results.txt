@@ -1,8 +1,5 @@
-- Dienstag, 25. Juli 2023 15:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1690290720/154/
-- Mittwoch, 26. Juli 2023 13:42 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1690371720/134/
 - Mittwoch, 26. Juli 2023 14:00 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690372800/2932/
 - Montag, 31. Juli 2023 10:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690793280/2857/
-- Dienstag, 1. August 2023 16:12 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690899120/2866/
 - Donnerstag, 3. August 2023 11:00 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691053200/2866/
 - Donnerstag, 3. August 2023 11:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691054640/2926/
 - Donnerstag, 3. August 2023 11:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691055360/3238/
