@@ -141,12 +141,12 @@
 - Donnerstag, 3. August 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1691061120/167/
 - Donnerstag, 3. August 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691061120/2860/
 - Donnerstag, 3. August 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691061120/2854/
-- Donnerstag, 3. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1691061120/154/
 - Donnerstag, 3. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691061120/2866/
 - Donnerstag, 3. August 2023 13:18 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1691061480/140/
 - Donnerstag, 3. August 2023 13:20 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691061600/2941/
 - Donnerstag, 3. August 2023 13:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1691061840/169/
 - Donnerstag, 3. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691061840/841/
+- Donnerstag, 3. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1691061840/154/
 - Donnerstag, 3. August 2023 13:40 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1691062800/148/
 - Donnerstag, 3. August 2023 14:00 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1691064000/147/
 - Donnerstag, 3. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691064000/841/
