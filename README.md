@@ -11,7 +11,6 @@
 - Dienstag, 1. August 2023 15:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690896960/168/
 - Dienstag, 1. August 2023 16:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690898400/168/
 - Dienstag, 1. August 2023 16:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690899840/168/
-- Dienstag, 1. August 2023 16:30 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1690900200/140/
 - Dienstag, 1. August 2023 16:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690900560/168/
 - Dienstag, 1. August 2023 16:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690901280/168/
 - Mittwoch, 2. August 2023 10:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690966440/2908/
