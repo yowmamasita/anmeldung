@@ -1,13 +1,11 @@
 # List of available Anmeldung appointments as of $NOW
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122254,122252,329742,122260,329745,122262,329748,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,317869,122281,327352,122279,329772,122283,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
 - Donnerstag, 8. Juni 2023 10:48 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1686214080/102/
-- Donnerstag, 8. Juni 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686214080/191/
 - Donnerstag, 8. Juni 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686214080/2875/
 - Donnerstag, 8. Juni 2023 11:00 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1686214800/102/
 - Donnerstag, 8. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686214800/2851/
 - Donnerstag, 8. Juni 2023 11:12 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1686215520/102/
 - Donnerstag, 8. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686215520/2851/
-- Donnerstag, 8. Juni 2023 11:24 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1686216240/102/
 - Donnerstag, 8. Juni 2023 11:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1686216600/150/
 - Donnerstag, 8. Juni 2023 11:36 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1686216960/102/
 - Donnerstag, 8. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686216960/2851/
@@ -17,17 +15,21 @@
 - Donnerstag, 8. Juni 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686217680/2875/
 - Donnerstag, 8. Juni 2023 11:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1686217800/150/
 - Donnerstag, 8. Juni 2023 12:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686218400/2851/
+- Donnerstag, 8. Juni 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686218400/191/
 - Donnerstag, 8. Juni 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1686218400/150/
 - Donnerstag, 8. Juni 2023 12:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1686219000/150/
 - Donnerstag, 8. Juni 2023 12:12 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1686219120/102/
 - Donnerstag, 8. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686219120/2851/
+- Donnerstag, 8. Juni 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686219120/191/
 - Donnerstag, 8. Juni 2023 12:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1686219600/150/
-- Donnerstag, 8. Juni 2023 12:24 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1686219840/102/
-- Donnerstag, 8. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686219840/2851/
+- Donnerstag, 8. Juni 2023 12:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686219840/2851/
+- Donnerstag, 8. Juni 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686219840/191/
 - Donnerstag, 8. Juni 2023 12:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1686220200/150/
 - Donnerstag, 8. Juni 2023 12:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686220560/2851/
+- Donnerstag, 8. Juni 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686220560/191/
 - Donnerstag, 8. Juni 2023 12:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1686220800/150/
 - Donnerstag, 8. Juni 2023 12:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686221280/2851/
+- Donnerstag, 8. Juni 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686221280/191/
 - Donnerstag, 8. Juni 2023 12:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1686221400/150/
 - Donnerstag, 8. Juni 2023 13:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686222000/2851/
 - Donnerstag, 8. Juni 2023 13:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1686222600/150/
@@ -42,9 +44,16 @@
 - Donnerstag, 8. Juni 2023 14:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686225600/2851/
 - Donnerstag, 8. Juni 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1686225600/150/
 - Donnerstag, 8. Juni 2023 14:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1686226200/150/
+- Donnerstag, 8. Juni 2023 14:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686226320/2851/
 - Donnerstag, 8. Juni 2023 14:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1686226800/150/
 - Donnerstag, 8. Juni 2023 14:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1686227400/150/
 - Donnerstag, 8. Juni 2023 14:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1686228000/150/
 - Donnerstag, 8. Juni 2023 14:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1686228600/150/
 - Donnerstag, 8. Juni 2023 15:00 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1686229200/150/
-- Donnerstag, 8. Juni 2023 15:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1686230400/150/
+- Donnerstag, 8. Juni 2023 16:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686232800/191/
+- Donnerstag, 8. Juni 2023 16:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686233520/191/
+- Donnerstag, 8. Juni 2023 16:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686234240/191/
+- Donnerstag, 8. Juni 2023 16:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686234960/191/
+- Donnerstag, 8. Juni 2023 16:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686235680/191/
+- Donnerstag, 8. Juni 2023 17:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686236400/191/
+- Donnerstag, 8. Juni 2023 17:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686237120/191/
