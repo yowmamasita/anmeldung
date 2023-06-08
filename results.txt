@@ -1,10 +1,10 @@
-- Donnerstag, 3. August 2023 08:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691042400/2848/
-- Donnerstag, 3. August 2023 08:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691044560/2845/
+- Montag, 31. Juli 2023 12:36 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690799760/143/
+- Montag, 31. Juli 2023 14:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690805520/143/
+- Donnerstag, 3. August 2023 08:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1691042400/106/
+- Donnerstag, 3. August 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691042400/2848/
+- Donnerstag, 3. August 2023 08:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1691043840/106/
 - Montag, 7. August 2023 09:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1691392320/172/
-- Montag, 7. August 2023 09:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1691393040/146/
-- Montag, 7. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1691393040/172/
+- Montag, 7. August 2023 09:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1691393040/172/
 - Montag, 7. August 2023 09:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1691393760/172/
-- Montag, 7. August 2023 09:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1691394480/231/
-- Montag, 7. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1691394480/172/
+- Montag, 7. August 2023 09:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1691394480/172/
 - Montag, 7. August 2023 10:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1691395920/146/
-- Montag, 7. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1691395920/172/
