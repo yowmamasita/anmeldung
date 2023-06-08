@@ -3,6 +3,8 @@
 - Donnerstag, 8. Juni 2023 16:12 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686233520/313/
 - Donnerstag, 8. Juni 2023 16:24 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686234240/313/
 - Donnerstag, 8. Juni 2023 16:36 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686234960/313/
+- Donnerstag, 8. Juni 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686234960/2863/
 - Donnerstag, 8. Juni 2023 16:48 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686235680/313/
 - Donnerstag, 8. Juni 2023 17:12 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686237120/313/
 - Donnerstag, 8. Juni 2023 17:24 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686237840/313/
+- Donnerstag, 8. Juni 2023 17:36 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686238560/313/
