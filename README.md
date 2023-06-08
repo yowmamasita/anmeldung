@@ -96,7 +96,6 @@
 - Donnerstag, 3. August 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691066160/2932/
 - Donnerstag, 3. August 2023 14:48 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1691066880/135/
 - Donnerstag, 3. August 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1691066880/313/
-- Donnerstag, 3. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1691066880/103/
 - Donnerstag, 3. August 2023 14:54 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1691067240/141/
 - Donnerstag, 3. August 2023 15:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1691067600/106/
 - Donnerstag, 3. August 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691067600/2845/
