@@ -12,18 +12,15 @@
 - Donnerstag, 8. Juni 2023 12:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1686219600/150/
 - Donnerstag, 8. Juni 2023 12:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686219840/2851/
 - Donnerstag, 8. Juni 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686219840/191/
-- Donnerstag, 8. Juni 2023 12:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1686220200/150/
 - Donnerstag, 8. Juni 2023 12:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686220560/2851/
 - Donnerstag, 8. Juni 2023 12:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686221280/2851/
 - Donnerstag, 8. Juni 2023 13:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686222720/2851/
 - Donnerstag, 8. Juni 2023 13:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686223440/2851/
 - Donnerstag, 8. Juni 2023 13:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1686223800/150/
 - Donnerstag, 8. Juni 2023 13:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686224160/2851/
-- Donnerstag, 8. Juni 2023 13:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1686224400/150/
 - Donnerstag, 8. Juni 2023 13:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686224880/2851/
-- Donnerstag, 8. Juni 2023 13:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1686225000/150/
+- Donnerstag, 8. Juni 2023 14:00 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1686225600/150/
 - Donnerstag, 8. Juni 2023 14:36 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686227760/2875/
-- Dienstag, 27. Juni 2023 07:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1687844880/153/
 - Dienstag, 27. Juni 2023 08:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1687846320/153/
 - Dienstag, 27. Juni 2023 08:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1687848480/153/
 - Dienstag, 27. Juni 2023 09:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1687849920/153/
