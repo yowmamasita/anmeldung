@@ -139,7 +139,6 @@
 - Donnerstag, 3. August 2023 15:20 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691068800/2941/
 - Donnerstag, 3. August 2023 15:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1691069040/153/
 - Donnerstag, 3. August 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1691069040/313/
-- Donnerstag, 3. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1691069040/191/
 - Donnerstag, 3. August 2023 15:40 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1691070000/149/
 - Donnerstag, 3. August 2023 15:48 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691070480/847/
 - Donnerstag, 3. August 2023 16:00 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1691071200/134/
