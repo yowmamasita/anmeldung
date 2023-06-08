@@ -57,7 +57,6 @@
 - Donnerstag, 3. August 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1691052480/192/
 - Donnerstag, 3. August 2023 10:50 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1691052600/151/
 - Donnerstag, 3. August 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1691052600/149/
-- Donnerstag, 3. August 2023 10:54 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1691052840/141/
 - Donnerstag, 3. August 2023 11:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691053200/2845/
 - Donnerstag, 3. August 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691053200/2908/
 - Donnerstag, 3. August 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691053200/2911/
