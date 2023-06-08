@@ -27,13 +27,11 @@
 - Donnerstag, 3. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691052120/2839/
 - Donnerstag, 3. August 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1691052120/153/
 - Donnerstag, 3. August 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691052120/2932/
-- Donnerstag, 3. August 2023 10:54 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1691052840/141/
-- Donnerstag, 3. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691052840/2836/
+- Donnerstag, 3. August 2023 10:54 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691052840/2836/
 - Donnerstag, 3. August 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1691052840/140/
 - Donnerstag, 3. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691052840/2839/
 - Donnerstag, 3. August 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1691052840/153/
 - Donnerstag, 3. August 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691052840/2932/
-- Donnerstag, 3. August 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1691052840/142/
 - Donnerstag, 3. August 2023 11:06 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1691053560/141/
 - Donnerstag, 3. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691053560/2836/
 - Donnerstag, 3. August 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1691053560/140/
