@@ -27,5 +27,4 @@
 - Mittwoch, 14. Juni 2023 08:54 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686725640/847/
 - Donnerstag, 22. Juni 2023 15:24 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687440240/2911/
 - Mittwoch, 12. Juli 2023 10:40 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689151200/2923/
-- Donnerstag, 20. Juli 2023 12:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689850080/154/
 - Freitag, 21. Juli 2023 09:48 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689925680/103/
