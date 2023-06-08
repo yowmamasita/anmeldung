@@ -8,6 +8,7 @@
 - Donnerstag, 8. Juni 2023 11:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686215520/136/
 - Donnerstag, 8. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686215520/2914/
 - Donnerstag, 8. Juni 2023 11:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686216240/136/
+- Donnerstag, 8. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686216240/2914/
 - Donnerstag, 8. Juni 2023 11:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686216960/136/
 - Donnerstag, 8. Juni 2023 11:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686217680/136/
 - Donnerstag, 8. Juni 2023 12:00 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686218400/136/
@@ -29,8 +30,6 @@
 - Donnerstag, 8. Juni 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686230640/2872/
 - Donnerstag, 8. Juni 2023 15:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686231360/136/
 - Donnerstag, 8. Juni 2023 15:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686232080/136/
-- Donnerstag, 8. Juni 2023 16:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686233520/136/
-- Donnerstag, 8. Juni 2023 16:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686234240/136/
 - Donnerstag, 8. Juni 2023 16:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686234960/136/
 - Donnerstag, 8. Juni 2023 17:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686237840/136/
 - Donnerstag, 8. Juni 2023 17:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686238560/136/
