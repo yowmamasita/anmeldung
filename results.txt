@@ -1,4 +1,3 @@
-- Dienstag, 1. August 2023 10:00 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1690876800/136/
 - Dienstag, 1. August 2023 12:12 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690884720/904/
 - Donnerstag, 3. August 2023 09:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1691047440/154/
 - Donnerstag, 3. August 2023 12:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691057520/2857/
@@ -16,9 +15,9 @@
 - Donnerstag, 3. August 2023 13:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691061120/2908/
 - Donnerstag, 3. August 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691061120/2857/
 - Donnerstag, 3. August 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691061120/3238/
-- Donnerstag, 3. August 2023 13:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691061840/922/
 - Donnerstag, 3. August 2023 13:30 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691062200/2941/
 - Donnerstag, 3. August 2023 13:36 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691062560/841/
+- Donnerstag, 3. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691062560/922/
 - Donnerstag, 3. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691062560/2866/
 - Donnerstag, 3. August 2023 13:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691062920/2839/
 - Donnerstag, 3. August 2023 13:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691063280/2848/
