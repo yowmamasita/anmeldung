@@ -5,5 +5,3 @@
 - Donnerstag, 8. Juni 2023 12:36 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686220560/2908/
 - Donnerstag, 8. Juni 2023 15:00 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686229200/109/
 - Donnerstag, 8. Juni 2023 15:12 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686229920/2911/
-- Donnerstag, 8. Juni 2023 16:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686234240/109/
-- Mittwoch, 5. Juli 2023 13:12 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688555520/2893/
