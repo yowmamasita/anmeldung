@@ -19,5 +19,4 @@
 - Freitag, 9. Juni 2023 11:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686302640/168/
 - Freitag, 9. Juni 2023 11:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686303360/168/
 - Freitag, 9. Juni 2023 11:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686304080/168/
-- Mittwoch, 12. Juli 2023 10:40 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689151200/2923/
 - Montag, 31. Juli 2023 10:00 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690790400/2887/
