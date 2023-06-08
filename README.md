@@ -5,8 +5,8 @@
 - Donnerstag, 8. Juni 2023 11:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1686216240/170/
 - Donnerstag, 8. Juni 2023 11:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1686216960/170/
 - Donnerstag, 8. Juni 2023 11:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1686217680/170/
-- Donnerstag, 8. Juni 2023 12:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1686218400/170/
-- Donnerstag, 8. Juni 2023 12:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1686219120/170/
+- Donnerstag, 8. Juni 2023 12:12 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686219120/2875/
+- Donnerstag, 8. Juni 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1686219120/170/
 - Donnerstag, 8. Juni 2023 12:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1686219840/170/
 - Donnerstag, 8. Juni 2023 12:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1686220560/170/
 - Donnerstag, 8. Juni 2023 12:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1686221280/170/
@@ -15,7 +15,6 @@
 - Donnerstag, 8. Juni 2023 13:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1686223440/170/
 - Donnerstag, 8. Juni 2023 13:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1686224160/170/
 - Donnerstag, 8. Juni 2023 13:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1686224880/170/
-- Donnerstag, 8. Juni 2023 14:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1686225600/170/
 - Donnerstag, 8. Juni 2023 14:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1686226320/170/
 - Donnerstag, 8. Juni 2023 14:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1686227040/170/
 - Donnerstag, 8. Juni 2023 14:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1686227760/170/
@@ -26,5 +25,3 @@
 - Donnerstag, 8. Juni 2023 15:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1686231360/170/
 - Donnerstag, 8. Juni 2023 15:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1686232080/170/
 - Donnerstag, 8. Juni 2023 16:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1686233520/170/
-- Donnerstag, 8. Juni 2023 16:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1686234240/170/
-- Donnerstag, 8. Juni 2023 16:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1686234960/170/
