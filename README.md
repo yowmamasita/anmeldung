@@ -11,10 +11,8 @@
 - Donnerstag, 8. Juni 2023 13:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686223440/2845/
 - Donnerstag, 8. Juni 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1686223440/190/
 - Donnerstag, 8. Juni 2023 13:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686224160/2845/
-- Donnerstag, 8. Juni 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1686224160/172/
 - Donnerstag, 8. Juni 2023 13:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686224880/2845/
 - Donnerstag, 8. Juni 2023 14:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686225600/2845/
 - Donnerstag, 8. Juni 2023 14:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686226320/2845/
 - Donnerstag, 8. Juni 2023 14:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686227040/2845/
-- Donnerstag, 8. Juni 2023 15:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1686230640/167/
-- Donnerstag, 8. Juni 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686230640/2860/
+- Donnerstag, 13. Juli 2023 16:00 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1689256800/190/
