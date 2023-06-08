@@ -31,9 +31,8 @@
 - Donnerstag, 8. Juni 2023 15:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686231360/2851/
 - Donnerstag, 8. Juni 2023 15:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686232080/2851/
 - Donnerstag, 8. Juni 2023 16:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686232800/2851/
+- Donnerstag, 8. Juni 2023 16:12 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1686233520/134/
 - Donnerstag, 8. Juni 2023 16:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686234240/2851/
 - Donnerstag, 8. Juni 2023 16:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686234960/2851/
 - Donnerstag, 8. Juni 2023 16:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686235680/2851/
-- Donnerstag, 8. Juni 2023 17:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686238560/2851/
 - Donnerstag, 8. Juni 2023 17:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686239280/2851/
-- Dienstag, 25. Juli 2023 10:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690273440/3238/
