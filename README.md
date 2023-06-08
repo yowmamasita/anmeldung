@@ -9,6 +9,5 @@
 - Donnerstag, 8. Juni 2023 13:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1686224160/167/
 - Donnerstag, 8. Juni 2023 13:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686224880/2857/
 - Donnerstag, 8. Juni 2023 14:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686226320/2899/
-- Donnerstag, 8. Juni 2023 15:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686230640/3238/
 - Donnerstag, 8. Juni 2023 16:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686234960/2857/
 - Donnerstag, 8. Juni 2023 17:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1686237840/167/
