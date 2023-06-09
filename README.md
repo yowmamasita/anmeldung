@@ -9,7 +9,6 @@
 - Freitag, 9. Juni 2023 08:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686291840/2851/
 - Freitag, 9. Juni 2023 08:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686292560/3238/
 - Freitag, 9. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686292560/2851/
-- Freitag, 9. Juni 2023 08:50 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686293400/2842/
 - Freitag, 9. Juni 2023 09:00 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686294000/2842/
 - Freitag, 9. Juni 2023 09:10 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686294600/2842/
 - Freitag, 9. Juni 2023 09:20 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686295200/2842/
@@ -31,7 +30,6 @@
 - Freitag, 9. Juni 2023 11:40 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686303600/2842/
 - Freitag, 9. Juni 2023 11:50 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686304200/2842/
 - Freitag, 9. Juni 2023 12:10 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686305400/2842/
-- Freitag, 9. Juni 2023 12:20 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686306000/2842/
 - Freitag, 9. Juni 2023 13:00 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686308400/2842/
 - Freitag, 9. Juni 2023 13:10 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686309000/2842/
 - Freitag, 9. Juni 2023 13:20 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686309600/2842/
