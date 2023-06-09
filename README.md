@@ -3,4 +3,3 @@
 - Montag, 12. Juni 2023 09:24 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686554640/2866/
 - Montag, 12. Juni 2023 09:36 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686555360/2866/
 - Montag, 12. Juni 2023 09:48 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686556080/2866/
-- Montag, 12. Juni 2023 10:36 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686558960/2866/
