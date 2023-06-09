@@ -5,7 +5,6 @@
 - Freitag, 9. Juni 2023 08:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686290760/2908/
 - Freitag, 9. Juni 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1686290760/312/
 - Freitag, 9. Juni 2023 08:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686291480/2908/
-- Freitag, 9. Juni 2023 08:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686291840/2896/
 - Freitag, 9. Juni 2023 08:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686292200/2908/
 - Freitag, 9. Juni 2023 08:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686292560/2896/
 - Freitag, 9. Juni 2023 08:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686292920/2908/
@@ -43,6 +42,5 @@
 - Freitag, 9. Juni 2023 11:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686303720/2908/
 - Freitag, 9. Juni 2023 11:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686304080/231/
 - Freitag, 9. Juni 2023 11:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686304440/2908/
-- Freitag, 9. Juni 2023 12:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686304800/231/
 - Freitag, 9. Juni 2023 12:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686305520/231/
 - Freitag, 9. Juni 2023 12:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686306240/231/
