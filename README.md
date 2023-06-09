@@ -3,3 +3,4 @@
 - Freitag, 9. Juni 2023 09:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686296520/112/
 - Freitag, 9. Juni 2023 09:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686297000/2923/
 - Freitag, 9. Juni 2023 10:06 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686297960/904/
+- Freitag, 9. Juni 2023 10:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686298320/2899/
