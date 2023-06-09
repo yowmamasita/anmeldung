@@ -3,12 +3,10 @@
 - Montag, 12. Juni 2023 08:00 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686549600/2866/
 - Montag, 12. Juni 2023 08:12 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686550320/2866/
 - Montag, 12. Juni 2023 08:24 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686551040/2866/
-- Montag, 12. Juni 2023 08:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686551760/168/
-- Montag, 12. Juni 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686551760/2866/
+- Montag, 12. Juni 2023 08:36 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686551760/2866/
 - Montag, 12. Juni 2023 08:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686552480/168/
 - Montag, 12. Juni 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686552480/2866/
-- Montag, 12. Juni 2023 09:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686553200/168/
-- Montag, 12. Juni 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686553200/2866/
+- Montag, 12. Juni 2023 09:00 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686553200/2866/
 - Montag, 12. Juni 2023 09:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686553920/168/
 - Montag, 12. Juni 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686553920/2866/
 - Montag, 12. Juni 2023 09:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686554640/168/
