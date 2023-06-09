@@ -36,12 +36,12 @@
 - Freitag, 4. August 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691134200/2884/
 - Freitag, 4. August 2023 09:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691134560/2845/
 - Freitag, 4. August 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691134560/2887/
-- Freitag, 4. August 2023 09:40 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691134800/2878/
-- Freitag, 4. August 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1691134800/150/
+- Freitag, 4. August 2023 09:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1691134800/150/
 - Freitag, 4. August 2023 09:42 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691134920/844/
 - Freitag, 4. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691134920/904/
 - Freitag, 4. August 2023 09:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1691135280/190/
-- Freitag, 4. August 2023 09:50 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1691135400/149/
+- Freitag, 4. August 2023 09:50 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691135400/2878/
+- Freitag, 4. August 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1691135400/149/
 - Freitag, 4. August 2023 10:00 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1691136000/380/
 - Freitag, 4. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691136000/2836/
 - Freitag, 4. August 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691136000/2887/
