@@ -3,7 +3,6 @@
 - Freitag, 9. Juni 2023 07:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686288240/2851/
 - Freitag, 9. Juni 2023 07:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686288960/2851/
 - Freitag, 9. Juni 2023 07:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686289680/2851/
-- Freitag, 9. Juni 2023 08:00 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686290400/2842/
 - Freitag, 9. Juni 2023 08:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686291120/2851/
 - Freitag, 9. Juni 2023 08:20 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686291600/2842/
 - Freitag, 9. Juni 2023 08:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686291840/2851/
@@ -32,4 +31,3 @@
 - Freitag, 9. Juni 2023 12:10 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686305400/2842/
 - Freitag, 9. Juni 2023 12:20 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686306000/2842/
 - Freitag, 9. Juni 2023 13:10 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686309000/2842/
-- Freitag, 9. Juni 2023 13:20 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686309600/2842/
