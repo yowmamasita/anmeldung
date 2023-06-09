@@ -1,9 +1,10 @@
+- Freitag, 9. Juni 2023 09:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686296520/112/
+- Freitag, 9. Juni 2023 11:54 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686304440/841/
 - Montag, 19. Juni 2023 09:48 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687160880/2932/
 - Montag, 19. Juni 2023 10:06 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687161960/154/
 - Montag, 19. Juni 2023 10:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687162320/2932/
 - Montag, 19. Juni 2023 10:48 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687164480/2932/
 - Montag, 19. Juni 2023 11:00 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687165200/2932/
-- Montag, 19. Juni 2023 11:06 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687165560/154/
 - Montag, 19. Juni 2023 11:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687165920/2932/
 - Montag, 19. Juni 2023 11:18 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687166280/154/
 - Montag, 19. Juni 2023 11:24 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687166640/2932/
@@ -15,3 +16,4 @@
 - Montag, 19. Juni 2023 12:42 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687171320/154/
 - Montag, 19. Juni 2023 12:48 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687171680/2932/
 - Montag, 19. Juni 2023 12:54 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687172040/154/
+- Montag, 19. Juni 2023 13:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687173120/2932/
