@@ -1,8 +1,5 @@
-- Montag, 12. Juni 2023 09:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686555720/313/
 - Montag, 12. Juni 2023 09:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686556440/313/
-- Montag, 12. Juni 2023 10:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686557160/313/
 - Montag, 12. Juni 2023 10:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686557880/313/
-- Montag, 12. Juni 2023 10:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686559320/313/
 - Montag, 12. Juni 2023 10:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686560040/313/
 - Montag, 12. Juni 2023 11:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686562920/313/
 - Montag, 12. Juni 2023 11:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686563640/313/
@@ -10,5 +7,3 @@
 - Montag, 12. Juni 2023 12:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686565080/313/
 - Montag, 12. Juni 2023 12:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686565800/313/
 - Montag, 12. Juni 2023 12:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686566520/313/
-- Montag, 12. Juni 2023 12:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686567240/313/
-- Montag, 12. Juni 2023 13:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686570840/313/
