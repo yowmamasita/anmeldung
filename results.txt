@@ -1,5 +1,4 @@
-- Donnerstag, 3. August 2023 11:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1691053200/168/
-- Donnerstag, 3. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1691053200/191/
+- Donnerstag, 3. August 2023 11:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1691053200/191/
 - Donnerstag, 3. August 2023 11:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1691054640/168/
 - Donnerstag, 3. August 2023 11:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1691055360/168/
 - Donnerstag, 3. August 2023 11:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1691056080/168/
