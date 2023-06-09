@@ -149,8 +149,7 @@
 - Freitag, 4. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691140680/2839/
 - Freitag, 4. August 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1691140680/312/
 - Freitag, 4. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691140680/847/
-- Freitag, 4. August 2023 11:24 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1691141040/102/
-- Freitag, 4. August 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1691141040/167/
+- Freitag, 4. August 2023 11:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1691141040/167/
 - Freitag, 4. August 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1691141040/153/
 - Freitag, 4. August 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1691141040/192/
 - Freitag, 4. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691141040/2866/
