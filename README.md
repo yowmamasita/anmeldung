@@ -23,7 +23,6 @@
 - Dienstag, 1. August 2023 14:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690894080/231/
 - Dienstag, 1. August 2023 15:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690895520/231/
 - Mittwoch, 2. August 2023 11:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690967520/168/
-- Donnerstag, 3. August 2023 12:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1691057520/191/
 - Donnerstag, 3. August 2023 13:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691063280/2845/
 - Freitag, 4. August 2023 07:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691128080/3238/
 - Freitag, 4. August 2023 07:54 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691128440/904/
@@ -211,7 +210,6 @@
 - Dienstag, 8. August 2023 12:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1691488800/231/
 - Dienstag, 8. August 2023 12:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1691489520/231/
 - Dienstag, 8. August 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1691489520/146/
-- Dienstag, 8. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1691489520/172/
 - Dienstag, 8. August 2023 12:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1691490240/231/
 - Dienstag, 8. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1691490240/172/
 - Dienstag, 8. August 2023 12:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1691490960/231/
