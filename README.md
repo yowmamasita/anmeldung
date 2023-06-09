@@ -21,8 +21,6 @@
 - Freitag, 9. Juni 2023 10:30 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686299400/112/
 - Freitag, 9. Juni 2023 10:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686300120/112/
 - Freitag, 9. Juni 2023 10:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686300840/112/
-- Freitag, 9. Juni 2023 11:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1686302640/172/
-- Freitag, 9. Juni 2023 11:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686303360/231/
 - Freitag, 9. Juni 2023 11:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686303720/112/
 - Freitag, 9. Juni 2023 11:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686304440/112/
 - Freitag, 9. Juni 2023 12:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686305880/112/
