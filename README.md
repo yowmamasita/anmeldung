@@ -4,7 +4,6 @@
 - Montag, 12. Juni 2023 10:30 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686558600/2938/
 - Montag, 12. Juni 2023 10:42 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686559320/2938/
 - Montag, 12. Juni 2023 10:54 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686560040/2938/
-- Montag, 12. Juni 2023 11:06 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686560760/2938/
 - Montag, 12. Juni 2023 11:18 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686561480/2938/
 - Montag, 12. Juni 2023 11:30 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686562200/2938/
 - Montag, 12. Juni 2023 11:42 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686562920/2938/
@@ -17,4 +16,3 @@
 - Montag, 12. Juni 2023 14:24 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686572640/2938/
 - Montag, 12. Juni 2023 14:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686573360/2938/
 - Montag, 12. Juni 2023 14:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686574080/2938/
-- Montag, 12. Juni 2023 15:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686576960/2938/
