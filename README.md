@@ -7,7 +7,6 @@
 - Dienstag, 4. Juli 2023 13:24 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688469840/2893/
 - Dienstag, 4. Juli 2023 13:36 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688470560/2893/
 - Dienstag, 4. Juli 2023 13:48 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688471280/2893/
-- Dienstag, 4. Juli 2023 14:24 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688473440/2893/
 - Dienstag, 25. Juli 2023 10:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690273440/231/
 - Dienstag, 25. Juli 2023 10:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690274160/231/
 - Dienstag, 25. Juli 2023 10:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690274880/231/
