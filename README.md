@@ -6,7 +6,6 @@
 - Freitag, 9. Juni 2023 08:12 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1686291120/102/
 - Freitag, 9. Juni 2023 08:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686291480/112/
 - Freitag, 9. Juni 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1686291480/312/
-- Freitag, 9. Juni 2023 08:24 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1686291840/102/
 - Freitag, 9. Juni 2023 08:30 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1686292200/134/
 - Freitag, 9. Juni 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686292200/2908/
 - Freitag, 9. Juni 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686292200/112/
@@ -24,7 +23,6 @@
 - Freitag, 9. Juni 2023 09:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686297240/112/
 - Freitag, 9. Juni 2023 10:00 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1686297600/102/
 - Freitag, 9. Juni 2023 10:06 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686297960/112/
-- Freitag, 9. Juni 2023 10:12 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1686298320/102/
 - Freitag, 9. Juni 2023 10:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686298680/112/
 - Freitag, 9. Juni 2023 10:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686300120/112/
 - Freitag, 9. Juni 2023 11:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686304440/112/
