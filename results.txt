@@ -1,8 +1,3 @@
-- Freitag, 9. Juni 2023 10:06 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686297960/904/
-- Montag, 19. Juni 2023 11:42 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687167720/154/
-- Montag, 19. Juni 2023 12:54 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687172040/154/
-- Montag, 19. Juni 2023 13:48 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687175280/2932/
-- Mittwoch, 5. Juli 2023 10:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688544720/2872/
 - Mittwoch, 12. Juli 2023 09:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1689145560/136/
 - Dienstag, 18. Juli 2023 16:48 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689691680/103/
 - Mittwoch, 19. Juli 2023 07:54 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689746040/2887/
