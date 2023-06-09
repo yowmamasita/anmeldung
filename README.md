@@ -9,6 +9,7 @@
 - Freitag, 4. August 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691126640/2854/
 - Freitag, 4. August 2023 07:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691127360/3238/
 - Freitag, 4. August 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691127360/2854/
+- Freitag, 4. August 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1691127360/145/
 - Freitag, 4. August 2023 07:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691128080/3238/
 - Freitag, 4. August 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691128080/2854/
 - Freitag, 4. August 2023 08:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691128800/3238/
