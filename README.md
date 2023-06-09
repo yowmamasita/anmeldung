@@ -8,3 +8,4 @@
 - Freitag, 9. Juni 2023 09:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686294000/231/
 - Freitag, 9. Juni 2023 09:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686294720/2845/
 - Freitag, 9. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686294720/231/
+- Freitag, 9. Juni 2023 09:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686295440/231/
