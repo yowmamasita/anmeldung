@@ -5,4 +5,3 @@
 - Mittwoch, 21. Juni 2023 11:42 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687340520/2887/
 - Mittwoch, 21. Juni 2023 12:30 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687343400/922/
 - Mittwoch, 21. Juni 2023 13:30 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687347000/2887/
-- Mittwoch, 26. Juli 2023 10:18 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1690359480/192/
