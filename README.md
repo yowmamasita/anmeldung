@@ -93,6 +93,7 @@
 - Freitag, 4. August 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1691142480/381/
 - Freitag, 4. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691142480/2938/
 - Freitag, 4. August 2023 11:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691142840/2914/
+- Freitag, 4. August 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691142840/844/
 - Freitag, 4. August 2023 12:00 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1691143200/380/
 - Freitag, 4. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691143200/2836/
 - Freitag, 4. August 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691143200/2878/
@@ -138,7 +139,6 @@
 - Dienstag, 8. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1691506800/172/
 - Dienstag, 8. August 2023 17:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1691507520/146/
 - Dienstag, 8. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1691507520/172/
-- Dienstag, 8. August 2023 17:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1691508240/146/
-- Dienstag, 8. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1691508240/172/
+- Dienstag, 8. August 2023 17:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1691508240/172/
 - Dienstag, 8. August 2023 17:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1691508960/146/
 - Dienstag, 8. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1691508960/172/
