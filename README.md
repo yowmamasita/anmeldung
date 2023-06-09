@@ -15,7 +15,6 @@
 - Freitag, 9. Juni 2023 09:40 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686296400/2842/
 - Freitag, 9. Juni 2023 09:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686296880/2851/
 - Freitag, 9. Juni 2023 09:50 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686297000/2842/
-- Freitag, 9. Juni 2023 10:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686297600/2851/
 - Freitag, 9. Juni 2023 10:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686298320/2851/
 - Freitag, 9. Juni 2023 10:20 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686298800/2842/
 - Freitag, 9. Juni 2023 10:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686299760/2851/
@@ -26,7 +25,6 @@
 - Freitag, 9. Juni 2023 11:10 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686301800/2842/
 - Freitag, 9. Juni 2023 11:20 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686302400/2842/
 - Freitag, 9. Juni 2023 11:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686302640/2851/
-- Freitag, 9. Juni 2023 11:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686303360/2851/
 - Freitag, 9. Juni 2023 11:50 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686304200/2842/
 - Freitag, 9. Juni 2023 12:10 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686305400/2842/
 - Freitag, 9. Juni 2023 12:20 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686306000/2842/
