@@ -49,7 +49,6 @@
 - Montag, 19. Juni 2023 13:36 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687174560/2932/
 - Montag, 19. Juni 2023 13:48 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687175280/2932/
 - Montag, 19. Juni 2023 14:00 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687176000/2932/
-- Montag, 19. Juni 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687176000/154/
 - Montag, 19. Juni 2023 14:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687176720/2932/
 - Montag, 19. Juni 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687176720/154/
 - Montag, 19. Juni 2023 14:24 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687177440/2932/
@@ -61,4 +60,3 @@
 - Montag, 19. Juni 2023 15:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687181040/154/
 - Montag, 19. Juni 2023 15:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687181760/154/
 - Montag, 19. Juni 2023 15:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687182480/154/
-- Montag, 19. Juni 2023 16:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687184640/154/
