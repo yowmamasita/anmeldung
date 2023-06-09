@@ -8,4 +8,3 @@
 - Dienstag, 13. Juni 2023 15:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686662640/922/
 - Montag, 26. Juni 2023 11:24 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687771440/2875/
 - Dienstag, 27. Juni 2023 12:36 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687862160/2893/
-- Dienstag, 11. Juli 2023 17:36 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689089760/844/
