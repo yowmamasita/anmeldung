@@ -15,6 +15,7 @@
 - Freitag, 9. Juni 2023 08:48 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1686293280/102/
 - Freitag, 9. Juni 2023 08:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686293640/112/
 - Freitag, 9. Juni 2023 09:00 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1686294000/102/
+- Freitag, 9. Juni 2023 09:06 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686294360/112/
 - Freitag, 9. Juni 2023 09:12 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1686294720/102/
 - Freitag, 9. Juni 2023 09:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686295080/112/
 - Freitag, 9. Juni 2023 09:24 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1686295440/102/
@@ -31,4 +32,3 @@
 - Freitag, 9. Juni 2023 10:36 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1686299760/102/
 - Freitag, 9. Juni 2023 10:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686300120/112/
 - Freitag, 9. Juni 2023 10:48 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1686300480/102/
-- Freitag, 9. Juni 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1686300480/170/
