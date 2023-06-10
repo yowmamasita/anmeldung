@@ -4,4 +4,3 @@
 - Montag, 12. Juni 2023 15:36 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686576960/2839/
 - Montag, 12. Juni 2023 15:48 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686577680/2839/
 - Mittwoch, 19. Juli 2023 08:40 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689748800/2881/
-- Mittwoch, 19. Juli 2023 14:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1689770880/172/
