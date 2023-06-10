@@ -32,7 +32,8 @@
 - Mittwoch, 2. August 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690963920/2851/
 - Mittwoch, 2. August 2023 10:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690964640/143/
 - Mittwoch, 2. August 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690964640/2851/
-- Mittwoch, 2. August 2023 10:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690965360/2851/
+- Mittwoch, 2. August 2023 10:36 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690965360/143/
+- Mittwoch, 2. August 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690965360/2851/
 - Mittwoch, 2. August 2023 10:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690966080/143/
 - Mittwoch, 2. August 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690966080/2851/
 - Mittwoch, 2. August 2023 11:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690966800/2851/
@@ -63,4 +64,3 @@
 - Mittwoch, 2. August 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690977600/2851/
 - Mittwoch, 2. August 2023 14:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690978320/143/
 - Mittwoch, 2. August 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690978320/2851/
-- Freitag, 4. August 2023 07:24 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1691126640/145/
