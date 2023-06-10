@@ -21,4 +21,3 @@
 - Mittwoch, 9. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1691584560/172/
 - Mittwoch, 9. August 2023 14:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1691585280/231/
 - Mittwoch, 9. August 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1691585280/146/
-- Mittwoch, 9. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1691585280/172/
