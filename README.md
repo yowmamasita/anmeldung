@@ -4,4 +4,3 @@
 - Dienstag, 13. Juni 2023 14:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1686657600/192/
 - Dienstag, 13. Juni 2023 14:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686659040/168/
 - Dienstag, 13. Juni 2023 14:30 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1686659400/147/
-- Mittwoch, 14. Juni 2023 08:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686723120/143/
