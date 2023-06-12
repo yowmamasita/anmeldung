@@ -20,12 +20,12 @@
 - Montag, 7. August 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691388720/3238/
 - Montag, 7. August 2023 08:18 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691389080/844/
 - Montag, 7. August 2023 08:20 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691389200/2941/
+- Montag, 7. August 2023  Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1691389200/148/
 - Montag, 7. August 2023 08:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691389440/2845/
 - Montag, 7. August 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1691389440/140/
 - Montag, 7. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691389440/2926/
 - Montag, 7. August 2023 08:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1691389800/136/
 - Montag, 7. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691389800/841/
-- Montag, 7. August 2023  Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1691389800/148/
 - Montag, 7. August 2023 08:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1691390160/190/
 - Montag, 7. August 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691390160/2854/
 - Montag, 7. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691390160/922/
@@ -108,7 +108,6 @@
 - Montag, 7. August 2023 10:50 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691398200/2941/
 - Montag, 7. August 2023 11:00 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1691398800/140/
 - Montag, 7. August 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691398800/3238/
-- Montag, 7. August 2023  Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1691398800/148/
 - Montag, 7. August 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691398800/2881/
 - Montag, 7. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691398800/922/
 - Montag, 7. August 2023 11:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691399160/2908/
@@ -117,7 +116,8 @@
 - Montag, 7. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691399160/847/
 - Montag, 7. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1691399160/154/
 - Montag, 7. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691399160/2938/
-- Montag, 7. August 2023 11:10 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1691399400/149/
+- Montag, 7. August 2023 11:10 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1691399400/148/
+- Montag, 7. August 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1691399400/149/
 - Montag, 7. August 2023 11:12 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1691399520/141/
 - Montag, 7. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691399520/2836/
 - Montag, 7. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691399520/2839/
