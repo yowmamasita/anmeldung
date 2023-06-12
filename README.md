@@ -177,8 +177,7 @@
 - Montag, 7. August 2023 14:30 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691411400/841/
 - Montag, 7. August 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691411400/2878/
 - Montag, 7. August 2023 14:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1691412000/150/
-- Montag, 7. August 2023 15:00 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1691413200/141/
-- Montag, 7. August 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1691413200/140/
+- Montag, 7. August 2023 15:00 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1691413200/140/
 - Montag, 7. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691413200/2839/
 - Montag, 7. August 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1691413200/149/
 - Montag, 7. August 2023 15:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691413800/2941/
