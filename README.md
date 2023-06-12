@@ -66,11 +66,11 @@
 - Montag, 7. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691410320/2866/
 - Montag, 7. August 2023 14:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691410680/2914/
 - Montag, 7. August 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1691410680/111/
-- Montag, 7. August 2023 14:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1691411040/381/
-- Montag, 7. August 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691411040/2932/
+- Montag, 7. August 2023 14:24 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691411040/2932/
 - Montag, 7. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691411040/922/
 - Montag, 7. August 2023 14:36 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1691411760/134/
 - Montag, 7. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691411760/2836/
+- Montag, 7. August 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1691411760/381/
 - Montag, 7. August 2023 15:00 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691413200/2908/
 - Montag, 7. August 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1691413200/381/
 - Montag, 7. August 2023 15:06 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691413560/2911/
