@@ -3,4 +3,3 @@
 - Montag, 12. Juni 2023 08:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686552480/2887/
 - Montag, 12. Juni 2023 08:54 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686552840/844/
 - Montag, 12. Juni 2023 09:12 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686553920/2887/
-- Dienstag, 13. Juni 2023 12:00 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686650400/313/
