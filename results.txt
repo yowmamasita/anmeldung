@@ -16,7 +16,6 @@
 - Montag, 7. August 2023 10:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691397720/2911/
 - Montag, 7. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691397720/847/
 - Montag, 7. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691397720/904/
-- Montag, 7. August 2023 10:50 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691398200/2881/
 - Montag, 7. August 2023 11:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691398800/2926/
 - Montag, 7. August 2023 11:06 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691399160/844/
 - Montag, 7. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691399160/904/
@@ -64,7 +63,7 @@
 - Montag, 7. August 2023 13:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691407080/109/
 - Montag, 7. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691407080/841/
 - Montag, 7. August 2023 13:30 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691407800/2881/
-- Montag, 7. August 2023 13:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1691408160/191/
+- Montag, 7. August 2023 13:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1691408880/191/
 - Montag, 7. August 2023 14:00 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1691409600/140/
 - Montag, 7. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691409600/2839/
 - Montag, 7. August 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691409600/2887/
