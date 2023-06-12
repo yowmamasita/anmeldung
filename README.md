@@ -12,8 +12,6 @@
 - Montag, 12. Juni 2023 10:24 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686558240/2842/
 - Montag, 12. Juni 2023 10:36 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686558960/2842/
 - Montag, 12. Juni 2023 10:48 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686559680/2842/
-- Montag, 12. Juni 2023 11:12 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686561120/2842/
-- Montag, 12. Juni 2023 11:24 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686561840/2842/
 - Montag, 12. Juni 2023 11:36 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686562560/2842/
 - Montag, 12. Juni 2023 11:48 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686563280/2842/
 - Montag, 12. Juni 2023 12:12 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686564720/2842/
