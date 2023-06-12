@@ -3,8 +3,7 @@
 - Freitag, 4. August 2023 07:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691125920/2851/
 - Freitag, 4. August 2023 07:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691126640/143/
 - Freitag, 4. August 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691126640/2851/
-- Freitag, 4. August 2023 07:36 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691127360/143/
-- Freitag, 4. August 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691127360/2851/
+- Freitag, 4. August 2023 07:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691127360/2851/
 - Freitag, 4. August 2023 07:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691128080/143/
 - Freitag, 4. August 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691128080/2851/
 - Freitag, 4. August 2023 08:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691128800/2851/
@@ -15,7 +14,6 @@
 - Freitag, 4. August 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691130960/2851/
 - Freitag, 4. August 2023 08:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691131680/2851/
 - Freitag, 4. August 2023 09:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691132400/2851/
-- Freitag, 4. August 2023 09:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691133120/2851/
 - Freitag, 4. August 2023 09:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691133840/143/
 - Freitag, 4. August 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691133840/2851/
 - Freitag, 4. August 2023 09:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691134560/2851/
