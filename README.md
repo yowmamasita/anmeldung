@@ -46,7 +46,8 @@
 - Montag, 12. Juni 2023 13:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1686569040/192/
 - Montag, 12. Juni 2023 13:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1686569760/192/
 - Montag, 12. Juni 2023 13:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1686570480/192/
-- Montag, 12. Juni 2023 14:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1686571200/192/
+- Montag, 12. Juni 2023 14:00 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686571200/922/
+- Montag, 12. Juni 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1686571200/192/
 - Montag, 12. Juni 2023 14:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686571920/3238/
 - Montag, 12. Juni 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1686571920/192/
 - Montag, 12. Juni 2023 14:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1686572640/192/
