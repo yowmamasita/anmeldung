@@ -128,7 +128,7 @@
 - Montag, 7. August 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691403120/2863/
 - Montag, 7. August 2023 12:18 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691403480/841/
 - Montag, 7. August 2023 12:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1691403840/141/
-- Montag, 7. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1691403840/191/
+- Montag, 7. August 2023 12:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1691404560/191/
 - Montag, 7. August 2023 12:40 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1691404800/148/
 - Montag, 7. August 2023 12:42 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691404920/847/
 - Montag, 7. August 2023 12:50 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691405400/2884/
