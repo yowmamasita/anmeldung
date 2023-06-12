@@ -12,12 +12,12 @@
 - Montag, 12. Juni 2023 12:36 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686566160/2866/
 - Montag, 12. Juni 2023 14:36 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686573360/2866/
 - Montag, 12. Juni 2023 14:48 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686574080/2866/
-- Dienstag, 13. Juni 2023 10:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686646080/191/
 - Dienstag, 13. Juni 2023 11:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686647520/191/
 - Dienstag, 13. Juni 2023 11:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686648240/191/
 - Dienstag, 13. Juni 2023 11:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686648960/191/
 - Mittwoch, 14. Juni 2023 08:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686722760/191/
 - Mittwoch, 14. Juni 2023 08:18 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686723480/191/
+- Mittwoch, 14. Juni 2023 08:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686724200/191/
 - Mittwoch, 14. Juni 2023 09:18 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686727080/191/
 - Mittwoch, 14. Juni 2023 09:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686728520/191/
 - Mittwoch, 14. Juni 2023 09:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686729240/191/
@@ -49,4 +49,4 @@
 - Donnerstag, 15. Juni 2023 14:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686831120/191/
 - Donnerstag, 15. Juni 2023 14:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686831840/191/
 - Donnerstag, 15. Juni 2023 14:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686832560/191/
-- Freitag, 28. Juli 2023 11:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690534800/231/
+- Donnerstag, 15. Juni 2023 14:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686833280/191/
