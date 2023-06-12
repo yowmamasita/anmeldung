@@ -151,4 +151,3 @@
 - Montag, 7. August 2023 17:24 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691421840/2938/
 - Montag, 7. August 2023 17:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691422560/2938/
 - Montag, 7. August 2023 17:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691423280/2938/
-- Mittwoch, 9. August 2023 14:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691584560/2899/
