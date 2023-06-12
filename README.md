@@ -93,4 +93,4 @@
 - Montag, 7. August 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691411040/3238/
 - Montag, 7. August 2023 14:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691411760/2863/
 - Montag, 7. August 2023 14:50 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691412600/2878/
-- Montag, 7. August 2023 15:24 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691414640/2839/
+- Montag, 7. August 2023 15:36 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691415360/2839/
