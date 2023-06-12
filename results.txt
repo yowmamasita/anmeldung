@@ -1,8 +1,4 @@
-- Dienstag, 13. Juni 2023 11:40 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686649200/2881/
-- Dienstag, 13. Juni 2023 17:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686668400/2863/
-- Montag, 3. Juli 2023 15:06 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688389560/904/
 - Mittwoch, 5. Juli 2023 13:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688555160/2914/
-- Freitag, 21. Juli 2023 10:00 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689926400/103/
 - Montag, 24. Juli 2023 11:06 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690189560/2911/
 - Freitag, 28. Juli 2023 10:12 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690531920/103/
 - Freitag, 28. Juli 2023 11:40 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690537200/2923/
