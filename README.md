@@ -7,7 +7,6 @@
 - Montag, 12. Juni 2023 10:30 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686558600/154/
 - Montag, 12. Juni 2023 10:42 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686559320/154/
 - Montag, 12. Juni 2023 10:54 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686560040/154/
-- Montag, 12. Juni 2023 11:06 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686560760/154/
 - Montag, 12. Juni 2023 11:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686561840/2899/
 - Montag, 12. Juni 2023 11:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686562200/2914/
 - Montag, 12. Juni 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686562200/154/
@@ -15,9 +14,7 @@
 - Montag, 12. Juni 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686562920/154/
 - Montag, 12. Juni 2023 12:00 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686564000/2887/
 - Montag, 12. Juni 2023 12:18 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686565080/154/
-- Montag, 12. Juni 2023 12:30 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686565800/154/
 - Montag, 12. Juni 2023 13:36 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686569760/2908/
-- Mittwoch, 14. Juni 2023 07:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686720600/2914/
 - Donnerstag, 15. Juni 2023 13:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686828240/154/
 - Donnerstag, 15. Juni 2023 13:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686828960/154/
 - Donnerstag, 29. Juni 2023 11:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688032080/3238/
