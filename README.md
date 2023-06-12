@@ -3,3 +3,4 @@
 - Donnerstag, 13. Juli 2023 10:48 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689238080/2908/
 - Donnerstag, 20. Juli 2023 17:36 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689867360/904/
 - Montag, 31. Juli 2023 13:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690803360/2896/
+- Montag, 7. August 2023 09:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1691393040/191/
