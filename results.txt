@@ -1,4 +1,3 @@
-- Freitag, 21. Juli 2023 13:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689937200/3238/
 - Montag, 7. August 2023 07:54 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691387640/841/
 - Montag, 7. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691387640/904/
 - Montag, 7. August 2023 08:00 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691388000/2839/
@@ -197,4 +196,3 @@
 - Mittwoch, 9. August 2023 11:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691574480/2899/
 - Mittwoch, 9. August 2023 12:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691577360/2899/
 - Mittwoch, 9. August 2023 12:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691578080/2899/
-- Donnerstag, 10. August 2023 12:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1691663760/231/
