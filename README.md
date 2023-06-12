@@ -4,4 +4,3 @@
 - Donnerstag, 15. Juni 2023 11:00 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686819600/904/
 - Freitag, 16. Juni 2023 08:30 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1686897000/149/
 - Dienstag, 27. Juni 2023 17:00 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1687878000/103/
-- Mittwoch, 19. Juli 2023 12:50 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1689763800/149/
