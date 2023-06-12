@@ -192,4 +192,3 @@
 - Montag, 7. August 2023 14:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1691412000/150/
 - Montag, 7. August 2023 15:00 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1691413200/140/
 - Montag, 7. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691413200/2839/
-- Mittwoch, 9. August 2023 10:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691570160/2896/
