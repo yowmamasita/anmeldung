@@ -25,12 +25,10 @@
 - Montag, 12. Juni 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1686555360/192/
 - Montag, 12. Juni 2023 09:48 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686556080/1018/
 - Montag, 12. Juni 2023 10:00 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686556800/1018/
-- Montag, 12. Juni 2023 10:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1686557520/108/
-- Montag, 12. Juni 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686557520/1018/
+- Montag, 12. Juni 2023 10:12 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686557520/1018/
 - Montag, 12. Juni 2023 10:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686558240/191/
 - Montag, 12. Juni 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686558240/1018/
-- Montag, 12. Juni 2023 10:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686558960/922/
-- Montag, 12. Juni 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686558960/1018/
+- Montag, 12. Juni 2023 10:36 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686558960/1018/
 - Montag, 12. Juni 2023 10:48 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686559680/922/
 - Montag, 12. Juni 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686559680/1018/
 - Montag, 12. Juni 2023 11:00 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686560400/922/
@@ -39,7 +37,8 @@
 - Montag, 12. Juni 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686561120/1018/
 - Montag, 12. Juni 2023 11:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686561840/922/
 - Montag, 12. Juni 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686561840/1018/
-- Montag, 12. Juni 2023 11:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686562560/922/
+- Montag, 12. Juni 2023 11:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1686562560/108/
+- Montag, 12. Juni 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686562560/922/
 - Montag, 12. Juni 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686562560/1018/
 - Montag, 12. Juni 2023 11:48 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686563280/922/
 - Montag, 12. Juni 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686563280/1018/
@@ -47,7 +46,6 @@
 - Montag, 12. Juni 2023 12:12 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686564720/922/
 - Montag, 12. Juni 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686564720/1018/
 - Montag, 12. Juni 2023 12:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686565440/922/
-- Montag, 12. Juni 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686565440/1018/
 - Montag, 12. Juni 2023 12:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686566160/922/
 - Montag, 12. Juni 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686566160/1018/
 - Montag, 12. Juni 2023 12:48 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686566880/922/
@@ -64,6 +62,4 @@
 - Montag, 12. Juni 2023 14:00 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686571200/1018/
 - Montag, 12. Juni 2023 14:12 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686571920/1018/
 - Montag, 12. Juni 2023 14:24 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686572640/1018/
-- Montag, 12. Juni 2023 14:36 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686573360/1018/
 - Montag, 12. Juni 2023 14:48 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686574080/2908/
-- Montag, 12. Juni 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686574080/1018/
