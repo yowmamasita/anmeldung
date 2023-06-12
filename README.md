@@ -16,9 +16,8 @@
 - Montag, 12. Juni 2023 10:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686558960/2896/
 - Montag, 12. Juni 2023 10:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686559680/2896/
 - Montag, 12. Juni 2023 11:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686562560/2896/
+- Montag, 12. Juni 2023 13:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686569040/2896/
 - Montag, 10. Juli 2023 08:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1688969880/313/
-- Montag, 10. Juli 2023 09:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1688972760/313/
-- Montag, 10. Juli 2023 09:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1688975640/313/
 - Montag, 17. Juli 2023 07:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1689572520/313/
 - Montag, 17. Juli 2023 07:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1689573240/313/
 - Montag, 17. Juli 2023 08:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1689573960/313/
@@ -42,7 +41,6 @@
 - Montag, 24. Juli 2023 09:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1690184520/313/
 - Montag, 24. Juli 2023 09:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1690185240/313/
 - Montag, 24. Juli 2023 10:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1690185960/313/
-- Montag, 31. Juli 2023 07:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1690781400/313/
 - Montag, 31. Juli 2023 07:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1690782120/313/
 - Montag, 31. Juli 2023 07:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1690782840/313/
 - Montag, 31. Juli 2023 08:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1690783560/313/
