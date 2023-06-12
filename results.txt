@@ -31,7 +31,6 @@
 - Dienstag, 13. Juni 2023 14:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686658320/3238/
 - Dienstag, 13. Juni 2023 14:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686659040/3238/
 - Dienstag, 13. Juni 2023 14:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686659760/3238/
-- Dienstag, 13. Juni 2023 14:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686660480/3238/
 - Mittwoch, 14. Juni 2023 09:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686727440/2857/
 - Mittwoch, 14. Juni 2023 09:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686728160/2857/
 - Mittwoch, 14. Juni 2023 09:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686728880/2857/
@@ -48,7 +47,6 @@
 - Montag, 19. Juni 2023 15:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687182480/2938/
 - Dienstag, 20. Juni 2023 14:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687265280/2899/
 - Mittwoch, 21. Juni 2023 12:24 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687343040/2893/
-- Donnerstag, 20. Juli 2023 16:48 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1689864480/102/
 - Donnerstag, 27. Juli 2023 12:06 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690452360/2839/
 - Donnerstag, 27. Juli 2023 12:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690454160/2863/
 - Donnerstag, 27. Juli 2023 15:12 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690463520/2887/
