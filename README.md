@@ -5,9 +5,7 @@
 - Dienstag, 13. Juni 2023 10:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686643200/2851/
 - Dienstag, 13. Juni 2023 10:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686643920/2851/
 - Dienstag, 13. Juni 2023 10:18 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686644280/154/
-- Dienstag, 13. Juni 2023 10:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686644640/109/
 - Dienstag, 13. Juni 2023 10:54 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686646440/154/
-- Dienstag, 13. Juni 2023 11:06 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686647160/154/
 - Dienstag, 13. Juni 2023 11:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686647520/2851/
 - Dienstag, 13. Juni 2023 11:18 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686647880/154/
 - Dienstag, 13. Juni 2023 11:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686648240/109/
@@ -18,6 +16,5 @@
 - Dienstag, 13. Juni 2023 12:42 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686652920/154/
 - Dienstag, 13. Juni 2023 12:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686653280/2851/
 - Dienstag, 13. Juni 2023 13:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686654000/2851/
-- Dienstag, 13. Juni 2023 14:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686659760/154/
 - Dienstag, 13. Juni 2023 15:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686661920/154/
-- Dienstag, 13. Juni 2023 15:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686662640/154/
+- Mittwoch, 14. Juni 2023 13:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686743280/231/
