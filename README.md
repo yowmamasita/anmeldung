@@ -14,7 +14,8 @@
 - Mittwoch, 14. Juni 2023 09:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1686728160/167/
 - Mittwoch, 14. Juni 2023 09:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1686728880/167/
 - Mittwoch, 14. Juni 2023 10:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1686729600/167/
-- Mittwoch, 14. Juni 2023 10:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1686730320/167/
+- Mittwoch, 14. Juni 2023 10:12 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686730320/2839/
+- Mittwoch, 14. Juni 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1686730320/167/
 - Mittwoch, 14. Juni 2023 10:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1686731040/167/
 - Mittwoch, 14. Juni 2023 10:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1686731760/167/
 - Mittwoch, 14. Juni 2023 10:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1686732480/167/
