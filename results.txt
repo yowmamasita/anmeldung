@@ -5,6 +5,7 @@
 - Dienstag, 8. August 2023 10:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691482320/2908/
 - Dienstag, 8. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691482320/841/
 - Dienstag, 8. August 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691482320/3238/
+- Dienstag, 8. August 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1691482320/190/
 - Dienstag, 8. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691482320/904/
 - Dienstag, 8. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691482320/2926/
 - Dienstag, 8. August 2023 10:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691482680/2839/
@@ -13,15 +14,14 @@
 - Dienstag, 8. August 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691483040/2911/
 - Dienstag, 8. August 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691483040/2848/
 - Dienstag, 8. August 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691483040/844/
-- Dienstag, 8. August 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1691483040/381/
 - Dienstag, 8. August 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691483040/898/
-- Dienstag, 8. August 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1691483040/190/
 - Dienstag, 8. August 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691483040/2887/
 - Dienstag, 8. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691483040/847/
 - Dienstag, 8. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691483040/922/
 - Dienstag, 8. August 2023 10:30 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691483400/2884/
 - Dienstag, 8. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691483400/2938/
-- Dienstag, 8. August 2023 10:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1691483760/191/
+- Dienstag, 8. August 2023 10:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1691483760/381/
+- Dienstag, 8. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1691483760/191/
 - Dienstag, 8. August 2023 10:42 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1691484120/140/
 - Dienstag, 8. August 2023 10:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1691484480/108/
 - Dienstag, 8. August 2023 10:50 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1691484600/148/
@@ -51,6 +51,7 @@
 - Dienstag, 8. August 2023 11:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691485920/2845/
 - Dienstag, 8. August 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691485920/2908/
 - Dienstag, 8. August 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691485920/2848/
+- Dienstag, 8. August 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691485920/109/
 - Dienstag, 8. August 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1691485920/381/
 - Dienstag, 8. August 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1691485920/190/
 - Dienstag, 8. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691485920/847/
@@ -59,8 +60,7 @@
 - Dienstag, 8. August 2023 11:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1691486640/192/
 - Dienstag, 8. August 2023 11:30 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1691487000/154/
 - Dienstag, 8. August 2023 11:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1691487360/108/
-- Dienstag, 8. August 2023 11:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691488080/109/
-- Dienstag, 8. August 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1691488080/111/
+- Dienstag, 8. August 2023 11:48 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1691488080/111/
 - Dienstag, 8. August 2023 11:54 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1691488440/142/
 - Dienstag, 8. August 2023 12:00 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691488800/2908/
 - Dienstag, 8. August 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691488800/2911/
@@ -79,6 +79,7 @@
 - Dienstag, 8. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691488800/922/
 - Dienstag, 8. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1691488800/103/
 - Dienstag, 8. August 2023 12:06 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691489160/2836/
+- Dienstag, 8. August 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1691489160/140/
 - Dienstag, 8. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691489160/2839/
 - Dienstag, 8. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1691489160/154/
 - Dienstag, 8. August 2023 12:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1691489400/147/
@@ -87,8 +88,7 @@
 - Dienstag, 8. August 2023 12:12 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1691489520/381/
 - Dienstag, 8. August 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691489520/898/
 - Dienstag, 8. August 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1691489520/313/
-- Dienstag, 8. August 2023 12:18 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1691489880/140/
-- Dienstag, 8. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691489880/2938/
+- Dienstag, 8. August 2023 12:18 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691489880/2938/
 - Dienstag, 8. August 2023 12:20 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1691490000/151/
 - Dienstag, 8. August 2023  Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1691490000/148/
 - Dienstag, 8. August 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1691490000/150/
@@ -103,7 +103,6 @@
 - Dienstag, 8. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691492400/847/
 - Dienstag, 8. August 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691492400/2881/
 - Dienstag, 8. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691492400/904/
-- Dienstag, 8. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1691492400/191/
 - Dienstag, 8. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691492400/922/
 - Dienstag, 8. August 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1691492400/150/
 - Dienstag, 8. August 2023 13:06 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1691492760/141/
@@ -113,6 +112,7 @@
 - Dienstag, 8. August 2023 13:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691493000/2941/
 - Dienstag, 8. August 2023  Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1691493000/148/
 - Dienstag, 8. August 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691493000/2884/
+- Dienstag, 8. August 2023 13:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1691493120/191/
 - Dienstag, 8. August 2023 13:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1691493600/149/
 - Dienstag, 8. August 2023 14:00 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1691496000/147/
 - Dienstag, 8. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691496000/841/
