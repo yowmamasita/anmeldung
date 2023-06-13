@@ -86,7 +86,6 @@
 - Dienstag, 8. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1691503920/103/
 - Dienstag, 8. August 2023 16:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691504640/2914/
 - Dienstag, 8. August 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1691504640/381/
-- Dienstag, 8. August 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1691504640/102/
 - Dienstag, 8. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691504640/2866/
 - Dienstag, 8. August 2023 16:30 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691505000/2881/
 - Dienstag, 8. August 2023 16:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1691505360/136/
