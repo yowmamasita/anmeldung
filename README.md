@@ -5,11 +5,9 @@
 - Dienstag, 13. Juni 2023 10:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1686646080/192/
 - Dienstag, 13. Juni 2023 11:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686647520/231/
 - Dienstag, 13. Juni 2023 11:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1686648240/192/
-- Dienstag, 13. Juni 2023 11:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1686649680/106/
-- Dienstag, 13. Juni 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686649680/2908/
+- Dienstag, 13. Juni 2023 11:48 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686649680/2908/
 - Dienstag, 13. Juni 2023 12:00 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686650400/2908/
 - Dienstag, 13. Juni 2023 12:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686651120/2908/
-- Dienstag, 13. Juni 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686651120/2872/
 - Dienstag, 13. Juni 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686651120/2899/
 - Dienstag, 13. Juni 2023 12:24 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686651840/2908/
 - Dienstag, 13. Juni 2023 13:00 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686654000/313/
