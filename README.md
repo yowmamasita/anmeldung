@@ -35,14 +35,14 @@
 - Dienstag, 8. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691496360/2839/
 - Dienstag, 8. August 2023 14:10 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691496600/2881/
 - Dienstag, 8. August 2023 14:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691496720/2908/
-- Dienstag, 8. August 2023 14:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1691497440/190/
+- Dienstag, 8. August 2023 14:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691497440/2848/
+- Dienstag, 8. August 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1691497440/190/
 - Dienstag, 8. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691497440/904/
 - Dienstag, 8. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1691497440/154/
 - Dienstag, 8. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691497440/2866/
 - Dienstag, 8. August 2023 14:30 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1691497800/147/
 - Dienstag, 8. August 2023 14:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691498160/2845/
 - Dienstag, 8. August 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691498160/2914/
-- Dienstag, 8. August 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691498160/2848/
 - Dienstag, 8. August 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691498160/844/
 - Dienstag, 8. August 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1691498160/381/
 - Dienstag, 8. August 2023 14:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1691498880/112/
