@@ -7,4 +7,5 @@
 - Mittwoch, 14. Juni 2023 08:30 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686724200/2887/
 - Mittwoch, 14. Juni 2023 08:42 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686724920/2887/
 - Mittwoch, 14. Juni 2023 08:54 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686725640/2887/
+- Mittwoch, 14. Juni 2023 09:18 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686727080/2887/
 - Mittwoch, 12. Juli 2023 12:40 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689158400/2881/
