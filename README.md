@@ -87,12 +87,12 @@
 - Dienstag, 8. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691496360/2839/
 - Dienstag, 8. August 2023 14:12 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691496720/841/
 - Dienstag, 8. August 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691496720/898/
-- Dienstag, 8. August 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1691496720/313/
 - Dienstag, 8. August 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1691496720/192/
 - Dienstag, 8. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691496720/2866/
 - Dienstag, 8. August 2023 14:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1691497200/147/
 - Dienstag, 8. August 2023  Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1691497200/148/
 - Dienstag, 8. August 2023 14:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1691497440/312/
+- Dienstag, 8. August 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1691497440/313/
 - Dienstag, 8. August 2023 15:00 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1691499600/312/
 - Dienstag, 8. August 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691499600/898/
 - Dienstag, 8. August 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691499600/2941/
