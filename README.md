@@ -19,7 +19,6 @@
 - Dienstag, 13. Juni 2023 11:36 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686648960/2908/
 - Dienstag, 13. Juni 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686648960/2899/
 - Dienstag, 13. Juni 2023 11:40 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686649200/2923/
-- Dienstag, 13. Juni 2023 11:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686649680/2899/
 - Dienstag, 13. Juni 2023 11:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686649800/2923/
 - Dienstag, 13. Juni 2023 12:00 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686650400/2923/
 - Dienstag, 13. Juni 2023 12:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686651000/2923/
@@ -31,6 +30,5 @@
 - Dienstag, 13. Juni 2023 14:20 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686658800/2923/
 - Dienstag, 13. Juni 2023 14:40 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686660000/2923/
 - Dienstag, 13. Juni 2023 14:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686660600/2923/
-- Dienstag, 13. Juni 2023 15:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686661800/2923/
 - Dienstag, 11. Juli 2023 10:24 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689063840/2893/
 - Dienstag, 11. Juli 2023 11:12 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689066720/2920/
