@@ -4,5 +4,3 @@
 - Dienstag, 13. Juni 2023 13:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686654720/2863/
 - Dienstag, 13. Juni 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686654720/2926/
 - Dienstag, 13. Juni 2023 14:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686658320/2926/
-- Dienstag, 13. Juni 2023 16:00 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686664800/109/
-- Donnerstag, 27. Juli 2023 12:36 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690454160/847/
