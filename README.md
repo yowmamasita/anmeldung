@@ -3,3 +3,4 @@
 - Mittwoch, 14. Juni 2023 08:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686723840/2857/
 - Mittwoch, 14. Juni 2023 08:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686724560/2857/
 - Mittwoch, 14. Juni 2023 09:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686726720/2857/
+- Mittwoch, 14. Juni 2023 09:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686727800/191/
