@@ -72,7 +72,8 @@
 - Dienstag, 13. Juni 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1686656880/312/
 - Dienstag, 13. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686656880/231/
 - Dienstag, 13. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686656880/2896/
-- Dienstag, 13. Juni 2023 14:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686657600/231/
+- Dienstag, 13. Juni 2023 14:00 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1686657600/312/
+- Dienstag, 13. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686657600/231/
 - Dienstag, 13. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686657600/2896/
 - Dienstag, 13. Juni 2023 14:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686658320/3238/
 - Dienstag, 13. Juni 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1686658320/312/
@@ -87,7 +88,6 @@
 - Dienstag, 13. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686659760/2896/
 - Dienstag, 13. Juni 2023 14:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1686660480/312/
 - Dienstag, 13. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686660480/231/
-- Dienstag, 13. Juni 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1686660480/102/
 - Dienstag, 13. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686660480/2896/
 - Dienstag, 13. Juni 2023 15:00 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1686661200/312/
 - Dienstag, 13. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686661200/231/
