@@ -103,8 +103,7 @@
 - Dienstag, 13. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686663360/2896/
 - Dienstag, 13. Juni 2023 15:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1686664080/312/
 - Dienstag, 13. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686664080/2896/
-- Dienstag, 13. Juni 2023 16:00 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1686664800/312/
-- Dienstag, 13. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686664800/2896/
+- Dienstag, 13. Juni 2023 16:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686664800/2896/
 - Dienstag, 13. Juni 2023 16:12 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1686665520/312/
 - Dienstag, 13. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686665520/2896/
 - Dienstag, 13. Juni 2023 16:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1686666240/312/
@@ -116,4 +115,3 @@
 - Dienstag, 13. Juni 2023 17:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686669120/2896/
 - Dienstag, 13. Juni 2023 17:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686669840/2896/
 - Dienstag, 13. Juni 2023 17:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686670560/2896/
-- Dienstag, 13. Juni 2023 17:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686671280/2896/
