@@ -9,4 +9,3 @@
 - Dienstag, 13. Juni 2023 11:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1686648960/169/
 - Dienstag, 13. Juni 2023 11:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1686649680/169/
 - Dienstag, 13. Juni 2023 12:00 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686650400/2887/
-- Dienstag, 13. Juni 2023 12:48 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686653280/2893/
