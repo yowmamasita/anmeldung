@@ -4,4 +4,3 @@
 - Dienstag, 13. Juni 2023 11:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686649680/2863/
 - Dienstag, 13. Juni 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686649680/2899/
 - Dienstag, 13. Juni 2023 12:00 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1686650400/312/
-- Dienstag, 13. Juni 2023 17:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1686670560/167/
