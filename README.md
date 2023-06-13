@@ -39,4 +39,3 @@
 - Dienstag, 13. Juni 2023 15:20 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686662400/2923/
 - Dienstag, 13. Juni 2023 15:30 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686663000/2923/
 - Dienstag, 13. Juni 2023 15:40 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686663600/2923/
-- Dienstag, 13. Juni 2023 15:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686664200/2923/
