@@ -11,4 +11,3 @@
 - Dienstag, 13. Juni 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1686651840/167/
 - Dienstag, 13. Juni 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1686651840/172/
 - Dienstag, 13. Juni 2023 12:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1686652560/167/
-- Dienstag, 13. Juni 2023 14:36 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686659760/2860/
