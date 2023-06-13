@@ -5,4 +5,3 @@
 - Mittwoch, 14. Juni 2023 07:54 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686722040/922/
 - Mittwoch, 14. Juni 2023 08:06 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686722760/922/
 - Mittwoch, 14. Juni 2023 08:18 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686723480/922/
-- Mittwoch, 14. Juni 2023 08:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686724200/191/
