@@ -3,6 +3,4 @@
 - Dienstag, 13. Juni 2023 14:24 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686659040/2911/
 - Dienstag, 13. Juni 2023 14:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686659760/2896/
 - Dienstag, 13. Juni 2023 15:00 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686661200/2908/
-- Dienstag, 13. Juni 2023 15:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686663360/2848/
-- Donnerstag, 15. Juni 2023 13:12 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686827520/2854/
 - Freitag, 30. Juni 2023 12:18 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688120280/904/
