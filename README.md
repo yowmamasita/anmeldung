@@ -14,7 +14,6 @@
 - Dienstag, 8. August 2023 11:48 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1691488080/145/
 - Dienstag, 8. August 2023 12:36 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1691490960/145/
 - Dienstag, 8. August 2023 12:48 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1691491680/145/
-- Dienstag, 8. August 2023 13:00 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1691492400/145/
 - Dienstag, 8. August 2023 13:12 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1691493120/145/
 - Dienstag, 8. August 2023 13:24 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1691493840/145/
 - Dienstag, 8. August 2023 13:36 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1691494560/145/
@@ -22,4 +21,3 @@
 - Dienstag, 8. August 2023 14:00 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1691496000/145/
 - Dienstag, 8. August 2023 14:12 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1691496720/145/
 - Dienstag, 8. August 2023 14:24 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1691497440/145/
-- Dienstag, 8. August 2023 14:48 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1691498880/145/
