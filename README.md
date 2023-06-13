@@ -3,5 +3,4 @@
 - Mittwoch, 14. Juni 2023 07:54 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686722040/2887/
 - Mittwoch, 14. Juni 2023 09:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1686728160/172/
 - Donnerstag, 15. Juni 2023 13:48 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686829680/2875/
-- Freitag, 16. Juni 2023 11:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1686908880/191/
 - Freitag, 28. Juli 2023 08:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1690526160/146/
