@@ -162,3 +162,4 @@
 - Mittwoch, 14. Juni 2023 14:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686744720/3238/
 - Mittwoch, 14. Juni 2023 14:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686745440/2896/
 - Mittwoch, 14. Juni 2023 14:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686746160/2896/
+- Freitag, 23. Juni 2023 11:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1687511880/112/
