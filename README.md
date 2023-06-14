@@ -120,7 +120,6 @@
 - Mittwoch, 9. August 2023 12:30 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691577000/847/
 - Mittwoch, 9. August 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691577000/2884/
 - Mittwoch, 9. August 2023 12:40 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1691577600/149/
-- Mittwoch, 9. August 2023 12:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691578080/2854/
 - Mittwoch, 9. August 2023 13:00 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1691578800/147/
 - Mittwoch, 9. August 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691578800/3238/
 - Mittwoch, 9. August 2023 13:06 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1691579160/190/
@@ -133,9 +132,9 @@
 - Mittwoch, 9. August 2023 13:10 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691579400/2881/
 - Mittwoch, 9. August 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691579400/2884/
 - Mittwoch, 9. August 2023 13:30 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691580600/841/
-- Mittwoch, 9. August 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691580600/2941/
 - Mittwoch, 9. August 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1691580600/149/
-- Mittwoch, 9. August 2023 13:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1691581200/150/
+- Mittwoch, 9. August 2023 13:40 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691581200/2941/
+- Mittwoch, 9. August 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1691581200/150/
 - Mittwoch, 9. August 2023 14:00 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1691582400/147/
 - Mittwoch, 9. August 2023 14:06 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1691582760/190/
 - Mittwoch, 9. August 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691582760/2887/
