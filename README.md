@@ -4,7 +4,6 @@
 - Mittwoch, 14. Juni 2023 10:30 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686731400/2887/
 - Mittwoch, 14. Juni 2023 10:42 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686732120/2887/
 - Mittwoch, 14. Juni 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686732120/904/
-- Mittwoch, 14. Juni 2023 10:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686732480/2851/
 - Mittwoch, 14. Juni 2023 10:54 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686732840/2887/
 - Mittwoch, 14. Juni 2023 11:06 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686733560/2887/
 - Mittwoch, 14. Juni 2023 11:18 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686734280/2887/
@@ -17,4 +16,3 @@
 - Mittwoch, 14. Juni 2023 12:42 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686739320/2887/
 - Mittwoch, 14. Juni 2023 12:54 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686740040/2887/
 - Mittwoch, 14. Juni 2023 13:06 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686740760/2887/
-- Mittwoch, 14. Juni 2023 13:30 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686742200/2887/
