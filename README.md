@@ -11,7 +11,4 @@
 - Donnerstag, 15. Juni 2023 16:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1686837600/172/
 - Donnerstag, 15. Juni 2023 16:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1686838320/172/
 - Donnerstag, 15. Juni 2023 16:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1686839040/172/
-- Donnerstag, 15. Juni 2023 16:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1686839760/172/
-- Donnerstag, 15. Juni 2023 17:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1686841920/172/
 - Donnerstag, 15. Juni 2023 17:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1686842640/172/
-- Donnerstag, 15. Juni 2023 17:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1686843360/172/
