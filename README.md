@@ -16,4 +16,3 @@
 - Donnerstag, 15. Juni 2023 15:48 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686836880/2908/
 - Donnerstag, 15. Juni 2023 16:24 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686839040/2908/
 - Donnerstag, 15. Juni 2023 16:36 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686839760/2908/
-- Donnerstag, 15. Juni 2023 17:24 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686842640/2908/
