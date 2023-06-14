@@ -28,7 +28,6 @@
 - Mittwoch, 14. Juni 2023 09:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686728520/109/
 - Mittwoch, 14. Juni 2023 09:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1686728880/172/
 - Mittwoch, 14. Juni 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1686728880/170/
-- Mittwoch, 14. Juni 2023 09:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686729240/109/
 - Mittwoch, 14. Juni 2023 10:06 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686729960/109/
 - Mittwoch, 14. Juni 2023 10:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1686730320/170/
 - Mittwoch, 14. Juni 2023 10:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686730680/109/
@@ -55,7 +54,5 @@
 - Mittwoch, 14. Juni 2023 13:30 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1686742200/112/
 - Mittwoch, 14. Juni 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686742200/109/
 - Mittwoch, 14. Juni 2023 13:36 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686742560/313/
-- Mittwoch, 14. Juni 2023 13:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686742920/109/
 - Mittwoch, 14. Juni 2023 13:48 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1686743280/313/
 - Mittwoch, 14. Juni 2023 14:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1686745440/172/
-- Mittwoch, 14. Juni 2023 14:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1686746160/172/
