@@ -61,8 +61,8 @@
 - Mittwoch, 9. August 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691569200/2941/
 - Mittwoch, 9. August 2023 10:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691569440/3238/
 - Mittwoch, 9. August 2023 10:30 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691569800/841/
-- Mittwoch, 9. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691569800/922/
 - Mittwoch, 9. August 2023 10:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691570160/2845/
+- Mittwoch, 9. August 2023 10:42 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691570520/922/
 - Mittwoch, 9. August 2023 10:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1691571000/150/
 - Mittwoch, 9. August 2023 11:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691571600/2845/
 - Mittwoch, 9. August 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691571600/2848/
