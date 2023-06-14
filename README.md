@@ -6,10 +6,8 @@
 - Mittwoch, 14. Juni 2023 10:06 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686729960/847/
 - Mittwoch, 14. Juni 2023 10:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686730320/2848/
 - Mittwoch, 14. Juni 2023 10:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686731040/2848/
-- Mittwoch, 14. Juni 2023 10:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686731760/2848/
-- Mittwoch, 14. Juni 2023  Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686731760/2842/
+- Mittwoch, 14. Juni 2023 10:36 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686731760/2842/
 - Mittwoch, 14. Juni 2023 10:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686732480/2848/
-- Mittwoch, 14. Juni 2023 11:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686734640/2848/
 - Mittwoch, 14. Juni 2023 11:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686735360/2863/
 - Mittwoch, 14. Juni 2023 12:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686738600/2908/
 - Mittwoch, 14. Juni 2023 12:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686740040/2908/
