@@ -12,6 +12,6 @@
 - Donnerstag, 15. Juni 2023 13:12 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686827520/2887/
 - Donnerstag, 15. Juni 2023 13:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686828240/2887/
 - Donnerstag, 15. Juni 2023 14:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686831120/2845/
-- Donnerstag, 15. Juni 2023 15:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1686836160/172/
-- Donnerstag, 15. Juni 2023 15:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1686836880/172/
-- Donnerstag, 15. Juni 2023 16:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1686837600/172/
+- Freitag, 16. Juni 2023 09:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686900240/2863/
+- Freitag, 16. Juni 2023 11:00 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1686906000/150/
+- Montag, 10. Juli 2023 14:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688990400/2899/
