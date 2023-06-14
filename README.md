@@ -74,14 +74,14 @@
 - Mittwoch, 9. August 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691575560/898/
 - Mittwoch, 9. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691575560/904/
 - Mittwoch, 9. August 2023 12:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691575800/2941/
-- Mittwoch, 9. August 2023 12:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691575920/2848/
-- Mittwoch, 9. August 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1691575920/381/
+- Mittwoch, 9. August 2023 12:12 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1691575920/381/
 - Mittwoch, 9. August 2023 12:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691576280/2914/
 - Mittwoch, 9. August 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691576280/844/
 - Mittwoch, 9. August 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1691576280/190/
 - Mittwoch, 9. August 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691576280/2887/
 - Mittwoch, 9. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691576280/2926/
 - Mittwoch, 9. August 2023 12:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1691576640/106/
+- Mittwoch, 9. August 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691576640/2848/
 - Mittwoch, 9. August 2023 12:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1691577000/191/
 - Mittwoch, 9. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691577000/922/
 - Mittwoch, 9. August 2023 12:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691577360/3238/
