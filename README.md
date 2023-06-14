@@ -25,7 +25,6 @@
 - Donnerstag, 15. Juni 2023 15:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686835440/168/
 - Donnerstag, 15. Juni 2023 15:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686836160/168/
 - Donnerstag, 15. Juni 2023 15:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686836880/168/
-- Donnerstag, 15. Juni 2023 16:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686837600/168/
 - Donnerstag, 15. Juni 2023 16:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686838320/168/
 - Donnerstag, 15. Juni 2023 16:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686839040/168/
 - Donnerstag, 15. Juni 2023 16:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1686839760/168/
