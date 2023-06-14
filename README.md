@@ -9,4 +9,3 @@
 - Mittwoch, 14. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686731760/2851/
 - Mittwoch, 14. Juni 2023 10:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686732480/2851/
 - Mittwoch, 14. Juni 2023 11:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686733920/2851/
-- Mittwoch, 14. Juni 2023 11:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686735360/2851/
