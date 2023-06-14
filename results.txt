@@ -117,8 +117,7 @@
 - Mittwoch, 9. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1691573760/103/
 - Mittwoch, 9. August 2023 11:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1691574120/135/
 - Mittwoch, 9. August 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1691574120/192/
-- Mittwoch, 9. August 2023 11:48 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1691574480/102/
-- Mittwoch, 9. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691574480/2866/
+- Mittwoch, 9. August 2023 11:48 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691574480/2866/
 - Mittwoch, 9. August 2023 11:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691574840/109/
 - Mittwoch, 9. August 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1691574840/312/
 - Mittwoch, 9. August 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1691574840/313/
@@ -148,7 +147,6 @@
 - Mittwoch, 9. August 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691577000/2884/
 - Mittwoch, 9. August 2023 12:36 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691577360/2860/
 - Mittwoch, 9. August 2023 12:42 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691577720/847/
-- Mittwoch, 9. August 2023 12:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1691578440/191/
 - Mittwoch, 9. August 2023 13:00 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1691578800/381/
 - Mittwoch, 9. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1691578800/154/
 - Mittwoch, 9. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691578800/2938/
