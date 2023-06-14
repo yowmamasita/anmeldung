@@ -32,3 +32,4 @@
 - Mittwoch, 9. August 2023 13:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691580960/2938/
 - Mittwoch, 9. August 2023 13:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691581680/2938/
 - Mittwoch, 9. August 2023 14:24 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691583840/2938/
+- Mittwoch, 9. August 2023 14:48 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691585280/2932/
