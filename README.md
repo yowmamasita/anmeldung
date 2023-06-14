@@ -22,7 +22,8 @@
 - Mittwoch, 14. Juni 2023 11:00 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686733200/1018/
 - Mittwoch, 14. Juni 2023 11:12 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686733920/1018/
 - Mittwoch, 14. Juni 2023 11:24 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686734640/1018/
-- Mittwoch, 14. Juni 2023 11:36 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686735360/1018/
+- Mittwoch, 14. Juni 2023 11:36 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686735360/2839/
+- Mittwoch, 14. Juni 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686735360/1018/
 - Mittwoch, 14. Juni 2023 11:48 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686736080/1018/
 - Mittwoch, 14. Juni 2023 13:48 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686743280/1018/
 - Mittwoch, 14. Juni 2023 14:00 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686744000/1018/
