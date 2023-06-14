@@ -67,6 +67,7 @@
 - Mittwoch, 9. August 2023 10:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691570880/2848/
 - Mittwoch, 9. August 2023 10:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1691571000/150/
 - Mittwoch, 9. August 2023 11:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691571600/3238/
+- Mittwoch, 9. August 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1691571600/102/
 - Mittwoch, 9. August 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691571600/2881/
 - Mittwoch, 9. August 2023 11:06 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691571960/841/
 - Mittwoch, 9. August 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1691571960/190/
