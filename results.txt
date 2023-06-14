@@ -26,7 +26,9 @@
 - Mittwoch, 14. Juni 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1686725280/170/
 - Mittwoch, 14. Juni 2023 08:54 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1686725640/134/
 - Mittwoch, 14. Juni 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686725640/2908/
-- Mittwoch, 14. Juni 2023 09:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686726000/3238/
+- Mittwoch, 14. Juni 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686725640/109/
+- Mittwoch, 14. Juni 2023 09:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686726000/2848/
+- Mittwoch, 14. Juni 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686726000/3238/
 - Mittwoch, 14. Juni 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686726000/2899/
 - Mittwoch, 14. Juni 2023 09:06 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1686726360/134/
 - Mittwoch, 14. Juni 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686726360/2908/
@@ -60,7 +62,6 @@
 - Mittwoch, 14. Juni 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686729600/2899/
 - Mittwoch, 14. Juni 2023 10:06 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1686729960/134/
 - Mittwoch, 14. Juni 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686729960/2908/
-- Mittwoch, 14. Juni 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686729960/109/
 - Mittwoch, 14. Juni 2023 10:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1686730320/169/
 - Mittwoch, 14. Juni 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686730320/3238/
 - Mittwoch, 14. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686730320/2896/
@@ -71,7 +72,6 @@
 - Mittwoch, 14. Juni 2023 10:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1686731040/169/
 - Mittwoch, 14. Juni 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686731040/2839/
 - Mittwoch, 14. Juni 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686731040/3238/
-- Mittwoch, 14. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686731040/231/
 - Mittwoch, 14. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686731040/2896/
 - Mittwoch, 14. Juni 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686731040/2899/
 - Mittwoch, 14. Juni 2023 10:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686731400/2908/
@@ -126,4 +126,4 @@
 - Mittwoch, 14. Juni 2023 13:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686741120/3238/
 - Mittwoch, 14. Juni 2023 13:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686741840/3238/
 - Mittwoch, 14. Juni 2023 13:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686742560/3238/
-- Mittwoch, 14. Juni 2023 14:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1686746880/146/
+- Mittwoch, 14. Juni 2023 13:48 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686743280/1018/
