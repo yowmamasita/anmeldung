@@ -90,10 +90,10 @@
 - Mittwoch, 9. August 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691580240/2845/
 - Mittwoch, 9. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1691580240/154/
 - Mittwoch, 9. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1691580240/103/
-- Mittwoch, 9. August 2023 13:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1691580600/111/
-- Mittwoch, 9. August 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691580600/2884/
+- Mittwoch, 9. August 2023 13:30 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691580600/2884/
 - Mittwoch, 9. August 2023 13:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691580960/3238/
-- Mittwoch, 9. August 2023 13:42 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1691581320/192/
+- Mittwoch, 9. August 2023 13:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1691581320/111/
+- Mittwoch, 9. August 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1691581320/192/
 - Mittwoch, 9. August 2023 14:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1691582400/154/
 - Mittwoch, 9. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691582400/2938/
 - Mittwoch, 9. August 2023 14:06 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691582760/2887/
