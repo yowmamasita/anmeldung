@@ -120,7 +120,6 @@
 - Mittwoch, 14. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686732120/136/
 - Mittwoch, 14. Juni 2023 10:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1686732480/146/
 - Mittwoch, 14. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686732480/2896/
-- Mittwoch, 14. Juni 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686732480/2899/
 - Mittwoch, 14. Juni 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1686732480/170/
 - Mittwoch, 14. Juni 2023 10:54 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1686732840/134/
 - Mittwoch, 14. Juni 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686732840/2908/
@@ -134,37 +133,51 @@
 - Mittwoch, 14. Juni 2023 11:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686735720/136/
 - Mittwoch, 14. Juni 2023 11:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1686736080/170/
 - Mittwoch, 14. Juni 2023 11:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686736440/136/
+- Mittwoch, 14. Juni 2023 12:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686736800/2896/
 - Mittwoch, 14. Juni 2023 12:06 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1686737160/134/
 - Mittwoch, 14. Juni 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686737160/2908/
 - Mittwoch, 14. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686737160/136/
+- Mittwoch, 14. Juni 2023 12:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686737520/2896/
 - Mittwoch, 14. Juni 2023 12:18 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1686737880/134/
 - Mittwoch, 14. Juni 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686737880/2908/
 - Mittwoch, 14. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686737880/136/
 - Mittwoch, 14. Juni 2023 12:24 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686738240/2839/
-- Mittwoch, 14. Juni 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1686738240/170/
+- Mittwoch, 14. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686738240/2896/
 - Mittwoch, 14. Juni 2023 12:30 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1686738600/134/
 - Mittwoch, 14. Juni 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686738600/2908/
 - Mittwoch, 14. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686738600/136/
+- Mittwoch, 14. Juni 2023 12:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686738960/2896/
 - Mittwoch, 14. Juni 2023 12:42 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1686739320/134/
 - Mittwoch, 14. Juni 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686739320/2908/
 - Mittwoch, 14. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686739320/136/
+- Mittwoch, 14. Juni 2023 12:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686739680/2896/
 - Mittwoch, 14. Juni 2023 12:54 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1686740040/134/
 - Mittwoch, 14. Juni 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686740040/2908/
 - Mittwoch, 14. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686740040/136/
 - Mittwoch, 14. Juni 2023 13:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1686740400/146/
+- Mittwoch, 14. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686740400/2896/
 - Mittwoch, 14. Juni 2023 13:06 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1686740760/134/
 - Mittwoch, 14. Juni 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686740760/2908/
 - Mittwoch, 14. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686740760/136/
 - Mittwoch, 14. Juni 2023 13:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1686741120/146/
+- Mittwoch, 14. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686741120/2896/
 - Mittwoch, 14. Juni 2023 13:18 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1686741480/134/
 - Mittwoch, 14. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686741480/136/
 - Mittwoch, 14. Juni 2023 13:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1686741840/146/
+- Mittwoch, 14. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686741840/2896/
 - Mittwoch, 14. Juni 2023 13:30 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1686742200/134/
 - Mittwoch, 14. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686742200/136/
 - Mittwoch, 14. Juni 2023 13:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1686742560/146/
+- Mittwoch, 14. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686742560/2896/
 - Mittwoch, 14. Juni 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686742560/2899/
 - Mittwoch, 14. Juni 2023 13:42 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1686742920/134/
 - Mittwoch, 14. Juni 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686742920/2908/
 - Mittwoch, 14. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1686742920/136/
 - Mittwoch, 14. Juni 2023 13:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1686743280/146/
+- Mittwoch, 14. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686743280/2896/
+- Mittwoch, 14. Juni 2023 14:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686744000/2896/
+- Mittwoch, 14. Juni 2023 14:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686744720/2896/
+- Mittwoch, 14. Juni 2023 14:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686745440/2896/
 - Mittwoch, 14. Juni 2023 14:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1686746160/146/
+- Mittwoch, 14. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686746160/2896/
+- Mittwoch, 14. Juni 2023 14:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686746880/2896/
