@@ -1,8 +1,7 @@
 # List of available Anmeldung appointments as of $NOW
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122254,122252,329742,122260,329745,122262,329748,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,317869,122281,327352,122279,329772,122283,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
 - Montag, 7. August 2023 08:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691388000/2857/
-- Montag, 7. August 2023 08:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1691388720/169/
-- Montag, 7. August 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691388720/2857/
+- Montag, 7. August 2023 08:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691388720/2857/
 - Montag, 7. August 2023 08:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1691389440/169/
 - Montag, 7. August 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691389440/2857/
 - Montag, 7. August 2023 08:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1691390160/169/
@@ -56,10 +55,10 @@
 - Montag, 7. August 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691408880/2857/
 - Montag, 7. August 2023 14:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691409600/2857/
 - Montag, 7. August 2023 14:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1691410320/169/
-- Montag, 7. August 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691410320/2857/
 - Montag, 7. August 2023 14:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1691411040/169/
 - Montag, 7. August 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691411040/2857/
-- Montag, 7. August 2023 14:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691411760/2857/
+- Montag, 7. August 2023 14:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1691411760/169/
+- Montag, 7. August 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691411760/2857/
 - Montag, 7. August 2023 14:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691412480/2857/
 - Dienstag, 8. August 2023 11:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691485200/2857/
 - Dienstag, 8. August 2023 11:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691485920/2857/
@@ -116,8 +115,7 @@
 - Dienstag, 8. August 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691504640/2857/
 - Dienstag, 8. August 2023 16:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1691505360/169/
 - Dienstag, 8. August 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691505360/2857/
-- Dienstag, 8. August 2023 16:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1691506080/169/
-- Dienstag, 8. August 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691506080/2857/
+- Dienstag, 8. August 2023 16:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691506080/2857/
 - Dienstag, 8. August 2023 17:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691506800/2857/
 - Dienstag, 8. August 2023 17:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1691507520/169/
 - Dienstag, 8. August 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691507520/2857/
@@ -149,6 +147,7 @@
 - Mittwoch, 9. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691574120/841/
 - Mittwoch, 9. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691574120/847/
 - Mittwoch, 9. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691574120/2926/
+- Mittwoch, 9. August 2023 11:50 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691574600/2941/
 - Mittwoch, 9. August 2023 11:54 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691574840/2911/
 - Mittwoch, 9. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691574840/841/
 - Mittwoch, 9. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691574840/2926/
@@ -217,6 +216,7 @@
 - Mittwoch, 9. August 2023 15:48 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691588880/2932/
 - Mittwoch, 9. August 2023 16:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691590320/2932/
 - Mittwoch, 9. August 2023 16:24 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691591040/2932/
-- Mittwoch, 9. August 2023 16:36 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691591760/2932/
+- Mittwoch, 9. August 2023 16:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1691591760/153/
+- Mittwoch, 9. August 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691591760/2932/
 - Mittwoch, 9. August 2023 17:00 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691593200/2932/
 - Mittwoch, 9. August 2023 17:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691593920/2932/
