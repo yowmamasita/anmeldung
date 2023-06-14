@@ -116,7 +116,6 @@
 - Mittwoch, 14. Juni 2023 12:18 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1686737880/134/
 - Mittwoch, 14. Juni 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686737880/2908/
 - Mittwoch, 14. Juni 2023 12:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686738240/3238/
-- Mittwoch, 14. Juni 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1686738240/170/
 - Mittwoch, 14. Juni 2023 12:30 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1686738600/134/
 - Mittwoch, 14. Juni 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686738600/2908/
 - Mittwoch, 14. Juni 2023 12:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686738960/3238/
@@ -136,3 +135,4 @@
 - Mittwoch, 14. Juni 2023 14:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686744720/231/
 - Mittwoch, 14. Juni 2023 14:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686745440/231/
 - Mittwoch, 14. Juni 2023 14:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686746160/231/
+- Mittwoch, 14. Juni 2023 14:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686746880/231/
