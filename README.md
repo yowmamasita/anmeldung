@@ -21,4 +21,3 @@
 - Donnerstag, 15. Juni 2023 15:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686834720/3238/
 - Donnerstag, 15. Juni 2023 15:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686835440/3238/
 - Donnerstag, 15. Juni 2023 15:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686836160/3238/
-- Donnerstag, 15. Juni 2023 15:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686836880/3238/
