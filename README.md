@@ -115,7 +115,6 @@
 - Donnerstag, 10. August 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1691676000/170/
 - Donnerstag, 10. August 2023 16:12 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1691676720/106/
 - Donnerstag, 10. August 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1691676720/136/
-- Donnerstag, 10. August 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1691676720/108/
 - Donnerstag, 10. August 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1691676720/112/
 - Donnerstag, 10. August 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1691676720/381/
 - Donnerstag, 10. August 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691676720/898/
@@ -126,6 +125,7 @@
 - Donnerstag, 10. August 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1691676720/192/
 - Donnerstag, 10. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691676720/2866/
 - Donnerstag, 10. August 2023 16:18 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691677080/2836/
+- Donnerstag, 10. August 2023 16:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1691677440/108/
 - Donnerstag, 10. August 2023 16:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691678160/2914/
 - Donnerstag, 10. August 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1691678160/312/
 - Donnerstag, 10. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691678160/922/
