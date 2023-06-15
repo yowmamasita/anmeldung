@@ -184,8 +184,8 @@
 - Donnerstag, 10. August 2023 17:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1691680200/147/
 - Donnerstag, 10. August 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1691680200/151/
 - Donnerstag, 10. August 2023 17:12 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691680320/841/
-- Donnerstag, 10. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691680320/847/
 - Donnerstag, 10. August 2023 17:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1691680800/150/
-- Donnerstag, 10. August 2023 17:24 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1691681040/145/
+- Donnerstag, 10. August 2023 17:24 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691681040/847/
+- Donnerstag, 10. August 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1691681040/145/
 - Donnerstag, 10. August 2023 17:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1691682480/191/
 - Donnerstag, 10. August 2023 17:50 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1691682600/149/
