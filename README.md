@@ -4,5 +4,4 @@
 - Donnerstag, 15. Juni 2023 14:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1686831120/231/
 - Donnerstag, 15. Juni 2023 14:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686831840/143/
 - Donnerstag, 15. Juni 2023 15:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686836880/2845/
-- Mittwoch, 5. Juli 2023 10:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1688546160/106/
 - Montag, 24. Juli 2023 08:06 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690178760/898/
