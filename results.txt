@@ -1,5 +1,4 @@
 - Donnerstag, 13. Juli 2023 13:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689246720/2872/
-- Donnerstag, 13. Juli 2023 13:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689247440/2872/
 - Donnerstag, 10. August 2023 11:12 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691658720/898/
 - Donnerstag, 10. August 2023 11:24 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691659440/2908/
 - Donnerstag, 10. August 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691659440/3238/
@@ -12,7 +11,6 @@
 - Donnerstag, 10. August 2023 11:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1691660400/147/
 - Donnerstag, 10. August 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691660400/2881/
 - Donnerstag, 10. August 2023 11:42 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691660520/2836/
-- Donnerstag, 10. August 2023 11:48 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691660880/2866/
 - Donnerstag, 10. August 2023 11:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1691661000/150/
 - Donnerstag, 10. August 2023 11:54 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691661240/2839/
 - Donnerstag, 10. August 2023 12:00 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691661600/2908/
