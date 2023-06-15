@@ -3,7 +3,6 @@
 - Donnerstag, 15. Juni 2023 08:24 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686810240/2938/
 - Donnerstag, 15. Juni 2023 08:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686810960/2938/
 - Donnerstag, 15. Juni 2023 10:12 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686816720/2938/
-- Donnerstag, 15. Juni 2023 10:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686818160/2938/
 - Donnerstag, 15. Juni 2023 11:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686822480/2938/
 - Donnerstag, 15. Juni 2023 12:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686826080/2938/
 - Donnerstag, 15. Juni 2023 13:00 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686826800/2938/
