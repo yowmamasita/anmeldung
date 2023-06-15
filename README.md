@@ -4,4 +4,3 @@
 - Donnerstag, 15. Juni 2023 12:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1686823200/169/
 - Donnerstag, 15. Juni 2023 12:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1686823920/169/
 - Donnerstag, 15. Juni 2023 12:36 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686825360/1018/
-- Donnerstag, 15. Juni 2023 14:12 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1686831120/312/
