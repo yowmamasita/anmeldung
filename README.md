@@ -73,7 +73,6 @@
 - Donnerstag, 10. August 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691665920/2887/
 - Donnerstag, 10. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691665920/904/
 - Donnerstag, 10. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691665920/922/
-- Donnerstag, 10. August 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691665920/2899/
 - Donnerstag, 10. August 2023 13:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691666280/2839/
 - Donnerstag, 10. August 2023 13:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691666640/2845/
 - Donnerstag, 10. August 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691666640/898/
@@ -162,13 +161,11 @@
 - Donnerstag, 10. August 2023 15:18 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1691673480/140/
 - Donnerstag, 10. August 2023 15:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1691673600/147/
 - Donnerstag, 10. August 2023 15:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1691673840/312/
-- Donnerstag, 10. August 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1691673840/102/
 - Donnerstag, 10. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1691673840/103/
 - Donnerstag, 10. August 2023 15:30 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1691674200/149/
-- Donnerstag, 10. August 2023 15:36 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691674560/847/
 - Donnerstag, 10. August 2023 15:48 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1691675280/135/
+- Donnerstag, 10. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691675280/847/
 - Donnerstag, 10. August 2023 16:00 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691676000/2908/
-- Donnerstag, 10. August 2023  Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1691676000/135/
 - Donnerstag, 10. August 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691676000/2911/
 - Donnerstag, 10. August 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1691676000/136/
 - Donnerstag, 10. August 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691676000/844/
@@ -194,8 +191,7 @@
 - Donnerstag, 10. August 2023 16:24 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1691677440/134/
 - Donnerstag, 10. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691677440/922/
 - Donnerstag, 10. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691677440/2866/
-- Donnerstag, 10. August 2023 16:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1691678400/147/
-- Donnerstag, 10. August 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1691678400/149/
+- Donnerstag, 10. August 2023 16:40 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1691678400/149/
 - Donnerstag, 10. August 2023 16:42 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1691678520/140/
 - Donnerstag, 10. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691678520/2839/
 - Donnerstag, 10. August 2023 16:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691678880/109/
