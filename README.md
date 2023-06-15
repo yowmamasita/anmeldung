@@ -85,7 +85,6 @@
 - Donnerstag, 10. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1691665920/191/
 - Donnerstag, 10. August 2023 13:18 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1691666280/140/
 - Donnerstag, 10. August 2023 13:20 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1691666400/151/
-- Donnerstag, 10. August 2023  Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1691666400/148/
 - Donnerstag, 10. August 2023 13:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691666640/2914/
 - Donnerstag, 10. August 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1691666640/169/
 - Donnerstag, 10. August 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691666640/109/
@@ -94,6 +93,7 @@
 - Donnerstag, 10. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1691666640/154/
 - Donnerstag, 10. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691666640/2938/
 - Donnerstag, 10. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691666640/2866/
+- Donnerstag, 10. August 2023 13:30 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1691667000/148/
 - Donnerstag, 10. August 2023 14:00 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691668800/844/
 - Donnerstag, 10. August 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1691668800/169/
 - Donnerstag, 10. August 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691668800/2857/
