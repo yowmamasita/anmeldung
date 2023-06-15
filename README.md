@@ -35,7 +35,6 @@
 - Donnerstag, 10. August 2023 10:30 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1691656200/141/
 - Donnerstag, 10. August 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1691656200/149/
 - Donnerstag, 10. August 2023 10:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1691656560/136/
-- Donnerstag, 10. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1691656560/103/
 - Donnerstag, 10. August 2023 10:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1691656800/147/
 - Donnerstag, 10. August 2023 10:42 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1691656920/153/
 - Donnerstag, 10. August 2023 10:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1691657280/312/
