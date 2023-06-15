@@ -4,11 +4,7 @@
 - Donnerstag, 15. Juni 2023 12:00 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1686823200/312/
 - Donnerstag, 15. Juni 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686823200/2863/
 - Donnerstag, 15. Juni 2023 12:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686825360/2863/
-- Donnerstag, 15. Juni 2023 12:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1686826080/169/
-- Donnerstag, 15. Juni 2023 13:00 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686826800/2908/
-- Donnerstag, 15. Juni 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686826800/2863/
-- Donnerstag, 15. Juni 2023 14:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686831120/3238/
+- Donnerstag, 15. Juni 2023 13:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686826800/2863/
 - Donnerstag, 15. Juni 2023 15:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686836160/2848/
 - Donnerstag, 15. Juni 2023 15:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686836520/2839/
 - Donnerstag, 15. Juni 2023 15:48 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686836880/2893/
-- Donnerstag, 15. Juni 2023 16:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686838320/143/
