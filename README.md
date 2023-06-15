@@ -92,8 +92,7 @@
 - Donnerstag, 10. August 2023 15:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1691674560/136/
 - Donnerstag, 10. August 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691674560/2860/
 - Donnerstag, 10. August 2023 15:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1691675280/112/
-- Donnerstag, 10. August 2023 16:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691676000/2845/
-- Donnerstag, 10. August 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691676000/2908/
+- Donnerstag, 10. August 2023 16:00 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691676000/2908/
 - Donnerstag, 10. August 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691676000/2911/
 - Donnerstag, 10. August 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691676000/2848/
 - Donnerstag, 10. August 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691676000/844/
@@ -108,6 +107,7 @@
 - Donnerstag, 10. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691676000/2926/
 - Donnerstag, 10. August 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1691676000/170/
 - Donnerstag, 10. August 2023 16:12 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1691676720/106/
+- Donnerstag, 10. August 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691676720/2845/
 - Donnerstag, 10. August 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1691676720/136/
 - Donnerstag, 10. August 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1691676720/112/
 - Donnerstag, 10. August 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1691676720/381/
