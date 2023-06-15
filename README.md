@@ -37,7 +37,6 @@
 - Mittwoch, 9. August 2023 11:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1691573760/170/
 - Mittwoch, 9. August 2023 11:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1691574480/170/
 - Mittwoch, 9. August 2023 12:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1691575200/170/
-- Mittwoch, 9. August 2023 14:18 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691583480/922/
 - Donnerstag, 10. August 2023 09:54 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1691654040/140/
 - Donnerstag, 10. August 2023 10:06 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1691654760/140/
 - Donnerstag, 10. August 2023 10:48 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691657280/2908/
