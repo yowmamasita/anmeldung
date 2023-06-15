@@ -17,10 +17,8 @@
 - Donnerstag, 15. Juni 2023 13:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686828960/2845/
 - Donnerstag, 15. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686828960/2851/
 - Donnerstag, 15. Juni 2023 13:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686829680/2851/
-- Donnerstag, 15. Juni 2023 14:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686830400/2845/
-- Donnerstag, 15. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686830400/2851/
-- Donnerstag, 15. Juni 2023 14:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686831120/2845/
-- Donnerstag, 15. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686831120/2851/
+- Donnerstag, 15. Juni 2023 14:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686830400/2851/
+- Donnerstag, 15. Juni 2023 14:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686831120/2851/
 - Donnerstag, 15. Juni 2023 14:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686831840/2851/
 - Donnerstag, 15. Juni 2023 14:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686832560/2851/
 - Dienstag, 18. Juli 2023 15:24 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689686640/2866/
