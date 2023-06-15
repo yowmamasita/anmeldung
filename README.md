@@ -1,5 +1,31 @@
 # List of available Anmeldung appointments as of $NOW
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122254,122252,329742,122260,329745,122262,329748,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,317869,122281,327352,122279,329772,122283,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
+- Montag, 7. August 2023 08:00 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691388000/143/
+- Montag, 7. August 2023 08:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691388720/143/
+- Montag, 7. August 2023 08:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691389440/143/
+- Montag, 7. August 2023 08:36 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691390160/143/
+- Montag, 7. August 2023 08:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691390880/143/
+- Montag, 7. August 2023 09:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691392320/143/
+- Montag, 7. August 2023 09:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691393040/143/
+- Montag, 7. August 2023 09:36 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691393760/143/
+- Montag, 7. August 2023 09:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691394480/143/
+- Montag, 7. August 2023 10:00 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691395200/143/
+- Montag, 7. August 2023 10:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691395920/143/
+- Montag, 7. August 2023 10:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691396640/143/
+- Montag, 7. August 2023 10:36 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691397360/143/
+- Montag, 7. August 2023 12:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691403120/143/
+- Montag, 7. August 2023 12:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691403840/143/
+- Montag, 7. August 2023 12:36 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691404560/143/
+- Montag, 7. August 2023 12:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691405280/143/
+- Montag, 7. August 2023 13:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691406720/143/
+- Montag, 7. August 2023 13:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691407440/143/
+- Montag, 7. August 2023 13:36 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691408160/143/
+- Montag, 7. August 2023 13:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691408880/143/
+- Montag, 7. August 2023 14:00 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691409600/143/
+- Montag, 7. August 2023 14:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691410320/143/
+- Montag, 7. August 2023 14:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691411040/143/
+- Montag, 7. August 2023 14:36 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691411760/143/
+- Montag, 7. August 2023 14:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691412480/143/
 - Donnerstag, 10. August 2023 08:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1691647200/108/
 - Donnerstag, 10. August 2023 08:12 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1691647920/106/
 - Donnerstag, 10. August 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1691647920/108/
@@ -19,3 +45,18 @@
 - Donnerstag, 10. August 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1691652960/108/
 - Donnerstag, 10. August 2023 09:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1691653680/106/
 - Donnerstag, 10. August 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1691653680/108/
+- Montag, 14. August 2023 08:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1691992800/146/
+- Montag, 14. August 2023 08:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1691993520/146/
+- Montag, 14. August 2023 08:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1691994240/146/
+- Montag, 14. August 2023 08:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1691994960/146/
+- Montag, 14. August 2023 08:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1691995680/146/
+- Montag, 14. August 2023 09:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1691996400/146/
+- Montag, 14. August 2023 09:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1691997120/146/
+- Montag, 14. August 2023 09:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1691997840/146/
+- Montag, 14. August 2023 09:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1691998560/146/
+- Montag, 14. August 2023 09:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1691999280/146/
+- Montag, 14. August 2023 10:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1692000000/146/
+- Montag, 14. August 2023 10:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1692000720/146/
+- Montag, 14. August 2023 10:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1692001440/146/
+- Montag, 14. August 2023 10:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1692002160/146/
+- Montag, 14. August 2023 10:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1692002880/146/
