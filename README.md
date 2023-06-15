@@ -9,9 +9,7 @@
 - Donnerstag, 15. Juni 2023 10:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1686818880/108/
 - Donnerstag, 15. Juni 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686818880/109/
 - Donnerstag, 15. Juni 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1686818880/154/
-- Donnerstag, 15. Juni 2023 11:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686820320/109/
-- Donnerstag, 15. Juni 2023 11:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1686821760/108/
-- Donnerstag, 15. Juni 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686821760/109/
+- Donnerstag, 15. Juni 2023 11:00 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686819600/109/
+- Donnerstag, 15. Juni 2023 11:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686821760/109/
 - Donnerstag, 15. Juni 2023 11:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686822480/109/
 - Donnerstag, 15. Juni 2023 12:00 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686823200/109/
-- Donnerstag, 15. Juni 2023 12:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686823920/109/
