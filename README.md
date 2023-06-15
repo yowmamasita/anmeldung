@@ -4,4 +4,3 @@
 - Freitag, 16. Juni 2023 08:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1686895920/167/
 - Freitag, 16. Juni 2023 08:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1686896640/167/
 - Freitag, 16. Juni 2023 08:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1686897360/167/
-- Freitag, 16. Juni 2023 08:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1686898080/167/
