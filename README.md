@@ -12,4 +12,3 @@
 - Donnerstag, 15. Juni 2023 15:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686836520/2839/
 - Donnerstag, 15. Juni 2023 15:48 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1686836880/2893/
 - Donnerstag, 15. Juni 2023 16:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1686838320/143/
-- Donnerstag, 15. Juni 2023 16:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1686840480/172/
