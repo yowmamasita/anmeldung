@@ -32,4 +32,3 @@
 - Montag, 19. Juni 2023 14:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687176720/167/
 - Montag, 19. Juni 2023 14:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687177440/167/
 - Montag, 19. Juni 2023 14:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687178160/167/
-- Montag, 19. Juni 2023 14:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687178880/167/
