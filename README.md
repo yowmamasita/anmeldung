@@ -228,7 +228,7 @@
 - Freitag, 11. August 2023 12:30 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1691749800/135/
 - Freitag, 11. August 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1691749800/149/
 - Freitag, 11. August 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691749800/2884/
+- Freitag, 11. August 2023 12:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1691750400/147/
 - Freitag, 11. August 2023 12:48 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691750880/2860/
-- Freitag, 11. August 2023 12:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1691751000/147/
 - Freitag, 11. August 2023 13:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691751600/2836/
 - Freitag, 11. August 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691751600/3238/
