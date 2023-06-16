@@ -17,7 +17,6 @@
 - Freitag, 11. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691735760/2926/
 - Freitag, 11. August 2023 08:42 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691736120/841/
 - Freitag, 11. August 2023 08:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1691736480/169/
-- Freitag, 11. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691736480/922/
 - Freitag, 11. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691736480/2938/
 - Freitag, 11. August 2023 08:50 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691736600/2884/
 - Freitag, 11. August 2023 09:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691737200/2857/
