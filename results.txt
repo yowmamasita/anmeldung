@@ -1,4 +1,3 @@
-- Freitag, 14. Juli 2023 12:48 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689331680/2875/
 - Donnerstag, 10. August 2023 15:00 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691672400/2866/
 - Donnerstag, 10. August 2023 15:12 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691673120/2866/
 - Donnerstag, 10. August 2023 15:24 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691673840/2866/
@@ -194,6 +193,7 @@
 - Freitag, 11. August 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1691746560/381/
 - Freitag, 11. August 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1691746560/102/
 - Freitag, 11. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1691746560/154/
+- Freitag, 11. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691746560/2938/
 - Freitag, 11. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1691746560/103/
 - Freitag, 11. August 2023 11:48 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1691747280/141/
 - Freitag, 11. August 2023 11:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1691747640/313/
@@ -210,6 +210,7 @@
 - Freitag, 11. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691748000/922/
 - Freitag, 11. August 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1691748000/150/
 - Freitag, 11. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1691748000/154/
+- Freitag, 11. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691748000/2938/
 - Freitag, 11. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1691748000/103/
 - Freitag, 11. August 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1691748000/192/
 - Freitag, 11. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691748000/2926/
