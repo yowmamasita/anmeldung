@@ -8,5 +8,4 @@
 - Montag, 19. Juni 2023 09:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687160160/2863/
 - Montag, 19. Juni 2023 09:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687160880/2863/
 - Montag, 19. Juni 2023 10:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687162320/2863/
-- Montag, 19. Juni 2023 10:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687163040/2863/
 - Montag, 19. Juni 2023 10:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687163760/2863/
