@@ -281,8 +281,7 @@
 - Freitag, 11. August 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691733960/898/
 - Freitag, 11. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691733960/847/
 - Freitag, 11. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691733960/904/
-- Freitag, 11. August 2023 08:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1691734200/147/
-- Freitag, 11. August 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691734200/2878/
+- Freitag, 11. August 2023 08:10 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691734200/2878/
 - Freitag, 11. August 2023 08:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691734320/2848/
 - Freitag, 11. August 2023  Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1691734320/141/
 - Freitag, 11. August 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1691734320/190/
@@ -294,7 +293,8 @@
 - Freitag, 11. August 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1691734680/111/
 - Freitag, 11. August 2023 08:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1691735040/108/
 - Freitag, 11. August 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691735040/2860/
-- Freitag, 11. August 2023 08:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1691735400/313/
+- Freitag, 11. August 2023 08:30 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1691735400/147/
+- Freitag, 11. August 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1691735400/313/
 - Freitag, 11. August 2023 08:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1691735760/191/
 - Freitag, 11. August 2023 08:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1691736480/381/
 - Freitag, 11. August 2023 08:50 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1691736600/151/
