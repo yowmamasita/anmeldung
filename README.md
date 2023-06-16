@@ -22,8 +22,7 @@
 - Dienstag, 8. August 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691492400/2863/
 - Dienstag, 8. August 2023 13:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1691493120/168/
 - Dienstag, 8. August 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691493120/2863/
-- Dienstag, 8. August 2023 13:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691493840/143/
-- Dienstag, 8. August 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691493840/2851/
+- Dienstag, 8. August 2023 13:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691493840/2851/
 - Dienstag, 8. August 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1691493840/168/
 - Dienstag, 8. August 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691493840/2863/
 - Dienstag, 8. August 2023 13:36 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691494560/143/
