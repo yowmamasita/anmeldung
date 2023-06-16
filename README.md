@@ -286,9 +286,9 @@
 - Freitag, 11. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691741880/841/
 - Freitag, 11. August 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1691741880/140/
 - Freitag, 11. August 2023 10:20 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1691742000/148/
-- Freitag, 11. August 2023 10:24 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1691742240/145/
 - Freitag, 11. August 2023 10:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1691742960/154/
 - Freitag, 11. August 2023 10:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1691743320/136/
+- Freitag, 11. August 2023 10:48 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1691743680/145/
 - Freitag, 11. August 2023 11:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1691744400/169/
 - Freitag, 11. August 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691744400/2857/
 - Freitag, 11. August 2023  Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1691744400/380/
