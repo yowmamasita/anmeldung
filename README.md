@@ -215,8 +215,7 @@
 - Freitag, 11. August 2023 13:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691751600/2836/
 - Freitag, 11. August 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691751600/3238/
 - Dienstag, 15. August 2023 12:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1692093600/172/
-- Dienstag, 15. August 2023 12:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1692094320/146/
-- Dienstag, 15. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1692094320/172/
+- Dienstag, 15. August 2023 12:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1692094320/172/
 - Dienstag, 15. August 2023 12:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1692095040/146/
 - Dienstag, 15. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1692095040/172/
 - Dienstag, 15. August 2023 12:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1692095760/146/
