@@ -148,7 +148,6 @@
 - Freitag, 11. August 2023 11:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1691746800/150/
 - Freitag, 11. August 2023 11:42 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1691746920/134/
 - Freitag, 11. August 2023 11:48 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1691747280/141/
-- Freitag, 11. August 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1691747280/381/
 - Freitag, 11. August 2023 11:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1691747640/136/
 - Freitag, 11. August 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1691747640/312/
 - Freitag, 11. August 2023 12:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691748000/2845/
