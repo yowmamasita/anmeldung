@@ -107,3 +107,28 @@
 - Freitag, 11. August 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691750880/2854/
 - Freitag, 11. August 2023 13:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691752320/3238/
 - Freitag, 11. August 2023 13:36 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691753760/2836/
+- Dienstag, 15. August 2023 15:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1692105840/146/
+- Dienstag, 15. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1692105840/172/
+- Dienstag, 15. August 2023 15:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1692106560/146/
+- Dienstag, 15. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1692106560/172/
+- Dienstag, 15. August 2023 15:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1692107280/146/
+- Dienstag, 15. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1692107280/172/
+- Dienstag, 15. August 2023 16:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1692108000/146/
+- Dienstag, 15. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1692108000/172/
+- Dienstag, 15. August 2023 16:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1692108720/146/
+- Dienstag, 15. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1692108720/172/
+- Dienstag, 15. August 2023 16:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1692109440/146/
+- Dienstag, 15. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1692109440/172/
+- Dienstag, 15. August 2023 16:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1692110160/146/
+- Dienstag, 15. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1692110160/172/
+- Dienstag, 15. August 2023 16:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1692110880/146/
+- Dienstag, 15. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1692110880/172/
+- Dienstag, 15. August 2023 17:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1692111600/146/
+- Dienstag, 15. August 2023 17:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1692112320/146/
+- Dienstag, 15. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1692112320/172/
+- Dienstag, 15. August 2023 17:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1692113040/146/
+- Dienstag, 15. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1692113040/172/
+- Dienstag, 15. August 2023 17:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1692113760/146/
+- Dienstag, 15. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1692113760/172/
+- Dienstag, 15. August 2023 17:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1692114480/146/
+- Dienstag, 15. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1692114480/172/
