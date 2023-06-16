@@ -24,4 +24,3 @@
 - Montag, 19. Juni 2023 13:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687174560/167/
 - Montag, 19. Juni 2023 13:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687175280/167/
 - Montag, 19. Juni 2023 14:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687176720/167/
-- Montag, 31. Juli 2023 09:36 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690788960/2839/
