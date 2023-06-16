@@ -181,5 +181,4 @@
 - Donnerstag, 10. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691682480/2926/
 - Freitag, 11. August 2023 07:00 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1691730000/145/
 - Freitag, 11. August 2023 07:12 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1691730720/145/
-- Freitag, 11. August 2023 07:24 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1691731440/145/
 - Freitag, 11. August 2023 07:36 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1691732160/145/
