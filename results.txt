@@ -1,7 +1,4 @@
-- Freitag, 16. Juni 2023 08:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1686897360/106/
-- Freitag, 16. Juni 2023 09:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1686898800/106/
-- Dienstag, 20. Juni 2023 15:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687266720/191/
-- Dienstag, 20. Juni 2023 15:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687267440/191/
+- Freitag, 16. Juni 2023 10:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1686903840/106/
 - Mittwoch, 21. Juni 2023 09:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687334040/191/
 - Mittwoch, 21. Juni 2023 10:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687334760/191/
 - Mittwoch, 21. Juni 2023 10:18 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687335480/191/
@@ -38,8 +35,5 @@
 - Donnerstag, 22. Juni 2023 16:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687443840/191/
 - Donnerstag, 22. Juni 2023 16:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687444560/191/
 - Donnerstag, 22. Juni 2023 16:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687445280/191/
-- Donnerstag, 22. Juni 2023 17:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687446000/191/
-- Donnerstag, 22. Juni 2023 17:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687446720/191/
-- Donnerstag, 22. Juni 2023 17:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687447440/191/
 - Donnerstag, 22. Juni 2023 17:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687448160/191/
 - Donnerstag, 22. Juni 2023 17:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687448880/191/
