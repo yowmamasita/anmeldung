@@ -232,9 +232,9 @@
 - Freitag, 11. August 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691735040/2860/
 - Freitag, 11. August 2023 08:30 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1691735400/147/
 - Freitag, 11. August 2023 08:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1691735760/191/
-- Freitag, 11. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1691735760/154/
 - Freitag, 11. August 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1691735760/142/
 - Freitag, 11. August 2023 08:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1691736480/381/
+- Freitag, 11. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1691736480/154/
 - Freitag, 11. August 2023 08:50 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1691736600/151/
 - Freitag, 11. August 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1691736600/150/
 - Freitag, 11. August 2023 09:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1691737200/169/
