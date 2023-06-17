@@ -5,4 +5,3 @@
 - Montag, 14. August 2023 14:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692016560/2899/
 - Montag, 14. August 2023 14:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692017280/2899/
 - Mittwoch, 16. August 2023 14:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1692187920/231/
-- Mittwoch, 16. August 2023 14:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1692188640/172/
