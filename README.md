@@ -19,4 +19,4 @@
 - Mittwoch, 9. August 2023 13:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691580240/2851/
 - Mittwoch, 9. August 2023 13:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691580960/2851/
 - Mittwoch, 9. August 2023 13:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691581680/2851/
-- Montag, 14. August 2023 09:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1691999280/172/
+- Freitag, 11. August 2023 07:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1691732520/135/
