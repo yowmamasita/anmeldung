@@ -10,7 +10,6 @@
 - Dienstag, 15. August 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692105120/2899/
 - Dienstag, 15. August 2023 15:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692105840/2899/
 - Dienstag, 15. August 2023 15:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692107280/2899/
-- Dienstag, 15. August 2023 16:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692108000/2899/
 - Donnerstag, 17. August 2023 14:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1692275760/231/
 - Donnerstag, 17. August 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1692275760/146/
 - Donnerstag, 17. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1692275760/172/
