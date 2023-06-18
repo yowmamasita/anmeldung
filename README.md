@@ -3,7 +3,6 @@
 - Montag, 19. Juni 2023 10:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687161960/2908/
 - Montag, 19. Juni 2023 10:48 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687164480/2839/
 - Montag, 19. Juni 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687164480/172/
-- Montag, 19. Juni 2023 11:00 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687165200/150/
 - Montag, 19. Juni 2023 11:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687165920/2857/
 - Montag, 19. Juni 2023 14:24 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1687177440/134/
 - Montag, 19. Juni 2023 14:36 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687178160/2839/
