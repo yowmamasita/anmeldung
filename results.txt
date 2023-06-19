@@ -1,7 +1,6 @@
 - Montag, 19. Juni 2023 13:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687173480/111/
 - Montag, 19. Juni 2023 13:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687175640/111/
 - Dienstag, 20. Juni 2023 10:24 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687249440/111/
-- Dienstag, 20. Juni 2023 10:36 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687250160/111/
 - Dienstag, 20. Juni 2023 10:48 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687250880/111/
 - Dienstag, 20. Juni 2023 11:00 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687251600/111/
 - Dienstag, 20. Juni 2023 11:12 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687252320/111/
@@ -18,8 +17,6 @@
 - Dienstag, 20. Juni 2023 15:24 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687267440/111/
 - Dienstag, 20. Juni 2023 15:36 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687268160/111/
 - Dienstag, 20. Juni 2023 15:48 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687268880/111/
-- Dienstag, 20. Juni 2023 16:00 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687269600/111/
 - Dienstag, 20. Juni 2023 16:12 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687270320/111/
 - Dienstag, 20. Juni 2023 16:24 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687271040/111/
 - Dienstag, 20. Juni 2023 16:48 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687272480/111/
-- Dienstag, 20. Juni 2023 17:24 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687274640/111/
