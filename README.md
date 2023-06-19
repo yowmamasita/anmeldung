@@ -18,7 +18,6 @@
 - Montag, 19. Juni 2023  Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687159440/2842/
 - Montag, 19. Juni 2023 09:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687160160/2845/
 - Montag, 19. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687160160/2896/
-- Montag, 19. Juni 2023 09:40 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687160400/2923/
 - Montag, 19. Juni 2023 09:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687160880/2896/
 - Montag, 19. Juni 2023 09:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687161000/2923/
 - Montag, 19. Juni 2023 10:00 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687161600/2923/
@@ -31,6 +30,7 @@
 - Montag, 19. Juni 2023 10:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687164600/2923/
 - Montag, 19. Juni 2023 11:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687165800/2923/
 - Montag, 19. Juni 2023 11:20 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687166400/2923/
+- Montag, 19. Juni 2023 11:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687166640/2851/
 - Montag, 19. Juni 2023 11:40 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687167600/2923/
 - Montag, 19. Juni 2023 11:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687168200/2923/
 - Montag, 19. Juni 2023 12:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687169400/2923/
