@@ -3,7 +3,6 @@
 - Montag, 19. Juni 2023 08:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687154400/3238/
 - Montag, 19. Juni 2023 08:06 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1687154760/134/
 - Montag, 19. Juni 2023 08:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687155120/3238/
-- Montag, 19. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687155120/231/
 - Montag, 19. Juni 2023 08:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687155480/2908/
 - Montag, 19. Juni 2023 08:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687155840/3238/
 - Montag, 19. Juni 2023 08:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687156560/3238/
@@ -23,7 +22,6 @@
 - Montag, 19. Juni 2023 10:30 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1687163400/134/
 - Montag, 19. Juni 2023 10:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687163760/3238/
 - Montag, 19. Juni 2023 10:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687164480/3238/
-- Montag, 19. Juni 2023 11:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687165200/3238/
 - Montag, 19. Juni 2023 11:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687165920/3238/
 - Montag, 19. Juni 2023 11:18 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687166280/2938/
 - Montag, 19. Juni 2023 11:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687166640/3238/
@@ -31,7 +29,6 @@
 - Montag, 19. Juni 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687167360/2932/
 - Montag, 19. Juni 2023 11:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687168080/3238/
 - Montag, 19. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687168080/231/
-- Montag, 19. Juni 2023 12:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687168800/3238/
 - Montag, 19. Juni 2023 12:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687169520/3238/
 - Montag, 19. Juni 2023 12:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687170240/3238/
 - Montag, 19. Juni 2023 12:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687170960/3238/
@@ -42,8 +39,6 @@
 - Montag, 19. Juni 2023 13:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687174560/3238/
 - Montag, 19. Juni 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687174560/2926/
 - Montag, 19. Juni 2023 13:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687175280/3238/
-- Montag, 19. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687175280/231/
 - Montag, 19. Juni 2023 14:00 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687176000/2908/
-- Montag, 19. Juni 2023 14:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687176720/3238/
+- Montag, 19. Juni 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687176000/3238/
 - Montag, 19. Juni 2023 14:36 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687178160/2908/
-- Montag, 19. Juni 2023 14:48 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687178880/2932/
