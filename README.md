@@ -6,8 +6,7 @@
 - Montag, 19. Juni 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687158720/192/
 - Montag, 19. Juni 2023 09:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687159440/2845/
 - Montag, 19. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687159440/2851/
-- Montag, 19. Juni 2023 09:36 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1687160160/102/
-- Montag, 19. Juni 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687160160/192/
+- Montag, 19. Juni 2023 09:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687160160/192/
 - Montag, 19. Juni 2023 09:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687160880/3238/
 - Montag, 19. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687160880/2851/
 - Montag, 19. Juni 2023 10:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1687161600/106/
@@ -27,7 +26,6 @@
 - Montag, 19. Juni 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687163040/192/
 - Montag, 19. Juni 2023 10:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1687163760/106/
 - Montag, 19. Juni 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687163760/2845/
-- Montag, 19. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1687163760/108/
 - Montag, 19. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687163760/2848/
 - Montag, 19. Juni 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687163760/192/
 - Montag, 19. Juni 2023 10:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1687164480/106/
@@ -75,9 +73,7 @@
 - Montag, 19. Juni 2023 13:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687173000/2923/
 - Montag, 19. Juni 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687173000/150/
 - Montag, 19. Juni 2023 13:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687173120/192/
-- Montag, 19. Juni 2023 13:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687174560/3238/
-- Montag, 19. Juni 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687174560/192/
-- Montag, 19. Juni 2023 14:00 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687176000/2872/
-- Montag, 19. Juni 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687176000/192/
-- Montag, 19. Juni 2023 14:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687176720/192/
-- Montag, 10. Juli 2023 12:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1688985360/190/
+- Montag, 19. Juni 2023 13:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687173840/192/
+- Montag, 19. Juni 2023 13:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687174560/192/
+- Montag, 19. Juni 2023 14:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687176000/192/
+- Montag, 19. Juni 2023 14:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687178160/192/
