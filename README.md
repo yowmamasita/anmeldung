@@ -7,4 +7,3 @@
 - Dienstag, 20. Juni 2023 16:12 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1687270320/135/
 - Dienstag, 20. Juni 2023 17:40 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687275600/2881/
 - Mittwoch, 21. Juni 2023 11:48 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687340880/2866/
-- Mittwoch, 21. Juni 2023 12:54 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687344840/2932/
