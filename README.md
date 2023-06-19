@@ -6,4 +6,3 @@
 - Dienstag, 20. Juni 2023 13:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687261680/2887/
 - Mittwoch, 21. Juni 2023 12:10 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1687342200/149/
 - Mittwoch, 21. Juni 2023 12:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1687342800/149/
-- Mittwoch, 21. Juni 2023 13:12 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687345920/2938/
