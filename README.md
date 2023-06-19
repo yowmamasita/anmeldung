@@ -59,10 +59,10 @@
 - Montag, 14. August 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1691997840/167/
 - Montag, 14. August 2023 09:30 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691998200/898/
 - Montag, 14. August 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1691998200/150/
-- Montag, 14. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1691998200/154/
 - Montag, 14. August 2023 09:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1691998560/106/
 - Montag, 14. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1691998560/191/
 - Montag, 14. August 2023 09:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691998920/2914/
+- Montag, 14. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1691998920/154/
 - Montag, 14. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691998920/2938/
 - Montag, 14. August 2023 09:48 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1691999280/141/
 - Montag, 14. August 2023 09:54 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691999640/904/
