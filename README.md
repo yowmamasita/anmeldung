@@ -20,8 +20,7 @@
 - Montag, 19. Juni 2023 09:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687159800/2908/
 - Montag, 19. Juni 2023 09:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1687160160/170/
 - Montag, 19. Juni 2023 09:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687160520/2908/
-- Montag, 19. Juni 2023 09:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687160880/231/
-- Montag, 19. Juni 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1687160880/170/
+- Montag, 19. Juni 2023 09:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1687160880/170/
 - Montag, 19. Juni 2023 09:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687161240/2908/
 - Montag, 19. Juni 2023 10:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687161960/2908/
 - Montag, 19. Juni 2023 10:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1687162320/170/
