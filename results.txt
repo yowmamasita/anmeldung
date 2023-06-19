@@ -1,2 +1,3 @@
-- Montag, 19. Juni 2023 08:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687156200/111/
-- Dienstag, 20. Juni 2023 14:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687265280/2857/
+- Montag, 19. Juni 2023 07:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687153320/111/
+- Montag, 19. Juni 2023 08:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687156920/111/
+- Dienstag, 20. Juni 2023 11:00 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687251600/111/
