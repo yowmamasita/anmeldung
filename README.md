@@ -83,3 +83,4 @@
 - Montag, 14. August 2023 15:06 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692018360/898/
 - Montag, 14. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692018360/904/
 - Montag, 14. August 2023 15:18 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1692019080/312/
+- Montag, 14. August 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1692019080/313/
