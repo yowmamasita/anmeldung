@@ -41,6 +41,6 @@
 - Dienstag, 20. Juni 2023 17:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687273920/2899/
 - Dienstag, 20. Juni 2023 17:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1687274640/168/
 - Dienstag, 20. Juni 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687274640/2899/
-- Dienstag, 20. Juni 2023 17:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687275360/2899/
+- Dienstag, 20. Juni 2023 17:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1687275360/168/
 - Dienstag, 20. Juni 2023 17:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1687276080/168/
 - Dienstag, 20. Juni 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687276080/2899/
