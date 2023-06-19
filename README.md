@@ -3,5 +3,3 @@
 - Montag, 19. Juni 2023 11:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1687165200/170/
 - Montag, 19. Juni 2023 11:18 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687166280/154/
 - Montag, 19. Juni 2023 12:30 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687170600/154/
-- Mittwoch, 21. Juni 2023 09:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687332240/2872/
-- Mittwoch, 21. Juni 2023 10:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687335120/2872/
