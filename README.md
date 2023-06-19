@@ -5,4 +5,3 @@
 - Dienstag, 20. Juni 2023 11:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687254480/3238/
 - Dienstag, 20. Juni 2023 14:48 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687265280/922/
 - Mittwoch, 21. Juni 2023 10:24 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687335840/2839/
-- Donnerstag, 20. Juli 2023 11:00 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689843600/143/
