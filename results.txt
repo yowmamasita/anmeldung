@@ -1,2 +1,12 @@
-- Freitag, 11. August 2023 11:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1691747280/172/
-- Montag, 14. August 2023 14:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692014400/3238/
+- Dienstag, 20. Juni 2023 08:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687240800/3238/
+- Dienstag, 20. Juni 2023 08:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687242240/2854/
+- Dienstag, 20. Juni 2023 09:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687245120/3238/
+- Dienstag, 20. Juni 2023 09:30 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687246200/381/
+- Dienstag, 20. Juni 2023 10:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687248720/3238/
+- Dienstag, 20. Juni 2023 11:00 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687251600/2875/
+- Dienstag, 20. Juni 2023 11:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687254480/3238/
+- Dienstag, 20. Juni 2023 13:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687259520/3238/
+- Dienstag, 20. Juni 2023 14:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687263840/2899/
+- Dienstag, 20. Juni 2023 16:36 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687271760/313/
+- Mittwoch, 21. Juni 2023 11:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687339440/2854/
+- Freitag, 30. Juni 2023 12:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1688121360/168/
