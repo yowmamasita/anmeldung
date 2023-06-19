@@ -30,7 +30,6 @@
 - Montag, 19. Juni 2023  Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687158000/2923/
 - Montag, 19. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687158000/2851/
 - Montag, 19. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687158000/2896/
-- Montag, 19. Juni 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1687158000/168/
 - Montag, 19. Juni 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687158000/191/
 - Montag, 19. Juni 2023  Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687158000/2842/
 - Montag, 19. Juni 2023 09:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1687158360/136/
@@ -38,7 +37,6 @@
 - Montag, 19. Juni 2023 09:12 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1687158720/106/
 - Montag, 19. Juni 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687158720/2845/
 - Montag, 19. Juni 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687158720/169/
-- Montag, 19. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687158720/2851/
 - Montag, 19. Juni 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687158720/191/
 - Montag, 19. Juni 2023  Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687158720/2842/
 - Montag, 19. Juni 2023 09:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1687159080/136/
@@ -65,7 +63,6 @@
 - Montag, 19. Juni 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687160880/169/
 - Montag, 19. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687160880/2851/
 - Montag, 19. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687160880/2896/
-- Montag, 19. Juni 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687160880/191/
 - Montag, 19. Juni 2023  Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687160880/2842/
 - Montag, 19. Juni 2023 09:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687161000/2923/
 - Montag, 19. Juni 2023 10:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687161600/169/
@@ -86,8 +83,7 @@
 - Montag, 19. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687163040/2851/
 - Montag, 19. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687163040/2896/
 - Montag, 19. Juni 2023  Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687163040/2842/
-- Montag, 19. Juni 2023 10:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1687163400/136/
-- Montag, 19. Juni 2023  Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687163400/2923/
+- Montag, 19. Juni 2023 10:30 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687163400/2923/
 - Montag, 19. Juni 2023 10:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687163760/169/
 - Montag, 19. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687163760/2851/
 - Montag, 19. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687163760/2896/
@@ -102,8 +98,7 @@
 - Montag, 19. Juni 2023  Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687165200/2842/
 - Montag, 19. Juni 2023 11:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1687165560/136/
 - Montag, 19. Juni 2023 11:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687165800/2923/
-- Montag, 19. Juni 2023 11:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687165920/3238/
-- Montag, 19. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687165920/2851/
+- Montag, 19. Juni 2023 11:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687165920/2851/
 - Montag, 19. Juni 2023  Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687165920/2842/
 - Montag, 19. Juni 2023 11:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1687166280/136/
 - Montag, 19. Juni 2023 11:20 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687166400/2923/
@@ -111,7 +106,6 @@
 - Montag, 19. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687166640/2851/
 - Montag, 19. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687166640/2896/
 - Montag, 19. Juni 2023  Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687166640/2842/
-- Montag, 19. Juni 2023 11:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1687167000/136/
 - Montag, 19. Juni 2023 11:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687167360/169/
 - Montag, 19. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687167360/2851/
 - Montag, 19. Juni 2023  Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687167360/2842/
@@ -120,7 +114,6 @@
 - Montag, 19. Juni 2023 11:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1687167720/136/
 - Montag, 19. Juni 2023 11:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687168080/169/
 - Montag, 19. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687168080/2851/
-- Montag, 19. Juni 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687168080/146/
 - Montag, 19. Juni 2023  Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687168080/2842/
 - Montag, 19. Juni 2023 11:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687168200/2923/
 - Montag, 19. Juni 2023 12:00 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687168800/2923/
@@ -136,7 +129,6 @@
 - Montag, 19. Juni 2023 12:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687170960/2851/
 - Montag, 19. Juni 2023  Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687170960/2842/
 - Montag, 19. Juni 2023 12:40 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687171200/2923/
-- Montag, 19. Juni 2023 12:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687171320/313/
 - Montag, 19. Juni 2023 12:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687171680/2857/
 - Montag, 19. Juni 2023  Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687171680/2842/
 - Montag, 19. Juni 2023 12:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687171800/2923/
@@ -168,7 +160,6 @@
 - Montag, 19. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687176000/2851/
 - Montag, 19. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687176000/2896/
 - Montag, 19. Juni 2023  Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687176000/2842/
-- Montag, 19. Juni 2023 14:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1687176360/136/
 - Montag, 19. Juni 2023 14:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687176600/2923/
 - Montag, 19. Juni 2023 14:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687176720/169/
 - Montag, 19. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687176720/2851/
@@ -187,5 +178,3 @@
 - Montag, 19. Juni 2023  Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687178880/2842/
 - Montag, 19. Juni 2023 14:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687179000/2923/
 - Montag, 19. Juni 2023 15:10 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1687180200/149/
-- Montag, 19. Juni 2023 15:24 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687181040/2842/
-- Mittwoch, 21. Juni 2023 07:30 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687325400/192/
