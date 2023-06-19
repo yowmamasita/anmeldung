@@ -9,5 +9,5 @@
 - Montag, 19. Juni 2023 10:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687164120/313/
 - Montag, 19. Juni 2023 10:54 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687164840/844/
 - Montag, 19. Juni 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687164840/313/
-- Montag, 19. Juni 2023 11:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687167720/313/
+- Montag, 19. Juni 2023 11:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687167000/313/
 - Montag, 19. Juni 2023 13:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687173840/3238/
