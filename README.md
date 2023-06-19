@@ -4,4 +4,3 @@
 - Dienstag, 20. Juni 2023 11:12 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687252320/2887/
 - Dienstag, 20. Juni 2023 17:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687276080/381/
 - Mittwoch, 21. Juni 2023 08:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687327920/2872/
-- Mittwoch, 21. Juni 2023 10:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687336560/2854/
