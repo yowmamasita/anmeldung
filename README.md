@@ -5,4 +5,3 @@
 - Dienstag, 20. Juni 2023 13:06 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687259160/2836/
 - Dienstag, 20. Juni 2023 14:48 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687265280/313/
 - Dienstag, 20. Juni 2023 17:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687276080/381/
-- Donnerstag, 22. Juni 2023 15:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687440960/146/
