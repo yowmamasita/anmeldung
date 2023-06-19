@@ -42,6 +42,7 @@
 - Montag, 19. Juni 2023 11:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687165920/231/
 - Montag, 19. Juni 2023 11:18 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1687166280/134/
 - Montag, 19. Juni 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687166280/2908/
+- Montag, 19. Juni 2023 11:30 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1687167000/134/
 - Montag, 19. Juni 2023 11:42 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1687167720/134/
 - Montag, 19. Juni 2023 11:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687168080/231/
 - Montag, 19. Juni 2023 12:48 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1687171680/134/
@@ -62,5 +63,5 @@
 - Montag, 19. Juni 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687177440/2908/
 - Montag, 19. Juni 2023 14:36 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1687178160/134/
 - Montag, 19. Juni 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687178160/2908/
-- Montag, 19. Juni 2023 14:48 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1687178880/134/
-- Montag, 19. Juni 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687178880/2908/
+- Montag, 19. Juni 2023 14:48 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687178880/2908/
+- Montag, 19. Juni 2023 15:00 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687179600/2908/
