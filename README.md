@@ -21,7 +21,6 @@
 - Dienstag, 20. Juni 2023 13:00 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1687258800/147/
 - Dienstag, 20. Juni 2023 13:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1687259400/147/
 - Dienstag, 20. Juni 2023 13:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1687260000/147/
-- Dienstag, 20. Juni 2023 13:30 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1687260600/147/
 - Dienstag, 20. Juni 2023 13:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1687261200/147/
 - Dienstag, 20. Juni 2023 13:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1687261800/147/
 - Dienstag, 20. Juni 2023 14:00 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1687262400/147/
@@ -35,7 +34,6 @@
 - Dienstag, 20. Juni 2023 15:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1687267200/147/
 - Dienstag, 20. Juni 2023 15:30 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1687267800/147/
 - Dienstag, 20. Juni 2023 15:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1687268400/147/
-- Dienstag, 20. Juni 2023 15:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1687269000/147/
 - Dienstag, 20. Juni 2023 16:00 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1687269600/147/
 - Dienstag, 20. Juni 2023 16:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1687270200/147/
 - Dienstag, 20. Juni 2023 16:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1687270800/147/
