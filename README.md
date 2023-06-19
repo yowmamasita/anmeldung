@@ -4,5 +4,4 @@
 - Dienstag, 20. Juni 2023 13:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687261680/2899/
 - Dienstag, 20. Juni 2023 14:12 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687263120/312/
 - Dienstag, 20. Juni 2023 15:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687268880/312/
-- Dienstag, 20. Juni 2023 16:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687271760/2899/
 - Dienstag, 27. Juni 2023 13:48 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687866480/844/
