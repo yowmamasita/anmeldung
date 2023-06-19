@@ -65,6 +65,7 @@
 - Montag, 14. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1691999280/191/
 - Montag, 14. August 2023 09:54 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691999640/904/
 - Montag, 14. August 2023 10:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1692000000/106/
+- Montag, 14. August 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692000000/2845/
 - Montag, 14. August 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1692000000/108/
 - Montag, 14. August 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692000000/2857/
 - Montag, 14. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692000000/2836/
@@ -101,6 +102,7 @@
 - Montag, 14. August 2023 10:42 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692002520/844/
 - Montag, 14. August 2023 10:48 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1692002880/141/
 - Montag, 14. August 2023 11:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1692003600/106/
+- Montag, 14. August 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692003600/2845/
 - Montag, 14. August 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1692003600/108/
 - Montag, 14. August 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692003600/2857/
 - Montag, 14. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692003600/2836/
