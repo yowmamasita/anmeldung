@@ -119,7 +119,6 @@
 - Montag, 14. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692003960/847/
 - Montag, 14. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692003960/154/
 - Montag, 14. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692003960/2938/
-- Montag, 14. August 2023 11:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1692004200/150/
 - Montag, 14. August 2023 11:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1692004320/191/
 - Montag, 14. August 2023 11:18 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692004680/841/
 - Montag, 14. August 2023 11:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1692004800/149/
