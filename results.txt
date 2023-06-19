@@ -25,7 +25,6 @@
 - Montag, 19. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687162320/2896/
 - Montag, 19. Juni 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1687162320/170/
 - Montag, 19. Juni 2023 10:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687163040/231/
-- Montag, 19. Juni 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687163040/167/
 - Montag, 19. Juni 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687163040/146/
 - Montag, 19. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687163040/2896/
 - Montag, 19. Juni 2023 10:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687163760/3238/
@@ -56,8 +55,5 @@
 - Montag, 19. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687171680/2896/
 - Montag, 19. Juni 2023 13:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687172400/146/
 - Montag, 19. Juni 2023 13:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687173120/2896/
-- Montag, 19. Juni 2023 13:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687173840/2896/
 - Montag, 19. Juni 2023 13:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687175280/231/
 - Montag, 19. Juni 2023 14:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687176000/231/
-- Montag, 19. Juni 2023 14:48 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687178880/2908/
-- Dienstag, 20. Juni 2023 09:30 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1687246200/142/
