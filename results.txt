@@ -1,9 +1,2 @@
-- Dienstag, 20. Juni 2023 12:12 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687255920/313/
-- Dienstag, 20. Juni 2023 12:36 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687257360/313/
-- Dienstag, 20. Juni 2023 12:48 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687258080/313/
-- Dienstag, 20. Juni 2023 13:48 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687261680/313/
-- Dienstag, 20. Juni 2023 14:00 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687262400/313/
-- Dienstag, 20. Juni 2023 14:12 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687263120/313/
-- Dienstag, 20. Juni 2023 14:24 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687263840/313/
-- Dienstag, 20. Juni 2023 15:24 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687267440/313/
-- Dienstag, 20. Juni 2023 15:36 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687268160/313/
+- Dienstag, 20. Juni 2023 13:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687260960/2887/
+- Dienstag, 11. Juli 2023 10:40 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689064800/2884/
