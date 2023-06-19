@@ -5,5 +5,4 @@
 - Dienstag, 20. Juni 2023 10:12 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687248720/2920/
 - Dienstag, 20. Juni 2023 10:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687250520/2839/
 - Dienstag, 20. Juni 2023 12:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687256640/3238/
-- Dienstag, 20. Juni 2023 15:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687266000/2926/
 - Dienstag, 20. Juni 2023 16:12 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687270320/2875/
