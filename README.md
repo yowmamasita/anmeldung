@@ -7,4 +7,3 @@
 - Montag, 19. Juni 2023 13:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1687173840/190/
 - Montag, 19. Juni 2023 13:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1687174560/190/
 - Montag, 19. Juni 2023 13:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1687175280/190/
-- Montag, 19. Juni 2023 14:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1687177440/190/
