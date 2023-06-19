@@ -167,8 +167,8 @@
 - Montag, 14. August 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1692015120/192/
 - Montag, 14. August 2023 14:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1692015600/149/
 - Montag, 14. August 2023 14:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692015840/2854/
-- Montag, 14. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1692015840/191/
 - Montag, 14. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692015840/2866/
+- Montag, 14. August 2023 14:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1692016560/191/
 - Montag, 14. August 2023 14:40 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692016800/2878/
 - Montag, 14. August 2023 15:10 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692018600/2881/
 - Montag, 14. August 2023 15:12 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692018720/2836/
