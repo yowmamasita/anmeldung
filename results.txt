@@ -1,9 +1,6 @@
-- Dienstag, 20. Juni 2023 14:00 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687262400/312/
-- Dienstag, 20. Juni 2023 14:12 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687263120/312/
-- Dienstag, 20. Juni 2023 14:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687263840/312/
-- Dienstag, 20. Juni 2023 14:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687265280/312/
-- Dienstag, 20. Juni 2023 15:00 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687266000/312/
-- Dienstag, 20. Juni 2023 15:12 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687266720/312/
-- Dienstag, 20. Juni 2023 15:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687267440/312/
-- Dienstag, 20. Juni 2023 15:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687268160/312/
-- Dienstag, 20. Juni 2023 15:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687268880/312/
+- Dienstag, 8. August 2023 15:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691501760/2848/
+- Montag, 14. August 2023 08:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691993520/2899/
+- Montag, 14. August 2023 13:36 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692012960/2908/
+- Montag, 14. August 2023 13:42 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692013320/904/
+- Montag, 14. August 2023 13:48 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692013680/2908/
+- Montag, 14. August 2023 14:36 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692016560/2908/
