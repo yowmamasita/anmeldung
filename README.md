@@ -80,7 +80,6 @@
 - Montag, 14. August 2023 13:54 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692014040/2911/
 - Montag, 14. August 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692014040/2914/
 - Montag, 14. August 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1692014040/112/
-- Montag, 14. August 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692014040/844/
 - Montag, 14. August 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1692014040/312/
 - Montag, 14. August 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692014040/898/
 - Montag, 14. August 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1692014040/111/
