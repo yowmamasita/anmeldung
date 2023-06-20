@@ -125,7 +125,6 @@
 - Dienstag, 15. August 2023 14:18 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1692101880/141/
 - Dienstag, 15. August 2023 14:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1692102000/150/
 - Dienstag, 15. August 2023 14:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692102240/3238/
-- Dienstag, 15. August 2023 14:54 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1692104040/142/
 - Dienstag, 15. August 2023 15:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692104400/2857/
 - Dienstag, 15. August 2023  Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1692104400/147/
 - Dienstag, 15. August 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692104400/2881/
