@@ -71,7 +71,6 @@
 - Dienstag, 15. August 2023 12:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1692095040/169/
 - Dienstag, 15. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1692095040/191/
 - Dienstag, 15. August 2023 12:36 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1692095760/135/
-- Dienstag, 15. August 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1692095760/381/
 - Dienstag, 15. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692095760/847/
 - Dienstag, 15. August 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1692095760/313/
 - Dienstag, 15. August 2023 12:48 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1692096480/103/
