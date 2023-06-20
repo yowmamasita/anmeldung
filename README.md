@@ -19,7 +19,6 @@
 - Dienstag, 20. Juni 2023 11:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687251600/2845/
 - Dienstag, 20. Juni 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687251600/2908/
 - Dienstag, 20. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687251600/2914/
-- Dienstag, 20. Juni 2023 11:06 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687251960/2839/
 - Dienstag, 20. Juni 2023 11:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687252320/2845/
 - Dienstag, 20. Juni 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687252320/2908/
 - Dienstag, 20. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687252320/2914/
@@ -29,8 +28,7 @@
 - Dienstag, 20. Juni 2023 11:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687253040/2845/
 - Dienstag, 20. Juni 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687253040/2908/
 - Dienstag, 20. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687253040/2896/
-- Dienstag, 20. Juni 2023 11:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687253760/2845/
-- Dienstag, 20. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1687253760/136/
+- Dienstag, 20. Juni 2023 11:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1687253760/136/
 - Dienstag, 20. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687253760/2848/
 - Dienstag, 20. Juni 2023 11:48 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1687254480/135/
 - Dienstag, 20. Juni 2023 11:54 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1687254840/140/
@@ -41,26 +39,18 @@
 - Dienstag, 20. Juni 2023 12:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1687258080/136/
 - Dienstag, 20. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687258080/2914/
 - Dienstag, 20. Juni 2023 13:00 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687258800/2914/
-- Dienstag, 20. Juni 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687258800/172/
 - Dienstag, 20. Juni 2023 13:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687259520/2914/
-- Dienstag, 20. Juni 2023 13:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687260240/172/
-- Dienstag, 20. Juni 2023 14:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687264560/2896/
-- Dienstag, 20. Juni 2023 14:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687264920/2839/
-- Dienstag, 20. Juni 2023 15:36 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1687268160/135/
-- Dienstag, 20. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687268160/2896/
+- Dienstag, 20. Juni 2023 15:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687268160/2896/
 - Dienstag, 20. Juni 2023 15:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687268880/2896/
-- Dienstag, 20. Juni 2023 16:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687271760/312/
-- Dienstag, 20. Juni 2023 17:00 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687273200/312/
-- Dienstag, 20. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687273200/2896/
+- Dienstag, 20. Juni 2023 17:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687273200/2896/
 - Dienstag, 20. Juni 2023 17:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687276080/2896/
 - Dienstag, 18. Juli 2023 10:36 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689669360/2920/
 - Dienstag, 18. Juli 2023 11:00 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689670800/2920/
 - Dienstag, 18. Juli 2023 11:12 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689671520/2920/
 - Dienstag, 18. Juli 2023 11:24 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689672240/2920/
 - Dienstag, 18. Juli 2023 11:36 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689672960/2920/
-- Dienstag, 18. Juli 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689672960/2875/
 - Dienstag, 18. Juli 2023 11:48 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689673680/2920/
-- Dienstag, 18. Juli 2023 12:00 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689674400/2920/
+- Dienstag, 18. Juli 2023  Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689673680/2893/
 - Dienstag, 18. Juli 2023 12:12 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689675120/2920/
 - Dienstag, 18. Juli 2023 12:24 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689675840/2920/
 - Dienstag, 18. Juli 2023 12:48 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689677280/2920/
