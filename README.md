@@ -5,7 +5,6 @@
 - Mittwoch, 21. Juni 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687327920/2863/
 - Mittwoch, 21. Juni 2023 08:42 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687329720/2887/
 - Mittwoch, 21. Juni 2023 08:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687330080/2863/
-- Mittwoch, 21. Juni 2023 12:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1687342320/168/
 - Freitag, 14. Juli 2023 12:30 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1689330600/380/
 - Donnerstag, 20. Juli 2023 09:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689839280/2938/
 - Donnerstag, 20. Juli 2023 15:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1689860160/168/
