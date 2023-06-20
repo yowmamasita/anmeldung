@@ -10,6 +10,4 @@
 - Dienstag, 20. Juni 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687268160/2887/
 - Dienstag, 20. Juni 2023 16:00 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687269600/2887/
 - Dienstag, 20. Juni 2023 16:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687271760/2848/
-- Dienstag, 11. Juli 2023 15:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689080400/2863/
-- Donnerstag, 13. Juli 2023 16:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689257520/2899/
 - Donnerstag, 13. Juli 2023 17:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689261840/2872/
