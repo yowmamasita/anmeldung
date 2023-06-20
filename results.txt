@@ -1,9 +1,7 @@
 - Dienstag, 20. Juni 2023 17:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687274640/312/
 - Dienstag, 20. Juni 2023 17:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687276080/2845/
-- Mittwoch, 21. Juni 2023 08:42 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687329720/2887/
 - Mittwoch, 21. Juni 2023 10:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687335120/231/
 - Mittwoch, 21. Juni 2023 14:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687350960/231/
-- Donnerstag, 22. Juni 2023 12:54 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687431240/2932/
 - Donnerstag, 22. Juni 2023 15:00 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687438800/2866/
 - Donnerstag, 22. Juni 2023 15:12 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687439520/2866/
 - Donnerstag, 22. Juni 2023 16:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687443120/2845/
