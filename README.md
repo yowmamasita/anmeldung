@@ -19,7 +19,6 @@
 - Dienstag, 20. Juni 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687250160/192/
 - Dienstag, 20. Juni 2023 10:48 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687250880/2908/
 - Dienstag, 20. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687250880/2848/
-- Dienstag, 20. Juni 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687250880/109/
 - Dienstag, 20. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687250880/2896/
 - Dienstag, 20. Juni 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687250880/192/
 - Dienstag, 20. Juni 2023 11:00 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687251600/2914/
@@ -30,7 +29,6 @@
 - Dienstag, 20. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687252320/2848/
 - Dienstag, 20. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687252320/231/
 - Dienstag, 20. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687252320/2896/
-- Dienstag, 20. Juni 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687252320/192/
 - Dienstag, 20. Juni 2023 11:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687253040/2914/
 - Dienstag, 20. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687253040/2896/
 - Dienstag, 20. Juni 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687253040/922/
@@ -55,5 +53,3 @@
 - Dienstag, 20. Juni 2023 15:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1687266720/136/
 - Dienstag, 20. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687266720/2914/
 - Dienstag, 20. Juni 2023 15:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687267440/2914/
-- Dienstag, 20. Juni 2023 16:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687271760/2896/
-- Dienstag, 20. Juni 2023 17:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687274640/312/
