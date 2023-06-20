@@ -16,10 +16,8 @@
 - Dienstag, 20. Juni 2023 11:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687252320/2845/
 - Dienstag, 20. Juni 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687252320/2908/
 - Dienstag, 20. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687252320/231/
-- Dienstag, 20. Juni 2023 11:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687253040/2845/
-- Dienstag, 20. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687253040/2914/
+- Dienstag, 20. Juni 2023 11:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687253040/2914/
 - Dienstag, 20. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687253040/2896/
-- Dienstag, 20. Juni 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687253040/922/
 - Dienstag, 20. Juni 2023 11:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687253760/2896/
 - Dienstag, 20. Juni 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687253760/922/
 - Dienstag, 20. Juni 2023 11:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687254480/2845/
@@ -32,6 +30,4 @@
 - Dienstag, 20. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1687258080/136/
 - Dienstag, 20. Juni 2023 13:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687260240/2896/
 - Dienstag, 20. Juni 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1687260240/170/
-- Dienstag, 20. Juni 2023 14:12 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687263120/841/
 - Dienstag, 20. Juni 2023 15:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1687268160/170/
-- Dienstag, 20. Juni 2023 16:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1687272480/170/
