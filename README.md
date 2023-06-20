@@ -7,4 +7,3 @@
 - Mittwoch, 21. Juni 2023 08:30 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687329000/192/
 - Mittwoch, 21. Juni 2023 08:42 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687329720/192/
 - Mittwoch, 21. Juni 2023 08:54 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687330440/192/
-- Mittwoch, 21. Juni 2023 09:06 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687331160/192/
