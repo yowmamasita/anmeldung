@@ -3,7 +3,6 @@
 - Dienstag, 20. Juni 2023 16:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687269600/2896/
 - Dienstag, 20. Juni 2023 16:12 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687270320/2887/
 - Dienstag, 20. Juni 2023 16:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687271760/169/
-- Donnerstag, 22. Juni 2023 15:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687439520/2926/
 - Montag, 3. Juli 2023 14:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688385600/3238/
 - Dienstag, 4. Juli 2023 12:12 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688465520/847/
 - Donnerstag, 6. Juli 2023 16:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688652720/146/
