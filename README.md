@@ -10,8 +10,7 @@
 - Dienstag, 20. Juni 2023 14:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687265280/192/
 - Dienstag, 20. Juni 2023 15:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687266000/2848/
 - Dienstag, 20. Juni 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687266000/192/
-- Dienstag, 20. Juni 2023 15:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687266720/2845/
-- Dienstag, 20. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687266720/2848/
+- Dienstag, 20. Juni 2023 15:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687266720/2848/
 - Dienstag, 20. Juni 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687266720/192/
 - Dienstag, 20. Juni 2023 15:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687267440/2848/
 - Dienstag, 20. Juni 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687267440/192/
@@ -19,7 +18,6 @@
 - Dienstag, 20. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687268160/2848/
 - Dienstag, 20. Juni 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687268160/192/
 - Dienstag, 20. Juni 2023 15:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687268880/192/
-- Dienstag, 20. Juni 2023 16:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687270320/192/
 - Dienstag, 20. Juni 2023 16:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687271040/192/
 - Dienstag, 20. Juni 2023 16:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687272480/192/
 - Dienstag, 20. Juni 2023 17:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687273200/192/
