@@ -14,4 +14,4 @@
 - Dienstag, 20. Juni 2023 12:30 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687257000/154/
 - Dienstag, 20. Juni 2023 12:36 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1687257360/135/
 - Dienstag, 20. Juni 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687257360/313/
-- Dienstag, 20. Juni 2023 12:48 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687258080/2893/
+- Dienstag, 20. Juni 2023 13:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687261680/169/
