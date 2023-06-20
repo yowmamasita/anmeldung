@@ -1,6 +1,7 @@
-- Dienstag, 20. Juni 2023 14:12 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687263120/2887/
+- Dienstag, 20. Juni 2023 13:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687258800/2848/
 - Dienstag, 20. Juni 2023 14:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687263840/2887/
-- Dienstag, 20. Juni 2023 14:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687264560/2887/
+- Dienstag, 20. Juni 2023 14:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687264560/2848/
+- Dienstag, 20. Juni 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687264560/2887/
 - Dienstag, 20. Juni 2023 14:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687265280/2887/
 - Dienstag, 20. Juni 2023 15:00 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687266000/2887/
 - Dienstag, 20. Juni 2023 15:12 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687266720/2887/
@@ -13,4 +14,4 @@
 - Dienstag, 20. Juni 2023 16:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687271760/2887/
 - Dienstag, 20. Juni 2023 16:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687272480/2887/
 - Dienstag, 20. Juni 2023 17:12 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687273920/2887/
-- Dienstag, 18. Juli 2023 12:48 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689677280/2893/
+- Donnerstag, 22. Juni 2023 11:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1687425840/190/
