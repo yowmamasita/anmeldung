@@ -22,9 +22,7 @@
 - Mittwoch, 21. Juni 2023 12:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687342320/167/
 - Donnerstag, 22. Juni 2023 13:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687431600/2896/
 - Donnerstag, 22. Juni 2023 14:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687435200/2845/
-- Donnerstag, 22. Juni 2023 17:36 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687448160/2911/
 - Dienstag, 27. Juni 2023 15:00 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687870800/2866/
-- Donnerstag, 29. Juni 2023 14:24 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688041440/2911/
 - Donnerstag, 13. Juli 2023 13:00 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689246000/841/
 - Freitag, 14. Juli 2023 09:12 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689318720/381/
 - Freitag, 14. Juli 2023 09:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1689319440/381/
