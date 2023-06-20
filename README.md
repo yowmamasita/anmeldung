@@ -176,6 +176,6 @@
 - Dienstag, 15. August 2023 17:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692112680/2839/
 - Dienstag, 15. August 2023 17:20 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1692112800/151/
 - Dienstag, 15. August 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692112800/2878/
-- Dienstag, 15. August 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1692112800/149/
 - Dienstag, 15. August 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692112800/2881/
+- Dienstag, 15. August 2023 17:30 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1692113400/149/
 - Dienstag, 15. August 2023 17:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1692114000/150/
