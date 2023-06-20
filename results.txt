@@ -6,7 +6,6 @@
 - Mittwoch, 21. Juni 2023 10:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687337640/313/
 - Mittwoch, 21. Juni 2023 11:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687340520/313/
 - Mittwoch, 21. Juni 2023 11:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687340880/2848/
-- Mittwoch, 21. Juni 2023 13:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687348440/313/
 - Donnerstag, 22. Juni 2023 14:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687437720/2839/
 - Donnerstag, 22. Juni 2023 16:24 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687443840/2866/
 - Donnerstag, 22. Juni 2023 17:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687448160/3238/
