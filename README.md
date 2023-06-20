@@ -3,4 +3,3 @@
 - Mittwoch, 21. Juni 2023 07:54 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687326840/192/
 - Mittwoch, 21. Juni 2023 08:06 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687327560/192/
 - Mittwoch, 21. Juni 2023 08:18 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687328280/192/
-- Mittwoch, 21. Juni 2023 11:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687339800/313/
