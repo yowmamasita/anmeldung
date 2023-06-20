@@ -6,6 +6,7 @@
 - Dienstag, 20. Juni 2023 15:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1687266720/190/
 - Dienstag, 20. Juni 2023 15:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687267440/2845/
 - Dienstag, 20. Juni 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687267440/2887/
+- Dienstag, 20. Juni 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687267440/192/
 - Dienstag, 20. Juni 2023 15:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687268160/2845/
 - Dienstag, 20. Juni 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687268160/2887/
 - Dienstag, 20. Juni 2023 16:00 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687269600/2887/
