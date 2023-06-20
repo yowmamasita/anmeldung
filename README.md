@@ -7,8 +7,5 @@
 - Mittwoch, 21. Juni 2023 10:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687337280/231/
 - Mittwoch, 21. Juni 2023 12:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687341600/231/
 - Mittwoch, 21. Juni 2023 12:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687343040/231/
-- Mittwoch, 21. Juni 2023 12:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1687344480/168/
-- Freitag, 23. Juni 2023 08:12 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687500720/922/
 - Mittwoch, 28. Juni 2023 09:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687938480/3238/
-- Dienstag, 18. Juli 2023 12:54 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689677640/2839/
 - Montag, 31. Juli 2023 12:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690800480/2896/
