@@ -72,11 +72,11 @@
 - Dienstag, 15. August 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1692094320/190/
 - Dienstag, 15. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692094320/904/
 - Dienstag, 15. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692094320/2866/
+- Dienstag, 15. August 2023 12:18 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1692094680/140/
 - Dienstag, 15. August 2023 12:20 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1692094800/151/
 - Dienstag, 15. August 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692094800/2878/
 - Dienstag, 15. August 2023 12:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1692095040/191/
-- Dienstag, 15. August 2023 12:30 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1692095400/140/
-- Dienstag, 15. August 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1692095400/150/
+- Dienstag, 15. August 2023 12:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1692095400/150/
 - Dienstag, 15. August 2023 12:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1692095760/381/
 - Dienstag, 15. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692095760/847/
 - Dienstag, 15. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1692095760/103/
