@@ -6,7 +6,6 @@
 - Mittwoch, 21. Juni 2023 08:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687330440/313/
 - Mittwoch, 21. Juni 2023 09:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687332600/313/
 - Mittwoch, 21. Juni 2023 09:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687332960/167/
-- Mittwoch, 21. Juni 2023 09:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687333320/313/
 - Mittwoch, 21. Juni 2023 09:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687333680/167/
 - Mittwoch, 21. Juni 2023 09:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687334040/313/
 - Mittwoch, 21. Juni 2023 10:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687334760/313/
@@ -30,5 +29,3 @@
 - Mittwoch, 21. Juni 2023 13:06 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687345560/313/
 - Mittwoch, 21. Juni 2023 13:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687346280/313/
 - Mittwoch, 21. Juni 2023 13:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687347720/313/
-- Mittwoch, 21. Juni 2023 13:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687348440/313/
-- Freitag, 14. Juli 2023 12:30 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689330600/841/
