@@ -4,7 +4,6 @@
 - Mittwoch, 21. Juni 2023 08:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687329360/146/
 - Mittwoch, 21. Juni 2023 08:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687330080/172/
 - Mittwoch, 21. Juni 2023 10:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687335480/313/
-- Mittwoch, 21. Juni 2023 10:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687336200/313/
 - Mittwoch, 21. Juni 2023 10:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687336920/313/
 - Mittwoch, 21. Juni 2023 10:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687337640/313/
 - Mittwoch, 21. Juni 2023 11:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687340520/313/
