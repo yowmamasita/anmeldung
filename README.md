@@ -23,8 +23,7 @@
 - Dienstag, 20. Juni 2023 12:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687258080/167/
 - Dienstag, 20. Juni 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687258080/2926/
 - Dienstag, 20. Juni 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1687258080/170/
-- Dienstag, 20. Juni 2023 13:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1687258800/108/
-- Dienstag, 20. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687258800/2848/
+- Dienstag, 20. Juni 2023 13:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687258800/2848/
 - Dienstag, 20. Juni 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687258800/167/
 - Dienstag, 20. Juni 2023 13:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1687259520/108/
 - Dienstag, 20. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687259520/2848/
@@ -63,11 +62,9 @@
 - Dienstag, 20. Juni 2023 16:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687271760/167/
 - Dienstag, 20. Juni 2023 16:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687272480/167/
 - Dienstag, 20. Juni 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1687272480/170/
-- Dienstag, 20. Juni 2023 17:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1687273200/170/
 - Dienstag, 20. Juni 2023 17:12 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687273920/312/
 - Dienstag, 20. Juni 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687273920/167/
 - Dienstag, 20. Juni 2023 17:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687274640/167/
-- Dienstag, 20. Juni 2023 17:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687275360/167/
 - Montag, 10. Juli 2023 11:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1688981760/153/
 - Dienstag, 11. Juli 2023 12:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689071040/922/
 - Mittwoch, 12. Juli 2023 11:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689154560/2857/
