@@ -19,3 +19,21 @@
 - Dienstag, 20. Juni 2023 11:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687253040/2848/
 - Dienstag, 20. Juni 2023 12:48 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1687258080/134/
 - Dienstag, 20. Juni 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687258080/2908/
+- Dienstag, 20. Juni 2023 13:36 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1687260960/102/
+- Dienstag, 20. Juni 2023 13:48 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1687261680/102/
+- Dienstag, 20. Juni 2023 14:36 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1687264560/102/
+- Dienstag, 20. Juni 2023 14:48 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1687265280/102/
+- Dienstag, 20. Juni 2023 15:00 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1687266000/102/
+- Dienstag, 20. Juni 2023 15:12 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1687266720/102/
+- Dienstag, 20. Juni 2023 15:24 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1687267440/102/
+- Dienstag, 20. Juni 2023 15:36 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1687268160/102/
+- Dienstag, 20. Juni 2023 15:48 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1687268880/102/
+- Dienstag, 20. Juni 2023 16:00 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1687269600/102/
+- Dienstag, 20. Juni 2023 16:12 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1687270320/102/
+- Dienstag, 20. Juni 2023 16:24 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1687271040/102/
+- Dienstag, 20. Juni 2023 16:36 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1687271760/102/
+- Dienstag, 20. Juni 2023 16:48 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1687272480/102/
+- Dienstag, 20. Juni 2023 17:24 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1687274640/102/
+- Dienstag, 20. Juni 2023 17:36 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1687275360/102/
+- Dienstag, 20. Juni 2023 17:48 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1687276080/102/
+- Dienstag, 18. Juli 2023 10:00 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689667200/2872/
