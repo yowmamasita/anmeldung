@@ -3,5 +3,3 @@
 - Mittwoch, 21. Juni 2023 07:30 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687325400/192/
 - Mittwoch, 21. Juni 2023 07:54 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687326840/192/
 - Mittwoch, 21. Juni 2023 08:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687330080/172/
-- Mittwoch, 21. Juni 2023 08:54 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687330440/192/
-- Mittwoch, 21. Juni 2023 09:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687330800/167/
