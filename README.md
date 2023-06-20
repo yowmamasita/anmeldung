@@ -11,7 +11,5 @@
 - Dienstag, 20. Juni 2023 16:12 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687270320/2887/
 - Dienstag, 20. Juni 2023 16:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687271040/2887/
 - Dienstag, 20. Juni 2023 16:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687272480/2887/
-- Dienstag, 20. Juni 2023 17:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687275360/2887/
-- Dienstag, 18. Juli 2023 12:48 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689677280/2893/
 - Dienstag, 18. Juli 2023 13:24 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689679440/2893/
 - Dienstag, 18. Juli 2023 13:36 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689680160/2893/
