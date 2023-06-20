@@ -1,9 +1,0 @@
-- Dienstag, 20. Juni 2023 13:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687260240/3238/
-- Dienstag, 20. Juni 2023 13:54 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687262040/2839/
-- Dienstag, 20. Juni 2023 14:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687264560/2887/
-- Dienstag, 20. Juni 2023 14:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687265280/2896/
-- Dienstag, 20. Juni 2023 16:48 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687272480/2908/
-- Dienstag, 20. Juni 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687272480/2887/
-- Donnerstag, 22. Juni 2023 10:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687423680/2914/
-- Donnerstag, 22. Juni 2023 12:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687430880/2899/
-- Freitag, 30. Juni 2023 11:20 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688116800/2884/
