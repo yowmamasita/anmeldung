@@ -8,7 +8,6 @@
 - Dienstag, 20. Juni 2023 14:48 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687265280/922/
 - Dienstag, 20. Juni 2023 15:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687266000/2848/
 - Dienstag, 20. Juni 2023 15:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687266720/2845/
-- Dienstag, 20. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687266720/2848/
 - Dienstag, 20. Juni 2023 15:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687267440/2845/
 - Dienstag, 20. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687267440/2848/
 - Dienstag, 20. Juni 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687267440/2887/
@@ -19,4 +18,3 @@
 - Dienstag, 20. Juni 2023 16:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687271760/2848/
 - Dienstag, 20. Juni 2023 16:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687272480/2848/
 - Dienstag, 20. Juni 2023 17:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687273920/2848/
-- Dienstag, 20. Juni 2023 17:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687274640/2848/
