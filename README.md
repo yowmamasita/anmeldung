@@ -10,5 +10,4 @@
 - Dienstag, 20. Juni 2023 12:12 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1687255920/134/
 - Dienstag, 20. Juni 2023 12:18 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687256280/154/
 - Dienstag, 20. Juni 2023 12:30 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687257000/154/
-- Dienstag, 20. Juni 2023 12:36 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687257360/313/
 - Dienstag, 20. Juni 2023 12:48 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687258080/2893/
