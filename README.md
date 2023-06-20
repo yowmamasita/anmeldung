@@ -7,14 +7,14 @@
 - Dienstag, 20. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1687248720/108/
 - Dienstag, 20. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687248720/2848/
 - Dienstag, 20. Juni 2023 10:24 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687249440/2908/
-- Dienstag, 20. Juni 2023  Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1687249440/135/
 - Dienstag, 20. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1687249440/108/
 - Dienstag, 20. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687249440/2848/
 - Dienstag, 20. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687249440/231/
 - Dienstag, 20. Juni 2023 10:36 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687250160/2908/
 - Dienstag, 20. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1687250160/108/
 - Dienstag, 20. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687250160/2848/
-- Dienstag, 20. Juni 2023 10:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687250880/2914/
+- Dienstag, 20. Juni 2023 10:48 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1687250880/135/
+- Dienstag, 20. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687250880/2914/
 - Dienstag, 20. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1687250880/108/
 - Dienstag, 20. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687250880/2848/
 - Dienstag, 20. Juni 2023 11:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1687251600/108/
@@ -27,3 +27,4 @@
 - Dienstag, 20. Juni 2023 11:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687253760/2848/
 - Dienstag, 20. Juni 2023 12:36 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687257360/2908/
 - Dienstag, 20. Juni 2023 12:48 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687258080/2908/
+- Dienstag, 20. Juni 2023 14:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687264560/231/
