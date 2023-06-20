@@ -29,7 +29,6 @@
 - Donnerstag, 22. Juni 2023 12:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687429440/922/
 - Donnerstag, 22. Juni 2023 12:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687430160/191/
 - Donnerstag, 22. Juni 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687430160/922/
-- Donnerstag, 22. Juni 2023 13:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687431600/191/
 - Freitag, 23. Juni 2023 08:12 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687500720/922/
 - Freitag, 23. Juni 2023 08:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687501440/922/
 - Freitag, 23. Juni 2023 08:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687502160/922/
