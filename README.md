@@ -29,7 +29,6 @@
 - Dienstag, 15. August 2023 13:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692097920/2914/
 - Dienstag, 15. August 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692097920/844/
 - Dienstag, 15. August 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1692097920/109/
-- Dienstag, 15. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692097920/841/
 - Dienstag, 15. August 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1692097920/313/
 - Dienstag, 15. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692097920/904/
 - Dienstag, 15. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692097920/922/
@@ -39,6 +38,7 @@
 - Dienstag, 15. August 2023 13:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1692098400/149/
 - Dienstag, 15. August 2023 13:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692098640/2845/
 - Dienstag, 15. August 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692098640/2848/
+- Dienstag, 15. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692098640/841/
 - Dienstag, 15. August 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692098640/898/
 - Dienstag, 15. August 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1692098640/192/
 - Dienstag, 15. August 2023 13:30 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692099000/2881/
