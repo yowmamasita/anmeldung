@@ -3,4 +3,3 @@
 - Mittwoch, 21. Juni 2023 09:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687334040/313/
 - Mittwoch, 21. Juni 2023 10:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687336920/313/
 - Dienstag, 4. Juli 2023 17:12 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688483520/2911/
-- Mittwoch, 12. Juli 2023 11:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689152400/2896/
