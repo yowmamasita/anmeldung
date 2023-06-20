@@ -12,4 +12,3 @@
 - Dienstag, 20. Juni 2023 11:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687253760/191/
 - Dienstag, 20. Juni 2023 11:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687254480/191/
 - Dienstag, 20. Juni 2023 12:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687256640/192/
-- Dienstag, 20. Juni 2023 12:30 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1687257000/140/
