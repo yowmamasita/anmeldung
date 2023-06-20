@@ -16,7 +16,6 @@
 - Dienstag, 20. Juni 2023 12:12 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687255920/2920/
 - Dienstag, 20. Juni 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687255920/167/
 - Dienstag, 20. Juni 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687255920/313/
-- Dienstag, 20. Juni 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687255920/191/
 - Dienstag, 20. Juni 2023 12:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687256640/109/
 - Dienstag, 20. Juni 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687256640/167/
 - Dienstag, 20. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687256640/2896/
