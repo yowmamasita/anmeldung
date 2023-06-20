@@ -70,7 +70,6 @@
 - Dienstag, 15. August 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1692109440/192/
 - Dienstag, 15. August 2023 16:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692110160/2848/
 - Dienstag, 15. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692110160/922/
-- Dienstag, 15. August 2023 16:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1692110880/381/
 - Dienstag, 15. August 2023 17:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692111600/2845/
 - Dienstag, 15. August 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692111600/844/
 - Dienstag, 15. August 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692111600/2887/
