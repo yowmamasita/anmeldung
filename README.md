@@ -49,5 +49,4 @@
 - Mittwoch, 21. Juni 2023 13:06 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1687345560/134/
 - Mittwoch, 21. Juni 2023 13:30 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1687347000/134/
 - Mittwoch, 21. Juni 2023 13:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687348080/2896/
-- Montag, 26. Juni 2023 08:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1687761360/170/
 - Freitag, 28. Juli 2023 08:00 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690524000/2881/
