@@ -31,4 +31,3 @@
 - Mittwoch, 21. Juni 2023 12:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687343760/2863/
 - Mittwoch, 21. Juni 2023 12:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687344480/2863/
 - Mittwoch, 19. Juli 2023 08:24 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689747840/2920/
-- Mittwoch, 19. Juli 2023 09:24 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689751440/2920/
