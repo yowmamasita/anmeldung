@@ -189,4 +189,3 @@
 - Mittwoch, 16. August 2023 14:36 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692189360/2932/
 - Mittwoch, 16. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692189360/2938/
 - Mittwoch, 16. August 2023 14:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692190080/2938/
-- Mittwoch, 16. August 2023 15:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1692193680/153/
