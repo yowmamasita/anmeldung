@@ -6,7 +6,6 @@
 - Mittwoch, 16. August 2023 10:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692174600/2908/
 - Mittwoch, 16. August 2023 10:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692175320/2908/
 - Mittwoch, 16. August 2023 10:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692176040/2908/
-- Mittwoch, 16. August 2023 11:00 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1692176400/150/
 - Mittwoch, 16. August 2023 11:12 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692177120/2836/
 - Mittwoch, 16. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692177120/2866/
 - Mittwoch, 16. August 2023 11:36 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692178560/2866/
