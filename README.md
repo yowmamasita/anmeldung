@@ -27,4 +27,3 @@
 - Donnerstag, 22. Juni 2023 17:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687446720/167/
 - Donnerstag, 22. Juni 2023 17:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687447440/167/
 - Donnerstag, 22. Juni 2023 17:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687448160/167/
-- Donnerstag, 22. Juni 2023 17:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687448880/167/
