@@ -16,19 +16,18 @@
 - Mittwoch, 21. Juni 2023 09:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687331520/2872/
 - Mittwoch, 21. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687331520/2896/
 - Mittwoch, 21. Juni 2023 09:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687331880/2908/
-- Mittwoch, 21. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687331880/2914/
 - Mittwoch, 21. Juni 2023 09:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687332240/2848/
 - Mittwoch, 21. Juni 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687332240/2872/
 - Mittwoch, 21. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687332240/2896/
 - Mittwoch, 21. Juni 2023 09:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687333320/2908/
-- Mittwoch, 21. Juni 2023 09:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687333680/2896/
 - Mittwoch, 21. Juni 2023 09:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687334040/2908/
+- Mittwoch, 21. Juni 2023 10:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687335840/2872/
 - Mittwoch, 21. Juni 2023 11:00 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687338000/2872/
 - Mittwoch, 21. Juni 2023 11:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687339440/2872/
 - Mittwoch, 21. Juni 2023 11:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687340160/2872/
 - Mittwoch, 21. Juni 2023 11:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687340880/2872/
 - Mittwoch, 21. Juni 2023 12:00 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687341600/2872/
-- Mittwoch, 19. Juli 2023 08:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689747840/2872/
+- Mittwoch, 19. Juli 2023 08:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689747120/2872/
 - Mittwoch, 19. Juli 2023 08:36 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689748560/2920/
 - Mittwoch, 19. Juli 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689748560/2872/
 - Mittwoch, 19. Juli 2023 08:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689749280/2872/
@@ -39,8 +38,8 @@
 - Mittwoch, 19. Juli 2023 09:36 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689752160/2920/
 - Mittwoch, 19. Juli 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689752160/2872/
 - Mittwoch, 19. Juli 2023 09:48 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689752880/2920/
+- Mittwoch, 19. Juli 2023  Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689752880/2893/
 - Mittwoch, 19. Juli 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689752880/2872/
 - Mittwoch, 19. Juli 2023 10:00 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689753600/2893/
 - Mittwoch, 19. Juli 2023 10:12 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689754320/2893/
-- Mittwoch, 19. Juli 2023 10:24 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689755040/2920/
-- Mittwoch, 19. Juli 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689755040/2872/
+- Mittwoch, 19. Juli 2023 10:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689755040/2872/
