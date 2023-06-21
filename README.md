@@ -78,6 +78,7 @@
 - Mittwoch, 21. Juni 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687346280/844/
 - Mittwoch, 21. Juni 2023 13:30 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1687347000/134/
 - Mittwoch, 21. Juni 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687347000/2908/
-- Mittwoch, 21. Juni 2023 14:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687350960/2896/
 - Donnerstag, 22. Juni 2023 10:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687420800/2896/
 - Donnerstag, 22. Juni 2023 14:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687438080/2896/
+- Donnerstag, 22. Juni 2023 15:00 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687438800/111/
+- Donnerstag, 22. Juni 2023 17:36 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687448160/111/
