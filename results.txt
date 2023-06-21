@@ -29,7 +29,5 @@
 - Mittwoch, 21. Juni 2023 11:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687338600/150/
 - Mittwoch, 21. Juni 2023 11:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687338720/2863/
 - Mittwoch, 21. Juni 2023 11:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687339200/150/
-- Mittwoch, 21. Juni 2023 11:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1687341240/136/
-- Mittwoch, 21. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687341240/2914/
+- Mittwoch, 21. Juni 2023 11:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687341240/2914/
 - Mittwoch, 21. Juni 2023 14:00 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687348800/2893/
-- Mittwoch, 19. Juli 2023 11:18 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689758280/2911/
