@@ -3,6 +3,7 @@
 - Mittwoch, 21. Juni 2023 09:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687332240/154/
 - Mittwoch, 21. Juni 2023 09:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687332960/154/
 - Mittwoch, 21. Juni 2023 09:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687333680/154/
+- Mittwoch, 21. Juni 2023 09:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687333800/150/
 - Mittwoch, 21. Juni 2023 10:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687335120/154/
 - Mittwoch, 21. Juni 2023 10:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687335840/154/
 - Mittwoch, 21. Juni 2023 10:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687336560/154/
