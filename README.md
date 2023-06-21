@@ -4,6 +4,4 @@
 - Donnerstag, 22. Juni 2023 10:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687423680/2899/
 - Donnerstag, 22. Juni 2023 14:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687438080/381/
 - Freitag, 23. Juni 2023 12:36 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687516560/2893/
-- Mittwoch, 28. Juni 2023 11:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687944240/2863/
 - Dienstag, 18. Juli 2023 10:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689670080/2872/
-- Mittwoch, 19. Juli 2023 09:18 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1689751080/192/
