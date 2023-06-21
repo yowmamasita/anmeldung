@@ -5,14 +5,11 @@
 - Mittwoch, 21. Juni 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687333680/154/
 - Mittwoch, 21. Juni 2023 10:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687335480/2908/
 - Mittwoch, 21. Juni 2023 11:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687338720/2899/
-- Mittwoch, 21. Juni 2023 11:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687339440/167/
 - Mittwoch, 21. Juni 2023 11:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1687340520/136/
 - Mittwoch, 21. Juni 2023 12:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687342200/2923/
 - Mittwoch, 21. Juni 2023 12:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687342680/2908/
-- Mittwoch, 21. Juni 2023 12:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687343760/172/
 - Mittwoch, 21. Juni 2023 12:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687344480/169/
 - Mittwoch, 21. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687344480/2851/
-- Dienstag, 11. Juli 2023 16:12 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689084720/847/
 - Dienstag, 18. Juli 2023 15:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1689688080/167/
 - Dienstag, 25. Juli 2023 15:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1690292880/167/
 - Dienstag, 25. Juli 2023 16:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1690293600/167/
@@ -23,4 +20,3 @@
 - Dienstag, 25. Juli 2023 17:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1690297200/167/
 - Dienstag, 25. Juli 2023 17:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1690297920/167/
 - Dienstag, 25. Juli 2023 17:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1690298640/167/
-- Dienstag, 25. Juli 2023 17:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1690299360/167/
