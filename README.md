@@ -4,4 +4,3 @@
 - Mittwoch, 21. Juni 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687332240/2854/
 - Mittwoch, 21. Juni 2023 09:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687333320/2908/
 - Mittwoch, 21. Juni 2023 10:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687335600/150/
-- Dienstag, 18. Juli 2023 16:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1689690960/167/
