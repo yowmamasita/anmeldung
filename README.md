@@ -9,7 +9,6 @@
 - Mittwoch, 21. Juni 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687330800/2863/
 - Mittwoch, 21. Juni 2023 09:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687331520/2863/
 - Mittwoch, 21. Juni 2023 09:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687332240/2848/
-- Mittwoch, 21. Juni 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687332240/2863/
 - Mittwoch, 21. Juni 2023 09:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687332960/2863/
 - Mittwoch, 21. Juni 2023 09:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687333320/2908/
 - Mittwoch, 21. Juni 2023 09:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687333680/2863/
@@ -48,7 +47,6 @@
 - Mittwoch, 21. Juni 2023 12:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687344480/2863/
 - Mittwoch, 21. Juni 2023 12:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687344600/150/
 - Mittwoch, 21. Juni 2023 13:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687345800/150/
-- Mittwoch, 21. Juni 2023 13:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687345920/2872/
 - Mittwoch, 21. Juni 2023 13:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687346400/150/
 - Mittwoch, 19. Juli 2023 08:24 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689747840/2920/
 - Mittwoch, 19. Juli 2023 09:24 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689751440/2920/
