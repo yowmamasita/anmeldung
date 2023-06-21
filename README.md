@@ -5,5 +5,4 @@
 - Freitag, 23. Juni 2023 09:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687506480/3238/
 - Freitag, 23. Juni 2023 10:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687507920/3238/
 - Freitag, 23. Juni 2023 14:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687522320/3238/
-- Freitag, 30. Juni 2023 10:40 Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1688114400/189/
 - Montag, 24. Juli 2023 10:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690186320/3238/
