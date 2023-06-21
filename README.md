@@ -4,4 +4,3 @@
 - Mittwoch, 21. Juni 2023 11:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687339440/2863/
 - Mittwoch, 21. Juni 2023 11:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687340160/2863/
 - Mittwoch, 21. Juni 2023 11:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687340880/2863/
-- Mittwoch, 21. Juni 2023 12:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687344480/2845/
