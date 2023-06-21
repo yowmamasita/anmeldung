@@ -57,7 +57,6 @@
 - Mittwoch, 21. Juni 2023 10:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687335120/169/
 - Mittwoch, 21. Juni 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1687335120/102/
 - Mittwoch, 21. Juni 2023 10:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687335840/169/
-- Mittwoch, 21. Juni 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1687335840/102/
 - Mittwoch, 21. Juni 2023 10:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687336560/169/
 - Mittwoch, 21. Juni 2023 10:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687337280/169/
 - Mittwoch, 21. Juni 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1687337280/102/
