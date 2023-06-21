@@ -35,8 +35,7 @@
 - Mittwoch, 16. August 2023 10:30 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692174600/847/
 - Mittwoch, 16. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692174600/922/
 - Mittwoch, 16. August 2023 10:42 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1692175320/190/
-- Mittwoch, 16. August 2023 10:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692175680/2845/
-- Mittwoch, 16. August 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1692175680/169/
+- Mittwoch, 16. August 2023 10:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1692175680/169/
 - Mittwoch, 16. August 2023 10:54 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692176040/898/
 - Mittwoch, 16. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692176040/904/
 - Mittwoch, 16. August 2023 11:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1692176400/169/
