@@ -1,4 +1,5 @@
-- Mittwoch, 21. Juni 2023 09:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687331520/2851/
+- Mittwoch, 21. Juni 2023 09:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687331520/169/
+- Mittwoch, 21. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687331520/2851/
 - Mittwoch, 21. Juni 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687331520/154/
 - Mittwoch, 21. Juni 2023 09:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687331880/2908/
 - Mittwoch, 21. Juni 2023 09:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687332240/2851/
@@ -12,10 +13,7 @@
 - Mittwoch, 21. Juni 2023 10:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1687335120/108/
 - Mittwoch, 21. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687335120/2851/
 - Mittwoch, 21. Juni 2023 10:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687335840/2851/
-- Mittwoch, 21. Juni 2023 10:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687336920/111/
-- Mittwoch, 21. Juni 2023 11:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1687339800/136/
 - Mittwoch, 21. Juni 2023 11:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687340880/2872/
 - Mittwoch, 21. Juni 2023 11:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687341240/2914/
 - Mittwoch, 21. Juni 2023 12:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687342680/2908/
 - Mittwoch, 21. Juni 2023 12:54 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1687344840/190/
-- Mittwoch, 21. Juni 2023 13:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687345200/154/
