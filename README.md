@@ -92,4 +92,3 @@
 - Mittwoch, 16. August 2023 15:36 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692192960/2932/
 - Mittwoch, 16. August 2023 16:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1692195120/153/
 - Mittwoch, 16. August 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692195120/2932/
-- Freitag, 18. August 2023 12:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1692352800/231/
