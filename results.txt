@@ -7,7 +7,6 @@
 - Mittwoch, 21. Juni 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687330800/169/
 - Mittwoch, 21. Juni 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687330800/2872/
 - Mittwoch, 21. Juni 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687330800/2863/
-- Mittwoch, 21. Juni 2023 09:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687331400/150/
 - Mittwoch, 21. Juni 2023 09:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687331520/2863/
 - Mittwoch, 21. Juni 2023 09:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687331880/2914/
 - Mittwoch, 21. Juni 2023 09:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687332000/150/
@@ -67,4 +66,3 @@
 - Mittwoch, 21. Juni 2023 13:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687347000/150/
 - Mittwoch, 21. Juni 2023 13:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687347600/150/
 - Mittwoch, 21. Juni 2023 13:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687348200/150/
-- Mittwoch, 19. Juli 2023 09:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689752880/2872/
