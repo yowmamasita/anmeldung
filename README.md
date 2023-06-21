@@ -10,7 +10,6 @@
 - Mittwoch, 21. Juni 2023 10:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687335840/2896/
 - Mittwoch, 21. Juni 2023 10:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687336560/2896/
 - Mittwoch, 21. Juni 2023 10:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687337280/2896/
-- Mittwoch, 21. Juni 2023 11:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687338000/2896/
 - Mittwoch, 21. Juni 2023 11:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687338720/2896/
 - Mittwoch, 21. Juni 2023 11:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687339440/2896/
 - Mittwoch, 21. Juni 2023 11:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687340160/2896/
@@ -28,7 +27,6 @@
 - Donnerstag, 22. Juni 2023 10:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687422240/2896/
 - Donnerstag, 22. Juni 2023 10:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687422960/2896/
 - Donnerstag, 22. Juni 2023 10:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687423680/2896/
-- Donnerstag, 22. Juni 2023 11:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687425120/2896/
 - Donnerstag, 22. Juni 2023 11:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687425840/2896/
 - Donnerstag, 22. Juni 2023 11:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687426560/2896/
 - Donnerstag, 22. Juni 2023 11:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687427280/2896/
