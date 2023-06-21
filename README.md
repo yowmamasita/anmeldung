@@ -93,7 +93,8 @@
 - Mittwoch, 16. August 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1692171000/150/
 - Mittwoch, 16. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692171000/2926/
 - Mittwoch, 16. August 2023 09:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692171360/154/
-- Mittwoch, 16. August 2023 09:42 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1692171720/192/
+- Mittwoch, 16. August 2023 09:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1692171720/312/
+- Mittwoch, 16. August 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1692171720/192/
 - Mittwoch, 16. August 2023 09:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692172080/2854/
 - Mittwoch, 16. August 2023 09:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1692172440/111/
 - Mittwoch, 16. August 2023 10:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1692172800/106/
