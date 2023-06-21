@@ -11,4 +11,6 @@
 - Mittwoch, 16. August 2023 12:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692183240/2908/
 - Mittwoch, 16. August 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692183240/2911/
 - Mittwoch, 16. August 2023 13:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692184680/2908/
+- Mittwoch, 16. August 2023 13:30 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692185400/2887/
+- Mittwoch, 16. August 2023 13:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692185760/2938/
 - Mittwoch, 16. August 2023 13:42 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692186120/2926/
