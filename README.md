@@ -55,7 +55,6 @@
 - Mittwoch, 16. August 2023 08:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1692167760/169/
 - Mittwoch, 16. August 2023  Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1692167760/141/
 - Mittwoch, 16. August 2023 08:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1692168120/136/
-- Mittwoch, 16. August 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1692168120/109/
 - Mittwoch, 16. August 2023 08:54 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1692168840/134/
 - Mittwoch, 16. August 2023 09:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692169200/2845/
 - Mittwoch, 16. August 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692169200/2848/
