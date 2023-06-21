@@ -87,3 +87,4 @@
 - Mittwoch, 21. Juni 2023 12:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687344120/2908/
 - Mittwoch, 21. Juni 2023 12:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687344480/167/
 - Mittwoch, 21. Juni 2023 13:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687345200/154/
+- Mittwoch, 21. Juni 2023 14:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687349520/231/
