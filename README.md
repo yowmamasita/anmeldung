@@ -4,6 +4,4 @@
 - Mittwoch, 21. Juni 2023 11:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687340160/169/
 - Mittwoch, 21. Juni 2023 12:42 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687344120/898/
 - Mittwoch, 21. Juni 2023 14:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687351680/2938/
-- Donnerstag, 22. Juni 2023 08:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687415760/2848/
 - Donnerstag, 22. Juni 2023 09:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687417920/2848/
-- Donnerstag, 22. Juni 2023 09:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687418640/2848/
