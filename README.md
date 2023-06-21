@@ -7,7 +7,6 @@
 - Mittwoch, 21. Juni 2023 11:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687340160/2938/
 - Donnerstag, 22. Juni 2023 14:00 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687435200/2887/
 - Donnerstag, 22. Juni 2023 14:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687438080/2887/
-- Freitag, 23. Juni 2023 08:54 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687503240/312/
 - Freitag, 23. Juni 2023 09:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687505760/2926/
 - Dienstag, 18. Juli 2023 12:40 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689676800/2884/
 - Donnerstag, 27. Juli 2023 13:24 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1690457040/102/
