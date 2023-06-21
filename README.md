@@ -35,8 +35,7 @@
 - Mittwoch, 21. Juni 2023 13:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687346640/146/
 - Mittwoch, 21. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687346640/2896/
 - Mittwoch, 21. Juni 2023 13:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687347360/2896/
-- Mittwoch, 21. Juni 2023 13:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687348080/146/
-- Mittwoch, 21. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687348080/2896/
+- Mittwoch, 21. Juni 2023 13:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687348080/2896/
 - Mittwoch, 21. Juni 2023 14:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687348800/2896/
 - Mittwoch, 21. Juni 2023 14:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687349520/2896/
 - Mittwoch, 21. Juni 2023 14:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687350240/2896/
@@ -49,8 +48,7 @@
 - Donnerstag, 22. Juni 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687423680/146/
 - Donnerstag, 22. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687423680/2896/
 - Donnerstag, 22. Juni 2023 11:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687425120/2896/
-- Donnerstag, 22. Juni 2023 11:24 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687425840/111/
-- Donnerstag, 22. Juni 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687425840/146/
+- Donnerstag, 22. Juni 2023 11:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687425840/146/
 - Donnerstag, 22. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687425840/2896/
 - Donnerstag, 22. Juni 2023 11:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687426560/146/
 - Donnerstag, 22. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687426560/2896/
@@ -74,3 +72,4 @@
 - Donnerstag, 22. Juni 2023 15:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687440240/2896/
 - Donnerstag, 22. Juni 2023 15:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687440960/2896/
 - Donnerstag, 22. Juni 2023 15:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687441680/2896/
+- Donnerstag, 22. Juni 2023 17:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687446000/2896/
