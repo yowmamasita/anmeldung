@@ -1,17 +1,27 @@
 # List of available Anmeldung appointments as of $NOW
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122254,122252,329742,122260,329745,122262,329748,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,317869,122281,327352,122279,329772,122283,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
-- Mittwoch, 19. Juli 2023 11:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689759360/2872/
-- Mittwoch, 19. Juli 2023 11:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689760080/2872/
-- Mittwoch, 19. Juli 2023 12:00 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689760800/2875/
-- Mittwoch, 19. Juli 2023 12:12 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689761520/2875/
-- Mittwoch, 19. Juli 2023 12:24 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689762240/2875/
-- Mittwoch, 19. Juli 2023 12:36 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689762960/2875/
-- Mittwoch, 19. Juli 2023 12:48 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689763680/2875/
+- Mittwoch, 19. Juli 2023 11:36 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689759360/2920/
+- Mittwoch, 19. Juli 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689759360/2872/
+- Mittwoch, 19. Juli 2023 11:48 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689760080/2920/
+- Mittwoch, 19. Juli 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689760080/2872/
+- Mittwoch, 19. Juli 2023 12:00 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689760800/2920/
+- Mittwoch, 19. Juli 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689760800/2875/
+- Mittwoch, 19. Juli 2023 12:12 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689761520/2920/
+- Mittwoch, 19. Juli 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689761520/2875/
+- Mittwoch, 19. Juli 2023 12:24 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689762240/2920/
+- Mittwoch, 19. Juli 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689762240/2875/
+- Mittwoch, 19. Juli 2023 12:36 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689762960/2920/
+- Mittwoch, 19. Juli 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689762960/2875/
+- Mittwoch, 19. Juli 2023 12:48 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689763680/2920/
+- Mittwoch, 19. Juli 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689763680/2875/
 - Mittwoch, 19. Juli 2023 13:00 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689764400/2875/
-- Mittwoch, 19. Juli 2023 13:12 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689765120/2875/
+- Mittwoch, 19. Juli 2023 13:12 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689765120/2920/
+- Mittwoch, 19. Juli 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689765120/2875/
 - Mittwoch, 19. Juli 2023 13:24 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689765840/2875/
-- Mittwoch, 19. Juli 2023 13:36 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689766560/2875/
-- Mittwoch, 19. Juli 2023 13:48 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689767280/2875/
+- Mittwoch, 19. Juli 2023 13:36 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689766560/2920/
+- Mittwoch, 19. Juli 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689766560/2875/
+- Mittwoch, 19. Juli 2023 13:48 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689767280/2920/
+- Mittwoch, 19. Juli 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689767280/2875/
 - Donnerstag, 10. August 2023 11:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691658000/2863/
 - Donnerstag, 10. August 2023 11:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691658720/2863/
 - Donnerstag, 10. August 2023 11:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691659440/2863/
@@ -178,11 +188,11 @@
 - Mittwoch, 16. August 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1692170640/167/
 - Mittwoch, 16. August 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692170640/2896/
 - Mittwoch, 16. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692170640/2938/
-- Mittwoch, 16. August 2023 09:30 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1692171000/147/
-- Mittwoch, 16. August 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692171000/2881/
+- Mittwoch, 16. August 2023 09:30 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692171000/2881/
 - Mittwoch, 16. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692171000/2926/
 - Mittwoch, 16. August 2023 09:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1692171360/170/
-- Mittwoch, 16. August 2023 09:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1692171600/150/
+- Mittwoch, 16. August 2023 09:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1692171600/147/
+- Mittwoch, 16. August 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1692171600/150/
 - Mittwoch, 16. August 2023 09:50 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1692172200/149/
 - Mittwoch, 16. August 2023 10:00 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692172800/2881/
 - Mittwoch, 16. August 2023 10:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692173160/2908/
@@ -247,6 +257,7 @@
 - Mittwoch, 16. August 2023 11:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1692178560/381/
 - Mittwoch, 16. August 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1692178560/102/
 - Mittwoch, 16. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692178560/154/
+- Mittwoch, 16. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692178560/2938/
 - Mittwoch, 16. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1692178560/103/
 - Mittwoch, 16. August 2023 11:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1692178920/135/
 - Mittwoch, 16. August 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692178920/2914/
@@ -262,6 +273,7 @@
 - Mittwoch, 16. August 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1692180000/381/
 - Mittwoch, 16. August 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692180000/3238/
 - Mittwoch, 16. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692180000/154/
+- Mittwoch, 16. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692180000/2938/
 - Mittwoch, 16. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1692180000/103/
 - Mittwoch, 16. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692180000/2866/
 - Mittwoch, 16. August 2023 12:06 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1692180360/135/
@@ -300,6 +312,7 @@
 - Mittwoch, 16. August 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1692183600/381/
 - Mittwoch, 16. August 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692183600/2881/
 - Mittwoch, 16. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692183600/154/
+- Mittwoch, 16. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692183600/2938/
 - Mittwoch, 16. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1692183600/103/
 - Mittwoch, 16. August 2023 13:06 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692183960/2911/
 - Mittwoch, 16. August 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1692183960/136/
@@ -324,6 +337,7 @@
 - Mittwoch, 16. August 2023 13:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1692186120/191/
 - Mittwoch, 16. August 2023 14:00 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1692187200/147/
 - Mittwoch, 16. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692187200/154/
+- Mittwoch, 16. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692187200/2938/
 - Mittwoch, 16. August 2023 14:06 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1692187560/190/
 - Mittwoch, 16. August 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692187560/2887/
 - Mittwoch, 16. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692187560/2926/
