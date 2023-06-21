@@ -6,6 +6,10 @@
 - Mittwoch, 21. Juni 2023 10:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687335840/2845/
 - Mittwoch, 21. Juni 2023 10:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687336560/2845/
 - Mittwoch, 21. Juni 2023 10:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687337280/2845/
-- Mittwoch, 21. Juni 2023 11:00 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687338000/2854/
-- Mittwoch, 21. Juni 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687338000/172/
+- Mittwoch, 21. Juni 2023 11:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687338000/172/
 - Mittwoch, 21. Juni 2023 14:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687351680/2938/
+- Dienstag, 27. Juni 2023 13:30 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687865400/2881/
+- Dienstag, 18. Juli 2023 17:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1689695280/167/
+- Montag, 24. Juli 2023 09:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690183440/168/
+- Freitag, 28. Juli 2023 12:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690539120/2863/
+- Montag, 31. Juli 2023 08:12 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690783920/922/
