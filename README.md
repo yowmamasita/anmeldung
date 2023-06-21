@@ -22,10 +22,10 @@
 - Mittwoch, 16. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692171000/2926/
 - Mittwoch, 16. August 2023 09:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692171360/2845/
 - Mittwoch, 16. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692171360/2839/
-- Mittwoch, 16. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692171360/2866/
 - Mittwoch, 16. August 2023 09:42 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692171720/904/
 - Mittwoch, 16. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692171720/922/
 - Mittwoch, 16. August 2023 09:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1692172080/167/
+- Mittwoch, 16. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692172080/2866/
 - Mittwoch, 16. August 2023 09:50 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692172200/2881/
 - Mittwoch, 16. August 2023 09:54 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1692172440/190/
 - Mittwoch, 16. August 2023 10:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692173160/2908/
@@ -56,7 +56,6 @@
 - Mittwoch, 16. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692176400/2866/
 - Mittwoch, 16. August 2023 11:06 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692176760/2911/
 - Mittwoch, 16. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692176760/2926/
-- Mittwoch, 16. August 2023 11:10 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692177000/2881/
 - Mittwoch, 16. August 2023 11:12 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692177120/2839/
 - Mittwoch, 16. August 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692177120/3238/
 - Mittwoch, 16. August 2023 11:18 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692177480/898/
@@ -64,6 +63,7 @@
 - Mittwoch, 16. August 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692177480/2887/
 - Mittwoch, 16. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692177480/847/
 - Mittwoch, 16. August 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1692177480/192/
+- Mittwoch, 16. August 2023 11:20 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692177600/2881/
 - Mittwoch, 16. August 2023 11:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692177840/2848/
 - Mittwoch, 16. August 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1692177840/167/
 - Mittwoch, 16. August 2023 11:30 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692178200/904/
@@ -134,6 +134,7 @@
 - Mittwoch, 16. August 2023 13:24 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692185040/2836/
 - Mittwoch, 16. August 2023 13:30 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1692185400/134/
 - Mittwoch, 16. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692185400/841/
+- Mittwoch, 16. August 2023 13:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1692186120/312/
 - Mittwoch, 16. August 2023 14:00 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1692187200/153/
 - Mittwoch, 16. August 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692187200/2932/
 - Mittwoch, 16. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692187200/154/
@@ -145,4 +146,4 @@
 - Mittwoch, 16. August 2023 16:00 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1692194400/153/
 - Mittwoch, 16. August 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692194400/2932/
 - Mittwoch, 16. August 2023 17:00 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1692198000/153/
-- Mittwoch, 16. August 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692198000/2932/
+- Mittwoch, 16. August 2023 17:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692198720/2932/
