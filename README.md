@@ -13,7 +13,6 @@
 - Mittwoch, 21. Juni 2023 08:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687330440/2908/
 - Mittwoch, 21. Juni 2023 09:06 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1687331160/134/
 - Mittwoch, 21. Juni 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687331160/2908/
-- Mittwoch, 21. Juni 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1687331160/190/
 - Mittwoch, 21. Juni 2023 09:18 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1687331880/134/
 - Mittwoch, 21. Juni 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687331880/2908/
 - Mittwoch, 21. Juni 2023 09:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687332600/2908/
