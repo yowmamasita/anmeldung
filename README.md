@@ -43,7 +43,6 @@
 - Mittwoch, 16. August 2023 10:42 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1692175320/190/
 - Mittwoch, 16. August 2023 10:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692175680/2848/
 - Mittwoch, 16. August 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1692175680/169/
-- Mittwoch, 16. August 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1692175680/167/
 - Mittwoch, 16. August 2023 10:54 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692176040/904/
 - Mittwoch, 16. August 2023 11:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692176400/2857/
 - Mittwoch, 16. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692176400/2836/
