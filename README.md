@@ -26,23 +26,23 @@
 - Mittwoch, 21. Juni 2023 09:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687333800/150/
 - Mittwoch, 21. Juni 2023 10:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687334400/2851/
 - Mittwoch, 21. Juni 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687334400/2863/
-- Mittwoch, 21. Juni 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687334400/154/
+- Mittwoch, 21. Juni 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687334400/150/
 - Mittwoch, 21. Juni 2023 10:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1687335120/108/
 - Mittwoch, 21. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687335120/2851/
-- Mittwoch, 21. Juni 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1687335120/168/
 - Mittwoch, 21. Juni 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687335120/154/
 - Mittwoch, 21. Juni 2023 10:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1687335840/108/
+- Mittwoch, 21. Juni 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1687335840/140/
 - Mittwoch, 21. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687335840/2851/
 - Mittwoch, 21. Juni 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687335840/154/
 - Mittwoch, 21. Juni 2023 10:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1687336560/108/
 - Mittwoch, 21. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687336560/2851/
-- Mittwoch, 21. Juni 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687336560/172/
 - Mittwoch, 21. Juni 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687336560/2899/
 - Mittwoch, 21. Juni 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687336560/154/
 - Mittwoch, 21. Juni 2023 10:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687337280/2851/
 - Mittwoch, 21. Juni 2023 10:54 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1687337640/134/
 - Mittwoch, 21. Juni 2023 11:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687338000/2863/
-- Mittwoch, 21. Juni 2023 11:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687338720/2851/
+- Mittwoch, 21. Juni 2023 11:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687338720/169/
+- Mittwoch, 21. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687338720/2851/
 - Mittwoch, 21. Juni 2023 11:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687339440/2851/
 - Mittwoch, 21. Juni 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687339440/2863/
 - Mittwoch, 21. Juni 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687339440/2899/
@@ -53,4 +53,3 @@
 - Mittwoch, 21. Juni 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687343760/154/
 - Mittwoch, 21. Juni 2023 12:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687344480/172/
 - Mittwoch, 21. Juni 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687344480/154/
-- Mittwoch, 21. Juni 2023 13:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687345920/154/
