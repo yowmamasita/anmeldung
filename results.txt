@@ -36,8 +36,6 @@
 - Mittwoch, 21. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687333320/2914/
 - Mittwoch, 21. Juni 2023 09:48 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1687333680/140/
 - Mittwoch, 21. Juni 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687333680/146/
-- Mittwoch, 21. Juni 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687333680/2899/
-- Mittwoch, 21. Juni 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1687333680/170/
 - Mittwoch, 21. Juni 2023 09:54 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1687334040/134/
 - Mittwoch, 21. Juni 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687334040/2908/
 - Mittwoch, 21. Juni 2023 10:12 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1687335120/140/
@@ -51,9 +49,9 @@
 - Mittwoch, 21. Juni 2023 10:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687337640/2908/
 - Mittwoch, 21. Juni 2023 11:00 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1687338000/140/
 - Mittwoch, 21. Juni 2023 11:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687338360/2908/
-- Mittwoch, 21. Juni 2023 11:12 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1687338720/140/
-- Mittwoch, 21. Juni 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1687338720/170/
-- Mittwoch, 21. Juni 2023 11:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687340160/154/
+- Mittwoch, 21. Juni 2023 11:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1687338720/170/
+- Mittwoch, 21. Juni 2023 11:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687340160/2851/
+- Mittwoch, 21. Juni 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687340160/154/
 - Mittwoch, 21. Juni 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687340160/2938/
 - Mittwoch, 21. Juni 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1687340160/170/
 - Mittwoch, 21. Juni 2023 11:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687340880/154/
@@ -71,5 +69,3 @@
 - Mittwoch, 21. Juni 2023 12:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687343400/312/
 - Mittwoch, 21. Juni 2023 12:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687343760/154/
 - Mittwoch, 21. Juni 2023 12:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687344120/2908/
-- Mittwoch, 21. Juni 2023 12:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687344480/154/
-- Dienstag, 11. Juli 2023 11:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689068880/2896/
