@@ -288,7 +288,8 @@
 - Mittwoch, 16. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692187920/154/
 - Mittwoch, 16. August 2023 14:18 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692188280/922/
 - Donnerstag, 17. August 2023 15:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692277920/2899/
-- Freitag, 18. August 2023 11:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692350640/2899/
+- Freitag, 18. August 2023 11:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692350640/2896/
+- Freitag, 18. August 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692350640/2899/
 - Freitag, 18. August 2023 11:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692351360/2896/
 - Freitag, 18. August 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692351360/2899/
 - Freitag, 18. August 2023 11:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692352080/2896/
