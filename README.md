@@ -9,7 +9,6 @@
 - Mittwoch, 21. Juni 2023 09:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687333680/2851/
 - Mittwoch, 21. Juni 2023 10:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687334760/2908/
 - Mittwoch, 21. Juni 2023 10:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687335120/2851/
-- Mittwoch, 28. Juni 2023 10:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687939560/191/
 - Mittwoch, 28. Juni 2023 12:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687946760/191/
 - Mittwoch, 28. Juni 2023 12:18 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687947480/191/
 - Mittwoch, 28. Juni 2023 12:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687948200/191/
