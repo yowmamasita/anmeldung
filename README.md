@@ -53,9 +53,7 @@
 - Mittwoch, 21. Juni 2023 10:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687335840/2896/
 - Mittwoch, 21. Juni 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687335840/2938/
 - Mittwoch, 21. Juni 2023 10:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687336200/2908/
-- Mittwoch, 21. Juni 2023 10:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687336560/2896/
 - Mittwoch, 21. Juni 2023 10:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687337640/2908/
 - Mittwoch, 21. Juni 2023 11:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687340880/2938/
 - Mittwoch, 21. Juni 2023 12:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687341600/154/
 - Mittwoch, 21. Juni 2023 12:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687341960/2914/
-- Mittwoch, 21. Juni 2023 12:12 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687342320/2938/
