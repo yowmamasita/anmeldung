@@ -23,7 +23,6 @@
 - Mittwoch, 21. Juni 2023 12:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687344840/2908/
 - Mittwoch, 21. Juni 2023 13:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687346640/231/
 - Mittwoch, 21. Juni 2023 13:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687347360/231/
-- Mittwoch, 21. Juni 2023 13:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687348080/231/
 - Mittwoch, 21. Juni 2023 14:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687349520/231/
 - Mittwoch, 21. Juni 2023 14:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687350240/231/
 - Mittwoch, 21. Juni 2023 14:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687350960/231/
