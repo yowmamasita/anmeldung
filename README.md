@@ -17,7 +17,6 @@
 - Mittwoch, 21. Juni 2023 09:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687332240/2845/
 - Mittwoch, 21. Juni 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687332240/169/
 - Mittwoch, 21. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687332240/2851/
-- Mittwoch, 21. Juni 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687332240/167/
 - Mittwoch, 21. Juni 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687332240/2854/
 - Mittwoch, 21. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687332240/2896/
 - Mittwoch, 21. Juni 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687332240/154/
@@ -31,7 +30,8 @@
 - Mittwoch, 21. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687333680/2851/
 - Mittwoch, 21. Juni 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687333680/154/
 - Mittwoch, 21. Juni 2023 09:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687333800/150/
-- Mittwoch, 21. Juni 2023 10:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687334400/2851/
+- Mittwoch, 21. Juni 2023 10:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1687334400/108/
+- Mittwoch, 21. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687334400/2851/
 - Mittwoch, 21. Juni 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687334400/2863/
 - Mittwoch, 21. Juni 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687334400/154/
 - Mittwoch, 21. Juni 2023 10:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1687335120/108/
