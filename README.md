@@ -3,8 +3,6 @@
 - Mittwoch, 21. Juni 2023 08:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687328280/111/
 - Mittwoch, 21. Juni 2023 09:06 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687331160/111/
 - Mittwoch, 21. Juni 2023 09:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687331880/111/
-- Mittwoch, 21. Juni 2023 10:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687336920/111/
-- Mittwoch, 21. Juni 2023 10:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687337640/111/
 - Mittwoch, 21. Juni 2023 11:06 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687338360/111/
 - Mittwoch, 21. Juni 2023 11:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687339800/111/
 - Mittwoch, 21. Juni 2023 11:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687340520/111/
@@ -26,4 +24,3 @@
 - Donnerstag, 22. Juni 2023 11:36 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687426560/111/
 - Donnerstag, 22. Juni 2023 11:48 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687427280/111/
 - Donnerstag, 22. Juni 2023 12:00 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687428000/111/
-- Donnerstag, 22. Juni 2023 12:12 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687428720/111/
