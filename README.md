@@ -10,7 +10,6 @@
 - Donnerstag, 22. Juni 2023 16:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687443120/2914/
 - Donnerstag, 22. Juni 2023 16:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687443840/2914/
 - Donnerstag, 20. Juli 2023 14:48 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689857280/2920/
-- Donnerstag, 20. Juli 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689857280/2875/
 - Donnerstag, 20. Juli 2023 15:12 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689858720/2920/
 - Donnerstag, 20. Juli 2023 15:24 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689859440/2920/
 - Montag, 24. Juli 2023 09:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690182000/2836/
