@@ -8,4 +8,3 @@
 - Donnerstag, 22. Juni 2023 11:18 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687425480/2836/
 - Donnerstag, 22. Juni 2023 11:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687426560/2887/
 - Donnerstag, 22. Juni 2023 14:00 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687435200/922/
-- Donnerstag, 22. Juni 2023 15:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687439520/2926/
