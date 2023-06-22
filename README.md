@@ -4,8 +4,7 @@
 - Freitag, 23. Juni 2023 08:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687502880/2863/
 - Freitag, 23. Juni 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687502880/2866/
 - Freitag, 23. Juni 2023 09:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687505040/2863/
-- Freitag, 23. Juni 2023 09:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687506480/167/
-- Freitag, 23. Juni 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687506480/2863/
+- Freitag, 23. Juni 2023 09:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687506480/2863/
 - Freitag, 23. Juni 2023 10:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687507920/231/
 - Freitag, 23. Juni 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687507920/2863/
 - Freitag, 23. Juni 2023 10:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687508640/231/
