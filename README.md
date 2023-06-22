@@ -8,7 +8,6 @@
 - Donnerstag, 22. Juni 2023 11:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687425840/2854/
 - Donnerstag, 22. Juni 2023 11:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687426560/2854/
 - Donnerstag, 22. Juni 2023 11:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687427280/2854/
-- Donnerstag, 22. Juni 2023 12:48 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1687430880/135/
 - Donnerstag, 22. Juni 2023 13:00 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687431600/2854/
 - Donnerstag, 22. Juni 2023 13:12 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687432320/2854/
 - Donnerstag, 22. Juni 2023 13:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687433040/2854/
@@ -20,5 +19,6 @@
 - Donnerstag, 22. Juni 2023 14:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687437360/2854/
 - Donnerstag, 22. Juni 2023 14:48 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687438080/922/
 - Donnerstag, 22. Juni 2023 15:12 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687439520/2854/
+- Donnerstag, 22. Juni 2023 16:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687443840/2896/
 - Donnerstag, 20. Juli 2023 11:12 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689844320/2893/
 - Donnerstag, 20. Juli 2023 12:24 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689848640/2920/
