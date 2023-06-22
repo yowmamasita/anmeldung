@@ -1,5 +1,4 @@
 - Donnerstag, 22. Juni 2023 14:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687435920/167/
-- Donnerstag, 22. Juni 2023 14:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687436640/2914/
 - Donnerstag, 22. Juni 2023 14:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687437360/2914/
 - Donnerstag, 22. Juni 2023 14:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687438080/2914/
 - Donnerstag, 22. Juni 2023 15:00 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687438800/2914/
@@ -15,7 +14,6 @@
 - Donnerstag, 22. Juni 2023 16:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687443840/2914/
 - Donnerstag, 22. Juni 2023 16:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687445280/2914/
 - Donnerstag, 22. Juni 2023 17:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687446720/2914/
-- Donnerstag, 22. Juni 2023 17:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687448160/2914/
 - Freitag, 23. Juni 2023 07:30 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687498200/2839/
 - Dienstag, 25. Juli 2023 08:00 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690264800/2854/
 - Dienstag, 25. Juli 2023 08:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690266960/2854/
