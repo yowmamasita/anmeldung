@@ -29,5 +29,4 @@
 - Freitag, 23. Juni 2023 11:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687513680/167/
 - Freitag, 23. Juni 2023 12:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687514400/2863/
 - Freitag, 23. Juni 2023 12:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1687515840/168/
-- Freitag, 23. Juni 2023 12:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1687517280/168/
 - Montag, 24. Juli 2023 14:48 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690202880/2839/
