@@ -206,4 +206,3 @@
 - Donnerstag, 17. August 2023 17:48 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692287280/841/
 - Montag, 21. August 2023 12:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1692612000/172/
 - Montag, 21. August 2023 12:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1692612720/172/
-- Montag, 21. August 2023 12:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1692613440/172/
