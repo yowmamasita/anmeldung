@@ -6,5 +6,4 @@
 - Donnerstag, 22. Juni 2023 13:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687434480/231/
 - Donnerstag, 22. Juni 2023 14:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687435920/231/
 - Donnerstag, 22. Juni 2023 14:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687436640/231/
-- Donnerstag, 22. Juni 2023 14:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687437360/231/
-- Freitag, 14. Juli 2023 09:50 Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1689321000/189/
+- Donnerstag, 22. Juni 2023 15:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687439520/231/
