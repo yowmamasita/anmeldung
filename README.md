@@ -19,5 +19,4 @@
 - Freitag, 23. Juni 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1687510080/168/
 - Freitag, 23. Juni 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687510080/2863/
 - Freitag, 23. Juni 2023 11:20 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687512000/2881/
-- Freitag, 23. Juni 2023 11:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687512960/167/
-- Freitag, 23. Juni 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1687512960/168/
+- Freitag, 23. Juni 2023 11:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1687512960/168/
