@@ -8,5 +8,4 @@
 - Donnerstag, 22. Juni 2023 13:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687432320/3238/
 - Donnerstag, 22. Juni 2023 13:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687433040/3238/
 - Donnerstag, 22. Juni 2023 14:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687435920/3238/
-- Donnerstag, 22. Juni 2023 15:36 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1687440960/103/
 - Donnerstag, 22. Juni 2023 15:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687441200/150/
