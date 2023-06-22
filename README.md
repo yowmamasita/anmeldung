@@ -91,9 +91,9 @@
 - Donnerstag, 17. August 2023 13:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1692271800/150/
 - Donnerstag, 17. August 2023 13:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1692272160/169/
 - Donnerstag, 17. August 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1692272160/381/
-- Donnerstag, 17. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1692272160/191/
 - Donnerstag, 17. August 2023 13:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1692272880/312/
 - Donnerstag, 17. August 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1692272880/313/
+- Donnerstag, 17. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1692272880/191/
 - Donnerstag, 17. August 2023 13:54 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1692273240/140/
 - Donnerstag, 17. August 2023 14:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692273600/2845/
 - Donnerstag, 17. August 2023  Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1692273600/135/
