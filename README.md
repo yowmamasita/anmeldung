@@ -79,5 +79,4 @@
 - Donnerstag, 17. August 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692285120/898/
 - Donnerstag, 17. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692285120/904/
 - Donnerstag, 17. August 2023 17:24 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692285840/2908/
-- Donnerstag, 17. August 2023 17:42 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692286920/2836/
 - Donnerstag, 17. August 2023 17:48 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692287280/2911/
