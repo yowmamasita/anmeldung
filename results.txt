@@ -1,6 +1,9 @@
-- Donnerstag, 22. Juni 2023 10:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687421520/172/
-- Donnerstag, 22. Juni 2023 10:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687422240/172/
-- Donnerstag, 22. Juni 2023 11:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687426560/2914/
+- Donnerstag, 22. Juni 2023 10:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687420800/2848/
+- Donnerstag, 22. Juni 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687420800/172/
+- Donnerstag, 22. Juni 2023 10:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1687422960/108/
+- Donnerstag, 22. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687422960/2848/
+- Donnerstag, 22. Juni 2023 11:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687425120/172/
+- Donnerstag, 22. Juni 2023 15:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687440960/172/
 - Donnerstag, 20. Juli 2023 09:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689839280/2872/
 - Donnerstag, 20. Juli 2023 10:00 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689840000/2872/
 - Donnerstag, 20. Juli 2023 10:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689840720/2872/
