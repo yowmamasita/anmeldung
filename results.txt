@@ -1,12 +1,10 @@
-- Donnerstag, 20. Juli 2023 11:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689845040/2872/
-- Donnerstag, 20. Juli 2023 11:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689845760/2872/
+- Donnerstag, 20. Juli 2023 11:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689844320/2872/
 - Freitag, 11. August 2023 08:10 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691734200/2884/
 - Freitag, 11. August 2023 08:20 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691734800/2884/
 - Freitag, 11. August 2023 08:30 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691735400/2884/
 - Donnerstag, 17. August 2023 09:30 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1692257400/141/
 - Donnerstag, 17. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692257400/2836/
 - Donnerstag, 17. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692257400/2839/
-- Donnerstag, 17. August 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692257400/2932/
 - Donnerstag, 17. August 2023 09:40 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1692258000/381/
 - Donnerstag, 17. August 2023 09:42 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1692258120/141/
 - Donnerstag, 17. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692258120/2836/
@@ -36,7 +34,6 @@
 - Donnerstag, 17. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692260280/2839/
 - Donnerstag, 17. August 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1692260280/153/
 - Donnerstag, 17. August 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692260280/2932/
-- Donnerstag, 17. August 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1692260280/142/
 - Donnerstag, 17. August 2023 10:24 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1692260640/102/
 - Donnerstag, 17. August 2023 10:30 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1692261000/141/
 - Donnerstag, 17. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692261000/2836/
