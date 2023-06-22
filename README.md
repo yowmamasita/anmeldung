@@ -4,4 +4,3 @@
 - Mittwoch, 19. Juli 2023 14:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689770160/2896/
 - Donnerstag, 20. Juli 2023 13:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689852960/2872/
 - Donnerstag, 20. Juli 2023 17:48 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689868080/2920/
-- Donnerstag, 27. Juli 2023 13:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690457040/2863/
