@@ -1,5 +1,4 @@
 - Donnerstag, 22. Juni 2023 13:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687433760/312/
-- Donnerstag, 22. Juni 2023 13:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687434480/2851/
 - Donnerstag, 22. Juni 2023 14:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687435200/191/
 - Donnerstag, 22. Juni 2023 14:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687438200/150/
 - Donnerstag, 22. Juni 2023 15:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687439520/2899/
@@ -27,4 +26,10 @@
 - Freitag, 23. Juni 2023 12:36 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687516560/2842/
 - Freitag, 23. Juni 2023 12:48 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687517280/2842/
 - Freitag, 23. Juni 2023 13:00 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687518000/2842/
-- Freitag, 23. Juni 2023 13:12 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687518720/2842/
+- Dienstag, 27. Juni 2023 11:00 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687856400/922/
+- Freitag, 30. Juni 2023 09:30 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688110200/2839/
+- Montag, 10. Juli 2023 10:36 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688978160/2839/
+- Mittwoch, 12. Juli 2023 08:00 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689141600/2839/
+- Montag, 17. Juli 2023 09:00 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689577200/2839/
+- Donnerstag, 20. Juli 2023 13:42 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1689853320/140/
+- Montag, 31. Juli 2023 10:12 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690791120/2839/
