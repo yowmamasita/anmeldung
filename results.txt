@@ -1,6 +1,7 @@
-- Donnerstag, 22. Juni 2023 10:36 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1687422960/135/
+- Donnerstag, 22. Juni 2023 10:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687422960/2845/
+- Donnerstag, 22. Juni 2023  Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1687422960/135/
 - Donnerstag, 22. Juni 2023 11:18 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687425480/2836/
-- Donnerstag, 20. Juli 2023 10:00 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689840000/2875/
+- Donnerstag, 22. Juni 2023 14:36 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1687437360/135/
 - Donnerstag, 20. Juli 2023 10:12 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689840720/2875/
 - Donnerstag, 20. Juli 2023 10:24 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689841440/2875/
 - Donnerstag, 20. Juli 2023 10:36 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689842160/2875/
@@ -14,4 +15,3 @@
 - Donnerstag, 20. Juli 2023 12:12 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689847920/2875/
 - Donnerstag, 20. Juli 2023 12:24 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689848640/2875/
 - Donnerstag, 20. Juli 2023 12:36 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689849360/2875/
-- Donnerstag, 20. Juli 2023 12:48 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689850080/2875/
