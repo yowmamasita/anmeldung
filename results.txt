@@ -20,7 +20,8 @@
 - Donnerstag, 17. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692259920/847/
 - Donnerstag, 17. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692259920/922/
 - Donnerstag, 17. August 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1692259920/192/
-- Donnerstag, 17. August 2023 10:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1692260400/150/
+- Donnerstag, 17. August 2023 10:20 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1692260400/148/
+- Donnerstag, 17. August 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1692260400/150/
 - Donnerstag, 17. August 2023 10:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692260640/2845/
 - Donnerstag, 17. August 2023  Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1692260640/134/
 - Donnerstag, 17. August 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692260640/844/
@@ -37,7 +38,6 @@
 - Donnerstag, 17. August 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1692261360/111/
 - Donnerstag, 17. August 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692261360/2854/
 - Donnerstag, 17. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1692261360/191/
-- Donnerstag, 17. August 2023 10:40 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1692261600/148/
 - Donnerstag, 17. August 2023 10:50 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1692262200/151/
 - Donnerstag, 17. August 2023 10:54 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1692262440/153/
 - Donnerstag, 17. August 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692262440/2932/
