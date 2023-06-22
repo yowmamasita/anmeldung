@@ -1,3 +1,1 @@
-- Donnerstag, 22. Juni 2023 13:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687433040/231/
-- Donnerstag, 22. Juni 2023 13:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687433400/150/
-- Donnerstag, 22. Juni 2023 13:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687434480/2851/
+- Donnerstag, 22. Juni 2023 13:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687433040/2851/
