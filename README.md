@@ -6,8 +6,7 @@
 - Donnerstag, 17. August 2023 08:12 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692252720/2938/
 - Donnerstag, 17. August 2023 08:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692253440/154/
 - Donnerstag, 17. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692253440/2938/
-- Donnerstag, 17. August 2023 08:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692254160/154/
-- Donnerstag, 17. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692254160/2938/
+- Donnerstag, 17. August 2023 08:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692254160/2938/
 - Donnerstag, 17. August 2023 08:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692254880/154/
 - Donnerstag, 17. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692254880/2938/
 - Donnerstag, 17. August 2023 09:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692255600/154/
@@ -21,5 +20,4 @@
 - Donnerstag, 17. August 2023 09:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692258480/154/
 - Donnerstag, 17. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692258480/2938/
 - Donnerstag, 17. August 2023 10:00 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692259200/2938/
-- Donnerstag, 17. August 2023 10:12 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692259920/2938/
 - Donnerstag, 17. August 2023 10:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692260640/154/
