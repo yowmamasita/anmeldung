@@ -6,5 +6,4 @@
 - Donnerstag, 22. Juni 2023 14:00 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687435200/150/
 - Donnerstag, 22. Juni 2023 14:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687435800/150/
 - Donnerstag, 22. Juni 2023 14:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687436400/150/
-- Donnerstag, 22. Juni 2023 14:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687437000/150/
 - Donnerstag, 22. Juni 2023 14:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687438200/150/
