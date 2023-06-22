@@ -63,8 +63,7 @@
 - Donnerstag, 17. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692264600/2839/
 - Donnerstag, 17. August 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1692264600/153/
 - Donnerstag, 17. August 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692264600/2932/
-- Donnerstag, 17. August 2023 11:42 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1692265320/141/
-- Donnerstag, 17. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692265320/2836/
+- Donnerstag, 17. August 2023 11:42 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692265320/2836/
 - Donnerstag, 17. August 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1692265320/140/
 - Donnerstag, 17. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692265320/2839/
 - Donnerstag, 17. August 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1692265320/153/
@@ -148,8 +147,7 @@
 - Donnerstag, 17. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692281160/2839/
 - Donnerstag, 17. August 2023 16:18 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1692281880/140/
 - Donnerstag, 17. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692281880/2839/
-- Donnerstag, 17. August 2023 16:30 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1692282600/140/
-- Donnerstag, 17. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692282600/2839/
+- Donnerstag, 17. August 2023 16:30 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692282600/2839/
 - Donnerstag, 17. August 2023 16:42 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1692283320/140/
 - Donnerstag, 17. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692283320/2839/
 - Donnerstag, 17. August 2023 16:54 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1692284040/140/
