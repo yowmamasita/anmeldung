@@ -21,12 +21,12 @@
 - Donnerstag, 17. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692266400/847/
 - Donnerstag, 17. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692266400/2866/
 - Donnerstag, 17. August 2023 12:10 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692267000/2881/
-- Donnerstag, 17. August 2023 12:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692267120/2908/
-- Donnerstag, 17. August 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692267120/2914/
+- Donnerstag, 17. August 2023 12:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692267120/2914/
 - Donnerstag, 17. August 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692267120/2857/
 - Donnerstag, 17. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692267120/904/
 - Donnerstag, 17. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692267120/922/
-- Donnerstag, 17. August 2023 12:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1692267840/190/
+- Donnerstag, 17. August 2023 12:24 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692267840/2908/
+- Donnerstag, 17. August 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1692267840/190/
 - Donnerstag, 17. August 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692267840/2887/
 - Donnerstag, 17. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692267840/2926/
 - Donnerstag, 17. August 2023 12:30 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692268200/2836/
@@ -129,7 +129,6 @@
 - Donnerstag, 17. August 2023 15:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1692277920/169/
 - Donnerstag, 17. August 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1692277920/109/
 - Donnerstag, 17. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692277920/841/
-- Donnerstag, 17. August 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1692277920/381/
 - Donnerstag, 17. August 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1692277920/111/
 - Donnerstag, 17. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692277920/847/
 - Donnerstag, 17. August 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1692277920/153/
@@ -141,6 +140,7 @@
 - Donnerstag, 17. August 2023 15:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1692278400/147/
 - Donnerstag, 17. August 2023 15:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692278640/2845/
 - Donnerstag, 17. August 2023  Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1692278640/135/
+- Donnerstag, 17. August 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1692278640/381/
 - Donnerstag, 17. August 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692278640/898/
 - Donnerstag, 17. August 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1692278640/190/
 - Donnerstag, 17. August 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692278640/2854/
@@ -205,10 +205,10 @@
 - Donnerstag, 17. August 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692285120/2908/
 - Donnerstag, 17. August 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692285120/2848/
 - Donnerstag, 17. August 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692285120/2887/
-- Donnerstag, 17. August 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1692285120/153/
 - Donnerstag, 17. August 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1692285120/313/
 - Donnerstag, 17. August 2023 17:24 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1692285840/134/
 - Donnerstag, 17. August 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1692285840/167/
+- Donnerstag, 17. August 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1692285840/153/
 - Donnerstag, 17. August 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692285840/2932/
 - Donnerstag, 17. August 2023 17:36 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692286560/844/
 - Donnerstag, 17. August 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692286560/3238/
