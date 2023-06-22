@@ -129,13 +129,12 @@
 - Donnerstag, 17. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692281520/904/
 - Donnerstag, 17. August 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1692281520/192/
 - Donnerstag, 17. August 2023 16:15 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1692281700/380/
-- Donnerstag, 17. August 2023 16:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1692282240/108/
-- Donnerstag, 17. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1692282240/191/
+- Donnerstag, 17. August 2023 16:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1692282240/191/
 - Donnerstag, 17. August 2023 16:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1692282960/136/
-- Donnerstag, 17. August 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1692282960/312/
 - Donnerstag, 17. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692282960/847/
 - Donnerstag, 17. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692282960/922/
 - Donnerstag, 17. August 2023 16:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1692283680/381/
+- Donnerstag, 17. August 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1692283680/312/
 - Donnerstag, 17. August 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1692283680/167/
 - Donnerstag, 17. August 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1692283680/153/
 - Donnerstag, 17. August 2023 17:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692284400/2845/
