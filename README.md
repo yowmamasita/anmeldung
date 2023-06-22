@@ -3,7 +3,6 @@
 - Donnerstag, 22. Juni 2023 10:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687423680/231/
 - Donnerstag, 22. Juni 2023 11:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687425120/167/
 - Donnerstag, 22. Juni 2023 11:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687425840/312/
-- Donnerstag, 22. Juni 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1687425840/102/
 - Donnerstag, 22. Juni 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687425840/167/
 - Donnerstag, 22. Juni 2023 11:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687426560/167/
 - Donnerstag, 22. Juni 2023 11:48 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1687427280/135/
