@@ -1,5 +1,4 @@
 - Donnerstag, 22. Juni 2023 11:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687424400/2899/
-- Donnerstag, 22. Juni 2023 11:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687425120/2899/
 - Donnerstag, 22. Juni 2023 11:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687425840/2899/
 - Donnerstag, 22. Juni 2023 11:48 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687427280/1018/
 - Donnerstag, 22. Juni 2023 12:12 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687428720/1018/
@@ -17,4 +16,3 @@
 - Donnerstag, 22. Juni 2023 17:00 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687446000/1018/
 - Donnerstag, 22. Juni 2023 17:12 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687446720/1018/
 - Donnerstag, 22. Juni 2023 17:24 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687447440/1018/
-- Donnerstag, 22. Juni 2023 17:36 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687448160/1018/
