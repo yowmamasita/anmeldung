@@ -99,7 +99,6 @@
 - Donnerstag, 17. August 2023 12:30 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1692268200/148/
 - Donnerstag, 17. August 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1692268200/153/
 - Donnerstag, 17. August 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692268200/2932/
-- Donnerstag, 17. August 2023 12:36 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1692268560/313/
 - Donnerstag, 17. August 2023 12:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692269280/154/
 - Donnerstag, 17. August 2023 12:50 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1692269400/151/
 - Donnerstag, 17. August 2023 13:00 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692270000/2911/
