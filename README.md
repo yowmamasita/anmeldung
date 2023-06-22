@@ -4,7 +4,6 @@
 - Donnerstag, 22. Juni 2023 15:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687440960/2863/
 - Donnerstag, 22. Juni 2023 16:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687442400/3238/
 - Donnerstag, 22. Juni 2023 16:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687443120/2845/
-- Donnerstag, 22. Juni 2023 16:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1687443600/147/
 - Donnerstag, 22. Juni 2023 17:00 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687446000/841/
 - Donnerstag, 22. Juni 2023 17:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687447440/2914/
 - Donnerstag, 22. Juni 2023 17:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1687448160/106/
