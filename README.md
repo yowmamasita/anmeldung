@@ -3,8 +3,6 @@
 - Donnerstag, 22. Juni 2023 10:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687422960/2887/
 - Donnerstag, 22. Juni 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687422960/172/
 - Donnerstag, 22. Juni 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687422960/2899/
-- Donnerstag, 22. Juni 2023 10:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687423680/2899/
-- Donnerstag, 22. Juni 2023 11:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687425840/169/
 - Donnerstag, 22. Juni 2023 11:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687427280/169/
 - Donnerstag, 22. Juni 2023 12:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687429440/169/
 - Donnerstag, 22. Juni 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687429440/312/
@@ -18,10 +16,8 @@
 - Donnerstag, 22. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687432320/231/
 - Donnerstag, 22. Juni 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687432320/167/
 - Donnerstag, 22. Juni 2023 13:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687433040/169/
-- Donnerstag, 22. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687433040/231/
 - Donnerstag, 22. Juni 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687433040/167/
 - Donnerstag, 22. Juni 2023 13:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687433760/169/
-- Donnerstag, 22. Juni 2023 13:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687434480/169/
 - Donnerstag, 22. Juni 2023 15:00 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687438800/2860/
 - Donnerstag, 22. Juni 2023 15:12 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687439520/2860/
 - Donnerstag, 22. Juni 2023 15:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687440240/231/
@@ -34,5 +30,4 @@
 - Donnerstag, 22. Juni 2023 16:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687443840/231/
 - Donnerstag, 22. Juni 2023 16:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687444560/231/
 - Donnerstag, 22. Juni 2023 16:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687445280/231/
-- Donnerstag, 20. Juli 2023 10:48 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689842880/2875/
 - Donnerstag, 27. Juli 2023 16:54 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690469640/2839/
