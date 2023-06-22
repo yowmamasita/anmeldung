@@ -217,5 +217,4 @@
 - Donnerstag, 17. August 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1692286560/170/
 - Donnerstag, 17. August 2023 17:40 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692286800/2881/
 - Donnerstag, 17. August 2023 17:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1692287280/109/
-- Donnerstag, 17. August 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1692287280/111/
 - Donnerstag, 17. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692287280/922/
