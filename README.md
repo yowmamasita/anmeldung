@@ -155,4 +155,3 @@
 - Freitag, 18. August 2023 13:12 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692357120/2836/
 - Freitag, 18. August 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692357120/3238/
 - Freitag, 18. August 2023 14:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692360000/3238/
-- Dienstag, 22. August 2023 14:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1692707040/146/
