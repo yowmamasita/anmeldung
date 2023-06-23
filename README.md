@@ -4,3 +4,4 @@
 - Freitag, 23. Juni 2023 09:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687503600/154/
 - Freitag, 23. Juni 2023 09:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687504320/154/
 - Freitag, 23. Juni 2023 09:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687505040/154/
+- Donnerstag, 27. Juli 2023 13:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690457760/2899/
