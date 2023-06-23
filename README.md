@@ -258,8 +258,7 @@
 - Freitag, 18. August 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692347040/2932/
 - Freitag, 18. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1692347040/191/
 - Freitag, 18. August 2023 10:30 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692347400/847/
-- Freitag, 18. August 2023 11:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1692349200/169/
-- Freitag, 18. August 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692349200/2857/
+- Freitag, 18. August 2023 11:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692349200/2857/
 - Freitag, 18. August 2023  Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1692349200/380/
 - Freitag, 18. August 2023  Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1692349200/141/
 - Freitag, 18. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692349200/2836/
@@ -282,7 +281,8 @@
 - Freitag, 18. August 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1692349560/111/
 - Freitag, 18. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692349560/847/
 - Freitag, 18. August 2023 11:10 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692349800/2884/
-- Freitag, 18. August 2023 11:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1692349920/191/
+- Freitag, 18. August 2023 11:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1692349920/169/
+- Freitag, 18. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1692349920/191/
 - Freitag, 18. August 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1692349920/142/
 - Freitag, 18. August 2023 11:18 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1692350280/140/
 - Freitag, 18. August 2023 12:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1692352800/169/
