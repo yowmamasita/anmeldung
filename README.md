@@ -71,4 +71,4 @@
 - Freitag, 18. August 2023 12:30 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692354600/2884/
 - Freitag, 18. August 2023 12:54 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692356040/847/
 - Freitag, 18. August 2023 13:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692357840/3238/
-- Freitag, 18. August 2023 13:36 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692358560/2836/
+- Freitag, 18. August 2023 13:48 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692359280/2836/
