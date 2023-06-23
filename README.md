@@ -3,7 +3,6 @@
 - Freitag, 28. Juli 2023 10:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690531560/2908/
 - Montag, 31. Juli 2023 10:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690792200/2908/
 - Mittwoch, 2. August 2023 11:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690967880/2908/
-- Donnerstag, 3. August 2023 10:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691049600/2899/
 - Mittwoch, 9. August 2023 11:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691572680/2908/
 - Mittwoch, 16. August 2023 13:18 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692184680/2887/
 - Freitag, 18. August 2023 07:12 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1692335520/145/
