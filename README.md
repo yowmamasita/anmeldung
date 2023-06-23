@@ -205,8 +205,8 @@
 - Freitag, 18. August 2023 12:18 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1692353880/135/
 - Freitag, 18. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692353880/847/
 - Freitag, 18. August 2023 12:20 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1692354000/148/
-- Freitag, 18. August 2023 12:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1692354240/108/
-- Freitag, 18. August 2023 12:36 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1692354960/102/
+- Freitag, 18. August 2023 12:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1692354960/108/
+- Freitag, 18. August 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1692354960/102/
 - Freitag, 18. August 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1692354960/167/
 - Freitag, 18. August 2023 12:48 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692355680/2860/
 - Freitag, 18. August 2023 12:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1692356040/111/
@@ -216,7 +216,6 @@
 - Freitag, 18. August 2023 13:48 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1692359280/141/
 - Freitag, 18. August 2023 14:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692360000/3238/
 - Dienstag, 22. August 2023 12:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1692700560/231/
-- Dienstag, 22. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1692700560/172/
 - Dienstag, 22. August 2023 12:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1692701280/231/
 - Dienstag, 22. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1692701280/172/
 - Dienstag, 22. August 2023 13:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1692702000/231/
