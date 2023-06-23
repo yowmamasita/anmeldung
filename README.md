@@ -217,7 +217,6 @@
 - Freitag, 18. August 2023 13:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692357840/2854/
 - Freitag, 18. August 2023 13:48 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1692359280/141/
 - Freitag, 18. August 2023 14:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692360000/3238/
-- Dienstag, 22. August 2023 12:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1692699120/172/
 - Dienstag, 22. August 2023 12:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1692700560/231/
 - Dienstag, 22. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1692700560/172/
 - Dienstag, 22. August 2023 12:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1692701280/231/
