@@ -9,4 +9,3 @@
 - Freitag, 23. Juni 2023 09:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687504320/2896/
 - Freitag, 23. Juni 2023 09:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687505040/2896/
 - Freitag, 23. Juni 2023 10:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687507920/2896/
-- Freitag, 23. Juni 2023 11:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687512960/154/
