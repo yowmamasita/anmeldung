@@ -12,8 +12,6 @@
 - Freitag, 23. Juni 2023 10:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687508400/150/
 - Freitag, 23. Juni 2023 10:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687509000/150/
 - Freitag, 23. Juni 2023 10:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687509600/150/
-- Freitag, 23. Juni 2023 11:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687512600/150/
-- Donnerstag, 29. Juni 2023 14:24 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1688041440/352/
 - Donnerstag, 29. Juni 2023 14:48 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1688042880/352/
 - Donnerstag, 29. Juni 2023 15:12 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1688044320/352/
 - Freitag, 21. Juli 2023 08:12 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689919920/2875/
@@ -42,4 +40,3 @@
 - Freitag, 21. Juli 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689927840/2875/
 - Freitag, 21. Juli 2023 10:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689928560/2872/
 - Freitag, 21. Juli 2023 10:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689929280/2872/
-- Donnerstag, 27. Juli 2023 13:24 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690457040/904/
