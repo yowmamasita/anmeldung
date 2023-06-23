@@ -17,6 +17,7 @@
 - Freitag, 18. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692337320/2839/
 - Freitag, 18. August 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692337320/898/
 - Freitag, 18. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692337320/847/
+- Freitag, 18. August 2023 07:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692337680/2854/
 - Freitag, 18. August 2023 07:54 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692338040/841/
 - Freitag, 18. August 2023 08:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692338400/2848/
 - Freitag, 18. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692338400/2866/
@@ -62,7 +63,6 @@
 - Freitag, 18. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692342000/2866/
 - Freitag, 18. August 2023 09:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692342360/2908/
 - Freitag, 18. August 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692342360/2911/
-- Freitag, 18. August 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692342360/2914/
 - Freitag, 18. August 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692342360/844/
 - Freitag, 18. August 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1692342360/140/
 - Freitag, 18. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692342360/2839/
@@ -77,7 +77,8 @@
 - Freitag, 18. August 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1692342720/167/
 - Freitag, 18. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692342720/2938/
 - Freitag, 18. August 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1692342720/192/
-- Freitag, 18. August 2023 09:18 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692343080/904/
+- Freitag, 18. August 2023 09:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692343080/2914/
+- Freitag, 18. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692343080/904/
 - Freitag, 18. August 2023 09:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1692343200/149/
 - Freitag, 18. August 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692343200/2884/
 - Freitag, 18. August 2023 09:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692343440/2845/
@@ -113,8 +114,7 @@
 - Freitag, 18. August 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1692345960/313/
 - Freitag, 18. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692345960/904/
 - Freitag, 18. August 2023 10:10 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692346200/2884/
-- Freitag, 18. August 2023 10:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692346320/2848/
-- Freitag, 18. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692346320/2836/
+- Freitag, 18. August 2023 10:12 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692346320/2836/
 - Freitag, 18. August 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692346320/3238/
 - Freitag, 18. August 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1692346320/190/
 - Freitag, 18. August 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692346320/2860/
@@ -129,6 +129,7 @@
 - Freitag, 18. August 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1692346800/150/
 - Freitag, 18. August 2023 10:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1692347040/106/
 - Freitag, 18. August 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692347040/2845/
+- Freitag, 18. August 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692347040/2848/
 - Freitag, 18. August 2023  Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1692347040/141/
 - Freitag, 18. August 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1692347040/381/
 - Freitag, 18. August 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692347040/2932/
@@ -187,7 +188,6 @@
 - Freitag, 18. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1692351360/103/
 - Freitag, 18. August 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1692351360/142/
 - Freitag, 18. August 2023 11:42 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1692351720/140/
-- Freitag, 18. August 2023 11:48 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1692352080/102/
 - Freitag, 18. August 2023 12:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1692352800/169/
 - Freitag, 18. August 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692352800/2857/
 - Freitag, 18. August 2023  Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1692352800/380/
@@ -228,10 +228,9 @@
 - Freitag, 18. August 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692354000/2884/
 - Freitag, 18. August 2023 12:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1692354240/167/
 - Freitag, 18. August 2023 12:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1692354600/111/
-- Freitag, 18. August 2023 12:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1692355320/313/
 - Freitag, 18. August 2023 12:48 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692355680/2860/
-- Freitag, 18. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1692355680/103/
 - Freitag, 18. August 2023 12:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1692355800/147/
+- Freitag, 18. August 2023 12:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1692356040/313/
 - Freitag, 18. August 2023 13:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692356400/2836/
 - Freitag, 18. August 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692356400/3238/
 - Freitag, 18. August 2023 13:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692357840/2854/
