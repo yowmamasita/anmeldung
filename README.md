@@ -150,8 +150,7 @@
 - Dienstag, 22. August 2023 15:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1692712080/231/
 - Dienstag, 22. August 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1692712080/146/
 - Dienstag, 22. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1692712080/172/
-- Dienstag, 22. August 2023 16:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1692712800/231/
-- Dienstag, 22. August 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1692712800/146/
+- Dienstag, 22. August 2023 16:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1692712800/146/
 - Dienstag, 22. August 2023 16:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1692713520/146/
 - Dienstag, 22. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1692713520/172/
 - Dienstag, 22. August 2023 16:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1692714240/231/
