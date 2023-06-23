@@ -24,7 +24,6 @@
 - Freitag, 18. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692344160/2938/
 - Freitag, 18. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692344160/2926/
 - Freitag, 18. August 2023 09:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692344520/2839/
-- Freitag, 18. August 2023 09:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1692344880/169/
 - Freitag, 18. August 2023 09:54 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692345240/841/
 - Freitag, 18. August 2023 10:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692345600/2857/
 - Freitag, 18. August 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692345600/2887/
