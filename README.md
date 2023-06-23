@@ -13,8 +13,6 @@
 - Freitag, 23. Juni 2023 09:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687505040/922/
 - Freitag, 23. Juni 2023 09:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687506840/2908/
 - Freitag, 23. Juni 2023 10:00 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687507200/922/
-- Freitag, 23. Juni 2023 10:12 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687507920/922/
-- Montag, 26. Juni 2023 11:00 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1687770000/103/
 - Donnerstag, 13. Juli 2023 11:00 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1689238800/136/
 - Freitag, 14. Juli 2023 08:12 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689315120/2893/
 - Freitag, 21. Juli 2023 08:12 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689919920/2875/
@@ -44,5 +42,4 @@
 - Freitag, 21. Juli 2023 10:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689929280/2872/
 - Freitag, 21. Juli 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689929280/2875/
 - Montag, 24. Juli 2023 10:24 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690187040/2839/
-- Mittwoch, 26. Juli 2023 12:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690367760/3238/
 - Donnerstag, 27. Juli 2023 13:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690457760/2899/
