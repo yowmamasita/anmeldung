@@ -18,4 +18,3 @@
 - Mittwoch, 23. August 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1692793440/146/
 - Mittwoch, 23. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1692793440/172/
 - Mittwoch, 23. August 2023 14:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1692794160/146/
-- Mittwoch, 23. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1692794160/172/
