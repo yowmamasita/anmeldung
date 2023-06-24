@@ -4,4 +4,3 @@
 - Montag, 26. Juni 2023 12:48 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687776480/2920/
 - Montag, 26. Juni 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687776480/922/
 - Montag, 26. Juni 2023 13:12 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1687777920/142/
-- Donnerstag, 29. Juni 2023 12:00 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688032800/312/
