@@ -3,6 +3,5 @@
 - Montag, 26. Juni 2023 11:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687771800/312/
 - Montag, 26. Juni 2023 11:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687772880/191/
 - Montag, 26. Juni 2023 12:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1687775040/168/
-- Montag, 26. Juni 2023 12:30 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687775400/2938/
 - Montag, 26. Juni 2023 13:10 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687777800/2881/
 - Donnerstag, 29. Juni 2023 16:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1688049360/381/
