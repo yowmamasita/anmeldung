@@ -3,4 +3,3 @@
 - Montag, 26. Juni 2023 08:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687760640/2899/
 - Montag, 26. Juni 2023 14:12 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687781520/2875/
 - Dienstag, 27. Juni 2023 17:40 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687880400/2881/
-- Montag, 3. Juli 2023 12:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688380560/169/
