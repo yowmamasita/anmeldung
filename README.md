@@ -3,5 +3,4 @@
 - Montag, 26. Juni 2023 09:10 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687763400/2881/
 - Dienstag, 27. Juni 2023 13:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687865760/3238/
 - Dienstag, 27. Juni 2023 14:24 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687868640/898/
-- Dienstag, 27. Juni 2023 17:24 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1687879440/103/
 - Freitag, 30. Juni 2023 07:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688103360/2938/
