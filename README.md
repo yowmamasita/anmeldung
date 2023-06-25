@@ -4,5 +4,4 @@
 - Montag, 26. Juni 2023 11:42 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687772520/844/
 - Montag, 26. Juni 2023 15:12 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1687785120/103/
 - Dienstag, 27. Juni 2023 13:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687863600/3238/
-- Dienstag, 27. Juni 2023 14:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687867200/2926/
 - Dienstag, 25. Juli 2023 08:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690267680/3238/
