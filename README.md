@@ -4,4 +4,3 @@
 - Dienstag, 27. Juni 2023 11:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687858560/2863/
 - Dienstag, 27. Juni 2023 14:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687869360/2863/
 - Dienstag, 27. Juni 2023 15:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687873680/381/
-- Dienstag, 27. Juni 2023 16:00 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687874400/2911/
