@@ -6,4 +6,3 @@
 - Dienstag, 27. Juni 2023 15:30 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1687872600/142/
 - Dienstag, 27. Juni 2023 15:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687873680/2863/
 - Mittwoch, 28. Juni 2023 07:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687930200/2914/
-- Dienstag, 25. Juli 2023 12:00 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690279200/2854/
