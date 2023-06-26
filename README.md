@@ -37,8 +37,7 @@
 - Montag, 21. August 2023 13:24 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692617040/2836/
 - Montag, 21. August 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692617040/3238/
 - Montag, 21. August 2023 13:42 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692618120/847/
-- Montag, 21. August 2023 13:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1692618840/109/
-- Montag, 21. August 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1692618840/312/
+- Montag, 21. August 2023 13:54 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1692618840/312/
 - Montag, 21. August 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1692618840/111/
 - Montag, 21. August 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1692618840/313/
 - Montag, 21. August 2023 14:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692619200/2845/
