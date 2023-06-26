@@ -6,6 +6,3 @@
 - Montag, 26. Juni 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687767840/2866/
 - Montag, 26. Juni 2023 11:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687771080/2914/
 - Montag, 26. Juni 2023 13:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687780080/3238/
-- Mittwoch, 28. Juni 2023 08:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687932000/2863/
-- Mittwoch, 28. Juni 2023 08:30 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687933800/2926/
-- Freitag, 30. Juni 2023 09:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1688109120/172/
