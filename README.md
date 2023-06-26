@@ -110,7 +110,7 @@
 - Montag, 21. August 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692616320/2854/
 - Montag, 21. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1692616320/191/
 - Montag, 21. August 2023 13:18 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692616680/847/
-- Montag, 21. August 2023 13:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1692617040/141/
+- Montag, 21. August 2023 13:36 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1692617760/141/
 - Montag, 21. August 2023 14:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692619200/2857/
 - Montag, 21. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692619200/2836/
 - Montag, 21. August 2023  Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1692619200/147/
@@ -133,8 +133,7 @@
 - Mittwoch, 23. August 2023 11:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692783360/2896/
 - Mittwoch, 23. August 2023 11:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692784080/2896/
 - Freitag, 25. August 2023 11:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1692955440/172/
-- Freitag, 25. August 2023 11:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1692956160/146/
-- Freitag, 25. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1692956160/172/
+- Freitag, 25. August 2023 11:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1692956160/172/
 - Freitag, 25. August 2023 11:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1692956880/231/
 - Freitag, 25. August 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1692956880/146/
 - Freitag, 25. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1692956880/172/
