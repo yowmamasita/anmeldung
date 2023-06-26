@@ -5,8 +5,7 @@
 - Montag, 21. August 2023 11:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692610200/2908/
 - Montag, 21. August 2023 11:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692610560/2887/
 - Montag, 21. August 2023 11:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692610920/2908/
-- Montag, 21. August 2023 11:48 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692611280/2839/
-- Montag, 21. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692611280/2926/
+- Montag, 21. August 2023 11:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692611280/2926/
 - Montag, 21. August 2023 12:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692612720/2926/
 - Montag, 21. August 2023 12:18 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692613080/2911/
 - Montag, 21. August 2023 12:24 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692613440/2836/
@@ -157,7 +156,8 @@
 - Montag, 21. August 2023 15:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692625680/2938/
 - Montag, 21. August 2023 16:00 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692626400/2938/
 - Montag, 21. August 2023 16:12 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692627120/2938/
-- Montag, 21. August 2023 16:24 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692627840/2938/
+- Montag, 21. August 2023 16:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692627840/154/
+- Montag, 21. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692627840/2938/
 - Montag, 21. August 2023 16:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692628560/154/
 - Montag, 21. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692628560/2938/
 - Montag, 21. August 2023 16:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692629280/154/
