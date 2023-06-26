@@ -25,8 +25,6 @@
 - Dienstag, 27. Juni 2023 15:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687872240/172/
 - Dienstag, 27. Juni 2023 15:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687872960/172/
 - Dienstag, 27. Juni 2023 15:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687873680/172/
-- Dienstag, 27. Juni 2023 16:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687874400/172/
-- Dienstag, 27. Juni 2023 16:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687875120/172/
 - Dienstag, 27. Juni 2023 16:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687875840/172/
 - Dienstag, 27. Juni 2023 16:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687876560/172/
 - Dienstag, 27. Juni 2023 16:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687877280/172/
