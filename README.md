@@ -11,7 +11,6 @@
 - Montag, 26. Juni 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687765680/3238/
 - Montag, 26. Juni 2023 10:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687766400/3238/
 - Montag, 26. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687766400/2851/
-- Montag, 26. Juni 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1687766400/142/
 - Montag, 26. Juni 2023 10:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687767120/2848/
 - Montag, 26. Juni 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687767120/3238/
 - Montag, 26. Juni 2023 10:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687767840/2848/
@@ -26,6 +25,5 @@
 - Montag, 26. Juni 2023 12:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687775760/2896/
 - Montag, 26. Juni 2023 12:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687776480/2896/
 - Montag, 26. Juni 2023 13:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687777920/3238/
-- Montag, 26. Juni 2023 14:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687782240/169/
-- Montag, 26. Juni 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687782240/3238/
+- Montag, 26. Juni 2023 14:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687782240/3238/
 - Montag, 26. Juni 2023 14:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687783680/3238/
