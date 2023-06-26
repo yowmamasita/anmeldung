@@ -6,7 +6,6 @@
 - Montag, 24. Juli 2023 14:00 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690200000/2920/
 - Montag, 24. Juli 2023 14:12 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690200720/2920/
 - Montag, 24. Juli 2023 14:24 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690201440/2920/
-- Montag, 24. Juli 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690201440/2875/
 - Montag, 24. Juli 2023 15:00 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690203600/2920/
 - Montag, 24. Juli 2023 15:12 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690204320/2920/
 - Montag, 24. Juli 2023 15:24 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690205040/2920/
