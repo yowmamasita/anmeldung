@@ -32,4 +32,3 @@
 - Montag, 26. Juni 2023 14:18 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1687781880/135/
 - Montag, 26. Juni 2023 14:30 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1687782600/135/
 - Montag, 26. Juni 2023 14:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1687783320/135/
-- Montag, 26. Juni 2023 14:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1687784040/135/
