@@ -5,12 +5,10 @@
 - Montag, 26. Juni 2023 10:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687767120/2845/
 - Montag, 26. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687767120/2896/
 - Montag, 26. Juni 2023 10:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687767840/2845/
-- Montag, 26. Juni 2023 10:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687768560/2845/
-- Montag, 26. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687768560/231/
+- Montag, 26. Juni 2023 10:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687768560/231/
 - Montag, 26. Juni 2023 10:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687769280/3238/
 - Montag, 26. Juni 2023 11:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687770000/3238/
 - Montag, 26. Juni 2023 11:06 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687770360/109/
-- Mittwoch, 28. Juni 2023 08:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687932000/146/
 - Mittwoch, 28. Juni 2023 09:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1687937040/168/
 - Mittwoch, 28. Juni 2023 09:30 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687937400/2923/
 - Freitag, 30. Juni 2023 09:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1688109120/168/
