@@ -65,4 +65,3 @@
 - Montag, 26. Juni 2023 12:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687774680/313/
 - Montag, 26. Juni 2023 12:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687775040/146/
 - Montag, 26. Juni 2023 12:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1687776120/313/
-- Montag, 26. Juni 2023 14:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687781160/2914/
