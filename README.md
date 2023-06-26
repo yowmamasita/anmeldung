@@ -44,8 +44,7 @@
 - Montag, 21. August 2023 13:36 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692617760/2860/
 - Montag, 21. August 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692617760/2932/
 - Montag, 21. August 2023 13:42 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692618120/847/
-- Montag, 21. August 2023 13:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1692618480/106/
-- Montag, 21. August 2023  Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1692618480/134/
+- Montag, 21. August 2023 13:48 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1692618480/134/
 - Montag, 21. August 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1692618480/381/
 - Montag, 21. August 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1692618480/102/
 - Montag, 21. August 2023 13:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1692618840/109/
@@ -67,13 +66,13 @@
 - Montag, 21. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692619920/2836/
 - Montag, 21. August 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1692619920/381/
 - Montag, 21. August 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1692619920/167/
-- Montag, 21. August 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692619920/2860/
 - Montag, 21. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692619920/2926/
 - Montag, 21. August 2023 14:18 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1692620280/312/
 - Montag, 21. August 2023 14:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1692620640/106/
 - Montag, 21. August 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692620640/2857/
 - Montag, 21. August 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692620640/2887/
 - Montag, 21. August 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1692620640/102/
+- Montag, 21. August 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692620640/2860/
 - Montag, 21. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692620640/922/
 - Montag, 21. August 2023 14:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692622080/2848/
 - Montag, 21. August 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692622080/2932/
