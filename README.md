@@ -4,4 +4,3 @@
 - Montag, 21. August 2023 08:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692599040/2887/
 - Montag, 21. August 2023 08:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692599760/2887/
 - Montag, 21. August 2023 08:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692600480/2887/
-- Montag, 21. August 2023 09:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692603360/2887/
