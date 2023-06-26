@@ -154,14 +154,14 @@
 - Montag, 21. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692619200/922/
 - Montag, 21. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692619200/2926/
 - Montag, 21. August 2023 14:06 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692619560/847/
-- Montag, 21. August 2023 14:10 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1692619800/149/
-- Montag, 21. August 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692619800/2881/
+- Montag, 21. August 2023 14:10 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692619800/2881/
 - Montag, 21. August 2023 14:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692619920/3238/
 - Montag, 21. August 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1692619920/190/
 - Montag, 21. August 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692619920/2854/
 - Montag, 21. August 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1692619920/192/
 - Montag, 21. August 2023 14:18 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692620280/841/
-- Montag, 21. August 2023 14:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1692620400/150/
+- Montag, 21. August 2023 14:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1692620400/149/
+- Montag, 21. August 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1692620400/150/
 - Montag, 21. August 2023 15:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692622800/2836/
 - Montag, 21. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692622800/2839/
 - Mittwoch, 23. August 2023 10:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692777600/2899/
