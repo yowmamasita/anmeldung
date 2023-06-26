@@ -8,7 +8,6 @@
 - Montag, 21. August 2023 10:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692608040/2908/
 - Montag, 21. August 2023 11:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692609480/2908/
 - Montag, 21. August 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692609480/2911/
-- Montag, 21. August 2023 11:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692609840/2926/
 - Montag, 21. August 2023 11:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692610200/2908/
 - Montag, 21. August 2023 11:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692610560/2857/
 - Montag, 21. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692610560/2839/
