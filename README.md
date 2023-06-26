@@ -1,34 +1,121 @@
 # List of available Anmeldung appointments as of $NOW
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122254,122252,329742,122260,329745,122262,329748,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,317869,122281,327352,122279,329772,122283,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
-- Montag, 26. Juni 2023 09:18 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1687763880/134/
 - Montag, 26. Juni 2023 09:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687764240/2848/
 - Montag, 26. Juni 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687764240/3238/
 - Montag, 26. Juni 2023 09:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687764960/2848/
-- Montag, 26. Juni 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687764960/169/
 - Montag, 26. Juni 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687764960/3238/
 - Montag, 26. Juni 2023 09:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687765320/2911/
-- Montag, 26. Juni 2023 09:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1687765680/106/
-- Montag, 26. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687765680/2848/
+- Montag, 26. Juni 2023 09:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687765680/2848/
 - Montag, 26. Juni 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687765680/3238/
-- Montag, 26. Juni 2023 09:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687766040/109/
-- Montag, 26. Juni 2023 10:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687766400/3238/
-- Montag, 26. Juni 2023 10:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687767120/3238/
+- Montag, 26. Juni 2023 10:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687766400/2848/
+- Montag, 26. Juni 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687766400/3238/
+- Montag, 26. Juni 2023 10:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687767120/2848/
+- Montag, 26. Juni 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687767120/3238/
 - Montag, 26. Juni 2023 10:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687767480/2908/
 - Montag, 26. Juni 2023 10:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687767840/3238/
-- Montag, 26. Juni 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687767840/2866/
-- Montag, 26. Juni 2023 10:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687768560/169/
+- Montag, 26. Juni 2023 10:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687768560/2848/
 - Montag, 26. Juni 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687768560/3238/
-- Montag, 26. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687768560/231/
-- Montag, 26. Juni 2023 10:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687769280/3238/
-- Montag, 26. Juni 2023 12:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687775040/191/
-- Montag, 26. Juni 2023 13:24 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687778640/2893/
-- Montag, 26. Juni 2023 13:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1687780080/381/
-- Montag, 26. Juni 2023 14:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687782240/3238/
-- Dienstag, 27. Juni 2023 10:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687852800/192/
-- Mittwoch, 28. Juni 2023 08:06 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687932360/2926/
-- Montag, 3. Juli 2023 13:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688382000/2926/
-- Dienstag, 18. Juli 2023 10:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689669360/922/
-- Dienstag, 18. Juli 2023 14:36 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689683760/2908/
-- Dienstag, 18. Juli 2023 17:06 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689692760/2839/
-- Freitag, 21. Juli 2023 08:24 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689920640/2875/
-- Montag, 31. Juli 2023 08:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690784640/153/
+- Montag, 26. Juni 2023 10:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687769280/2848/
+- Montag, 26. Juni 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687769280/3238/
+- Montag, 26. Juni 2023 11:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687770000/2848/
+- Montag, 26. Juni 2023 11:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687770720/2848/
+- Dienstag, 27. Juni 2023 12:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687860720/146/
+- Dienstag, 27. Juni 2023 12:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687861440/146/
+- Dienstag, 27. Juni 2023 12:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687862160/146/
+- Dienstag, 27. Juni 2023 12:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687862880/146/
+- Dienstag, 27. Juni 2023 13:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687863600/146/
+- Dienstag, 27. Juni 2023 13:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687864320/146/
+- Dienstag, 27. Juni 2023 13:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687865040/146/
+- Dienstag, 27. Juni 2023 13:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687865760/146/
+- Dienstag, 27. Juni 2023 13:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687866480/146/
+- Dienstag, 27. Juni 2023 14:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687867200/146/
+- Dienstag, 27. Juni 2023 14:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687867920/146/
+- Dienstag, 27. Juni 2023 14:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687868640/146/
+- Dienstag, 27. Juni 2023 14:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687869360/146/
+- Dienstag, 27. Juni 2023 14:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687870080/146/
+- Dienstag, 27. Juni 2023 15:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687870800/146/
+- Dienstag, 27. Juni 2023 15:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687871520/146/
+- Dienstag, 27. Juni 2023 15:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687872240/146/
+- Dienstag, 27. Juni 2023 15:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687872960/146/
+- Dienstag, 27. Juni 2023 15:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687873680/146/
+- Dienstag, 27. Juni 2023 16:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687874400/146/
+- Dienstag, 27. Juni 2023 16:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687875120/146/
+- Dienstag, 27. Juni 2023 16:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687875840/146/
+- Dienstag, 27. Juni 2023 16:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687876560/146/
+- Dienstag, 27. Juni 2023 16:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687877280/146/
+- Dienstag, 27. Juni 2023 17:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687878000/146/
+- Dienstag, 27. Juni 2023 17:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687878720/146/
+- Dienstag, 27. Juni 2023 17:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687880880/146/
+- Mittwoch, 28. Juni 2023 08:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687932000/146/
+- Mittwoch, 28. Juni 2023 08:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687932720/146/
+- Mittwoch, 28. Juni 2023 08:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687933440/146/
+- Mittwoch, 28. Juni 2023 08:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687934160/146/
+- Mittwoch, 28. Juni 2023 08:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687934880/146/
+- Mittwoch, 28. Juni 2023 09:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687936320/146/
+- Mittwoch, 28. Juni 2023 09:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687937040/146/
+- Mittwoch, 28. Juni 2023 09:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687937760/146/
+- Mittwoch, 28. Juni 2023 09:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687938480/146/
+- Mittwoch, 28. Juni 2023 10:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687939200/146/
+- Mittwoch, 28. Juni 2023 10:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687939920/146/
+- Mittwoch, 28. Juni 2023 10:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687940640/146/
+- Mittwoch, 28. Juni 2023 10:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687941360/146/
+- Mittwoch, 28. Juni 2023 10:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687942080/146/
+- Mittwoch, 28. Juni 2023 11:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687942800/146/
+- Mittwoch, 28. Juni 2023 11:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687943520/146/
+- Mittwoch, 28. Juni 2023 11:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687944240/146/
+- Mittwoch, 28. Juni 2023 11:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687944960/146/
+- Mittwoch, 28. Juni 2023 11:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687945680/146/
+- Mittwoch, 28. Juni 2023 12:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687946400/146/
+- Mittwoch, 28. Juni 2023 12:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687947120/146/
+- Mittwoch, 28. Juni 2023 12:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687947840/146/
+- Mittwoch, 28. Juni 2023 12:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687948560/146/
+- Mittwoch, 28. Juni 2023 12:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687949280/146/
+- Mittwoch, 28. Juni 2023 13:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687950000/146/
+- Mittwoch, 28. Juni 2023 13:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687950720/146/
+- Mittwoch, 28. Juni 2023 13:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687951440/146/
+- Mittwoch, 28. Juni 2023 13:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687952160/146/
+- Mittwoch, 28. Juni 2023 13:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687952880/146/
+- Mittwoch, 28. Juni 2023 14:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687953600/146/
+- Mittwoch, 28. Juni 2023 14:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687954320/146/
+- Mittwoch, 28. Juni 2023 14:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687955040/146/
+- Mittwoch, 28. Juni 2023 14:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687955760/146/
+- Mittwoch, 28. Juni 2023 14:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687956480/146/
+- Donnerstag, 29. Juni 2023 10:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688025600/146/
+- Donnerstag, 29. Juni 2023 10:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688026320/146/
+- Donnerstag, 29. Juni 2023 10:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688027040/146/
+- Donnerstag, 29. Juni 2023 10:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688027760/146/
+- Donnerstag, 29. Juni 2023 10:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688028480/146/
+- Donnerstag, 29. Juni 2023 11:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688029200/146/
+- Donnerstag, 29. Juni 2023 11:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688029920/146/
+- Donnerstag, 29. Juni 2023 11:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688030640/146/
+- Donnerstag, 29. Juni 2023 11:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688031360/146/
+- Donnerstag, 29. Juni 2023 11:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688032080/146/
+- Donnerstag, 29. Juni 2023 12:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688032800/146/
+- Donnerstag, 29. Juni 2023 12:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688033520/146/
+- Donnerstag, 29. Juni 2023 12:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688034240/146/
+- Donnerstag, 29. Juni 2023 12:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688034960/146/
+- Donnerstag, 29. Juni 2023 12:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688035680/146/
+- Donnerstag, 29. Juni 2023 13:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688036400/146/
+- Donnerstag, 29. Juni 2023 13:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688037120/146/
+- Donnerstag, 29. Juni 2023 13:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688037840/146/
+- Donnerstag, 29. Juni 2023 13:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688038560/146/
+- Donnerstag, 29. Juni 2023 13:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688039280/146/
+- Donnerstag, 29. Juni 2023 14:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688040000/146/
+- Donnerstag, 29. Juni 2023 14:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688040720/146/
+- Donnerstag, 29. Juni 2023 14:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688041440/146/
+- Donnerstag, 29. Juni 2023 14:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688042160/146/
+- Donnerstag, 29. Juni 2023 14:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688042880/146/
+- Donnerstag, 29. Juni 2023 15:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688043600/146/
+- Donnerstag, 29. Juni 2023 15:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688044320/146/
+- Donnerstag, 29. Juni 2023 15:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688045040/146/
+- Donnerstag, 29. Juni 2023 15:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688045760/146/
+- Donnerstag, 29. Juni 2023 15:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688046480/146/
+- Donnerstag, 29. Juni 2023 16:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688047200/146/
+- Donnerstag, 29. Juni 2023 16:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688047920/146/
+- Donnerstag, 29. Juni 2023 16:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688048640/146/
+- Donnerstag, 29. Juni 2023 16:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688049360/146/
+- Donnerstag, 29. Juni 2023 16:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688050080/146/
+- Donnerstag, 29. Juni 2023 17:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688050800/146/
+- Donnerstag, 29. Juni 2023 17:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688051520/146/
+- Donnerstag, 29. Juni 2023 17:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688052240/146/
+- Donnerstag, 29. Juni 2023 17:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688052960/146/
