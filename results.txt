@@ -73,5 +73,4 @@
 - Montag, 26. Juni 2023 14:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1687783320/136/
 - Montag, 26. Juni 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687783320/109/
 - Montag, 26. Juni 2023 14:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687783680/169/
-- Montag, 26. Juni 2023 14:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1687784040/136/
-- Montag, 26. Juni 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687784040/109/
+- Montag, 26. Juni 2023 14:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687784040/109/
