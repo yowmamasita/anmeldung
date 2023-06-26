@@ -8,8 +8,7 @@
 - Montag, 21. August 2023 09:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692603000/2908/
 - Montag, 21. August 2023 09:36 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692603360/2839/
 - Montag, 21. August 2023 09:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692603720/2911/
-- Montag, 21. August 2023 09:48 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692604080/2836/
-- Montag, 21. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692604080/2926/
+- Montag, 21. August 2023 09:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692604080/2926/
 - Montag, 21. August 2023 09:54 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692604440/847/
 - Montag, 21. August 2023 10:00 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692604800/2839/
 - Montag, 21. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692604800/2926/
@@ -91,6 +90,7 @@
 - Montag, 21. August 2023 14:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692621360/3238/
 - Montag, 21. August 2023 15:12 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692623520/2839/
 - Montag, 21. August 2023 15:36 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692624960/2836/
+- Dienstag, 22. August 2023 13:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692702720/2896/
 - Mittwoch, 23. August 2023 12:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692784800/2896/
 - Mittwoch, 23. August 2023 12:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692785520/2896/
 - Mittwoch, 23. August 2023 12:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692786240/2896/
