@@ -60,12 +60,11 @@
 - Montag, 21. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692622800/154/
 - Montag, 21. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692622800/2938/
 - Montag, 21. August 2023 15:06 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692623160/898/
-- Montag, 21. August 2023 15:18 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1692623880/312/
-- Montag, 21. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692623880/904/
+- Montag, 21. August 2023 15:18 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692623880/904/
 - Montag, 21. August 2023 16:00 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692626400/2938/
 - Montag, 21. August 2023 16:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692627840/154/
 - Montag, 21. August 2023 17:00 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692630000/2938/
-- Montag, 21. August 2023 17:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692630720/154/
+- Montag, 21. August 2023 17:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692631440/154/
 - Mittwoch, 23. August 2023 14:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692792000/2896/
 - Mittwoch, 23. August 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692792000/2899/
 - Mittwoch, 23. August 2023 14:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692792720/2896/
