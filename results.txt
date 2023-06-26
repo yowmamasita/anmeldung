@@ -1,4 +1,5 @@
 - Montag, 26. Juni 2023 08:06 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687759560/109/
+- Montag, 26. Juni 2023 08:12 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687759920/2920/
 - Montag, 26. Juni 2023 08:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687760280/2914/
 - Montag, 26. Juni 2023 08:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687761000/109/
 - Montag, 26. Juni 2023 08:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687761720/109/
@@ -20,7 +21,4 @@
 - Montag, 26. Juni 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687767480/109/
 - Montag, 26. Juni 2023 10:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687768200/109/
 - Montag, 26. Juni 2023 10:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687768920/2914/
-- Montag, 26. Juni 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687768920/109/
 - Montag, 26. Juni 2023 10:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687769640/2914/
-- Montag, 26. Juni 2023 11:06 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687770360/109/
-- Montag, 26. Juni 2023 11:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687772520/2914/
