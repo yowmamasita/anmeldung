@@ -78,6 +78,6 @@
 - Montag, 21. August 2023 14:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692622080/3238/
 - Montag, 21. August 2023 15:06 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692623160/2911/
 - Montag, 21. August 2023 15:12 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1692623520/381/
-- Montag, 21. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1692623520/103/
 - Montag, 21. August 2023 15:24 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692624240/2836/
+- Montag, 21. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1692624240/103/
 - Montag, 21. August 2023 15:36 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692624960/2839/
