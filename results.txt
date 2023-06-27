@@ -33,7 +33,7 @@
 - Donnerstag, 17. August 2023 17:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1692285840/168/
 - Donnerstag, 17. August 2023 17:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1692286560/168/
 - Donnerstag, 17. August 2023 17:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1692287280/168/
-- Dienstag, 22. August 2023 10:12 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692691920/841/
+- Dienstag, 22. August 2023 10:00 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692691200/841/
 - Dienstag, 22. August 2023 10:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692693360/2887/
 - Dienstag, 22. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692693360/2926/
 - Dienstag, 22. August 2023 10:42 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692693720/2836/
