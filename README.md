@@ -112,7 +112,6 @@
 - Dienstag, 22. August 2023 15:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1692712200/147/
 - Dienstag, 22. August 2023 15:54 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1692712440/140/
 - Dienstag, 22. August 2023 16:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692712800/2857/
-- Dienstag, 22. August 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1692712800/312/
 - Dienstag, 22. August 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1692712800/313/
 - Dienstag, 22. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692712800/904/
 - Dienstag, 22. August 2023 16:06 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692713160/2836/
@@ -125,4 +124,3 @@
 - Dienstag, 22. August 2023 17:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692717480/2839/
 - Dienstag, 22. August 2023 17:20 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692717600/2881/
 - Dienstag, 22. August 2023 17:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1692718800/147/
-- Dienstag, 22. August 2023 17:42 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692718920/2836/
