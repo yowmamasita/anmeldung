@@ -19,7 +19,6 @@
 - Dienstag, 27. Juni 2023 11:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687857120/109/
 - Dienstag, 27. Juni 2023 11:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687857840/109/
 - Dienstag, 27. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687857840/2896/
-- Dienstag, 27. Juni 2023 11:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687858560/2845/
 - Dienstag, 27. Juni 2023 11:42 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1687858920/140/
 - Dienstag, 27. Juni 2023 12:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687860000/169/
 - Dienstag, 27. Juni 2023 12:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687860720/109/
@@ -43,6 +42,4 @@
 - Dienstag, 27. Juni 2023 16:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687875840/109/
 - Dienstag, 27. Juni 2023 16:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687877280/109/
 - Dienstag, 27. Juni 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687877280/2926/
-- Mittwoch, 28. Juni 2023 08:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687932000/3238/
 - Mittwoch, 28. Juni 2023 09:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687935600/3238/
-- Mittwoch, 28. Juni 2023 12:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687946400/2899/
