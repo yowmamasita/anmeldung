@@ -44,4 +44,3 @@
 - Dienstag, 27. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687862880/231/
 - Dienstag, 27. Juni 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687862880/922/
 - Dienstag, 27. Juni 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687862880/2899/
-- Dienstag, 27. Juni 2023 14:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687870080/109/
