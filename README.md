@@ -15,4 +15,3 @@
 - Dienstag, 27. Juni 2023 16:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687876560/2848/
 - Dienstag, 27. Juni 2023 16:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687877280/2848/
 - Dienstag, 27. Juni 2023 17:48 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687880880/844/
-- Dienstag, 25. Juli 2023 15:12 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690290720/2893/
