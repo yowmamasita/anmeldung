@@ -3,9 +3,8 @@
 - Dienstag, 27. Juni 2023 10:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687854240/2887/
 - Dienstag, 27. Juni 2023 10:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687854960/2887/
 - Dienstag, 27. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687854960/231/
-- Dienstag, 27. Juni 2023 10:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687855680/2914/
-- Dienstag, 27. Juni 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687855680/2887/
+- Dienstag, 27. Juni 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687854960/922/
+- Dienstag, 27. Juni 2023 10:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687855680/2887/
 - Dienstag, 27. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687855680/231/
 - Dienstag, 27. Juni 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687855680/922/
-- Dienstag, 27. Juni 2023 11:12 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687857120/2887/
-- Dienstag, 27. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687857120/231/
+- Dienstag, 27. Juni 2023 11:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687857120/231/
