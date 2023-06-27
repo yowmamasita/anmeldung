@@ -19,7 +19,6 @@
 - Dienstag, 27. Juni 2023 11:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687859280/109/
 - Dienstag, 27. Juni 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687859280/312/
 - Dienstag, 27. Juni 2023 12:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687860720/109/
-- Dienstag, 27. Juni 2023 12:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687861440/109/
 - Dienstag, 27. Juni 2023 12:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687862160/312/
 - Dienstag, 27. Juni 2023 12:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687862880/312/
 - Dienstag, 27. Juni 2023 14:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687869360/109/
@@ -42,5 +41,4 @@
 - Dienstag, 27. Juni 2023 17:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687879440/109/
 - Dienstag, 27. Juni 2023 17:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687880160/109/
 - Dienstag, 27. Juni 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687880160/312/
-- Dienstag, 27. Juni 2023 17:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687880880/109/
-- Dienstag, 27. Juni 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687880880/312/
+- Dienstag, 27. Juni 2023 17:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687880880/312/
