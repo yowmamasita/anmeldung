@@ -3,8 +3,6 @@
 - Mittwoch, 28. Juni 2023 09:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687937760/231/
 - Mittwoch, 28. Juni 2023 10:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687939920/231/
 - Mittwoch, 28. Juni 2023 10:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687942080/231/
-- Mittwoch, 28. Juni 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1687942080/102/
 - Donnerstag, 29. Juni 2023 17:36 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688052960/2911/
-- Donnerstag, 6. Juli 2023 16:45 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1688654700/380/
 - Mittwoch, 19. Juli 2023 09:30 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1689751800/151/
 - Dienstag, 25. Juli 2023 13:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690285680/2863/
