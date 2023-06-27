@@ -2,18 +2,11 @@
 - Dienstag, 27. Juni 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687852800/3238/
 - Dienstag, 27. Juni 2023 10:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687853520/3238/
 - Dienstag, 27. Juni 2023 10:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687854960/109/
-- Dienstag, 27. Juni 2023 11:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687857120/2896/
-- Dienstag, 27. Juni 2023 11:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687859280/2926/
-- Dienstag, 27. Juni 2023 12:00 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687860000/312/
 - Dienstag, 27. Juni 2023 12:12 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687860720/312/
 - Dienstag, 27. Juni 2023 12:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687861440/312/
-- Dienstag, 27. Juni 2023 12:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687862880/312/
-- Dienstag, 27. Juni 2023 15:24 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687872240/2938/
 - Dienstag, 27. Juni 2023 15:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687873680/312/
 - Dienstag, 27. Juni 2023 16:00 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687874400/847/
-- Dienstag, 27. Juni 2023 17:00 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687878000/109/
-- Dienstag, 27. Juni 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687878000/312/
 - Dienstag, 27. Juni 2023 17:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687878720/109/
 - Dienstag, 27. Juni 2023 17:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687879440/109/
-- Dienstag, 27. Juni 2023 17:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687880880/109/
-- Dienstag, 27. Juni 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687880880/312/
+- Mittwoch, 12. Juli 2023 11:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689154920/2911/
+- Mittwoch, 19. Juli 2023 10:18 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689754680/844/
