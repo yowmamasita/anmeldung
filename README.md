@@ -114,6 +114,7 @@
 - Dienstag, 22. August 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1692717120/108/
 - Dienstag, 22. August 2023 17:24 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1692717840/111/
 - Dienstag, 22. August 2023 17:30 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692718200/2839/
+- Dienstag, 22. August 2023 17:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692718560/2938/
 - Dienstag, 22. August 2023 17:48 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692719280/844/
 - Donnerstag, 24. August 2023 15:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692883440/2899/
 - Donnerstag, 24. August 2023 15:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692884160/2896/
@@ -132,3 +133,4 @@
 - Donnerstag, 24. August 2023 17:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692890640/2896/
 - Donnerstag, 24. August 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692890640/2899/
 - Donnerstag, 24. August 2023 17:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692891360/2899/
+- Donnerstag, 24. August 2023 17:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692892080/2896/
