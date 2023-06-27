@@ -38,7 +38,6 @@
 - Dienstag, 22. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692709920/922/
 - Dienstag, 22. August 2023 15:18 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692710280/2836/
 - Dienstag, 22. August 2023 15:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692710640/2857/
-- Dienstag, 22. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1692710640/103/
 - Dienstag, 22. August 2023 15:36 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692711360/2860/
 - Dienstag, 22. August 2023 15:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692711720/2839/
 - Dienstag, 22. August 2023 15:48 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692712080/847/
