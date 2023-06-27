@@ -51,10 +51,18 @@
 - Dienstag, 27. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687863600/231/
 - Dienstag, 27. Juni 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687863600/922/
 - Dienstag, 27. Juni 2023 13:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687864320/231/
-- Dienstag, 27. Juni 2023 13:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687865040/2914/
-- Dienstag, 27. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687865040/231/
+- Dienstag, 27. Juni 2023 13:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687865040/231/
 - Dienstag, 27. Juni 2023 13:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687865760/231/
 - Dienstag, 27. Juni 2023 13:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687866480/231/
 - Dienstag, 27. Juni 2023 14:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687869360/231/
-- Dienstag, 27. Juni 2023 17:00 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1687878000/112/
+- Dienstag, 27. Juni 2023 16:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687874400/191/
+- Dienstag, 27. Juni 2023 16:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687875120/191/
+- Dienstag, 27. Juni 2023 16:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687875840/191/
+- Dienstag, 27. Juni 2023 16:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687876560/191/
+- Dienstag, 27. Juni 2023 16:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687877280/191/
+- Dienstag, 27. Juni 2023 17:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687878000/191/
 - Dienstag, 27. Juni 2023 17:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1687878720/112/
+- Dienstag, 27. Juni 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687878720/191/
+- Dienstag, 27. Juni 2023 17:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687879440/191/
+- Dienstag, 27. Juni 2023 17:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687880160/191/
+- Dienstag, 27. Juni 2023 17:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1687880880/191/
