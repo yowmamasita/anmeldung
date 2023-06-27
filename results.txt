@@ -112,6 +112,7 @@
 - Dienstag, 22. August 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1692712800/381/
 - Dienstag, 22. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1692712800/103/
 - Dienstag, 22. August 2023 16:06 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692713160/2836/
+- Dienstag, 22. August 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1692713160/140/
 - Dienstag, 22. August 2023 16:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1692713400/147/
 - Dienstag, 22. August 2023 16:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692713880/2839/
 - Dienstag, 22. August 2023 16:24 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692714240/847/
