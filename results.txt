@@ -1,6 +1,7 @@
 - Dienstag, 27. Juni 2023 16:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687877280/2896/
-- Dienstag, 27. Juni 2023 17:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687878000/2899/
 - Donnerstag, 29. Juni 2023 11:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688031360/109/
+- Donnerstag, 29. Juni 2023 12:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688034240/109/
+- Donnerstag, 29. Juni 2023 16:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688047920/109/
 - Freitag, 30. Juni 2023 07:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688103720/109/
 - Freitag, 30. Juni 2023 07:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688104440/109/
 - Freitag, 30. Juni 2023 08:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688105880/109/
