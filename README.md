@@ -49,3 +49,8 @@
 - Mittwoch, 28. Juni 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687948560/2860/
 - Mittwoch, 28. Juni 2023 12:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687949280/2857/
 - Mittwoch, 28. Juni 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687949280/2860/
+- Donnerstag, 29. Juni 2023 15:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688044320/2857/
+- Montag, 3. Juli 2023 10:48 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1688374080/142/
+- Freitag, 7. Juli 2023 12:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688726520/109/
+- Dienstag, 11. Juli 2023 15:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1689081840/146/
+- Mittwoch, 19. Juli 2023 08:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1689749280/168/
