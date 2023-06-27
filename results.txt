@@ -1,8 +1,6 @@
 - Dienstag, 25. Juli 2023 14:24 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690287840/2920/
 - Dienstag, 25. Juli 2023 14:48 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690289280/2920/
-- Dienstag, 25. Juli 2023 15:12 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690290720/2920/
 - Dienstag, 25. Juli 2023 15:36 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690292160/2920/
-- Dienstag, 25. Juli 2023 15:48 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690292880/2920/
 - Dienstag, 25. Juli 2023 16:12 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690294320/2920/
 - Dienstag, 25. Juli 2023 16:24 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690295040/2920/
 - Dienstag, 25. Juli 2023 16:36 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690295760/2920/
@@ -124,4 +122,3 @@
 - Dienstag, 22. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1692716400/103/
 - Dienstag, 22. August 2023 17:06 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692716760/2839/
 - Dienstag, 22. August 2023 17:20 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692717600/2881/
-- Donnerstag, 24. August 2023 13:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692875520/2899/
