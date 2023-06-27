@@ -3,8 +3,6 @@
 - Mittwoch, 28. Juni 2023 08:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687932720/231/
 - Mittwoch, 28. Juni 2023 08:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687934160/231/
 - Mittwoch, 28. Juni 2023 08:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687934880/231/
-- Mittwoch, 28. Juni 2023 09:06 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687935960/109/
-- Mittwoch, 28. Juni 2023 09:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687936320/231/
 - Mittwoch, 28. Juni 2023 09:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687937760/231/
 - Mittwoch, 28. Juni 2023 10:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687939920/231/
 - Mittwoch, 28. Juni 2023 10:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687940640/231/
