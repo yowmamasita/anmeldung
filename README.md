@@ -30,8 +30,7 @@
 - Dienstag, 22. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692702000/2926/
 - Dienstag, 22. August 2023 13:06 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692702360/2836/
 - Dienstag, 22. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692702360/2839/
-- Dienstag, 22. August 2023 13:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692702720/2848/
-- Dienstag, 22. August 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692702720/2857/
+- Dienstag, 22. August 2023 13:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692702720/2857/
 - Dienstag, 22. August 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1692702720/190/
 - Dienstag, 22. August 2023 13:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692703440/2845/
 - Dienstag, 22. August 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692703440/844/
@@ -41,7 +40,8 @@
 - Dienstag, 22. August 2023 13:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1692704160/381/
 - Dienstag, 22. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692704160/922/
 - Dienstag, 22. August 2023 13:40 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692704400/2881/
-- Dienstag, 22. August 2023 13:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1692704880/192/
+- Dienstag, 22. August 2023 13:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692704880/2848/
+- Dienstag, 22. August 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1692704880/192/
 - Dienstag, 22. August 2023 14:00 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692705600/2911/
 - Dienstag, 22. August 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692705600/2857/
 - Dienstag, 22. August 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1692705600/190/
