@@ -49,7 +49,6 @@
 - Dienstag, 22. August 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1692702000/190/
 - Dienstag, 22. August 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692702000/2887/
 - Dienstag, 22. August 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692702000/2860/
-- Dienstag, 22. August 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692702000/2932/
 - Dienstag, 22. August 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692702000/2881/
 - Dienstag, 22. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692702000/904/
 - Dienstag, 22. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692702000/922/
@@ -61,6 +60,7 @@
 - Dienstag, 22. August 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1692702720/312/
 - Dienstag, 22. August 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692702720/898/
 - Dienstag, 22. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692702720/847/
+- Dienstag, 22. August 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692702720/2932/
 - Dienstag, 22. August 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1692702720/192/
 - Dienstag, 22. August 2023 13:20 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692703200/2884/
 - Dienstag, 22. August 2023 13:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1692703440/106/
