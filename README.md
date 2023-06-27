@@ -17,7 +17,6 @@
 - Dienstag, 27. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687856400/2848/
 - Dienstag, 27. Juni 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687856400/922/
 - Dienstag, 27. Juni 2023 11:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687857120/2914/
-- Dienstag, 27. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1687857120/108/
 - Dienstag, 27. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687857120/2848/
 - Dienstag, 27. Juni 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687857120/3238/
 - Dienstag, 27. Juni 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1687857120/190/
@@ -42,8 +41,7 @@
 - Dienstag, 27. Juni 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687862880/2899/
 - Dienstag, 27. Juni 2023 13:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687863600/231/
 - Dienstag, 27. Juni 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1687863600/102/
-- Dienstag, 27. Juni 2023 13:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1687864320/136/
-- Dienstag, 27. Juni 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687864320/3238/
+- Dienstag, 27. Juni 2023 13:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687864320/3238/
 - Dienstag, 27. Juni 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1687864320/190/
 - Dienstag, 27. Juni 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1687864320/146/
 - Dienstag, 27. Juni 2023 13:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687865040/231/
@@ -57,6 +55,7 @@
 - Dienstag, 27. Juni 2023 15:00 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687870800/109/
 - Dienstag, 27. Juni 2023 15:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687872960/231/
 - Dienstag, 27. Juni 2023 16:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687875840/109/
+- Mittwoch, 19. Juli 2023 10:30 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689755400/2926/
 - Dienstag, 25. Juli 2023 10:24 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690273440/2920/
 - Dienstag, 25. Juli 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690273440/2875/
 - Dienstag, 25. Juli 2023 10:36 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690274160/2920/
@@ -70,7 +69,6 @@
 - Dienstag, 25. Juli 2023 11:24 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690277040/2920/
 - Dienstag, 25. Juli 2023  Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690277040/2893/
 - Dienstag, 25. Juli 2023 11:36 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690277760/2920/
-- Dienstag, 25. Juli 2023  Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690277760/2893/
 - Dienstag, 25. Juli 2023 11:48 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690278480/2920/
 - Dienstag, 25. Juli 2023  Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690278480/2893/
 - Dienstag, 25. Juli 2023 12:00 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690279200/2920/
