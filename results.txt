@@ -1,17 +1,9 @@
-- Dienstag, 27. Juni 2023 11:00 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687856400/111/
-- Dienstag, 27. Juni 2023 12:00 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687860000/111/
-- Dienstag, 25. Juli 2023 10:00 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690272000/2872/
-- Dienstag, 25. Juli 2023 10:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690272720/2872/
-- Dienstag, 25. Juli 2023 10:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690273440/2872/
-- Dienstag, 25. Juli 2023 10:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690274160/2872/
+- Dienstag, 27. Juni 2023 10:00 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687852800/312/
 - Dienstag, 25. Juli 2023 10:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690274880/2872/
-- Dienstag, 25. Juli 2023 11:00 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690275600/2872/
 - Dienstag, 25. Juli 2023 11:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690276320/2872/
 - Dienstag, 25. Juli 2023 11:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690277040/2872/
 - Dienstag, 25. Juli 2023 11:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690277760/2872/
 - Dienstag, 25. Juli 2023 11:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690278480/2872/
-- Dienstag, 25. Juli 2023 12:00 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690279200/2872/
 - Dienstag, 25. Juli 2023 12:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690279920/2872/
 - Dienstag, 25. Juli 2023 12:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690280640/2872/
 - Dienstag, 25. Juli 2023 12:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690281360/2872/
-- Dienstag, 25. Juli 2023 12:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690282080/2872/
