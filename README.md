@@ -6,7 +6,6 @@
 - Dienstag, 22. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692693360/2926/
 - Dienstag, 22. August 2023 10:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692694080/2845/
 - Dienstag, 22. August 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692694080/2908/
-- Dienstag, 22. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692694080/904/
 - Dienstag, 22. August 2023 10:50 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692694200/2884/
 - Dienstag, 22. August 2023 11:06 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692695160/2839/
 - Dienstag, 22. August 2023 11:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692695520/2908/
@@ -103,7 +102,6 @@
 - Dienstag, 22. August 2023 16:40 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692715200/2881/
 - Dienstag, 22. August 2023 16:50 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692715800/2878/
 - Dienstag, 22. August 2023 17:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692717480/2839/
-- Dienstag, 22. August 2023 17:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1692717600/147/
-- Dienstag, 22. August 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692717600/2881/
+- Dienstag, 22. August 2023 17:20 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692717600/2881/
 - Dienstag, 22. August 2023 17:30 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692718200/2878/
 - Dienstag, 22. August 2023 17:42 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692718920/2836/
