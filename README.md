@@ -3,7 +3,6 @@
 - Montag, 21. August 2023 14:48 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692622080/922/
 - Dienstag, 22. August 2023 14:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692706320/2857/
 - Dienstag, 22. August 2023 14:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692707040/2857/
-- Dienstag, 22. August 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1692707040/145/
 - Dienstag, 22. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692707040/2926/
 - Dienstag, 22. August 2023 14:30 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692707400/2839/
 - Dienstag, 22. August 2023 14:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692707760/2857/
