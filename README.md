@@ -3,7 +3,6 @@
 - Dienstag, 22. August 2023 10:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1692691920/146/
 - Dienstag, 22. August 2023 10:30 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692693000/2839/
 - Dienstag, 22. August 2023 10:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692693360/2887/
-- Dienstag, 22. August 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1692693360/145/
 - Dienstag, 22. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692693360/2926/
 - Dienstag, 22. August 2023 10:42 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692693720/2836/
 - Dienstag, 22. August 2023 10:48 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692694080/2908/
