@@ -42,7 +42,6 @@
 - Dienstag, 27. Juni 2023 11:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1687859280/136/
 - Dienstag, 27. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687859280/2914/
 - Dienstag, 27. Juni 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1687859280/112/
-- Dienstag, 27. Juni 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687859280/109/
 - Dienstag, 27. Juni 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687859280/2887/
 - Dienstag, 27. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687859280/231/
 - Dienstag, 27. Juni 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687859280/922/
@@ -102,8 +101,6 @@
 - Dienstag, 27. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687870800/231/
 - Dienstag, 27. Juni 2023 15:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1687871520/112/
 - Dienstag, 27. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687871520/231/
-- Dienstag, 27. Juni 2023 15:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1687872240/112/
 - Dienstag, 27. Juni 2023 15:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687872960/231/
-- Mittwoch, 28. Juni 2023 07:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687929120/3238/
 - Dienstag, 25. Juli 2023 11:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690278480/2872/
 - Dienstag, 25. Juli 2023 12:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690279920/2872/
