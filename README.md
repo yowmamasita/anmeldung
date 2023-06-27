@@ -56,7 +56,6 @@
 - Dienstag, 22. August 2023 13:24 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692703440/844/
 - Dienstag, 22. August 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692703440/898/
 - Dienstag, 22. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692703440/847/
-- Dienstag, 22. August 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1692703440/102/
 - Dienstag, 22. August 2023 13:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1692704160/106/
 - Dienstag, 22. August 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1692704160/381/
 - Dienstag, 22. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1692704160/103/
