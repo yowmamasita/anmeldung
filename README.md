@@ -21,10 +21,10 @@
 - Dienstag, 27. Juni 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687857840/167/
 - Dienstag, 27. Juni 2023 11:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687858560/169/
 - Dienstag, 27. Juni 2023 11:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687859280/169/
+- Dienstag, 27. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687859280/231/
 - Dienstag, 27. Juni 2023 12:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687860000/169/
 - Dienstag, 27. Juni 2023 12:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687860720/169/
-- Dienstag, 27. Juni 2023 12:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1687861440/112/
-- Dienstag, 27. Juni 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687861440/169/
+- Dienstag, 27. Juni 2023 12:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687861440/169/
 - Dienstag, 27. Juni 2023 12:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687862160/169/
 - Dienstag, 27. Juni 2023 12:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687862880/169/
 - Dienstag, 27. Juni 2023 13:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687863600/169/
@@ -38,7 +38,6 @@
 - Dienstag, 27. Juni 2023 13:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687865760/2848/
 - Dienstag, 27. Juni 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687865760/169/
 - Dienstag, 27. Juni 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687865760/3238/
-- Dienstag, 27. Juni 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687865760/192/
 - Dienstag, 27. Juni 2023 13:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687866480/2848/
 - Dienstag, 27. Juni 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687866480/169/
 - Dienstag, 27. Juni 2023 14:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687867200/2848/
