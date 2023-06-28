@@ -4,4 +4,3 @@
 - Freitag, 30. Juni 2023 09:36 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688110560/2866/
 - Freitag, 30. Juni 2023 10:00 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688112000/2893/
 - Dienstag, 11. Juli 2023 11:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1689069000/150/
-- Donnerstag, 13. Juli 2023 15:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1689256080/192/
