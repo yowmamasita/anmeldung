@@ -6,7 +6,6 @@
 - Donnerstag, 29. Juni 2023 11:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688030640/167/
 - Donnerstag, 29. Juni 2023 11:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688031360/167/
 - Donnerstag, 29. Juni 2023 11:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688032080/167/
-- Donnerstag, 29. Juni 2023 12:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688032800/167/
 - Donnerstag, 29. Juni 2023 12:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688033520/167/
 - Donnerstag, 29. Juni 2023 12:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688034240/167/
 - Donnerstag, 29. Juni 2023 12:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688034960/167/
@@ -38,4 +37,3 @@
 - Donnerstag, 29. Juni 2023 17:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688051520/167/
 - Donnerstag, 29. Juni 2023 17:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688052240/167/
 - Donnerstag, 29. Juni 2023 17:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688052960/167/
-- Donnerstag, 29. Juni 2023 17:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688053680/167/
