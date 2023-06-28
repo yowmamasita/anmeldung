@@ -7,6 +7,7 @@
 - Mittwoch, 28. Juni 2023 09:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1687938120/112/
 - Mittwoch, 28. Juni 2023 09:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1687938840/112/
 - Mittwoch, 28. Juni 2023 10:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1687939200/108/
+- Mittwoch, 28. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687939200/2848/
 - Mittwoch, 28. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687939200/231/
 - Mittwoch, 28. Juni 2023 10:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687939920/231/
 - Mittwoch, 28. Juni 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687939920/2872/
@@ -29,4 +30,3 @@
 - Mittwoch, 28. Juni 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687945680/2872/
 - Mittwoch, 28. Juni 2023 12:12 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1687947120/140/
 - Mittwoch, 28. Juni 2023 14:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687956480/231/
-- Donnerstag, 29. Juni 2023 12:24 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688034240/111/
