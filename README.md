@@ -30,7 +30,6 @@
 - Mittwoch, 28. Juni 2023 10:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687942440/111/
 - Mittwoch, 28. Juni 2023 11:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687944600/2914/
 - Mittwoch, 28. Juni 2023 11:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687945320/2914/
-- Mittwoch, 28. Juni 2023 11:48 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687945680/2842/
 - Mittwoch, 28. Juni 2023 11:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1687946040/136/
 - Mittwoch, 28. Juni 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687946040/2914/
 - Mittwoch, 28. Juni 2023 12:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1687946760/136/
@@ -43,3 +42,4 @@
 - Mittwoch, 28. Juni 2023 12:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687949640/2914/
 - Mittwoch, 28. Juni 2023 13:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687950360/2914/
 - Mittwoch, 28. Juni 2023 13:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687951080/2914/
+- Mittwoch, 28. Juni 2023 13:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687951800/111/
