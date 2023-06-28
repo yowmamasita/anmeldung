@@ -1,19 +1,4 @@
-- Donnerstag, 29. Juni 2023 10:12 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688026320/922/
-- Donnerstag, 29. Juni 2023 10:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688027040/922/
-- Donnerstag, 29. Juni 2023 10:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688027760/922/
-- Donnerstag, 29. Juni 2023 10:48 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688028480/922/
-- Donnerstag, 29. Juni 2023 11:00 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688029200/922/
-- Donnerstag, 29. Juni 2023 11:12 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688029920/922/
+- Mittwoch, 28. Juni 2023 07:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687930200/312/
+- Mittwoch, 28. Juni 2023 14:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687955760/231/
 - Donnerstag, 29. Juni 2023 11:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688030640/922/
 - Donnerstag, 29. Juni 2023 11:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688031360/922/
-- Donnerstag, 29. Juni 2023 11:48 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688032080/922/
-- Donnerstag, 29. Juni 2023 12:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688032800/191/
-- Donnerstag, 29. Juni 2023 12:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688033520/191/
-- Donnerstag, 29. Juni 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688033520/922/
-- Donnerstag, 29. Juni 2023 12:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688034240/922/
-- Donnerstag, 29. Juni 2023 12:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688034960/191/
-- Donnerstag, 29. Juni 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688034960/922/
-- Donnerstag, 29. Juni 2023 12:48 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688035680/922/
-- Donnerstag, 29. Juni 2023 13:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688037120/191/
-- Donnerstag, 29. Juni 2023 13:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688037840/191/
-- Donnerstag, 29. Juni 2023 13:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688038560/191/
