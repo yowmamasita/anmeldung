@@ -228,7 +228,6 @@
 - Mittwoch, 23. August 2023  Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1692785160/135/
 - Mittwoch, 23. August 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692785160/2911/
 - Mittwoch, 23. August 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692785160/2914/
-- Mittwoch, 23. August 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692785160/844/
 - Mittwoch, 23. August 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1692785160/190/
 - Mittwoch, 23. August 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692785160/2887/
 - Mittwoch, 23. August 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1692785160/111/
@@ -241,7 +240,8 @@
 - Mittwoch, 23. August 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692785520/2857/
 - Mittwoch, 23. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692785520/154/
 - Mittwoch, 23. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1692785520/103/
-- Mittwoch, 23. August 2023 12:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1692785880/109/
+- Mittwoch, 23. August 2023 12:18 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692785880/844/
+- Mittwoch, 23. August 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1692785880/109/
 - Mittwoch, 23. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692785880/841/
 - Mittwoch, 23. August 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1692785880/312/
 - Mittwoch, 23. August 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692785880/898/
