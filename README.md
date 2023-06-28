@@ -49,7 +49,7 @@
 - Mittwoch, 23. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692783360/2938/
 - Mittwoch, 23. August 2023 11:42 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692783720/847/
 - Mittwoch, 23. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692783720/904/
-- Mittwoch, 23. August 2023 11:48 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1692784080/140/
+- Mittwoch, 23. August 2023 11:48 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692784080/2860/
 - Mittwoch, 23. August 2023 12:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692785160/2908/
 - Mittwoch, 23. August 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692785160/2911/
 - Mittwoch, 23. August 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1692785160/190/
@@ -85,7 +85,7 @@
 - Mittwoch, 23. August 2023 13:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692789840/3238/
 - Mittwoch, 23. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692789840/154/
 - Mittwoch, 23. August 2023 13:30 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692790200/841/
-- Mittwoch, 23. August 2023 13:42 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692790920/898/
+- Mittwoch, 23. August 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692790200/898/
 - Mittwoch, 23. August 2023 14:00 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692792000/2938/
 - Mittwoch, 23. August 2023 14:06 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692792360/922/
 - Mittwoch, 23. August 2023 14:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1692792720/153/
