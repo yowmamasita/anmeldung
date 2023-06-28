@@ -87,7 +87,7 @@
 - Mittwoch, 23. August 2023 13:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692789840/3238/
 - Mittwoch, 23. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692789840/154/
 - Mittwoch, 23. August 2023 13:30 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692790200/841/
-- Mittwoch, 23. August 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692790200/898/
+- Mittwoch, 23. August 2023 13:42 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692790920/898/
 - Mittwoch, 23. August 2023 14:00 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692792000/2938/
 - Mittwoch, 23. August 2023 14:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1692792720/153/
 - Mittwoch, 23. August 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692792720/2932/
