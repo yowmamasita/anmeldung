@@ -103,8 +103,8 @@
 - Mittwoch, 23. August 2023 13:12 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1692789120/140/
 - Mittwoch, 23. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692789120/2839/
 - Mittwoch, 23. August 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692789120/3238/
-- Mittwoch, 23. August 2023 13:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692789840/154/
 - Mittwoch, 23. August 2023 13:30 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692790200/898/
+- Mittwoch, 23. August 2023 13:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692790560/154/
 - Mittwoch, 23. August 2023 14:00 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692792000/2938/
 - Mittwoch, 23. August 2023 14:06 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692792360/922/
 - Mittwoch, 23. August 2023 14:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1692792720/153/
