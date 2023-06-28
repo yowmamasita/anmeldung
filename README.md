@@ -14,7 +14,6 @@
 - Mittwoch, 28. Juni 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687933080/109/
 - Mittwoch, 28. Juni 2023 08:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687933440/3238/
 - Mittwoch, 28. Juni 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687933440/167/
-- Mittwoch, 28. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687933440/2896/
 - Mittwoch, 28. Juni 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687933440/172/
 - Mittwoch, 28. Juni 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687933440/154/
 - Mittwoch, 28. Juni 2023 08:30 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687933800/922/
@@ -34,10 +33,10 @@
 - Mittwoch, 28. Juni 2023 09:06 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687935960/922/
 - Mittwoch, 28. Juni 2023 09:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687936320/231/
 - Mittwoch, 28. Juni 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687936320/167/
-- Mittwoch, 28. Juni 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687936320/154/
 - Mittwoch, 28. Juni 2023 09:18 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687936680/922/
 - Mittwoch, 28. Juni 2023 09:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687937040/3238/
 - Mittwoch, 28. Juni 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1687937040/167/
+- Mittwoch, 28. Juni 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687937040/172/
 - Mittwoch, 28. Juni 2023 09:30 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687937400/922/
 - Mittwoch, 28. Juni 2023 09:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687937760/3238/
 - Mittwoch, 28. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687937760/231/
@@ -119,7 +118,6 @@
 - Mittwoch, 28. Juni 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687950720/172/
 - Mittwoch, 28. Juni 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687950720/2899/
 - Mittwoch, 28. Juni 2023 13:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687951440/231/
-- Mittwoch, 28. Juni 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687951440/172/
 - Mittwoch, 28. Juni 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687951440/2899/
 - Mittwoch, 28. Juni 2023 13:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687952160/231/
 - Mittwoch, 28. Juni 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687952160/2899/
@@ -135,4 +133,3 @@
 - Mittwoch, 28. Juni 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687955040/2899/
 - Mittwoch, 28. Juni 2023 14:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687955760/231/
 - Mittwoch, 28. Juni 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687955760/2899/
-- Mittwoch, 28. Juni 2023 14:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687956480/2899/
