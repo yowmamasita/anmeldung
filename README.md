@@ -11,6 +11,7 @@
 - Mittwoch, 28. Juni 2023 09:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687937400/150/
 - Mittwoch, 28. Juni 2023 09:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687937760/2845/
 - Mittwoch, 28. Juni 2023 10:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687940640/2899/
+- Mittwoch, 28. Juni 2023 10:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687941000/150/
 - Mittwoch, 26. Juli 2023 08:24 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690352640/2920/
 - Mittwoch, 26. Juli 2023 09:12 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690355520/2920/
 - Mittwoch, 26. Juli 2023 10:24 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690359840/2920/
