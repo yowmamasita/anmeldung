@@ -97,7 +97,6 @@
 - Mittwoch, 23. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692783000/904/
 - Mittwoch, 23. August 2023 11:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692783360/2857/
 - Mittwoch, 23. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692783360/2938/
-- Mittwoch, 23. August 2023 11:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692784080/154/
 - Mittwoch, 23. August 2023 12:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1692784800/106/
 - Mittwoch, 23. August 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1692784800/169/
 - Mittwoch, 23. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692784800/2836/
