@@ -36,4 +36,3 @@
 - Mittwoch, 28. Juni 2023 11:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687945680/231/
 - Mittwoch, 28. Juni 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687945680/2872/
 - Mittwoch, 28. Juni 2023 12:30 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687948200/192/
-- Mittwoch, 28. Juni 2023 14:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687953600/231/
