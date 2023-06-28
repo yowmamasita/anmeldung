@@ -109,15 +109,12 @@
 - Mittwoch, 28. Juni 2023 13:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687952160/231/
 - Mittwoch, 28. Juni 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687952160/2899/
 - Mittwoch, 28. Juni 2023 13:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687952880/231/
-- Mittwoch, 28. Juni 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687952880/172/
 - Mittwoch, 28. Juni 2023 14:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687953600/231/
 - Mittwoch, 28. Juni 2023 14:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687954320/231/
 - Mittwoch, 28. Juni 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687954320/2899/
 - Mittwoch, 28. Juni 2023 14:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687955040/231/
 - Mittwoch, 28. Juni 2023 14:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687956480/231/
-- Freitag, 30. Juni 2023 07:30 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688103000/841/
-- Freitag, 30. Juni 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688103000/111/
-- Freitag, 30. Juni 2023 08:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688106600/111/
+- Freitag, 30. Juni 2023 07:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688103000/111/
 - Freitag, 30. Juni 2023 08:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688107320/111/
 - Freitag, 30. Juni 2023 08:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688108040/111/
 - Freitag, 30. Juni 2023 09:06 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688108760/111/
