@@ -154,10 +154,12 @@
 - Mittwoch, 23. August 2023 10:48 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1692780480/141/
 - Mittwoch, 23. August 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1692780480/142/
 - Mittwoch, 23. August 2023 10:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1692780600/150/
-- Mittwoch, 23. August 2023 11:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692781200/2836/
+- Mittwoch, 23. August 2023 11:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1692781200/106/
+- Mittwoch, 23. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692781200/2836/
 - Mittwoch, 23. August 2023  Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1692781200/147/
 - Mittwoch, 23. August 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1692781200/140/
 - Mittwoch, 23. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692781200/2839/
+- Mittwoch, 23. August 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1692781200/102/
 - Mittwoch, 23. August 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692781200/2860/
 - Mittwoch, 23. August 2023 11:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692781560/2908/
 - Mittwoch, 23. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692781560/841/
