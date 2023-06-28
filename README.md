@@ -33,6 +33,4 @@
 - Mittwoch, 28. Juni 2023 14:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687955040/154/
 - Mittwoch, 28. Juni 2023 14:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687955760/154/
 - Mittwoch, 28. Juni 2023 14:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687956480/154/
-- Donnerstag, 29. Juni 2023 11:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688031360/922/
-- Donnerstag, 29. Juni 2023 16:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688047200/2845/
 - Freitag, 30. Juni 2023 08:18 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688105880/2911/
