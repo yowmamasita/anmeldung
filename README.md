@@ -3,4 +3,3 @@
 - Donnerstag, 29. Juni 2023 11:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688031360/2887/
 - Donnerstag, 29. Juni 2023 11:42 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1688031720/142/
 - Donnerstag, 29. Juni 2023 12:48 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688035680/111/
-- Freitag, 30. Juni 2023 10:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1688114160/381/
