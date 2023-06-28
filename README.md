@@ -4,7 +4,9 @@
 - Mittwoch, 28. Juni 2023 09:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687937040/2848/
 - Mittwoch, 28. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687937040/231/
 - Mittwoch, 28. Juni 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687937040/154/
-- Mittwoch, 28. Juni 2023 10:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687939920/154/
+- Mittwoch, 28. Juni 2023 09:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687938480/154/
+- Mittwoch, 28. Juni 2023 10:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687939920/2851/
+- Mittwoch, 28. Juni 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687939920/154/
 - Mittwoch, 28. Juni 2023 10:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687940640/154/
 - Mittwoch, 28. Juni 2023 11:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687944960/154/
 - Mittwoch, 28. Juni 2023 11:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687945680/154/
@@ -15,4 +17,3 @@
 - Mittwoch, 28. Juni 2023 13:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687950720/154/
 - Mittwoch, 28. Juni 2023 13:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687952160/154/
 - Mittwoch, 28. Juni 2023 13:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687952880/154/
-- Mittwoch, 28. Juni 2023 14:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687955040/154/
