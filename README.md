@@ -107,7 +107,6 @@
 - Mittwoch, 28. Juni 2023 13:00 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1687950000/140/
 - Mittwoch, 28. Juni 2023 13:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687950360/2914/
 - Mittwoch, 28. Juni 2023 13:10 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1687950600/149/
-- Mittwoch, 28. Juni 2023 13:12 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1687950720/140/
 - Mittwoch, 28. Juni 2023 13:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1687951080/112/
 - Mittwoch, 28. Juni 2023 13:30 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1687951800/112/
 - Mittwoch, 28. Juni 2023 13:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1687952520/112/
