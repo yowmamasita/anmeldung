@@ -4,6 +4,5 @@
 - Donnerstag, 29. Juni 2023 10:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688027040/2887/
 - Donnerstag, 29. Juni 2023 12:24 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688034240/2911/
 - Donnerstag, 29. Juni 2023 15:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688043600/169/
-- Donnerstag, 29. Juni 2023 16:00 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1688047200/381/
 - Freitag, 7. Juli 2023 08:06 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1688709960/134/
 - Freitag, 7. Juli 2023 08:18 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1688710680/134/
