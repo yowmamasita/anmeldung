@@ -5,8 +5,7 @@
 - Mittwoch, 28. Juni 2023 09:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687935600/2845/
 - Mittwoch, 28. Juni 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687935600/150/
 - Mittwoch, 28. Juni 2023 09:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687936200/150/
-- Mittwoch, 28. Juni 2023 09:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687936320/2845/
-- Mittwoch, 28. Juni 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687936320/231/
+- Mittwoch, 28. Juni 2023 09:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687936320/231/
 - Mittwoch, 28. Juni 2023 09:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687936800/150/
 - Mittwoch, 28. Juni 2023 09:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687937040/2845/
 - Mittwoch, 28. Juni 2023 09:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1687937400/150/
