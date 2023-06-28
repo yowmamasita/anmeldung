@@ -17,4 +17,4 @@
 - Mittwoch, 28. Juni 2023 11:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687944240/2899/
 - Mittwoch, 28. Juni 2023 11:48 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687945680/2842/
 - Mittwoch, 28. Juni 2023 12:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687949280/2857/
-- Mittwoch, 28. Juni 2023 13:12 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687950720/2938/
+- Mittwoch, 28. Juni 2023 13:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1687951440/154/
