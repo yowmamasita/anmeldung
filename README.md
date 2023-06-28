@@ -4,13 +4,11 @@
 - Mittwoch, 28. Juni 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687930920/192/
 - Mittwoch, 28. Juni 2023 07:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1687931640/112/
 - Mittwoch, 28. Juni 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687931640/109/
-- Mittwoch, 28. Juni 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1687931640/111/
 - Mittwoch, 28. Juni 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687931640/192/
 - Mittwoch, 28. Juni 2023 08:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687932000/169/
 - Mittwoch, 28. Juni 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1687932000/140/
 - Mittwoch, 28. Juni 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1687932000/149/
 - Mittwoch, 28. Juni 2023 08:06 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1687932360/112/
-- Mittwoch, 28. Juni 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687932360/109/
 - Mittwoch, 28. Juni 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687932360/192/
 - Mittwoch, 28. Juni 2023 08:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687932720/169/
 - Mittwoch, 28. Juni 2023 08:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1687933080/136/
@@ -65,7 +63,6 @@
 - Mittwoch, 28. Juni 2023 10:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687940280/2914/
 - Mittwoch, 28. Juni 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1687940280/112/
 - Mittwoch, 28. Juni 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1687940280/109/
-- Mittwoch, 28. Juni 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687940280/192/
 - Mittwoch, 28. Juni 2023 10:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687940640/169/
 - Mittwoch, 28. Juni 2023 10:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687941000/2914/
 - Mittwoch, 28. Juni 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1687941000/112/
@@ -86,9 +83,7 @@
 - Mittwoch, 28. Juni 2023 11:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687943520/169/
 - Mittwoch, 28. Juni 2023 11:18 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687943880/192/
 - Mittwoch, 28. Juni 2023 11:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687944240/169/
-- Mittwoch, 28. Juni 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1687944240/140/
 - Mittwoch, 28. Juni 2023 11:30 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687944600/192/
-- Mittwoch, 28. Juni 2023 11:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687944960/169/
 - Mittwoch, 28. Juni 2023 11:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687945320/2914/
 - Mittwoch, 28. Juni 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1687945320/192/
 - Mittwoch, 28. Juni 2023 11:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1687945680/169/
@@ -129,4 +124,3 @@
 - Donnerstag, 29. Juni 2023 17:12 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688051520/111/
 - Donnerstag, 29. Juni 2023 17:24 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688052240/111/
 - Donnerstag, 29. Juni 2023 17:36 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688052960/111/
-- Donnerstag, 29. Juni 2023 17:48 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688053680/111/
