@@ -11,3 +11,4 @@
 - Donnerstag, 29. Juni 2023 14:36 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688042160/2860/
 - Donnerstag, 29. Juni 2023 14:48 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688042880/2860/
 - Donnerstag, 29. Juni 2023 15:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688045040/167/
+- Freitag, 30. Juni 2023 12:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1688121600/147/
