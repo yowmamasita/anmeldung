@@ -8,8 +8,7 @@
 - Mittwoch, 28. Juni 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687934160/2872/
 - Mittwoch, 28. Juni 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687934160/2863/
 - Mittwoch, 28. Juni 2023 08:42 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687934520/922/
-- Mittwoch, 28. Juni 2023 08:48 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687934880/2836/
-- Mittwoch, 28. Juni 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687934880/172/
+- Mittwoch, 28. Juni 2023 08:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1687934880/172/
 - Mittwoch, 28. Juni 2023 09:00 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687935600/2872/
 - Mittwoch, 28. Juni 2023 09:06 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687935960/922/
 - Mittwoch, 28. Juni 2023 09:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1687936320/231/
