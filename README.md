@@ -6,7 +6,6 @@
 - Mittwoch, 28. Juni 2023 12:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687946400/3238/
 - Mittwoch, 28. Juni 2023 12:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687947120/3238/
 - Mittwoch, 28. Juni 2023 12:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687947840/3238/
-- Mittwoch, 28. Juni 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687947840/2875/
 - Mittwoch, 28. Juni 2023 12:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687948560/3238/
 - Mittwoch, 28. Juni 2023 12:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687949280/3238/
 - Mittwoch, 28. Juni 2023 13:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687950000/3238/
@@ -14,4 +13,3 @@
 - Mittwoch, 28. Juni 2023 13:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687951440/3238/
 - Mittwoch, 28. Juni 2023 13:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1687952160/3238/
 - Mittwoch, 19. Juli 2023 13:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689765840/3238/
-- Dienstag, 25. Juli 2023 11:54 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690278840/2836/
