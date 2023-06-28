@@ -3,11 +3,11 @@
 - Mittwoch, 28. Juni 2023 07:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687930200/312/
 - Mittwoch, 28. Juni 2023 07:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687930920/312/
 - Mittwoch, 28. Juni 2023 07:54 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687931640/312/
+- Mittwoch, 28. Juni 2023 08:06 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687932360/312/
 - Mittwoch, 28. Juni 2023 08:18 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687933080/312/
 - Mittwoch, 28. Juni 2023 08:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687933800/312/
 - Mittwoch, 28. Juni 2023 08:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687934520/312/
 - Mittwoch, 28. Juni 2023 08:54 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687935240/312/
-- Mittwoch, 28. Juni 2023 09:06 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687935960/312/
 - Mittwoch, 28. Juni 2023 09:18 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687936680/312/
 - Mittwoch, 28. Juni 2023 09:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687937400/312/
 - Mittwoch, 28. Juni 2023 09:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1687938120/312/
