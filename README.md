@@ -4,4 +4,3 @@
 - Donnerstag, 29. Juni 2023 11:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688031360/2887/
 - Donnerstag, 29. Juni 2023 17:00 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688050800/2893/
 - Montag, 3. Juli 2023 14:24 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688387040/2932/
-- Dienstag, 4. Juli 2023 10:48 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688460480/2911/
