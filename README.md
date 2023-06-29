@@ -12,7 +12,6 @@
 - Donnerstag, 24. August 2023 09:42 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1692862920/141/
 - Donnerstag, 24. August 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1692862920/140/
 - Donnerstag, 24. August 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1692862920/153/
-- Donnerstag, 24. August 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1692862920/142/
 - Donnerstag, 24. August 2023 09:50 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1692863400/381/
 - Donnerstag, 24. August 2023 09:54 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1692863640/141/
 - Donnerstag, 24. August 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1692863640/140/
