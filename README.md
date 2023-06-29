@@ -42,9 +42,7 @@
 - Donnerstag, 29. Juni 2023 12:06 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1688033160/140/
 - Donnerstag, 29. Juni 2023 12:10 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1688033400/149/
 - Donnerstag, 29. Juni 2023 12:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688033520/109/
-- Donnerstag, 29. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688033520/2851/
 - Donnerstag, 29. Juni 2023 12:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688034240/231/
-- Donnerstag, 29. Juni 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688034240/2896/
 - Donnerstag, 29. Juni 2023 13:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688036400/231/
 - Donnerstag, 29. Juni 2023 13:06 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1688036760/140/
 - Donnerstag, 29. Juni 2023 13:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688037120/2914/
@@ -63,7 +61,6 @@
 - Donnerstag, 29. Juni 2023 16:42 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1688049720/140/
 - Donnerstag, 29. Juni 2023 16:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688050080/231/
 - Donnerstag, 29. Juni 2023 17:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688051520/109/
-- Donnerstag, 29. Juni 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688051520/2899/
 - Donnerstag, 29. Juni 2023 17:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688052240/2899/
 - Donnerstag, 29. Juni 2023 17:30 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1688052600/140/
 - Donnerstag, 29. Juni 2023 17:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688053680/2899/
