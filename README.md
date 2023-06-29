@@ -10,7 +10,6 @@
 - Donnerstag, 29. Juni 2023 11:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688032080/169/
 - Donnerstag, 29. Juni 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688032080/167/
 - Donnerstag, 29. Juni 2023 12:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688032800/169/
-- Donnerstag, 29. Juni 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1688032800/192/
 - Donnerstag, 29. Juni 2023 12:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688033520/169/
 - Donnerstag, 29. Juni 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688033520/167/
 - Donnerstag, 29. Juni 2023 12:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688034240/169/
