@@ -3,4 +3,3 @@
 - Dienstag, 22. August 2023 10:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1692693000/150/
 - Donnerstag, 24. August 2023 07:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692855360/154/
 - Donnerstag, 24. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692855360/2938/
-- Donnerstag, 24. August 2023 08:00 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692856800/2938/
