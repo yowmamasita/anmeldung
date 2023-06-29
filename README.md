@@ -240,4 +240,3 @@
 - Donnerstag, 24. August 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1692890640/109/
 - Donnerstag, 24. August 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1692890640/381/
 - Donnerstag, 24. August 2023 17:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692891360/2857/
-- Montag, 28. August 2023 14:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1693226160/231/
