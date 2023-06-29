@@ -8,7 +8,6 @@
 - Donnerstag, 29. Juni 2023 10:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688027760/312/
 - Donnerstag, 29. Juni 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1688027760/172/
 - Donnerstag, 29. Juni 2023 10:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688028480/312/
-- Donnerstag, 29. Juni 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1688028480/172/
 - Donnerstag, 29. Juni 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688028480/2926/
 - Donnerstag, 29. Juni 2023 11:00 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688029200/312/
 - Donnerstag, 29. Juni 2023 11:12 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688029920/312/
@@ -36,5 +35,3 @@
 - Donnerstag, 29. Juni 2023 15:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688045760/312/
 - Donnerstag, 29. Juni 2023 15:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688046480/312/
 - Donnerstag, 29. Juni 2023 16:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688048640/312/
-- Donnerstag, 29. Juni 2023 16:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688049360/312/
-- Donnerstag, 29. Juni 2023 16:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688050080/312/
