@@ -7,6 +7,4 @@
 - Donnerstag, 29. Juni 2023 11:00 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688029200/312/
 - Donnerstag, 29. Juni 2023 11:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688030640/312/
 - Donnerstag, 29. Juni 2023 11:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688031360/312/
-- Donnerstag, 29. Juni 2023 13:12 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688037120/312/
-- Donnerstag, 29. Juni 2023 13:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688038560/312/
 - Donnerstag, 29. Juni 2023 16:42 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1688049720/140/
