@@ -36,4 +36,3 @@
 - Donnerstag, 29. Juni 2023 17:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688052240/2854/
 - Donnerstag, 29. Juni 2023 17:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688052960/2854/
 - Donnerstag, 29. Juni 2023 17:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688053680/2854/
-- Donnerstag, 20. Juli 2023 12:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689849360/2872/
