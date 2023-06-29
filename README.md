@@ -208,5 +208,4 @@
 - Donnerstag, 24. August 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1692890640/381/
 - Donnerstag, 24. August 2023 17:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692891360/2857/
 - Donnerstag, 24. August 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692891360/2899/
-- Montag, 28. August 2023 14:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1693224720/231/
 - Montag, 28. August 2023 14:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1693226160/231/
