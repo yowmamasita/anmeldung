@@ -1,6 +1,5 @@
 - Donnerstag, 29. Juni 2023 10:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688027760/2845/
 - Donnerstag, 29. Juni 2023 10:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688028480/2926/
-- Donnerstag, 29. Juni 2023 11:00 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688029200/2908/
 - Donnerstag, 29. Juni 2023 11:06 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1688029560/140/
 - Donnerstag, 29. Juni 2023 11:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1688029920/172/
 - Donnerstag, 29. Juni 2023 11:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688030640/2887/
@@ -12,12 +11,9 @@
 - Donnerstag, 29. Juni 2023  Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688038560/2893/
 - Donnerstag, 29. Juni 2023 13:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688039280/169/
 - Donnerstag, 29. Juni 2023 14:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688042160/312/
-- Donnerstag, 29. Juni 2023 15:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1688044320/172/
 - Donnerstag, 29. Juni 2023 15:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1688046480/172/
 - Donnerstag, 29. Juni 2023 16:00 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688047200/312/
 - Donnerstag, 29. Juni 2023 16:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688049360/231/
-- Donnerstag, 29. Juni 2023 16:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688050080/312/
-- Freitag, 30. Juni 2023 09:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1688111400/150/
 - Montag, 3. Juli 2023 12:12 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688379120/2893/
 - Donnerstag, 27. Juli 2023 10:48 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690447680/2893/
 - Donnerstag, 27. Juli 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690447680/2872/
