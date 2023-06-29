@@ -1,4 +1,5 @@
-- Donnerstag, 29. Juni 2023 09:48 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1688024880/102/
+- Donnerstag, 29. Juni 2023 09:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688024880/2848/
+- Donnerstag, 29. Juni 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1688024880/102/
 - Donnerstag, 29. Juni 2023 10:00 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1688025600/102/
 - Donnerstag, 29. Juni 2023 10:12 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1688026320/102/
 - Donnerstag, 29. Juni 2023 10:24 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1688027040/102/
@@ -18,4 +19,3 @@
 - Donnerstag, 29. Juni 2023 13:48 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1688039280/102/
 - Donnerstag, 29. Juni 2023 14:00 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1688040000/102/
 - Donnerstag, 29. Juni 2023 14:12 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1688040720/102/
-- Donnerstag, 29. Juni 2023 14:24 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1688041440/102/
