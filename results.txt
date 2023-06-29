@@ -17,7 +17,7 @@
 - Donnerstag, 29. Juni 2023 14:00 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688040000/312/
 - Donnerstag, 29. Juni 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688040000/2851/
 - Donnerstag, 29. Juni 2023 15:00 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688043600/312/
-- Donnerstag, 29. Juni 2023 15:36 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688045760/904/
+- Donnerstag, 29. Juni 2023 15:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688046480/2851/
 - Donnerstag, 29. Juni 2023 16:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688047200/2851/
 - Donnerstag, 29. Juni 2023 17:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688051520/2851/
 - Donnerstag, 6. Juli 2023 11:12 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688634720/2854/
@@ -38,7 +38,6 @@
 - Donnerstag, 6. Juli 2023 16:12 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688652720/2854/
 - Donnerstag, 6. Juli 2023 16:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688653440/2854/
 - Donnerstag, 6. Juli 2023 16:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688654160/2854/
-- Donnerstag, 6. Juli 2023 16:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688654880/2854/
 - Donnerstag, 6. Juli 2023 17:12 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688656320/2854/
 - Donnerstag, 6. Juli 2023 17:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688657040/2854/
 - Donnerstag, 13. Juli 2023 10:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689237360/2854/
