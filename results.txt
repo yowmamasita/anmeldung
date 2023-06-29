@@ -1,5 +1,2 @@
-- Donnerstag, 29. Juni 2023 15:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688045760/112/
-- Donnerstag, 29. Juni 2023 15:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688046480/112/
-- Donnerstag, 29. Juni 2023 16:00 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688047200/112/
-- Donnerstag, 29. Juni 2023 16:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688047920/112/
-- Donnerstag, 29. Juni 2023 16:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688048640/112/
+- Donnerstag, 29. Juni 2023 15:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688045760/2845/
+- Donnerstag, 29. Juni 2023 17:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688052240/3238/
