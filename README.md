@@ -16,4 +16,3 @@
 - Donnerstag, 29. Juni 2023 14:40 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1688042400/149/
 - Donnerstag, 29. Juni 2023 14:42 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1688042520/142/
 - Donnerstag, 29. Juni 2023 14:50 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1688043000/149/
-- Montag, 3. Juli 2023 12:06 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688378760/2938/
