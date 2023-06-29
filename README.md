@@ -92,8 +92,8 @@
 - Donnerstag, 24. August 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692882720/2932/
 - Donnerstag, 24. August 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1692882720/168/
 - Donnerstag, 24. August 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1692882720/192/
-- Donnerstag, 24. August 2023 15:15 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1692882900/380/
 - Donnerstag, 24. August 2023 15:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692883080/2839/
+- Donnerstag, 24. August 2023 15:30 Bürgeramt Halemweg (Außenstelle) https://service.berlin.de/terminvereinbarung/termin/time/1692883800/380/
 - Donnerstag, 24. August 2023 15:48 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692884880/2860/
 - Donnerstag, 24. August 2023 16:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692885600/2845/
 - Donnerstag, 24. August 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692885600/2908/
