@@ -3,4 +3,3 @@
 - Donnerstag, 29. Juni 2023 17:12 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688051520/312/
 - Donnerstag, 29. Juni 2023 17:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688052240/312/
 - Donnerstag, 29. Juni 2023 17:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688052960/312/
-- Donnerstag, 29. Juni 2023 17:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688053680/312/
