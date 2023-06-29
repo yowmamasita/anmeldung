@@ -104,11 +104,11 @@
 - Donnerstag, 24. August 2023 13:10 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692875400/2884/
 - Donnerstag, 24. August 2023 13:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1692875520/112/
 - Donnerstag, 24. August 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1692875520/109/
-- Donnerstag, 24. August 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1692875520/111/
 - Donnerstag, 24. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1692875520/191/
 - Donnerstag, 24. August 2023 13:18 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1692875880/140/
 - Donnerstag, 24. August 2023 13:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1692876000/149/
-- Donnerstag, 24. August 2023 13:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692876240/154/
+- Donnerstag, 24. August 2023 13:24 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1692876240/111/
+- Donnerstag, 24. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692876240/154/
 - Donnerstag, 24. August 2023 13:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692876960/2854/
 - Donnerstag, 24. August 2023 14:00 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1692878400/112/
 - Donnerstag, 24. August 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692878400/844/
