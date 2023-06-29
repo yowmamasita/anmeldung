@@ -26,8 +26,6 @@
 - Donnerstag, 29. Juni 2023 13:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688039280/169/
 - Donnerstag, 29. Juni 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688039280/312/
 - Donnerstag, 29. Juni 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688039280/167/
-- Donnerstag, 29. Juni 2023 14:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1688041440/172/
 - Donnerstag, 29. Juni 2023 14:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688042880/312/
 - Donnerstag, 29. Juni 2023 15:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688045040/312/
 - Donnerstag, 29. Juni 2023 15:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688046480/312/
-- Donnerstag, 29. Juni 2023 17:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688052960/109/
