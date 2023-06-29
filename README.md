@@ -6,7 +6,6 @@
 - Donnerstag, 29. Juni 2023 11:12 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1688029920/313/
 - Donnerstag, 29. Juni 2023 11:36 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1688031360/313/
 - Donnerstag, 29. Juni 2023 11:48 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1688032080/313/
-- Donnerstag, 29. Juni 2023 12:00 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1688032800/313/
 - Donnerstag, 29. Juni 2023 12:12 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1688033520/313/
 - Donnerstag, 29. Juni 2023 12:24 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1688034240/313/
 - Donnerstag, 29. Juni 2023 12:36 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1688034960/313/
