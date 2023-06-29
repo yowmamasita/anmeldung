@@ -110,14 +110,14 @@
 - Donnerstag, 24. August 2023 14:06 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692878760/2839/
 - Donnerstag, 24. August 2023 14:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1692879000/147/
 - Donnerstag, 24. August 2023 14:12 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692879120/844/
-- Donnerstag, 24. August 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1692879120/312/
 - Donnerstag, 24. August 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1692879120/313/
 - Donnerstag, 24. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692879120/922/
 - Donnerstag, 24. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1692879120/103/
 - Donnerstag, 24. August 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1692879120/192/
 - Donnerstag, 24. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692879120/2926/
 - Donnerstag, 24. August 2023 14:18 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1692879480/140/
-- Donnerstag, 24. August 2023 14:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692879840/2854/
+- Donnerstag, 24. August 2023 14:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1692879840/312/
+- Donnerstag, 24. August 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692879840/2854/
 - Donnerstag, 24. August 2023 14:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1692881280/191/
 - Donnerstag, 24. August 2023 15:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692882000/2857/
 - Donnerstag, 24. August 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1692882000/381/
