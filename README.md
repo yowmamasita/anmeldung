@@ -17,5 +17,4 @@
 - Donnerstag, 29. Juni 2023 14:00 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688040000/312/
 - Donnerstag, 29. Juni 2023 14:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688042160/167/
 - Donnerstag, 29. Juni 2023 14:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688042880/167/
-- Donnerstag, 29. Juni 2023 15:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688044320/167/
 - Donnerstag, 29. Juni 2023 15:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688045040/167/
