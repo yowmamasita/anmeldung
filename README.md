@@ -180,4 +180,3 @@
 - Donnerstag, 24. August 2023 17:20 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692890400/2878/
 - Donnerstag, 24. August 2023 17:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1692891600/150/
 - Freitag, 25. August 2023 12:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692959760/2896/
-- Montag, 28. August 2023 09:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1693208160/172/
