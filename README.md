@@ -5,7 +5,6 @@
 - Donnerstag, 29. Juni 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1688026320/172/
 - Donnerstag, 29. Juni 2023 10:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688027040/312/
 - Donnerstag, 29. Juni 2023 10:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688027760/312/
-- Donnerstag, 29. Juni 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1688027760/172/
 - Donnerstag, 29. Juni 2023 10:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688028480/312/
 - Donnerstag, 29. Juni 2023 11:12 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688029920/312/
 - Donnerstag, 29. Juni 2023 11:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688030640/312/
