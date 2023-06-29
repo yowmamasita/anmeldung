@@ -92,8 +92,7 @@
 - Donnerstag, 24. August 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692880560/2854/
 - Donnerstag, 24. August 2023 14:42 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1692880920/141/
 - Donnerstag, 24. August 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1692880920/140/
-- Donnerstag, 24. August 2023 14:48 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1692881280/135/
-- Donnerstag, 24. August 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1692881280/153/
+- Donnerstag, 24. August 2023 14:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1692881280/153/
 - Donnerstag, 24. August 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1692881280/192/
 - Donnerstag, 24. August 2023 15:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1692882000/106/
 - Donnerstag, 24. August 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692882000/2845/
