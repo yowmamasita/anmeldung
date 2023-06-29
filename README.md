@@ -10,3 +10,4 @@
 - Donnerstag, 29. Juni 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688028480/2926/
 - Donnerstag, 29. Juni 2023 11:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688030640/2845/
 - Donnerstag, 29. Juni 2023 15:06 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1688043960/140/
+- Montag, 3. Juli 2023 12:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1688380560/190/
