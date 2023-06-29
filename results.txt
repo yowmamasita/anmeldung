@@ -163,9 +163,9 @@
 - Donnerstag, 24. August 2023 16:12 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692886320/841/
 - Donnerstag, 24. August 2023 16:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1692886800/149/
 - Donnerstag, 24. August 2023 16:24 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692887040/847/
-- Donnerstag, 24. August 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1692887040/145/
 - Donnerstag, 24. August 2023 16:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1692888000/150/
 - Donnerstag, 24. August 2023 16:42 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1692888120/140/
+- Donnerstag, 24. August 2023 16:48 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1692888480/145/
 - Donnerstag, 24. August 2023 16:50 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1692888600/151/
 - Donnerstag, 24. August 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692888600/2878/
 - Donnerstag, 24. August 2023 17:00 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692889200/841/
