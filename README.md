@@ -3,8 +3,7 @@
 - Donnerstag, 29. Juni 2023 11:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688029200/169/
 - Donnerstag, 29. Juni 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688029200/312/
 - Donnerstag, 29. Juni 2023 11:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688029920/169/
-- Donnerstag, 29. Juni 2023 11:24 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688030640/2911/
-- Donnerstag, 29. Juni 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688030640/312/
+- Donnerstag, 29. Juni 2023 11:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688030640/312/
 - Donnerstag, 29. Juni 2023 11:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688032080/169/
 - Donnerstag, 29. Juni 2023 12:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688032800/169/
 - Donnerstag, 27. Juli 2023 11:12 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690449120/2893/
