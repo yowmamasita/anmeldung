@@ -4,7 +4,6 @@
 - Donnerstag, 29. Juni 2023 17:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688051880/2839/
 - Donnerstag, 29. Juni 2023 17:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688052240/169/
 - Donnerstag, 29. Juni 2023 17:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688052960/2863/
-- Freitag, 30. Juni 2023 10:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1688114160/381/
 - Dienstag, 11. Juli 2023 17:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689089760/2857/
 - Mittwoch, 12. Juli 2023 13:06 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689159960/2911/
 - Montag, 24. Juli 2023 08:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690179840/2926/
