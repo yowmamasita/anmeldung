@@ -65,9 +65,9 @@
 - Donnerstag, 24. August 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1692868320/192/
 - Donnerstag, 24. August 2023 11:18 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1692868680/141/
 - Donnerstag, 24. August 2023 11:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1692869040/106/
-- Donnerstag, 24. August 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1692869040/108/
 - Donnerstag, 24. August 2023 11:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1692869400/150/
 - Donnerstag, 24. August 2023 11:36 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1692869760/135/
+- Donnerstag, 24. August 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1692869760/108/
 - Donnerstag, 24. August 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1692869760/312/
 - Donnerstag, 24. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1692869760/103/
 - Donnerstag, 24. August 2023 11:40 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1692870000/151/
