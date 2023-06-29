@@ -1,6 +1,5 @@
 - Donnerstag, 29. Juni 2023 10:06 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1688025960/140/
-- Donnerstag, 29. Juni 2023 10:12 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1688026320/106/
-- Donnerstag, 29. Juni 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688026320/2845/
+- Donnerstag, 29. Juni 2023 10:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688026320/2845/
 - Donnerstag, 29. Juni 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688026320/2899/
 - Donnerstag, 29. Juni 2023 10:18 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1688026680/140/
 - Donnerstag, 29. Juni 2023 10:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1688027040/106/
@@ -42,6 +41,7 @@
 - Donnerstag, 29. Juni 2023 12:42 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1688035320/140/
 - Donnerstag, 29. Juni 2023 12:54 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1688036040/140/
 - Donnerstag, 29. Juni 2023 13:06 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1688036760/140/
+- Donnerstag, 29. Juni 2023 13:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688037120/2914/
 - Donnerstag, 29. Juni 2023 13:18 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1688037480/140/
 - Donnerstag, 29. Juni 2023 13:42 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1688038920/140/
 - Donnerstag, 29. Juni 2023 14:06 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1688040360/140/
@@ -56,6 +56,7 @@
 - Donnerstag, 29. Juni 2023 15:50 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1688046600/149/
 - Donnerstag, 29. Juni 2023 16:00 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1688047200/149/
 - Donnerstag, 29. Juni 2023 16:10 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1688047800/149/
+- Donnerstag, 29. Juni 2023 16:18 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1688048280/140/
 - Donnerstag, 29. Juni 2023 16:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1688048400/149/
 - Donnerstag, 29. Juni 2023 16:30 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1688049000/149/
 - Donnerstag, 29. Juni 2023 16:40 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1688049600/149/
