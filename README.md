@@ -17,7 +17,13 @@
 - Donnerstag, 27. Juli 2023 17:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690471440/2872/
 - Donnerstag, 27. Juli 2023 17:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690472160/2872/
 - Donnerstag, 27. Juli 2023 17:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690472880/2872/
+- Montag, 7. August 2023 12:00 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691402400/922/
+- Dienstag, 8. August 2023 11:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691487720/2839/
+- Freitag, 18. August 2023 13:00 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1692356400/145/
+- Montag, 21. August 2023 11:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692611280/3238/
+- Dienstag, 22. August 2023 12:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1692699120/168/
 - Dienstag, 22. August 2023 14:36 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692707760/844/
+- Dienstag, 22. August 2023 15:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1692709200/168/
 - Dienstag, 22. August 2023 15:24 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692710640/2908/
 - Mittwoch, 23. August 2023 08:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1692773280/168/
 - Mittwoch, 23. August 2023 09:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1692774720/168/
