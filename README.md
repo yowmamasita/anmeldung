@@ -70,6 +70,7 @@
 - Donnerstag, 24. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1692867600/191/
 - Donnerstag, 24. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692867600/922/
 - Donnerstag, 24. August 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1692867600/150/
+- Donnerstag, 24. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1692867600/103/
 - Donnerstag, 24. August 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1692867600/192/
 - Donnerstag, 24. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692867600/2926/
 - Donnerstag, 24. August 2023 11:06 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1692867960/141/
@@ -82,7 +83,6 @@
 - Donnerstag, 24. August 2023 11:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1692868320/108/
 - Donnerstag, 24. August 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1692868320/190/
 - Donnerstag, 24. August 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1692868320/313/
-- Donnerstag, 24. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1692868320/103/
 - Donnerstag, 24. August 2023 11:20 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1692868800/148/
 - Donnerstag, 24. August 2023 11:42 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1692870120/142/
 - Donnerstag, 24. August 2023 12:00 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1692871200/134/
