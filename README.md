@@ -21,3 +21,10 @@
 - Freitag, 30. Juni 2023 12:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688119920/2857/
 - Freitag, 30. Juni 2023 12:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688120640/2857/
 - Freitag, 30. Juni 2023 12:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688121360/2857/
+- Montag, 3. Juli 2023 14:00 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688385600/2908/
+- Donnerstag, 6. Juli 2023 13:24 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688642640/904/
+- Freitag, 7. Juli 2023 10:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688718240/169/
+- Mittwoch, 12. Juli 2023 07:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689138720/143/
+- Donnerstag, 13. Juli 2023 16:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1689259680/169/
+- Freitag, 14. Juli 2023 14:00 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689336000/2854/
+- Montag, 31. Juli 2023 15:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1690808760/136/
