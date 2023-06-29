@@ -5,8 +5,7 @@
 - Donnerstag, 29. Juni 2023 16:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688049360/112/
 - Donnerstag, 29. Juni 2023 16:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688050080/112/
 - Donnerstag, 29. Juni 2023 17:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688051520/112/
-- Donnerstag, 29. Juni 2023 17:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688052240/112/
-- Donnerstag, 29. Juni 2023 17:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688052960/112/
+- Donnerstag, 27. Juli 2023 14:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690462080/2872/
 - Donnerstag, 27. Juli 2023 15:00 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690462800/2872/
 - Donnerstag, 27. Juli 2023 15:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690463520/2872/
 - Donnerstag, 27. Juli 2023 15:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690464240/2872/
@@ -19,4 +18,3 @@
 - Donnerstag, 27. Juli 2023 16:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690469280/2872/
 - Donnerstag, 27. Juli 2023 17:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690470720/2872/
 - Donnerstag, 27. Juli 2023 17:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690471440/2872/
-- Donnerstag, 27. Juli 2023 17:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690472160/2872/
