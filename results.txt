@@ -1,3 +1,8 @@
+- Mittwoch, 26. Juli 2023 14:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690374240/231/
+- Donnerstag, 27. Juli 2023 11:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690449120/2899/
+- Mittwoch, 9. August 2023 12:00 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1691575200/102/
+- Donnerstag, 17. August 2023 17:42 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692286920/2836/
+- Donnerstag, 24. August 2023 15:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692882720/2857/
 - Freitag, 25. August 2023 08:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692943560/2908/
 - Freitag, 25. August 2023 08:18 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692944280/847/
 - Freitag, 25. August 2023 08:30 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692945000/2839/
@@ -78,8 +83,9 @@
 - Freitag, 25. August 2023 12:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692959040/2857/
 - Freitag, 25. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692959040/2926/
 - Freitag, 25. August 2023 12:30 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692959400/2911/
+- Freitag, 25. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692959400/2839/
 - Freitag, 25. August 2023 12:42 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692960120/844/
-- Freitag, 25. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692960120/2839/
 - Freitag, 25. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692960120/847/
 - Freitag, 25. August 2023 12:50 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692960600/2878/
 - Freitag, 25. August 2023 13:12 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692961920/2836/
+- Dienstag, 29. August 2023 14:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1693311120/231/
