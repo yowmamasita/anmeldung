@@ -112,8 +112,7 @@
 - Freitag, 25. August 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1692947520/153/
 - Freitag, 25. August 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1692947520/145/
 - Freitag, 25. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1692947520/103/
-- Freitag, 25. August 2023 09:18 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1692947880/312/
-- Freitag, 25. August 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1692947880/111/
+- Freitag, 25. August 2023 09:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1692947880/111/
 - Freitag, 25. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692947880/847/
 - Freitag, 25. August 2023 09:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692948240/2854/
 - Freitag, 25. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1692948240/191/
