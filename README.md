@@ -73,6 +73,7 @@
 - Freitag, 25. August 2023 12:50 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692960600/2878/
 - Freitag, 25. August 2023 13:36 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692963360/2836/
 - Freitag, 25. August 2023 14:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692964800/3238/
+- Dienstag, 29. August 2023 15:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1693315440/146/
 - Dienstag, 29. August 2023 15:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1693316160/172/
 - Dienstag, 29. August 2023 15:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1693316880/146/
 - Dienstag, 29. August 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1693316880/172/
