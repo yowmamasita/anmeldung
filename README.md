@@ -93,7 +93,6 @@
 - Donnerstag, 24. August 2023 17:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692891360/2926/
 - Donnerstag, 24. August 2023 17:48 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692892080/2908/
 - Donnerstag, 24. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692892080/904/
-- Freitag, 25. August 2023 07:00 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1692939600/145/
 - Freitag, 25. August 2023 07:12 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1692940320/145/
 - Freitag, 25. August 2023 07:24 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1692941040/145/
 - Freitag, 25. August 2023 07:36 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1692941760/145/
