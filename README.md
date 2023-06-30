@@ -7,7 +7,6 @@
 - Dienstag, 22. August 2023 09:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1692688320/143/
 - Dienstag, 22. August 2023 09:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1692689040/143/
 - Dienstag, 22. August 2023 09:36 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1692689760/143/
-- Dienstag, 22. August 2023 10:00 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1692691200/143/
 - Dienstag, 22. August 2023 10:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1692691920/143/
 - Dienstag, 22. August 2023 10:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1692692640/143/
 - Dienstag, 22. August 2023 10:36 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1692693360/143/
