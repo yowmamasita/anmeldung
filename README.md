@@ -3,5 +3,3 @@
 - Freitag, 30. Juni 2023 11:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688118480/146/
 - Freitag, 30. Juni 2023 12:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688119200/2848/
 - Freitag, 30. Juni 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688119200/191/
-- Freitag, 30. Juni 2023 12:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688122080/3238/
-- Donnerstag, 27. Juli 2023 17:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1690472160/172/
