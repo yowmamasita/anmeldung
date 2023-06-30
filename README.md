@@ -90,8 +90,7 @@
 - Freitag, 25. August 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692952200/2878/
 - Freitag, 25. August 2023 10:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692952560/2845/
 - Freitag, 25. August 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692952560/2860/
-- Freitag, 25. August 2023 10:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1692953280/167/
-- Freitag, 25. August 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1692953280/168/
+- Freitag, 25. August 2023 10:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1692953280/168/
 - Freitag, 25. August 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1692953280/192/
 - Freitag, 25. August 2023 10:50 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692953400/2884/
 - Freitag, 25. August 2023 11:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692954000/2845/
@@ -161,3 +160,4 @@
 - Freitag, 25. August 2023 12:50 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692960600/2884/
 - Freitag, 25. August 2023 13:12 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692961920/2836/
 - Freitag, 25. August 2023 13:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692963360/3238/
+- Dienstag, 29. August 2023 13:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1693307520/231/
