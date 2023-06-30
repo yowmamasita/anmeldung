@@ -18,9 +18,6 @@
 - Freitag, 30. Juni 2023 11:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1688115600/192/
 - Freitag, 30. Juni 2023 11:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1688116320/192/
 - Freitag, 30. Juni 2023 11:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1688117040/192/
-- Freitag, 30. Juni 2023 12:00 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1688119200/192/
-- Freitag, 30. Juni 2023 12:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1688119920/192/
-- Freitag, 30. Juni 2023 12:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1688120640/192/
 - Freitag, 28. Juli 2023 08:00 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690524000/2875/
 - Freitag, 28. Juli 2023 08:12 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690524720/2893/
 - Freitag, 28. Juli 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690524720/2872/
