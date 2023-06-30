@@ -25,7 +25,6 @@
 - Donnerstag, 24. August 2023 16:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1692886320/169/
 - Donnerstag, 24. August 2023 16:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1692887040/169/
 - Donnerstag, 24. August 2023 17:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1692889920/169/
-- Donnerstag, 24. August 2023 17:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1692890640/169/
 - Freitag, 25. August 2023 07:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692941040/3238/
 - Freitag, 25. August 2023 07:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692941400/2908/
 - Freitag, 25. August 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692941400/2914/
