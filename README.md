@@ -21,4 +21,4 @@
 - Freitag, 30. Juni 2023 10:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688114880/170/
 - Freitag, 30. Juni 2023 11:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688116320/170/
 - Freitag, 30. Juni 2023 11:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688117040/170/
-- Freitag, 30. Juni 2023 11:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688117760/170/
+- Freitag, 30. Juni 2023 11:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688118480/170/
