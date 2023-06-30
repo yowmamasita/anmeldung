@@ -8,8 +8,8 @@
 - Freitag, 30. Juni 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688106600/2881/
 - Freitag, 30. Juni 2023 08:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688106960/169/
 - Freitag, 30. Juni 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688106960/2887/
-- Freitag, 30. Juni 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688106960/191/
 - Freitag, 30. Juni 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688106960/170/
 - Freitag, 30. Juni 2023 09:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688108400/2926/
+- Freitag, 30. Juni 2023 09:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1688109120/190/
 - Freitag, 30. Juni 2023 09:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688109840/2887/
 - Freitag, 30. Juni 2023 09:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688111280/2887/
