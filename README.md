@@ -133,8 +133,7 @@
 - Freitag, 25. August 2023 11:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1692956160/153/
 - Freitag, 25. August 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1692956160/168/
 - Freitag, 25. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692956160/2938/
-- Freitag, 25. August 2023 11:42 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1692956520/134/
-- Freitag, 25. August 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692956520/898/
+- Freitag, 25. August 2023 11:42 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692956520/898/
 - Freitag, 25. August 2023 11:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692956880/154/
 - Freitag, 25. August 2023 11:50 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1692957000/151/
 - Freitag, 25. August 2023 12:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1692957600/106/
