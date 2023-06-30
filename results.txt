@@ -1,6 +1,4 @@
 - Freitag, 30. Juni 2023 12:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1688119200/108/
 - Freitag, 30. Juni 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688119200/2848/
 - Freitag, 30. Juni 2023 12:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1688119920/108/
-- Freitag, 28. Juli 2023 11:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690536960/2872/
-- Freitag, 28. Juli 2023 12:36 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690540560/2875/
-- Freitag, 28. Juli 2023 12:48 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690541280/2875/
+- Freitag, 30. Juni 2023 12:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688122080/2848/
