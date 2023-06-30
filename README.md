@@ -71,7 +71,6 @@
 - Donnerstag, 24. August 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692888480/898/
 - Donnerstag, 24. August 2023 16:54 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692888840/2836/
 - Donnerstag, 24. August 2023 17:12 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692889920/898/
-- Donnerstag, 24. August 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692889920/2887/
 - Donnerstag, 24. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692889920/2926/
 - Donnerstag, 24. August 2023 17:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692890640/2887/
 - Donnerstag, 24. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692890640/2926/
