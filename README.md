@@ -4,5 +4,8 @@
 - Freitag, 30. Juni 2023 09:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688109480/112/
 - Freitag, 30. Juni 2023 09:30 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688110200/112/
 - Freitag, 30. Juni 2023 09:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688110920/112/
-- Freitag, 30. Juni 2023 09:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688111640/112/
-- Freitag, 30. Juni 2023 11:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688118840/112/
+- Freitag, 30. Juni 2023 10:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688113440/2896/
+- Freitag, 30. Juni 2023 11:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688117760/154/
+- Freitag, 30. Juni 2023 11:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688118480/154/
+- Mittwoch, 5. Juli 2023 10:12 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1688544720/103/
+- Freitag, 7. Juli 2023 11:42 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688722920/844/
