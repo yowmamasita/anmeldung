@@ -6,12 +6,8 @@
 - Freitag, 30. Juni 2023 11:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688117040/2848/
 - Montag, 3. Juli 2023 11:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688376240/146/
 - Montag, 3. Juli 2023 11:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688377680/146/
-- Montag, 3. Juli 2023 12:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688378400/146/
-- Montag, 3. Juli 2023 12:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688379120/146/
 - Montag, 3. Juli 2023 12:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688380560/146/
-- Montag, 3. Juli 2023 13:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688383440/146/
-- Dienstag, 4. Juli 2023 11:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688461920/146/
-- Dienstag, 4. Juli 2023 11:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688462640/146/
+- Montag, 3. Juli 2023 14:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688386320/146/
 - Dienstag, 4. Juli 2023 11:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688463360/146/
 - Dienstag, 4. Juli 2023 12:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688465520/146/
 - Dienstag, 4. Juli 2023 12:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688466240/146/
@@ -19,7 +15,5 @@
 - Dienstag, 4. Juli 2023 13:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688469120/146/
 - Dienstag, 4. Juli 2023 13:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688470560/146/
 - Dienstag, 4. Juli 2023 13:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688471280/146/
-- Dienstag, 4. Juli 2023 14:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688472720/146/
-- Dienstag, 4. Juli 2023 14:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1688474160/146/
 - Dienstag, 18. Juli 2023 15:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1689685200/231/
 - Montag, 24. Juli 2023 14:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690202880/2872/
