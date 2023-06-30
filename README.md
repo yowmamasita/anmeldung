@@ -224,7 +224,6 @@
 - Freitag, 25. August 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1692957600/167/
 - Freitag, 25. August 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692957600/2860/
 - Freitag, 25. August 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692957600/2878/
-- Freitag, 25. August 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1692957600/149/
 - Freitag, 25. August 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692957600/2881/
 - Freitag, 25. August 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1692957600/168/
 - Freitag, 25. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1692957600/191/
@@ -238,6 +237,7 @@
 - Freitag, 25. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692957960/847/
 - Freitag, 25. August 2023 12:10 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1692958200/151/
 - Freitag, 25. August 2023  Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1692958200/148/
+- Freitag, 25. August 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1692958200/149/
 - Freitag, 25. August 2023 12:12 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692958320/2854/
 - Freitag, 25. August 2023 12:18 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1692958680/140/
 - Freitag, 25. August 2023 12:20 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692958800/2884/
