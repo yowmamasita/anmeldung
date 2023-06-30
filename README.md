@@ -8,7 +8,6 @@
 - Montag, 3. Juli 2023 09:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688369760/231/
 - Montag, 3. Juli 2023 09:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688370480/231/
 - Montag, 3. Juli 2023 10:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688371920/231/
-- Montag, 3. Juli 2023 11:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688374800/231/
 - Montag, 3. Juli 2023 11:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688375520/231/
 - Montag, 3. Juli 2023 11:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688376240/231/
 - Montag, 3. Juli 2023 11:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688376960/231/
@@ -17,8 +16,6 @@
 - Montag, 3. Juli 2023 12:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688380560/231/
 - Montag, 3. Juli 2023 13:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688382720/231/
 - Montag, 3. Juli 2023 13:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688383440/231/
-- Montag, 3. Juli 2023 13:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688384160/231/
-- Montag, 3. Juli 2023 13:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688384880/231/
 - Mittwoch, 16. August 2023 11:06 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1692176760/192/
 - Donnerstag, 17. August 2023 12:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1692267840/146/
 - Freitag, 25. August 2023 08:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692943560/2908/
