@@ -3,5 +3,4 @@
 - Montag, 3. Juli 2023 10:54 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688374440/841/
 - Montag, 3. Juli 2023 11:18 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688375880/841/
 - Montag, 3. Juli 2023 12:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688379120/191/
-- Mittwoch, 30. August 2023 13:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1693393920/231/
 - Mittwoch, 30. August 2023 13:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1693394640/231/
