@@ -4,5 +4,4 @@
 - Montag, 3. Juli 2023 13:40 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688384400/2881/
 - Montag, 3. Juli 2023 14:06 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688385960/2911/
 - Montag, 3. Juli 2023 15:24 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688390640/2938/
-- Dienstag, 11. Juli 2023 12:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689071040/2896/
 - Mittwoch, 2. August 2023 13:36 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690976160/2839/
