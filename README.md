@@ -3,4 +3,3 @@
 - Montag, 3. Juli 2023 09:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688369040/2887/
 - Montag, 3. Juli 2023 14:00 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1688385600/381/
 - Montag, 3. Juli 2023 15:12 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688389920/2839/
-- Mittwoch, 26. Juli 2023 12:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690367040/3238/
