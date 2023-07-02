@@ -1,2 +1,6 @@
-- Mittwoch, 30. August 2023 08:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1693375200/172/
-- Donnerstag, 31. August 2023 11:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1693473840/146/
+- Montag, 3. Juli 2023 12:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1688379120/192/
+- Dienstag, 4. Juli 2023 10:36 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688459760/841/
+- Dienstag, 4. Juli 2023 10:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688460480/3238/
+- Mittwoch, 12. Juli 2023 09:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1689148080/168/
+- Dienstag, 18. Juli 2023 10:42 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689669720/154/
+- Mittwoch, 16. August 2023 11:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1692177840/168/
