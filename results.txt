@@ -1,7 +1,0 @@
-- Dienstag, 4. Juli 2023 10:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688458320/2926/
-- Dienstag, 4. Juli 2023 15:48 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688478480/2920/
-- Dienstag, 4. Juli 2023 16:00 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688479200/2920/
-- Dienstag, 4. Juli 2023 16:12 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688479920/2920/
-- Dienstag, 4. Juli 2023 16:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688481720/2839/
-- Dienstag, 4. Juli 2023 17:06 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688483160/2836/
-- Donnerstag, 20. Juli 2023 16:12 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689862320/841/
