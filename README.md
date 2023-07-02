@@ -5,5 +5,4 @@
 - Dienstag, 4. Juli 2023 11:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688462640/2926/
 - Dienstag, 4. Juli 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688462640/2866/
 - Dienstag, 4. Juli 2023 11:54 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1688464440/142/
-- Freitag, 11. August 2023 10:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691740800/2851/
 - Donnerstag, 31. August 2023 12:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1693476000/146/
