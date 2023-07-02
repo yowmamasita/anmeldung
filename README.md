@@ -5,5 +5,3 @@
 - Montag, 3. Juli 2023 09:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688368320/2872/
 - Montag, 3. Juli 2023 09:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688370480/2872/
 - Dienstag, 4. Juli 2023 12:54 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688468040/2836/
-- Dienstag, 4. Juli 2023 17:48 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688485680/904/
-- Mittwoch, 26. Juli 2023 08:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690352400/150/
