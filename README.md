@@ -8,7 +8,7 @@
 - Montag, 3. Juli 2023 08:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688365800/312/
 - Montag, 3. Juli 2023 08:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688366520/312/
 - Montag, 3. Juli 2023 08:54 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688367240/312/
-- Montag, 3. Juli 2023 09:18 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688368680/312/
+- Montag, 3. Juli 2023 09:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688369400/312/
 - Montag, 3. Juli 2023 09:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688370120/312/
 - Montag, 3. Juli 2023 10:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688373000/312/
 - Montag, 3. Juli 2023 10:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688373720/312/
