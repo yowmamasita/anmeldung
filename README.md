@@ -111,8 +111,7 @@
 - Montag, 28. August 2023 12:12 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693217520/2839/
 - Montag, 28. August 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1693217520/192/
 - Montag, 28. August 2023 12:18 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693217880/2938/
-- Montag, 28. August 2023 12:36 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1693218960/141/
-- Montag, 28. August 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693218960/140/
+- Montag, 28. August 2023 12:36 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693218960/140/
 - Montag, 28. August 2023 12:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1693219320/313/
 - Montag, 28. August 2023 12:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693219680/2854/
 - Montag, 28. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1693219680/191/
