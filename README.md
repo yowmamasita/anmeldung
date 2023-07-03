@@ -3,7 +3,6 @@
 - Montag, 3. Juli 2023 08:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688364000/231/
 - Montag, 3. Juli 2023 08:18 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1688365080/135/
 - Montag, 3. Juli 2023 08:30 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1688365800/135/
-- Montag, 3. Juli 2023 08:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688366160/231/
 - Montag, 3. Juli 2023 08:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1688366520/135/
 - Montag, 3. Juli 2023 08:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688366880/231/
 - Montag, 3. Juli 2023 08:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1688367240/135/
@@ -15,6 +14,7 @@
 - Montag, 3. Juli 2023 09:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1688370840/135/
 - Montag, 3. Juli 2023 10:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688371200/231/
 - Montag, 3. Juli 2023 10:06 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1688371560/135/
+- Montag, 3. Juli 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688371560/844/
 - Montag, 3. Juli 2023 10:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688371920/231/
 - Montag, 3. Juli 2023 10:18 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1688372280/134/
 - Montag, 3. Juli 2023  Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1688372280/135/
@@ -31,14 +31,12 @@
 - Montag, 3. Juli 2023 12:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688378400/231/
 - Montag, 3. Juli 2023 12:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688379120/231/
 - Montag, 3. Juli 2023 12:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688380560/231/
-- Montag, 21. August 2023 08:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1692599040/170/
 - Montag, 21. August 2023 08:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1692600480/170/
 - Montag, 21. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692600480/2866/
 - Montag, 21. August 2023 09:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1692601200/170/
 - Montag, 21. August 2023 09:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1692601920/170/
 - Montag, 21. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692601920/2866/
-- Montag, 21. August 2023 09:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1692602640/170/
-- Montag, 21. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692602640/2866/
+- Montag, 21. August 2023 09:24 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692602640/2866/
 - Montag, 21. August 2023 09:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1692603360/170/
 - Montag, 21. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692603360/2866/
 - Montag, 21. August 2023 09:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1692604080/170/
