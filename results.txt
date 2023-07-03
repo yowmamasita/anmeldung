@@ -1,13 +1,10 @@
 - Montag, 3. Juli 2023 07:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688362200/312/
-- Montag, 3. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688362200/111/
 - Montag, 3. Juli 2023 07:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688362920/312/
 - Montag, 3. Juli 2023 07:54 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688363640/312/
 - Montag, 3. Juli 2023 08:18 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688365080/312/
 - Montag, 3. Juli 2023 08:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688366520/312/
 - Montag, 3. Juli 2023 09:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688369400/312/
 - Montag, 3. Juli 2023 09:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688370120/312/
-- Montag, 3. Juli 2023 10:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688373000/312/
-- Montag, 3. Juli 2023 10:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688373720/312/
 - Montag, 3. Juli 2023 13:06 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688382360/111/
 - Montag, 3. Juli 2023 13:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688383080/111/
 - Montag, 3. Juli 2023 13:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688383800/111/
@@ -17,4 +14,3 @@
 - Montag, 3. Juli 2023 14:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688386680/111/
 - Montag, 3. Juli 2023 14:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688387400/111/
 - Montag, 3. Juli 2023 14:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688388120/111/
-- Montag, 3. Juli 2023 14:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688388840/111/
