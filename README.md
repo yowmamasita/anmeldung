@@ -4,6 +4,7 @@
 - Montag, 28. August 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1693205280/168/
 - Montag, 28. August 2023 08:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693205640/2908/
 - Montag, 28. August 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693205640/2914/
+- Montag, 28. August 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693205640/898/
 - Montag, 28. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693205640/847/
 - Montag, 28. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693205640/904/
 - Montag, 28. August 2023 09:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1693206000/168/
@@ -111,7 +112,7 @@
 - Montag, 28. August 2023 13:06 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1693220760/109/
 - Montag, 28. August 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693220760/898/
 - Montag, 28. August 2023 13:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1693221120/169/
-- Montag, 28. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1693221120/191/
+- Montag, 28. August 2023 13:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1693221840/191/
 - Montag, 28. August 2023 13:30 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1693222200/147/
 - Montag, 28. August 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693222200/2881/
 - Montag, 28. August 2023 13:36 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1693222560/141/
