@@ -6,10 +6,7 @@
 - Montag, 3. Juli 2023 10:00 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688371200/2854/
 - Montag, 3. Juli 2023 10:18 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688372280/154/
 - Montag, 3. Juli 2023 10:30 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688373000/154/
-- Montag, 3. Juli 2023 10:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1688373360/153/
 - Montag, 3. Juli 2023 10:42 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688373720/154/
-- Montag, 3. Juli 2023 10:54 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688374440/154/
-- Montag, 3. Juli 2023 11:06 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688375160/154/
 - Montag, 3. Juli 2023 11:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688375520/3238/
 - Montag, 3. Juli 2023 11:18 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688375880/154/
 - Montag, 3. Juli 2023 11:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688376240/2845/
@@ -19,12 +16,13 @@
 - Montag, 3. Juli 2023 12:30 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688380200/154/
 - Montag, 3. Juli 2023 12:42 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688380920/154/
 - Montag, 3. Juli 2023 12:54 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688381640/154/
-- Montag, 3. Juli 2023 15:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688389920/154/
+- Montag, 3. Juli 2023 15:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688389200/154/
 - Montag, 3. Juli 2023 15:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688390640/154/
 - Montag, 3. Juli 2023 15:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688391360/154/
-- Montag, 3. Juli 2023 17:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688396400/154/
-- Montag, 3. Juli 2023 17:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688397120/154/
-- Montag, 7. August 2023 09:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691391600/3238/
+- Montag, 3. Juli 2023 17:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688398560/154/
+- Dienstag, 4. Juli 2023 11:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688463360/2872/
+- Montag, 10. Juli 2023 09:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1688972760/136/
+- Freitag, 4. August 2023 14:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691150400/3238/
 - Donnerstag, 10. August 2023 15:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691675280/3238/
 - Mittwoch, 23. August 2023 11:36 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692783360/2866/
 - Mittwoch, 23. August 2023 12:00 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692784800/2866/
