@@ -12,12 +12,10 @@
 - Montag, 3. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688366160/2926/
 - Montag, 3. Juli 2023 08:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688366520/112/
 - Montag, 3. Juli 2023 08:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1688366880/106/
-- Montag, 3. Juli 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688366880/2845/
 - Montag, 3. Juli 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688366880/191/
 - Montag, 3. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688366880/2926/
 - Montag, 3. Juli 2023 08:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688367240/112/
 - Montag, 3. Juli 2023 09:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1688367600/106/
-- Montag, 3. Juli 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688367600/191/
 - Montag, 3. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688367600/2926/
 - Montag, 3. Juli 2023 09:06 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688367960/112/
 - Montag, 3. Juli 2023 09:12 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1688368320/106/
@@ -35,7 +33,6 @@
 - Montag, 3. Juli 2023 09:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1688370480/106/
 - Montag, 3. Juli 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688370480/191/
 - Montag, 3. Juli 2023 09:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688370840/112/
-- Montag, 3. Juli 2023 10:06 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688371560/112/
 - Montag, 3. Juli 2023 10:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688371920/231/
 - Montag, 3. Juli 2023 10:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688372280/112/
 - Montag, 3. Juli 2023 10:30 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688373000/112/
@@ -50,7 +47,6 @@
 - Montag, 3. Juli 2023 12:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1688379840/172/
 - Montag, 3. Juli 2023 12:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1688380560/172/
 - Montag, 3. Juli 2023 12:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1688381280/172/
-- Montag, 3. Juli 2023 13:18 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1688383080/135/
 - Montag, 3. Juli 2023 13:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1688384520/135/
 - Montag, 21. August 2023 08:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1692598320/170/
 - Montag, 21. August 2023 08:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1692599040/106/
