@@ -17,12 +17,10 @@
 - Montag, 3. Juli 2023 10:30 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1688373000/134/
 - Montag, 3. Juli 2023 10:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688373360/167/
 - Montag, 3. Juli 2023 10:42 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1688373720/134/
-- Montag, 3. Juli 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688373720/312/
 - Montag, 3. Juli 2023 10:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688374080/167/
 - Montag, 3. Juli 2023 11:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688374800/167/
 - Montag, 3. Juli 2023 11:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688375520/167/
 - Montag, 3. Juli 2023 11:18 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1688375880/134/
-- Montag, 3. Juli 2023 11:30 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1688376600/134/
 - Montag, 3. Juli 2023 11:42 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1688377320/134/
 - Montag, 3. Juli 2023 11:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688377680/167/
 - Montag, 3. Juli 2023 12:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688378400/167/
@@ -35,5 +33,4 @@
 - Montag, 3. Juli 2023 14:12 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1688386320/134/
 - Montag, 3. Juli 2023 14:30 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688387400/112/
 - Montag, 3. Juli 2023 14:36 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1688387760/134/
-- Montag, 3. Juli 2023 14:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688388120/112/
-- Montag, 3. Juli 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688388120/312/
+- Montag, 3. Juli 2023 14:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688388120/312/
