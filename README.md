@@ -7,7 +7,6 @@
 - Mittwoch, 23. August 2023 10:36 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692779760/2866/
 - Mittwoch, 23. August 2023 10:48 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692780480/2866/
 - Mittwoch, 23. August 2023 11:12 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692781920/2866/
-- Mittwoch, 23. August 2023 12:24 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692786240/2866/
 - Donnerstag, 24. August 2023 11:24 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692869040/2866/
 - Donnerstag, 24. August 2023 11:48 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692870480/2866/
 - Donnerstag, 24. August 2023 12:12 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692871920/2866/
@@ -37,8 +36,7 @@
 - Freitag, 25. August 2023 09:36 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692948960/2866/
 - Freitag, 25. August 2023 09:48 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692949680/2866/
 - Freitag, 25. August 2023 10:00 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692950400/2866/
-- Freitag, 25. August 2023 10:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1692951120/170/
-- Freitag, 25. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692951120/2866/
+- Freitag, 25. August 2023 10:12 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692951120/2866/
 - Freitag, 25. August 2023 10:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1692951840/170/
 - Freitag, 25. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692951840/2866/
 - Freitag, 25. August 2023 10:36 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692952560/2866/
@@ -49,26 +47,25 @@
 - Freitag, 25. August 2023 11:48 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692956880/2866/
 - Freitag, 25. August 2023 12:00 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692957600/2866/
 - Freitag, 25. August 2023 12:12 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692958320/2866/
-- Freitag, 25. August 2023 12:24 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692959040/2866/
 - Freitag, 25. August 2023 12:36 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692959760/2866/
 - Montag, 28. August 2023 07:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693200600/2908/
 - Montag, 28. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693200600/904/
-- Montag, 28. August 2023 07:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693201320/2911/
-- Montag, 28. August 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693201320/898/
+- Montag, 28. August 2023 07:42 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693201320/898/
 - Montag, 28. August 2023 07:48 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693201680/2932/
-- Montag, 28. August 2023 07:54 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693202040/844/
+- Montag, 28. August 2023 07:54 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693202040/2911/
+- Montag, 28. August 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693202040/844/
 - Montag, 28. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693202040/841/
 - Montag, 28. August 2023 08:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693202400/2836/
 - Montag, 28. August 2023 08:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693202760/2908/
 - Montag, 28. August 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693202760/2911/
 - Montag, 28. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693202760/841/
-- Montag, 28. August 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693202760/898/
 - Montag, 28. August 2023 08:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693203120/2845/
 - Montag, 28. August 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693203120/2848/
 - Montag, 28. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693203120/2839/
 - Montag, 28. August 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1693203120/190/
 - Montag, 28. August 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693203120/2932/
 - Montag, 28. August 2023 08:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693203480/2914/
+- Montag, 28. August 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693203480/898/
 - Montag, 28. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693203480/847/
 - Montag, 28. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693203480/904/
 - Montag, 28. August 2023 08:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1693203600/149/
@@ -162,12 +159,10 @@
 - Montag, 28. August 2023 10:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1693211760/191/
 - Montag, 28. August 2023 11:00 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1693213200/141/
 - Montag, 28. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693213200/2836/
-- Montag, 28. August 2023  Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1693213200/147/
 - Montag, 28. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693213200/2839/
 - Montag, 28. August 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693213200/3238/
 - Montag, 28. August 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693213200/2932/
 - Montag, 28. August 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1693213200/149/
-- Montag, 28. August 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693213200/2881/
 - Montag, 28. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693213200/922/
 - Montag, 28. August 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1693213200/150/
 - Montag, 28. August 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693213200/1018/
@@ -176,6 +171,8 @@
 - Montag, 28. August 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693213560/2914/
 - Montag, 28. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693213560/841/
 - Montag, 28. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693213560/847/
+- Montag, 28. August 2023 11:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1693213800/147/
+- Montag, 28. August 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693213800/2881/
 - Montag, 28. August 2023 11:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1693213920/167/
 - Montag, 28. August 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693213920/2860/
 - Montag, 28. August 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693213920/2854/
