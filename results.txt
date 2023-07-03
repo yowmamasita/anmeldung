@@ -1,5 +1,3 @@
-- Donnerstag, 6. Juli 2023 08:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688623200/2845/
-- Freitag, 7. Juli 2023 11:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1688721120/192/
 - Freitag, 14. Juli 2023 08:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689317280/2872/
 - Montag, 24. Juli 2023 11:18 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1690190280/134/
 - Mittwoch, 9. August 2023 07:42 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1691559720/134/
