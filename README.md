@@ -15,8 +15,7 @@
 - Montag, 3. Juli 2023 08:54 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1688367240/133/
 - Montag, 3. Juli 2023 09:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688367600/2896/
 - Montag, 3. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688367600/2926/
-- Montag, 3. Juli 2023 09:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688368320/2851/
-- Montag, 3. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688368320/2926/
+- Montag, 3. Juli 2023 09:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688368320/2926/
 - Montag, 3. Juli 2023 09:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688368680/111/
 - Montag, 3. Juli 2023 09:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688369040/2851/
 - Montag, 3. Juli 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688369040/2896/
@@ -27,8 +26,7 @@
 - Montag, 3. Juli 2023 09:54 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1688370840/133/
 - Montag, 3. Juli 2023  Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1688370840/135/
 - Montag, 3. Juli 2023 10:06 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1688371560/135/
-- Montag, 3. Juli 2023 10:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688371920/231/
-- Montag, 3. Juli 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688371920/2851/
+- Montag, 3. Juli 2023 10:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688371920/2851/
 - Montag, 3. Juli 2023 10:18 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1688372280/133/
 - Montag, 3. Juli 2023 10:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688372640/2851/
 - Montag, 3. Juli 2023 10:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688373000/2908/
@@ -40,7 +38,6 @@
 - Montag, 3. Juli 2023 11:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688374800/2851/
 - Montag, 3. Juli 2023 11:06 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1688375160/133/
 - Montag, 3. Juli 2023 11:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688375520/2851/
-- Montag, 3. Juli 2023 11:18 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1688375880/133/
 - Montag, 3. Juli 2023 11:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688376240/2851/
 - Montag, 3. Juli 2023 12:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1688380920/135/
 - Montag, 3. Juli 2023 12:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688381280/2851/
