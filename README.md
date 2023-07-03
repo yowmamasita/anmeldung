@@ -75,7 +75,6 @@
 - Montag, 28. August 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693210800/2884/
 - Montag, 28. August 2023 10:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693211040/381/
 - Montag, 28. August 2023 10:36 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1693211760/141/
-- Montag, 28. August 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1693211760/167/
 - Montag, 28. August 2023 10:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1693212000/150/
 - Montag, 28. August 2023 10:42 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693212120/844/
 - Montag, 28. August 2023 10:48 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693212480/2932/
@@ -143,7 +142,6 @@
 - Montag, 28. August 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1693221120/142/
 - Montag, 28. August 2023 13:24 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693221840/1018/
 - Montag, 28. August 2023 13:42 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693222920/841/
-- Montag, 28. August 2023 13:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1693223400/150/
 - Montag, 28. August 2023 14:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1693224000/169/
 - Montag, 28. August 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693224000/2857/
 - Montag, 28. August 2023  Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1693224000/141/
