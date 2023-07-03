@@ -13,13 +13,14 @@
 - Montag, 28. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693210680/904/
 - Montag, 28. August 2023 10:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693211040/3238/
 - Montag, 28. August 2023 10:30 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693211400/2911/
-- Montag, 28. August 2023 10:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693211760/2845/
-- Montag, 28. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693211760/2836/
+- Montag, 28. August 2023 10:36 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693211760/2836/
 - Montag, 28. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693211760/2839/
 - Montag, 28. August 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693211760/2887/
 - Montag, 28. August 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693211760/2860/
 - Montag, 28. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693211760/2926/
-- Montag, 28. August 2023 10:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1693212480/190/
+- Montag, 28. August 2023 10:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693212480/2845/
+- Montag, 28. August 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693212480/2857/
+- Montag, 28. August 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1693212480/190/
 - Montag, 28. August 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1693212480/168/
 - Montag, 28. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693212480/922/
 - Montag, 28. August 2023 11:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693213200/2836/
