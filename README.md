@@ -17,7 +17,6 @@
 - Mittwoch, 16. August 2023 13:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1692184680/112/
 - Mittwoch, 16. August 2023 13:30 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1692185400/112/
 - Mittwoch, 16. August 2023 13:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1692186120/112/
-- Mittwoch, 16. August 2023 13:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1692186840/112/
 - Donnerstag, 17. August 2023 10:12 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1692259920/112/
 - Donnerstag, 17. August 2023 10:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1692260640/112/
 - Donnerstag, 17. August 2023 10:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1692262080/112/
