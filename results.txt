@@ -1,3 +1,4 @@
+- Montag, 21. August 2023 11:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692609840/2863/
 - Mittwoch, 23. August 2023 08:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1692773640/112/
 - Mittwoch, 23. August 2023 09:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1692775080/112/
 - Mittwoch, 23. August 2023 09:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1692776520/112/
@@ -20,7 +21,6 @@
 - Donnerstag, 24. August 2023 14:36 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1692880560/112/
 - Donnerstag, 24. August 2023 14:48 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1692881280/112/
 - Donnerstag, 24. August 2023 15:00 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1692882000/112/
-- Freitag, 25. August 2023 08:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1692944640/169/
 - Freitag, 25. August 2023 08:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1692946440/112/
 - Freitag, 25. August 2023 09:06 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1692947160/112/
 - Freitag, 25. August 2023 09:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1692947880/112/
