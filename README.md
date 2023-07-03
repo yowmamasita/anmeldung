@@ -11,11 +11,8 @@
 - Montag, 3. Juli 2023 13:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688382720/2926/
 - Montag, 3. Juli 2023 13:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688384160/2926/
 - Montag, 3. Juli 2023 13:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688384880/2926/
-- Montag, 3. Juli 2023 14:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688385600/2926/
 - Montag, 3. Juli 2023 14:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688386320/2926/
-- Montag, 3. Juli 2023 14:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688387040/169/
 - Montag, 3. Juli 2023 14:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688387760/2926/
-- Montag, 31. Juli 2023 09:00 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690786800/2875/
 - Montag, 31. Juli 2023 09:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690787520/2872/
 - Montag, 31. Juli 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690787520/2875/
 - Montag, 31. Juli 2023 09:24 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690788240/2893/
@@ -240,8 +237,8 @@
 - Montag, 28. August 2023 08:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1693203840/141/
 - Montag, 28. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693203840/922/
 - Montag, 28. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693203840/103/
-- Montag, 28. August 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1693203840/142/
 - Montag, 28. August 2023 08:36 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1693204560/102/
+- Montag, 28. August 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1693204560/142/
 - Montag, 28. August 2023 08:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1693204920/109/
 - Montag, 28. August 2023 09:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1693206000/106/
 - Montag, 28. August 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693206000/2845/
