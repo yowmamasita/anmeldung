@@ -1,4 +1,5 @@
-- Freitag, 18. August 2023 08:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1692341640/111/
-- Freitag, 18. August 2023 09:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1692344520/111/
-- Montag, 28. August 2023 14:42 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693226520/898/
-- Montag, 28. August 2023 14:54 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693227240/898/
+- Dienstag, 4. Juli 2023 10:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1688457600/172/
+- Dienstag, 4. Juli 2023 10:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1688458320/172/
+- Dienstag, 4. Juli 2023 10:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1688459040/172/
+- Dienstag, 4. Juli 2023 10:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1688459760/172/
+- Dienstag, 4. Juli 2023 10:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1688460480/172/
