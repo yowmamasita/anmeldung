@@ -56,8 +56,7 @@
 - Montag, 28. August 2023 09:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1693208400/150/
 - Montag, 28. August 2023 09:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1693208520/136/
 - Montag, 28. August 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693208520/898/
-- Montag, 28. August 2023 09:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1693208880/106/
-- Montag, 28. August 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693208880/1018/
+- Montag, 28. August 2023 09:48 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693208880/1018/
 - Montag, 28. August 2023 09:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1693209000/147/
 - Montag, 28. August 2023 09:54 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1693209240/154/
 - Montag, 28. August 2023 10:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693209600/2857/
