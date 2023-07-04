@@ -3,5 +3,3 @@
 - Donnerstag, 6. Juli 2023 10:24 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688631840/2893/
 - Donnerstag, 6. Juli 2023 12:10 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688638200/2884/
 - Donnerstag, 6. Juli 2023 15:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688650920/2839/
-- Donnerstag, 6. Juli 2023 16:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688654880/2872/
-- Donnerstag, 27. Juli 2023 16:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1690469280/146/
