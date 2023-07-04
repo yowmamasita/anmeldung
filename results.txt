@@ -5,7 +5,6 @@
 - Mittwoch, 5. Juli 2023 08:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1688538960/168/
 - Mittwoch, 5. Juli 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688538960/2863/
 - Mittwoch, 5. Juli 2023 08:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688539680/169/
-- Mittwoch, 5. Juli 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1688539680/168/
 - Mittwoch, 5. Juli 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688539680/2863/
 - Mittwoch, 5. Juli 2023 09:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688541120/169/
 - Mittwoch, 5. Juli 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688541120/2863/
@@ -18,7 +17,6 @@
 - Mittwoch, 5. Juli 2023 10:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688544720/169/
 - Mittwoch, 5. Juli 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1688544720/168/
 - Mittwoch, 5. Juli 2023 10:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688545440/169/
-- Mittwoch, 5. Juli 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1688545440/168/
 - Mittwoch, 5. Juli 2023 10:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688546160/169/
 - Mittwoch, 5. Juli 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1688546160/168/
 - Mittwoch, 5. Juli 2023 10:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688546880/169/
@@ -26,3 +24,8 @@
 - Mittwoch, 5. Juli 2023 11:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688547600/169/
 - Mittwoch, 5. Juli 2023 11:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688548320/169/
 - Mittwoch, 5. Juli 2023 11:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688549760/169/
+- Mittwoch, 5. Juli 2023 12:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1688554080/168/
+- Dienstag, 25. Juli 2023 11:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1690275600/172/
+- Mittwoch, 16. August 2023 11:54 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692179640/2887/
+- Dienstag, 29. August 2023 17:00 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693321200/904/
+- Dienstag, 29. August 2023 17:48 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693324080/904/
