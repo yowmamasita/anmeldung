@@ -1,5 +1,11 @@
 # List of available Anmeldung appointments as of $NOW
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122254,122252,329742,122260,329745,122262,329748,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,317869,122281,327352,122279,329772,122283,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
+- Dienstag, 4. Juli 2023 10:00 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688457600/312/
+- Dienstag, 4. Juli 2023 10:12 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688458320/312/
+- Dienstag, 4. Juli 2023 11:00 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688461200/312/
+- Dienstag, 4. Juli 2023 11:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688463360/312/
+- Dienstag, 4. Juli 2023 11:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688464080/312/
+- Dienstag, 4. Juli 2023 12:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688466240/312/
 - Dienstag, 29. August 2023 09:30 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693294200/2836/
 - Dienstag, 29. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693294200/2938/
 - Dienstag, 29. August 2023 09:42 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693294920/2836/
@@ -11,8 +17,7 @@
 - Dienstag, 29. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693295640/2839/
 - Dienstag, 29. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1693295640/154/
 - Dienstag, 29. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693295640/2938/
-- Dienstag, 29. August 2023 10:06 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1693296360/141/
-- Dienstag, 29. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693296360/2836/
+- Dienstag, 29. August 2023 10:06 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693296360/2836/
 - Dienstag, 29. August 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693296360/140/
 - Dienstag, 29. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693296360/2839/
 - Dienstag, 29. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693296360/2938/
@@ -73,6 +78,7 @@
 - Dienstag, 29. August 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1693302840/142/
 - Dienstag, 29. August 2023 12:06 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1693303560/141/
 - Dienstag, 29. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693303560/2836/
+- Dienstag, 29. August 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693303560/140/
 - Dienstag, 29. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693303560/2839/
 - Dienstag, 29. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693303560/2938/
 - Dienstag, 29. August 2023 12:18 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1693304280/141/
@@ -86,14 +92,12 @@
 - Dienstag, 29. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693305000/2839/
 - Dienstag, 29. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1693305000/154/
 - Dienstag, 29. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693305000/2938/
-- Dienstag, 29. August 2023 12:42 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1693305720/141/
-- Dienstag, 29. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693305720/2836/
+- Dienstag, 29. August 2023 12:42 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693305720/2836/
 - Dienstag, 29. August 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693305720/140/
 - Dienstag, 29. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693305720/2839/
 - Dienstag, 29. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1693305720/154/
 - Dienstag, 29. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693305720/2938/
 - Dienstag, 29. August 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1693305720/142/
-- Dienstag, 29. August 2023 12:48 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1693306080/102/
 - Dienstag, 29. August 2023 12:54 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1693306440/141/
 - Dienstag, 29. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693306440/2836/
 - Dienstag, 29. August 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693306440/140/
@@ -105,7 +109,8 @@
 - Dienstag, 29. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693307160/2836/
 - Dienstag, 29. August 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693307160/140/
 - Dienstag, 29. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693307160/2839/
-- Dienstag, 29. August 2023 13:18 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693307880/2836/
+- Dienstag, 29. August 2023 13:18 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1693307880/141/
+- Dienstag, 29. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693307880/2836/
 - Dienstag, 29. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693307880/2839/
 - Dienstag, 29. August 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1693307880/142/
 - Dienstag, 29. August 2023 13:30 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1693308600/141/
@@ -136,7 +141,6 @@
 - Dienstag, 29. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693312200/2836/
 - Dienstag, 29. August 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693312200/140/
 - Dienstag, 29. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693312200/2839/
-- Dienstag, 29. August 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1693312200/142/
 - Dienstag, 29. August 2023 14:42 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1693312920/141/
 - Dienstag, 29. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693312920/2836/
 - Dienstag, 29. August 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693312920/140/
@@ -159,7 +163,6 @@
 - Dienstag, 29. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693315800/2836/
 - Dienstag, 29. August 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693315800/140/
 - Dienstag, 29. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693315800/2839/
-- Dienstag, 29. August 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1693315800/142/
 - Dienstag, 29. August 2023 15:42 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1693316520/141/
 - Dienstag, 29. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693316520/2836/
 - Dienstag, 29. August 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693316520/140/
@@ -181,8 +184,7 @@
 - Dienstag, 29. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693320120/2836/
 - Dienstag, 29. August 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693320120/140/
 - Dienstag, 29. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693320120/2839/
-- Dienstag, 29. August 2023 16:54 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1693320840/141/
-- Dienstag, 29. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693320840/2836/
+- Dienstag, 29. August 2023 16:54 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693320840/2836/
 - Dienstag, 29. August 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693320840/140/
 - Dienstag, 29. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693320840/2839/
 - Dienstag, 29. August 2023 17:06 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693321560/2836/
@@ -190,7 +192,8 @@
 - Dienstag, 29. August 2023 17:18 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693322280/2836/
 - Dienstag, 29. August 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693322280/140/
 - Dienstag, 29. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693322280/2839/
-- Dienstag, 29. August 2023 17:30 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693323000/2836/
+- Dienstag, 29. August 2023 17:30 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1693323000/141/
+- Dienstag, 29. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693323000/2836/
 - Dienstag, 29. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693323000/2839/
 - Dienstag, 29. August 2023 17:42 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693323720/2836/
 - Dienstag, 29. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693323720/2839/
