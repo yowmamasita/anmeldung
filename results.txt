@@ -109,5 +109,5 @@
 - Dienstag, 29. August 2023 16:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1693319760/168/
 - Dienstag, 29. August 2023 17:10 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693321800/2878/
 - Dienstag, 29. August 2023 17:12 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693321920/847/
-- Dienstag, 29. August 2023 17:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693322640/922/
+- Dienstag, 29. August 2023 17:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693323360/922/
 - Dienstag, 29. August 2023 17:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1693323600/147/
