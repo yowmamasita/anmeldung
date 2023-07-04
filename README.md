@@ -4,8 +4,6 @@
 - Mittwoch, 5. Juli 2023 08:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1688539680/168/
 - Mittwoch, 5. Juli 2023 09:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1688540400/168/
 - Mittwoch, 5. Juli 2023 09:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688541840/2863/
-- Donnerstag, 6. Juli 2023 16:12 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688652720/847/
-- Donnerstag, 6. Juli 2023 17:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688657760/109/
 - Dienstag, 18. Juli 2023 10:30 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689669000/2884/
 - Donnerstag, 20. Juli 2023 12:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689847920/2899/
 - Donnerstag, 20. Juli 2023 14:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689855840/2896/
