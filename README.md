@@ -3,7 +3,6 @@
 - Dienstag, 29. August 2023 10:54 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693299240/2938/
 - Dienstag, 29. August 2023 12:10 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693303800/2884/
 - Dienstag, 29. August 2023 12:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693303920/2926/
-- Dienstag, 29. August 2023 12:20 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693304400/2884/
 - Dienstag, 29. August 2023 12:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693304640/2914/
 - Dienstag, 29. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693304640/2926/
 - Dienstag, 29. August 2023 12:30 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693305000/2839/
