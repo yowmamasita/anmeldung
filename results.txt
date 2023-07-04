@@ -122,7 +122,7 @@
 - Dienstag, 29. August 2023 16:10 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1693318200/149/
 - Dienstag, 29. August 2023 16:12 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693318320/847/
 - Dienstag, 29. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693318320/922/
-- Dienstag, 29. August 2023 16:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693320120/2839/
+- Dienstag, 29. August 2023 16:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693318680/2839/
 - Dienstag, 29. August 2023 16:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1693320600/150/
 - Dienstag, 29. August 2023 17:00 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693321200/2878/
 - Dienstag, 29. August 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1693321200/149/
