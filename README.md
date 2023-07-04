@@ -9,7 +9,6 @@
 - Dienstag, 29. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693309680/2926/
 - Dienstag, 29. August 2023 14:00 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693310400/898/
 - Dienstag, 29. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693310400/904/
-- Dienstag, 29. August 2023 14:06 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693310760/2836/
 - Dienstag, 29. August 2023 14:12 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693311120/381/
 - Dienstag, 29. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693311120/847/
 - Dienstag, 29. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693311120/103/
@@ -38,4 +37,3 @@
 - Dienstag, 29. August 2023 15:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693316880/381/
 - Dienstag, 29. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693316880/103/
 - Dienstag, 29. August 2023 17:12 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693321920/103/
-- Mittwoch, 30. August 2023 14:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693397520/2899/
