@@ -19,7 +19,6 @@
 - Dienstag, 29. August 2023 10:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693298520/2839/
 - Dienstag, 29. August 2023 10:48 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693298880/844/
 - Dienstag, 29. August 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693298880/898/
-- Dienstag, 29. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693298880/103/
 - Dienstag, 29. August 2023 10:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1693299000/150/
 - Dienstag, 29. August 2023 11:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693299600/2845/
 - Dienstag, 29. August 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693299600/2911/
