@@ -44,4 +44,3 @@
 - Dienstag, 29. August 2023 15:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693316880/381/
 - Dienstag, 29. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693316880/103/
 - Dienstag, 29. August 2023 17:12 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693321920/381/
-- Donnerstag, 31. August 2023 13:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693480320/2899/
