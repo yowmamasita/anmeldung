@@ -3,7 +3,6 @@
 - Dienstag, 1. August 2023 09:00 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690873200/2854/
 - Dienstag, 15. August 2023 10:00 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692086400/2914/
 - Donnerstag, 17. August 2023 15:12 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692277920/904/
-- Mittwoch, 23. August 2023 10:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692780480/3238/
 - Mittwoch, 23. August 2023 13:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692791280/3238/
 - Donnerstag, 24. August 2023 10:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1692865440/109/
 - Donnerstag, 24. August 2023 12:48 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692874080/922/
