@@ -1,14 +1,11 @@
 - Dienstag, 4. Juli 2023 10:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688458320/109/
 - Dienstag, 4. Juli 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688458320/231/
-- Dienstag, 4. Juli 2023 10:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688459040/2845/
-- Dienstag, 4. Juli 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688459040/109/
+- Dienstag, 4. Juli 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688458320/2896/
+- Dienstag, 4. Juli 2023 10:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688459040/109/
 - Dienstag, 4. Juli 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688459040/231/
-- Dienstag, 4. Juli 2023 10:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688459760/2845/
-- Dienstag, 4. Juli 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688459760/109/
-- Dienstag, 4. Juli 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688459760/231/
-- Dienstag, 4. Juli 2023 10:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688460480/2845/
-- Dienstag, 4. Juli 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688460480/231/
+- Dienstag, 4. Juli 2023 10:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688460480/231/
 - Dienstag, 4. Juli 2023 11:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688461200/2845/
+- Dienstag, 4. Juli 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688461200/109/
 - Dienstag, 4. Juli 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688461200/231/
 - Dienstag, 4. Juli 2023 11:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688461920/2845/
 - Dienstag, 4. Juli 2023 11:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688463360/231/
