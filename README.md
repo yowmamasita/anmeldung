@@ -16,8 +16,7 @@
 - Dienstag, 29. August 2023 14:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693311120/2908/
 - Dienstag, 29. August 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1693311120/170/
 - Dienstag, 29. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693311120/2866/
-- Dienstag, 29. August 2023 14:24 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693311840/2908/
-- Dienstag, 29. August 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1693311840/170/
+- Dienstag, 29. August 2023 14:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1693311840/170/
 - Dienstag, 29. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693311840/2866/
 - Dienstag, 29. August 2023 14:36 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693312560/2908/
 - Dienstag, 29. August 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693312560/2914/
@@ -107,4 +106,3 @@
 - Dienstag, 29. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693324080/2926/
 - Dienstag, 29. August 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1693324080/170/
 - Dienstag, 29. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693324080/2866/
-- Donnerstag, 31. August 2023 17:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1693494720/146/
