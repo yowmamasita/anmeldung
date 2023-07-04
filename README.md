@@ -56,7 +56,6 @@
 - Mittwoch, 5. Juli 2023 12:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688553360/169/
 - Mittwoch, 5. Juli 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1688553360/168/
 - Mittwoch, 5. Juli 2023 12:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688554080/169/
-- Donnerstag, 6. Juli 2023 15:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688648400/170/
 - Donnerstag, 6. Juli 2023 16:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1688654880/192/
 - Freitag, 7. Juli 2023 07:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688708880/2854/
 - Dienstag, 29. August 2023 17:12 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693321920/904/
