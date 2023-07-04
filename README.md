@@ -4,7 +4,6 @@
 - Dienstag, 29. August 2023 08:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1693290960/106/
 - Dienstag, 29. August 2023 11:36 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693301760/898/
 - Dienstag, 29. August 2023 12:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693303920/2926/
-- Dienstag, 29. August 2023 12:30 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1693305000/148/
 - Dienstag, 29. August 2023 12:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693305360/2926/
 - Dienstag, 29. August 2023 12:42 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693305720/2836/
 - Dienstag, 29. August 2023 12:48 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693306080/844/
@@ -57,8 +56,7 @@
 - Dienstag, 29. August 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1693311840/313/
 - Dienstag, 29. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693311840/904/
 - Dienstag, 29. August 2023 14:30 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693312200/2839/
-- Dienstag, 29. August 2023 14:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693312560/2845/
-- Dienstag, 29. August 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693312560/2848/
+- Dienstag, 29. August 2023 14:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693312560/2848/
 - Dienstag, 29. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693312560/841/
 - Dienstag, 29. August 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1693312560/312/
 - Dienstag, 29. August 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693312560/898/
