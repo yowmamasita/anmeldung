@@ -5,8 +5,5 @@
 - Mittwoch, 5. Juli 2023 10:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688546160/2938/
 - Mittwoch, 5. Juli 2023 11:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1688547600/168/
 - Mittwoch, 5. Juli 2023 11:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1688548320/168/
-- Mittwoch, 5. Juli 2023 11:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1688549040/168/
 - Mittwoch, 5. Juli 2023 13:54 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688558040/2926/
-- Donnerstag, 6. Juli 2023 15:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688648400/170/
-- Mittwoch, 9. August 2023 08:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1691562240/172/
 - Montag, 21. August 2023 09:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1692604080/106/
