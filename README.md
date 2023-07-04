@@ -59,8 +59,7 @@
 - Dienstag, 29. August 2023 12:54 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1693306440/141/
 - Dienstag, 29. August 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693306440/140/
 - Dienstag, 29. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693306440/2938/
-- Dienstag, 29. August 2023 13:00 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693306800/2908/
-- Dienstag, 29. August 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1693306800/136/
+- Dienstag, 29. August 2023 13:00 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1693306800/136/
 - Dienstag, 29. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693306800/841/
 - Dienstag, 29. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693306800/847/
 - Dienstag, 29. August 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1693306800/167/
@@ -71,7 +70,8 @@
 - Dienstag, 29. August 2023 13:10 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1693307400/149/
 - Dienstag, 29. August 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693307400/2881/
 - Dienstag, 29. August 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693307400/2884/
-- Dienstag, 29. August 2023 13:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693307520/2914/
+- Dienstag, 29. August 2023 13:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693307520/2908/
+- Dienstag, 29. August 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693307520/2914/
 - Dienstag, 29. August 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1693307520/168/
 - Dienstag, 29. August 2023 13:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1693309200/150/
 - Dienstag, 29. August 2023 14:00 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1693310400/147/
