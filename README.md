@@ -5,12 +5,10 @@
 - Dienstag, 4. Juli 2023 10:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688459040/231/
 - Dienstag, 4. Juli 2023 10:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688459760/231/
 - Dienstag, 4. Juli 2023 10:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688460480/231/
-- Dienstag, 4. Juli 2023 11:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688461920/231/
 - Dienstag, 4. Juli 2023 11:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688462640/231/
 - Dienstag, 4. Juli 2023 11:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688463360/231/
 - Dienstag, 4. Juli 2023 11:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688464080/231/
 - Dienstag, 4. Juli 2023 12:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688465520/231/
-- Dienstag, 4. Juli 2023 12:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688466240/231/
 - Dienstag, 4. Juli 2023 13:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688470560/231/
 - Dienstag, 4. Juli 2023 13:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688471280/231/
 - Dienstag, 4. Juli 2023 14:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688472000/231/
@@ -23,6 +21,7 @@
 - Dienstag, 4. Juli 2023 15:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688477040/231/
 - Dienstag, 4. Juli 2023 15:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688477760/231/
 - Dienstag, 4. Juli 2023 15:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688478480/231/
+- Dienstag, 4. Juli 2023 16:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688479200/231/
 - Dienstag, 4. Juli 2023 16:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688479920/231/
 - Dienstag, 4. Juli 2023 16:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688480640/231/
 - Dienstag, 4. Juli 2023 16:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688481360/231/
