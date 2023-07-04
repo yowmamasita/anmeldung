@@ -3,8 +3,6 @@
 - Mittwoch, 5. Juli 2023 08:18 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688537880/312/
 - Mittwoch, 5. Juli 2023 08:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688538240/2899/
 - Mittwoch, 5. Juli 2023 09:00 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688540400/2842/
-- Mittwoch, 5. Juli 2023 09:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688541480/109/
-- Montag, 31. Juli 2023 14:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1690805520/192/
 - Freitag, 4. August 2023 10:24 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691137440/2836/
 - Freitag, 11. August 2023 09:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691737920/143/
 - Montag, 14. August 2023 07:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691992440/109/
