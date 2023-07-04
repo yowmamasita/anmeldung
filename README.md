@@ -7,7 +7,6 @@
 - Donnerstag, 6. Juli 2023 16:12 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688652720/847/
 - Donnerstag, 6. Juli 2023 16:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688654520/2839/
 - Donnerstag, 6. Juli 2023 17:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688658480/2857/
-- Freitag, 7. Juli 2023 12:10 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1688724600/149/
 - Dienstag, 18. Juli 2023 10:30 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689669000/2884/
 - Montag, 24. Juli 2023 13:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690199280/2896/
 - Mittwoch, 23. August 2023 07:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1692769320/191/
