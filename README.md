@@ -9,7 +9,6 @@
 - Dienstag, 4. Juli 2023 13:30 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688470200/2881/
 - Dienstag, 4. Juli 2023 13:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688470560/169/
 - Dienstag, 4. Juli 2023 14:24 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1688473440/312/
-- Dienstag, 11. Juli 2023 16:40 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1689086400/148/
 - Dienstag, 29. August 2023 10:18 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693297080/2836/
 - Dienstag, 29. August 2023 10:20 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693297200/2884/
 - Dienstag, 29. August 2023 10:24 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693297440/2908/
