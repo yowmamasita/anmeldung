@@ -3,7 +3,6 @@
 - Dienstag, 29. August 2023 10:30 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693297800/2878/
 - Dienstag, 29. August 2023 10:50 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693299000/2884/
 - Dienstag, 29. August 2023 12:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1693305360/168/
-- Dienstag, 29. August 2023 13:24 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693308240/904/
 - Dienstag, 29. August 2023 13:48 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693309680/904/
 - Dienstag, 29. August 2023 13:54 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693310040/2836/
 - Dienstag, 29. August 2023 14:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693311120/2908/
