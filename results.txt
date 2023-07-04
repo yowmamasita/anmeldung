@@ -21,7 +21,6 @@
 - Dienstag, 4. Juli 2023 16:30 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688481000/2842/
 - Dienstag, 4. Juli 2023 16:42 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688481720/2842/
 - Dienstag, 4. Juli 2023 16:54 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688482440/2842/
-- Dienstag, 4. Juli 2023 17:42 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688485320/2842/
 - Mittwoch, 5. Juli 2023 08:00 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688536800/2842/
 - Mittwoch, 5. Juli 2023 08:12 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688537520/2842/
 - Mittwoch, 5. Juli 2023 08:24 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688538240/2842/
@@ -30,7 +29,6 @@
 - Mittwoch, 5. Juli 2023 09:24 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688541840/2842/
 - Mittwoch, 5. Juli 2023 09:36 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688542560/2842/
 - Mittwoch, 5. Juli 2023 09:48 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688543280/2842/
-- Mittwoch, 5. Juli 2023 10:24 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688545440/2842/
 - Mittwoch, 5. Juli 2023 10:36 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688546160/2842/
 - Mittwoch, 5. Juli 2023 10:48 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688546880/2842/
 - Mittwoch, 5. Juli 2023 11:00 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688547600/2842/
@@ -40,10 +38,8 @@
 - Mittwoch, 5. Juli 2023 11:48 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688550480/2842/
 - Mittwoch, 5. Juli 2023 12:12 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688551920/2842/
 - Mittwoch, 5. Juli 2023 12:24 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688552640/2842/
-- Mittwoch, 5. Juli 2023 12:36 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688553360/2842/
 - Mittwoch, 5. Juli 2023 12:48 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688554080/2842/
 - Mittwoch, 5. Juli 2023 13:00 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688554800/2842/
-- Mittwoch, 5. Juli 2023 13:24 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688556240/2842/
 - Dienstag, 29. August 2023 10:54 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693299240/2836/
 - Dienstag, 29. August 2023 11:20 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693300800/2884/
 - Dienstag, 29. August 2023 11:24 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693301040/2908/
@@ -120,4 +116,5 @@
 - Donnerstag, 31. August 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693481040/2899/
 - Donnerstag, 31. August 2023 13:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693481760/2896/
 - Donnerstag, 31. August 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693481760/2899/
-- Donnerstag, 31. August 2023 13:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693482480/2899/
+- Donnerstag, 31. August 2023 13:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693482480/2896/
+- Donnerstag, 31. August 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693482480/2899/
