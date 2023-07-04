@@ -7,7 +7,6 @@
 - Dienstag, 4. Juli 2023 11:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688463360/169/
 - Dienstag, 4. Juli 2023 11:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688464080/167/
 - Dienstag, 4. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688464080/2926/
-- Dienstag, 4. Juli 2023 12:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688464800/169/
 - Dienstag, 4. Juli 2023 12:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688465880/2839/
 - Dienstag, 4. Juli 2023 12:36 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688466960/844/
 - Dienstag, 4. Juli 2023 13:00 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688468400/167/
@@ -15,7 +14,6 @@
 - Dienstag, 4. Juli 2023 13:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688470560/167/
 - Dienstag, 4. Juli 2023 13:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688471280/167/
 - Dienstag, 4. Juli 2023 16:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688479200/169/
-- Dienstag, 4. Juli 2023 16:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688479920/169/
 - Freitag, 25. August 2023 08:00 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1692943200/142/
 - Dienstag, 29. August 2023 10:00 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693296000/841/
 - Dienstag, 29. August 2023 10:12 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1693296720/106/
@@ -66,9 +64,9 @@
 - Dienstag, 29. August 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1693301040/190/
 - Dienstag, 29. August 2023 11:36 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1693301760/111/
 - Dienstag, 29. August 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693301760/2854/
-- Dienstag, 29. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693301760/103/
 - Dienstag, 29. August 2023 11:40 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1693302000/148/
-- Dienstag, 29. August 2023 11:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1693302480/192/
+- Dienstag, 29. August 2023 11:48 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693302480/103/
+- Dienstag, 29. August 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1693302480/192/
 - Dienstag, 29. August 2023 12:00 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693303200/2908/
 - Dienstag, 29. August 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693303200/2911/
 - Dienstag, 29. August 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1693303200/136/
