@@ -1,3 +1,4 @@
+- Dienstag, 4. Juli 2023 14:24 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1688473440/102/
 - Dienstag, 4. Juli 2023 14:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688474880/2926/
 - Dienstag, 4. Juli 2023 15:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688475600/2926/
 - Dienstag, 4. Juli 2023 15:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688476320/2926/
@@ -8,7 +9,6 @@
 - Dienstag, 4. Juli 2023 16:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688479920/2926/
 - Dienstag, 4. Juli 2023 16:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688480640/2926/
 - Dienstag, 4. Juli 2023 16:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688482080/2926/
-- Dienstag, 4. Juli 2023 17:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688484240/2926/
 - Dienstag, 29. August 2023 13:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693308960/2926/
 - Dienstag, 29. August 2023 13:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693309680/2926/
 - Dienstag, 29. August 2023 14:00 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693310400/2911/
@@ -114,8 +114,7 @@
 - Dienstag, 29. August 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693322640/2911/
 - Dienstag, 29. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1693322640/154/
 - Dienstag, 29. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693322640/2938/
-- Dienstag, 29. August 2023 17:36 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1693323360/135/
-- Dienstag, 29. August 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693323360/2911/
+- Dienstag, 29. August 2023 17:36 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693323360/2911/
 - Dienstag, 29. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693323360/2938/
 - Dienstag, 29. August 2023 17:48 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693324080/2911/
 - Dienstag, 29. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693324080/2938/
