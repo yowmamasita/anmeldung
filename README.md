@@ -28,4 +28,3 @@
 - Mittwoch, 5. Juli 2023 11:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688547600/169/
 - Mittwoch, 5. Juli 2023 11:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688548320/169/
 - Mittwoch, 5. Juli 2023 11:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688549760/169/
-- Mittwoch, 5. Juli 2023 11:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1688550480/168/
