@@ -15,7 +15,6 @@
 - Dienstag, 4. Juli 2023 17:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688483520/2926/
 - Dienstag, 4. Juli 2023 17:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688484240/2926/
 - Dienstag, 4. Juli 2023 17:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688484960/2926/
-- Dienstag, 4. Juli 2023 17:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688485680/2926/
 - Dienstag, 29. August 2023 13:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693308960/381/
 - Dienstag, 29. August 2023 13:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693309680/2926/
 - Dienstag, 29. August 2023 14:00 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693310400/2911/
