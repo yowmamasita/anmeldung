@@ -8,10 +8,10 @@
 - Dienstag, 29. August 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693301040/2911/
 - Dienstag, 29. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693301040/841/
 - Dienstag, 29. August 2023 11:30 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693301400/2836/
-- Dienstag, 29. August 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693301400/2881/
 - Dienstag, 29. August 2023 11:36 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693301760/847/
 - Dienstag, 29. August 2023 11:40 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693302000/2878/
 - Dienstag, 29. August 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1693302000/149/
+- Dienstag, 29. August 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693302000/2881/
 - Dienstag, 29. August 2023 11:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693302120/2839/
 - Dienstag, 29. August 2023 11:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693302480/2887/
 - Dienstag, 29. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693302480/904/
