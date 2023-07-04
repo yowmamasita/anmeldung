@@ -10,8 +10,7 @@
 - Dienstag, 29. August 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693298400/2881/
 - Dienstag, 29. August 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693298400/2884/
 - Dienstag, 29. August 2023 10:42 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693298520/2836/
-- Dienstag, 29. August 2023 10:48 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693298880/841/
-- Dienstag, 29. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693298880/922/
+- Dienstag, 29. August 2023 10:48 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693298880/922/
 - Dienstag, 29. August 2023 10:50 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693299000/2878/
 - Dienstag, 29. August 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1693299000/149/
 - Dienstag, 29. August 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1693299000/150/
