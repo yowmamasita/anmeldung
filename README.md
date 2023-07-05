@@ -3,13 +3,11 @@
 - Mittwoch, 5. Juli 2023 07:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688535720/111/
 - Mittwoch, 5. Juli 2023 07:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688536440/109/
 - Mittwoch, 5. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688536440/111/
-- Mittwoch, 5. Juli 2023 08:06 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688537160/111/
 - Mittwoch, 5. Juli 2023 08:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688539320/109/
 - Mittwoch, 5. Juli 2023 08:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688540040/111/
-- Mittwoch, 5. Juli 2023 09:06 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688540760/109/
-- Mittwoch, 5. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688540760/111/
+- Mittwoch, 5. Juli 2023 09:06 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688540760/111/
 - Mittwoch, 5. Juli 2023 09:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688542920/111/
-- Mittwoch, 5. Juli 2023 09:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688543640/111/
+- Donnerstag, 6. Juli 2023 13:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688641920/2872/
 - Mittwoch, 30. August 2023 07:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693372320/3238/
 - Mittwoch, 30. August 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693372320/1018/
 - Mittwoch, 30. August 2023 07:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693373040/3238/
