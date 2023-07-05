@@ -10,28 +10,29 @@
 - Mittwoch, 5. Juli 2023 09:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688542560/154/
 - Mittwoch, 5. Juli 2023 09:42 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1688542920/313/
 - Mittwoch, 5. Juli 2023 09:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688543280/154/
+- Mittwoch, 5. Juli 2023 09:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1688543640/313/
 - Mittwoch, 5. Juli 2023 10:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688544000/154/
 - Mittwoch, 5. Juli 2023 10:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688544720/154/
-- Mittwoch, 5. Juli 2023 10:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1688545080/313/
+- Mittwoch, 5. Juli 2023 10:18 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1688545080/135/
+- Mittwoch, 5. Juli 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1688545080/313/
 - Mittwoch, 5. Juli 2023 10:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688545440/2896/
 - Mittwoch, 5. Juli 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688545440/154/
-- Mittwoch, 5. Juli 2023 10:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1688546160/172/
-- Mittwoch, 5. Juli 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688546160/154/
+- Mittwoch, 5. Juli 2023 10:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688546160/154/
 - Mittwoch, 5. Juli 2023 10:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1688546880/172/
 - Mittwoch, 5. Juli 2023 10:54 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1688547240/313/
 - Mittwoch, 5. Juli 2023 11:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688547600/2896/
-- Mittwoch, 5. Juli 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1688547600/172/
 - Mittwoch, 5. Juli 2023 11:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688550480/2896/
 - Mittwoch, 5. Juli 2023 12:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688553360/154/
 - Mittwoch, 5. Juli 2023 12:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688554080/154/
 - Mittwoch, 5. Juli 2023 13:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688556240/154/
 - Mittwoch, 5. Juli 2023 13:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688556960/154/
-- Montag, 31. Juli 2023 08:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690783920/231/
+- Donnerstag, 6. Juli 2023 11:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688635440/170/
 - Montag, 31. Juli 2023 08:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690784640/231/
 - Montag, 31. Juli 2023 08:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690785360/231/
 - Montag, 31. Juli 2023 08:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690786080/231/
 - Montag, 31. Juli 2023 09:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690786800/231/
 - Montag, 31. Juli 2023 09:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690787520/231/
+- Montag, 31. Juli 2023 09:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690788240/231/
 - Montag, 31. Juli 2023 09:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690788960/231/
 - Montag, 31. Juli 2023 09:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690789680/231/
 - Montag, 31. Juli 2023 10:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690791840/231/
@@ -106,7 +107,8 @@
 - Mittwoch, 30. August 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1693374120/313/
 - Mittwoch, 30. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1693374120/191/
 - Mittwoch, 30. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693374120/922/
-- Mittwoch, 30. August 2023 07:50 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693374600/2881/
+- Mittwoch, 30. August 2023 07:50 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1693374600/149/
+- Mittwoch, 30. August 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693374600/2881/
 - Mittwoch, 30. August 2023 07:54 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1693374840/190/
 - Mittwoch, 30. August 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1693374840/111/
 - Mittwoch, 30. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693374840/2926/
