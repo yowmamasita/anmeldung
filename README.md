@@ -4,10 +4,14 @@
 - Mittwoch, 5. Juli 2023 08:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688537880/2908/
 - Mittwoch, 5. Juli 2023 08:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688538600/2908/
 - Mittwoch, 5. Juli 2023 08:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688539320/2908/
+- Mittwoch, 5. Juli 2023 09:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688541120/231/
 - Mittwoch, 5. Juli 2023 11:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688549040/2899/
 - Mittwoch, 5. Juli 2023 11:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688550480/2896/
+- Mittwoch, 5. Juli 2023 13:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1688556960/172/
+- Mittwoch, 23. August 2023 10:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692777600/2845/
+- Dienstag, 29. August 2023 15:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1693316160/167/
 - Mittwoch, 30. August 2023 07:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693371600/3238/
-- Mittwoch, 30. August 2023 07:12 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693372320/1018/
+- Mittwoch, 30. August 2023 07:24 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693373040/1018/
 - Mittwoch, 30. August 2023 07:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693373400/2908/
 - Mittwoch, 30. August 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693373400/2911/
 - Mittwoch, 30. August 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1693373400/136/
