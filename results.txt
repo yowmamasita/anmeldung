@@ -1,4 +1,3 @@
-- Mittwoch, 5. Juli 2023 09:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688541120/2848/
 - Mittwoch, 30. August 2023 07:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693373760/3238/
 - Mittwoch, 30. August 2023 07:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693374120/2908/
 - Mittwoch, 30. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693374120/841/
@@ -84,10 +83,10 @@
 - Mittwoch, 30. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1693379880/191/
 - Mittwoch, 30. August 2023 09:20 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693380000/2884/
 - Mittwoch, 30. August 2023 09:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1693380240/106/
-- Mittwoch, 30. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693380240/103/
 - Mittwoch, 30. August 2023 09:30 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1693380600/112/
 - Mittwoch, 30. August 2023  Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1693380600/147/
 - Mittwoch, 30. August 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1693380600/111/
+- Mittwoch, 30. August 2023 09:36 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693380960/103/
 - Mittwoch, 30. August 2023 09:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1693381680/108/
 - Mittwoch, 30. August 2023 10:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693382400/2836/
 - Mittwoch, 30. August 2023  Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1693382400/147/
