@@ -1,15 +1,16 @@
 - Montag, 28. August 2023 08:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1693203120/231/
 - Montag, 28. August 2023 09:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1693208880/231/
+- Montag, 28. August 2023 10:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1693211760/231/
 - Mittwoch, 30. August 2023 07:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693373400/2908/
 - Mittwoch, 30. August 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693373400/2911/
 - Mittwoch, 30. August 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693373400/844/
-- Mittwoch, 30. August 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1693373400/312/
 - Mittwoch, 30. August 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693373400/898/
 - Mittwoch, 30. August 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693373400/2887/
 - Mittwoch, 30. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693373400/847/
 - Mittwoch, 30. August 2023 07:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693373760/3238/
 - Mittwoch, 30. August 2023 07:40 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1693374000/151/
 - Mittwoch, 30. August 2023 07:42 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1693374120/134/
+- Mittwoch, 30. August 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1693374120/312/
 - Mittwoch, 30. August 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1693374120/313/
 - Mittwoch, 30. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693374120/904/
 - Mittwoch, 30. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693374120/922/
@@ -98,13 +99,13 @@
 - Mittwoch, 30. August 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693379400/2884/
 - Mittwoch, 30. August 2023 09:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1693379520/108/
 - Mittwoch, 30. August 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693379520/3238/
-- Mittwoch, 30. August 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1693379520/102/
 - Mittwoch, 30. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1693379520/154/
 - Mittwoch, 30. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693379520/103/
 - Mittwoch, 30. August 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1693379520/142/
 - Mittwoch, 30. August 2023 09:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1693379880/111/
 - Mittwoch, 30. August 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1693379880/313/
 - Mittwoch, 30. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1693379880/191/
+- Mittwoch, 30. August 2023 09:24 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1693380240/102/
 - Mittwoch, 30. August 2023 09:54 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1693382040/312/
 - Mittwoch, 30. August 2023 10:00 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1693382400/141/
 - Mittwoch, 30. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693382400/2836/
