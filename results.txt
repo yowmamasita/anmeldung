@@ -1,10 +1,7 @@
-- Donnerstag, 6. Juli 2023 11:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688636880/2854/
 - Freitag, 28. Juli 2023 08:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690526160/3238/
-- Montag, 31. Juli 2023 08:36 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690785360/2893/
 - Mittwoch, 2. August 2023 11:48 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690969680/2920/
 - Mittwoch, 2. August 2023 12:12 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690971120/2920/
-- Mittwoch, 2. August 2023 12:24 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690971840/2920/
-- Mittwoch, 2. August 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690971840/2875/
+- Mittwoch, 2. August 2023 12:24 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690971840/2875/
 - Mittwoch, 2. August 2023 12:36 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690972560/2920/
 - Mittwoch, 2. August 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690972560/2875/
 - Mittwoch, 2. August 2023 12:48 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690973280/2920/
@@ -104,6 +101,7 @@
 - Mittwoch, 30. August 2023 12:12 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693390320/140/
 - Mittwoch, 30. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693390320/2839/
 - Mittwoch, 30. August 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693390320/381/
+- Mittwoch, 30. August 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1693390320/167/
 - Mittwoch, 30. August 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1693390320/170/
 - Mittwoch, 30. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693390320/2866/
 - Mittwoch, 30. August 2023 12:18 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693390680/844/
