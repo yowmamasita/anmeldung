@@ -50,7 +50,6 @@
 - Mittwoch, 30. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693374120/847/
 - Mittwoch, 30. August 2023 07:54 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693374840/2911/
 - Mittwoch, 30. August 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693374840/844/
-- Mittwoch, 30. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693374840/841/
 - Mittwoch, 30. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693374840/904/
 - Mittwoch, 30. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693374840/2926/
 - Mittwoch, 30. August 2023 08:00 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693375200/2938/
@@ -70,6 +69,7 @@
 - Mittwoch, 30. August 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1693376640/167/
 - Mittwoch, 30. August 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693376640/2854/
 - Mittwoch, 30. August 2023 08:30 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693377000/2887/
+- Mittwoch, 30. August 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1693377000/111/
 - Mittwoch, 30. August 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693377000/2884/
 - Mittwoch, 30. August 2023 08:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693377360/2848/
 - Mittwoch, 30. August 2023  Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1693377360/141/
@@ -83,7 +83,6 @@
 - Mittwoch, 30. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1693377720/191/
 - Mittwoch, 30. August 2023 08:48 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693378080/140/
 - Mittwoch, 30. August 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693378080/381/
-- Mittwoch, 30. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693378080/103/
 - Mittwoch, 30. August 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1693378080/170/
 - Mittwoch, 30. August 2023 09:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693378800/2836/
 - Mittwoch, 30. August 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693378800/140/
@@ -202,4 +201,21 @@
 - Mittwoch, 30. August 2023 13:18 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693394280/847/
 - Mittwoch, 30. August 2023 13:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1693394400/149/
 - Mittwoch, 30. August 2023 13:24 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1693394640/142/
+- Mittwoch, 30. August 2023 13:36 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1693395360/145/
 - Mittwoch, 30. August 2023 13:48 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693396080/1018/
+- Freitag, 1. September 2023 08:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693548720/2899/
+- Freitag, 1. September 2023 08:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693549440/2896/
+- Freitag, 1. September 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693549440/2899/
+- Freitag, 1. September 2023 08:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693550160/2896/
+- Freitag, 1. September 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693550160/2899/
+- Freitag, 1. September 2023 08:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693550880/2896/
+- Freitag, 1. September 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693550880/2899/
+- Freitag, 1. September 2023 09:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693552320/2896/
+- Freitag, 1. September 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693552320/2899/
+- Freitag, 1. September 2023 09:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693553040/2899/
+- Freitag, 1. September 2023 09:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693553760/2896/
+- Freitag, 1. September 2023 09:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693554480/2896/
+- Freitag, 1. September 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693554480/2899/
+- Freitag, 1. September 2023 10:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693555200/2899/
+- Freitag, 1. September 2023 10:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693555920/2899/
+- Freitag, 1. September 2023 10:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693557360/2899/
