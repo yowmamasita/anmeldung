@@ -12,8 +12,6 @@
 - Mittwoch, 5. Juli 2023 09:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688541840/231/
 - Mittwoch, 5. Juli 2023 09:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688542200/2908/
 - Mittwoch, 5. Juli 2023 09:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688542920/2908/
-- Mittwoch, 5. Juli 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1688542920/313/
-- Dienstag, 29. August 2023 13:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693306800/2896/
 - Dienstag, 29. August 2023 16:12 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693318320/844/
 - Mittwoch, 30. August 2023 07:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693371600/3238/
 - Mittwoch, 30. August 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693371600/2854/
