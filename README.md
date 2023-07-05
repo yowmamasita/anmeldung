@@ -9,8 +9,6 @@
 - Mittwoch, 5. Juli 2023 11:06 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1688547960/153/
 - Mittwoch, 5. Juli 2023 11:30 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1688549400/153/
 - Mittwoch, 5. Juli 2023 11:42 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1688550120/153/
-- Mittwoch, 5. Juli 2023 11:54 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1688550840/153/
-- Mittwoch, 5. Juli 2023 12:18 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1688552280/153/
 - Dienstag, 29. August 2023 11:36 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693301760/2857/
 - Dienstag, 29. August 2023 11:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693302480/2857/
 - Dienstag, 29. August 2023 12:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693303920/2857/
