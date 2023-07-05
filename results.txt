@@ -1,6 +1,5 @@
 - Mittwoch, 5. Juli 2023 07:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1688535720/135/
 - Mittwoch, 5. Juli 2023 07:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1688536440/135/
-- Mittwoch, 5. Juli 2023 08:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688536800/170/
 - Mittwoch, 5. Juli 2023 08:06 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1688537160/135/
 - Mittwoch, 5. Juli 2023 08:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688537520/170/
 - Mittwoch, 5. Juli 2023 08:18 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1688537880/135/
@@ -26,18 +25,18 @@
 - Mittwoch, 5. Juli 2023 11:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688549760/170/
 - Mittwoch, 5. Juli 2023 11:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688550480/170/
 - Mittwoch, 5. Juli 2023 12:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688551200/170/
+- Mittwoch, 5. Juli 2023 12:06 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1688551560/135/
 - Mittwoch, 5. Juli 2023 12:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688551920/170/
 - Mittwoch, 5. Juli 2023 12:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688552640/170/
 - Mittwoch, 5. Juli 2023 12:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688553360/170/
 - Mittwoch, 5. Juli 2023 12:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688554080/170/
-- Mittwoch, 5. Juli 2023 13:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688554800/231/
 - Mittwoch, 5. Juli 2023 13:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688555520/231/
 - Mittwoch, 5. Juli 2023 13:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688556240/231/
 - Mittwoch, 5. Juli 2023 13:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688556960/231/
 - Mittwoch, 5. Juli 2023 13:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688557680/231/
 - Mittwoch, 5. Juli 2023 14:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688559840/231/
-- Mittwoch, 5. Juli 2023 14:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688560560/231/
-- Mittwoch, 30. August 2023 07:00 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693371600/2854/
+- Mittwoch, 30. August 2023 07:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693371600/3238/
+- Mittwoch, 30. August 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693371600/2854/
 - Mittwoch, 30. August 2023 07:12 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693372320/2854/
 - Mittwoch, 30. August 2023 07:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693373760/3238/
 - Mittwoch, 30. August 2023 07:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693374480/3238/
