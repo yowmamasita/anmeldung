@@ -4,19 +4,14 @@
 - Mittwoch, 5. Juli 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688539680/3238/
 - Mittwoch, 5. Juli 2023 08:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688540040/112/
 - Mittwoch, 5. Juli 2023 09:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688540400/169/
-- Mittwoch, 5. Juli 2023 09:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688541120/3238/
-- Mittwoch, 5. Juli 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1688541120/102/
+- Mittwoch, 5. Juli 2023 09:12 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1688541120/102/
 - Mittwoch, 5. Juli 2023 09:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1688541480/313/
+- Mittwoch, 5. Juli 2023 09:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688541840/169/
 - Mittwoch, 5. Juli 2023 09:30 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688542200/112/
 - Mittwoch, 5. Juli 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1688542200/313/
 - Mittwoch, 5. Juli 2023 10:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1688546160/381/
 - Mittwoch, 5. Juli 2023 10:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688546880/3238/
 - Mittwoch, 5. Juli 2023 10:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688547240/112/
-- Mittwoch, 5. Juli 2023 11:00 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1688547600/102/
-- Mittwoch, 5. Juli 2023 12:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688551920/169/
-- Mittwoch, 5. Juli 2023 12:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688552640/169/
-- Mittwoch, 5. Juli 2023 15:18 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1688563080/133/
-- Mittwoch, 2. August 2023 08:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690957440/2872/
 - Mittwoch, 2. August 2023 08:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690958880/2872/
 - Montag, 28. August 2023 08:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1693202400/231/
 - Mittwoch, 30. August 2023 07:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1693373400/312/
@@ -123,7 +118,7 @@
 - Mittwoch, 30. August 2023  Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1693379880/313/
 - Mittwoch, 30. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1693379880/191/
 - Mittwoch, 30. August 2023 09:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1693380240/108/
-- Mittwoch, 30. August 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1693380240/102/
+- Mittwoch, 30. August 2023 09:36 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1693380960/102/
 - Mittwoch, 30. August 2023 09:48 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1693381680/142/
 - Mittwoch, 30. August 2023 09:54 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1693382040/312/
 - Mittwoch, 30. August 2023 10:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693382400/2836/
