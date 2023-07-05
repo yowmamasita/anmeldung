@@ -4,19 +4,16 @@
 - Mittwoch, 5. Juli 2023 09:36 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688542560/2839/
 - Mittwoch, 5. Juli 2023 09:48 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688543280/2839/
 - Mittwoch, 5. Juli 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688543280/154/
-- Mittwoch, 5. Juli 2023 10:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688544000/154/
 - Mittwoch, 5. Juli 2023 10:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688544720/154/
-- Mittwoch, 5. Juli 2023 10:18 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1688545080/313/
 - Mittwoch, 5. Juli 2023 10:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688545440/154/
 - Mittwoch, 5. Juli 2023 10:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688546160/3238/
 - Mittwoch, 5. Juli 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688546160/154/
-- Mittwoch, 5. Juli 2023 10:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688546880/231/
-- Mittwoch, 5. Juli 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688546880/154/
+- Mittwoch, 5. Juli 2023 10:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688546880/154/
 - Mittwoch, 5. Juli 2023 11:12 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688548320/2839/
 - Mittwoch, 5. Juli 2023 11:24 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688549040/2839/
-- Mittwoch, 5. Juli 2023 11:36 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688549760/2839/
 - Mittwoch, 5. Juli 2023 12:12 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688551920/2839/
 - Mittwoch, 5. Juli 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688551920/170/
+- Mittwoch, 5. Juli 2023 12:30 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1688553000/133/
 - Dienstag, 1. August 2023 11:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690883280/2872/
 - Donnerstag, 10. August 2023 14:00 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691668800/109/
 - Donnerstag, 24. August 2023 11:12 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1692868320/102/
@@ -37,7 +34,8 @@
 - Dienstag, 29. August 2023 12:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1693306080/169/
 - Dienstag, 29. August 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693306080/2857/
 - Dienstag, 29. August 2023 13:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693306800/2857/
-- Dienstag, 29. August 2023 13:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693307520/2857/
+- Dienstag, 29. August 2023 13:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1693307520/169/
+- Dienstag, 29. August 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693307520/2857/
 - Dienstag, 29. August 2023 13:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1693308240/169/
 - Dienstag, 29. August 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693308240/2857/
 - Dienstag, 29. August 2023 13:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1693308960/169/
