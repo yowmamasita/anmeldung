@@ -62,6 +62,7 @@
 - Mittwoch, 30. August 2023 12:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693391760/2845/
 - Mittwoch, 30. August 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693391760/140/
 - Mittwoch, 30. August 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1693391760/102/
+- Mittwoch, 30. August 2023 12:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1693392480/108/
 - Mittwoch, 30. August 2023 12:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1693392840/135/
 - Mittwoch, 30. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693392840/922/
 - Mittwoch, 30. August 2023 13:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693393200/2845/
@@ -88,3 +89,4 @@
 - Mittwoch, 30. August 2023 14:12 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693397520/2938/
 - Mittwoch, 30. August 2023 14:18 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693397880/2926/
 - Donnerstag, 31. August 2023 11:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1693473840/231/
+- Freitag, 1. September 2023 12:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693564560/2899/
