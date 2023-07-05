@@ -51,10 +51,10 @@
 - Mittwoch, 30. August 2023 12:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693391040/2848/
 - Mittwoch, 30. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693391040/2836/
 - Mittwoch, 30. August 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1693391040/154/
-- Mittwoch, 30. August 2023 12:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1693391400/136/
-- Mittwoch, 30. August 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693391400/844/
+- Mittwoch, 30. August 2023 12:30 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693391400/844/
 - Mittwoch, 30. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693391400/904/
 - Mittwoch, 30. August 2023 12:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693391760/2845/
+- Mittwoch, 30. August 2023 12:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1693392120/136/
 - Mittwoch, 30. August 2023 12:48 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693392480/103/
 - Mittwoch, 30. August 2023 13:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693393200/2848/
 - Mittwoch, 30. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693393200/2836/
