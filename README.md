@@ -11,12 +11,12 @@
 - Mittwoch, 5. Juli 2023 09:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688541480/2908/
 - Mittwoch, 5. Juli 2023 09:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688541840/170/
 - Mittwoch, 5. Juli 2023 09:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688542200/2908/
-- Mittwoch, 5. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688542200/2887/
 - Mittwoch, 5. Juli 2023 09:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688542920/2908/
 - Mittwoch, 5. Juli 2023 09:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688543640/2908/
 - Mittwoch, 5. Juli 2023 10:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688544360/2908/
 - Mittwoch, 5. Juli 2023 10:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688544720/170/
 - Mittwoch, 5. Juli 2023 10:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688545080/2908/
+- Mittwoch, 5. Juli 2023 10:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688546880/170/
 - Mittwoch, 30. August 2023 07:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693371600/3238/
 - Mittwoch, 30. August 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693371600/2854/
 - Mittwoch, 30. August 2023 07:12 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693372320/2854/
