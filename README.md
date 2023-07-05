@@ -114,4 +114,3 @@
 - Mittwoch, 30. August 2023 13:50 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693396200/2884/
 - Mittwoch, 30. August 2023 14:00 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693396800/2938/
 - Mittwoch, 30. August 2023 14:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1693397520/154/
-- Mittwoch, 30. August 2023 14:18 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693397880/2926/
