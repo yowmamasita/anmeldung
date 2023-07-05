@@ -3,9 +3,8 @@
 - Mittwoch, 5. Juli 2023 07:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688535720/111/
 - Mittwoch, 5. Juli 2023 07:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688536440/109/
 - Mittwoch, 5. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688536440/111/
-- Mittwoch, 5. Juli 2023 08:06 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688537160/109/
-- Mittwoch, 5. Juli 2023 08:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688537880/109/
-- Mittwoch, 5. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688537880/111/
+- Mittwoch, 5. Juli 2023 08:06 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688537160/111/
+- Mittwoch, 5. Juli 2023 08:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688537880/111/
 - Mittwoch, 5. Juli 2023 08:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688538600/109/
 - Mittwoch, 5. Juli 2023 08:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688539320/109/
 - Mittwoch, 5. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688539320/111/
