@@ -83,8 +83,7 @@
 - Mittwoch, 30. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693396080/2938/
 - Mittwoch, 30. August 2023 13:54 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693396440/898/
 - Mittwoch, 30. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693396440/2926/
-- Mittwoch, 30. August 2023 14:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1693397520/153/
-- Mittwoch, 30. August 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693397520/2932/
+- Mittwoch, 30. August 2023 14:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693397520/2932/
 - Mittwoch, 30. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693397520/2938/
 - Mittwoch, 30. August 2023 14:24 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693398240/2932/
 - Mittwoch, 30. August 2023 14:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1693398960/153/
