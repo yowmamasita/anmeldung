@@ -3,13 +3,11 @@
 - Mittwoch, 5. Juli 2023 09:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688541120/2848/
 - Mittwoch, 5. Juli 2023 09:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688541840/2848/
 - Mittwoch, 5. Juli 2023 10:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688544720/2863/
-- Mittwoch, 5. Juli 2023 10:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688545440/2863/
 - Mittwoch, 5. Juli 2023 10:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688546160/2863/
 - Mittwoch, 5. Juli 2023 10:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688546880/2863/
 - Mittwoch, 5. Juli 2023 11:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688549760/154/
 - Mittwoch, 5. Juli 2023 11:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688550480/154/
 - Mittwoch, 5. Juli 2023 12:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688551200/154/
-- Mittwoch, 5. Juli 2023 12:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688551920/154/
 - Mittwoch, 5. Juli 2023 13:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688556240/154/
 - Mittwoch, 5. Juli 2023 13:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688556960/154/
 - Dienstag, 29. August 2023 11:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693299600/2857/
@@ -165,7 +163,6 @@
 - Mittwoch, 30. August 2023 09:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1693381680/108/
 - Mittwoch, 30. August 2023 10:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693382400/2836/
 - Mittwoch, 30. August 2023  Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1693382400/147/
-- Mittwoch, 30. August 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693382400/140/
 - Mittwoch, 30. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693382400/2839/
 - Mittwoch, 30. August 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693382400/2881/
 - Mittwoch, 30. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693382400/103/
@@ -179,7 +176,8 @@
 - Mittwoch, 30. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693382760/847/
 - Mittwoch, 30. August 2023 10:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1693383000/150/
 - Mittwoch, 30. August 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693383000/2884/
-- Mittwoch, 30. August 2023 10:12 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693383120/381/
+- Mittwoch, 30. August 2023 10:12 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693383120/140/
+- Mittwoch, 30. August 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693383120/381/
 - Mittwoch, 30. August 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693383120/3238/
 - Mittwoch, 30. August 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1693383120/167/
 - Mittwoch, 30. August 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693383120/2860/
