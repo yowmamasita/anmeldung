@@ -23,9 +23,6 @@
 - Mittwoch, 5. Juli 2023 11:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688550480/3238/
 - Mittwoch, 5. Juli 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688550480/2875/
 - Mittwoch, 5. Juli 2023 12:12 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688551920/2875/
-- Mittwoch, 5. Juli 2023 12:24 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688552640/2875/
-- Mittwoch, 5. Juli 2023 12:36 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688553360/2875/
-- Montag, 21. August 2023 08:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1692598320/231/
 - Montag, 28. August 2023 09:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1693208160/231/
 - Dienstag, 29. August 2023 11:12 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1693300320/145/
 - Dienstag, 29. August 2023 13:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693308960/2848/
