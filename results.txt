@@ -1,5 +1,4 @@
 - Mittwoch, 5. Juli 2023 08:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688536800/2896/
-- Mittwoch, 5. Juli 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1688536800/172/
 - Mittwoch, 5. Juli 2023 08:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688537520/2896/
 - Mittwoch, 5. Juli 2023 08:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688538240/2896/
 - Mittwoch, 5. Juli 2023 08:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688538960/2896/
@@ -8,6 +7,7 @@
 - Mittwoch, 5. Juli 2023 09:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688541120/2896/
 - Mittwoch, 5. Juli 2023 09:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688541840/2896/
 - Mittwoch, 5. Juli 2023 09:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688542560/2896/
+- Mittwoch, 5. Juli 2023 09:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1688542920/112/
 - Mittwoch, 5. Juli 2023 09:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688543280/2896/
 - Mittwoch, 5. Juli 2023 10:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688544000/2896/
 - Mittwoch, 5. Juli 2023 10:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688544720/2896/
