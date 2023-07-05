@@ -117,7 +117,7 @@
 - Mittwoch, 30. August 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693395000/2884/
 - Mittwoch, 30. August 2023 13:36 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693395360/2839/
 - Mittwoch, 30. August 2023 14:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1693396800/154/
-- Mittwoch, 30. August 2023 14:06 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693397160/2926/
+- Mittwoch, 30. August 2023 14:18 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693397880/2926/
 - Freitag, 1. September 2023 11:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693560240/2899/
 - Freitag, 1. September 2023 11:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693560960/2896/
 - Freitag, 1. September 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693560960/2899/
