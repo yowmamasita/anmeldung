@@ -171,9 +171,9 @@
 - Mittwoch, 30. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693389960/847/
 - Mittwoch, 30. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693389960/922/
 - Mittwoch, 30. August 2023 12:10 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693390200/2881/
-- Mittwoch, 30. August 2023 12:12 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1693390320/142/
 - Mittwoch, 30. August 2023 12:18 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1693390680/191/
 - Mittwoch, 30. August 2023 12:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693391040/2854/
+- Mittwoch, 30. August 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1693391040/142/
 - Mittwoch, 30. August 2023 12:30 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1693391400/149/
 - Mittwoch, 30. August 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693391400/2884/
 - Mittwoch, 30. August 2023 12:36 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1693391760/145/
