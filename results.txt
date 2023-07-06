@@ -68,9 +68,9 @@
 - Donnerstag, 31. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693473120/841/
 - Donnerstag, 31. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693473120/103/
 - Donnerstag, 31. August 2023 11:18 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693473480/140/
-- Donnerstag, 31. August 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1693473480/153/
 - Donnerstag, 31. August 2023 11:24 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1693473840/313/
 - Donnerstag, 31. August 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1693473840/192/
+- Donnerstag, 31. August 2023 11:30 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1693474200/153/
 - Donnerstag, 31. August 2023 11:42 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1693474920/141/
 - Donnerstag, 31. August 2023 11:48 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1693475280/312/
 - Donnerstag, 31. August 2023 12:00 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693476000/2908/
@@ -105,7 +105,6 @@
 - Donnerstag, 31. August 2023 12:20 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1693477200/151/
 - Donnerstag, 31. August 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1693477200/150/
 - Donnerstag, 31. August 2023 13:00 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693479600/2908/
-- Donnerstag, 31. August 2023  Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1693479600/135/
 - Donnerstag, 31. August 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693479600/2911/
 - Donnerstag, 31. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693479600/841/
 - Donnerstag, 31. August 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1693479600/312/
