@@ -1,5 +1,3 @@
-- Donnerstag, 6. Juli 2023 12:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688639760/167/
-- Montag, 28. August 2023 10:12 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1693210320/102/
 - Montag, 28. August 2023 13:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1693222560/153/
 - Donnerstag, 31. August 2023 10:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693469520/2908/
 - Donnerstag, 31. August 2023 10:30 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693470600/2881/
@@ -120,8 +118,8 @@
 - Donnerstag, 31. August 2023 16:36 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693492560/841/
 - Donnerstag, 31. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693492560/922/
 - Donnerstag, 31. August 2023 16:50 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693493400/2878/
-- Donnerstag, 31. August 2023 17:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693495440/2854/
-- Donnerstag, 31. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693495440/922/
+- Donnerstag, 31. August 2023 17:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693495440/922/
 - Donnerstag, 31. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693495440/2866/
 - Donnerstag, 31. August 2023 17:36 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693496160/841/
 - Donnerstag, 31. August 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693496160/3238/
+- Donnerstag, 31. August 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693496160/2854/
