@@ -3,4 +3,3 @@
 - Freitag, 7. Juli 2023 08:00 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688709600/2887/
 - Freitag, 7. Juli 2023 10:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688718960/3238/
 - Freitag, 4. August 2023 09:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691133480/2839/
-- Donnerstag, 10. August 2023 13:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1691665920/154/
