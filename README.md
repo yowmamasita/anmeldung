@@ -6,7 +6,6 @@
 - Donnerstag, 31. August 2023 08:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693464480/2845/
 - Donnerstag, 31. August 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693464480/2848/
 - Donnerstag, 31. August 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693464480/2938/
-- Donnerstag, 31. August 2023 09:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1693465920/108/
 - Montag, 4. September 2023 08:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1693808640/146/
 - Montag, 4. September 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1693808640/172/
 - Montag, 4. September 2023 08:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1693809360/231/
@@ -25,7 +24,6 @@
 - Montag, 4. September 2023 10:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1693814400/231/
 - Montag, 4. September 2023 10:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1693815120/146/
 - Montag, 4. September 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1693815120/172/
-- Montag, 4. September 2023 10:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1693815840/231/
 - Montag, 4. September 2023 10:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1693816560/231/
 - Montag, 4. September 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1693816560/146/
 - Montag, 4. September 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1693816560/172/
