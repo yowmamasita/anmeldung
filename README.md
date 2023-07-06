@@ -108,3 +108,14 @@
 - Donnerstag, 31. August 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693494000/2932/
 - Donnerstag, 31. August 2023 17:12 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693494720/103/
 - Donnerstag, 31. August 2023 17:36 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1693496160/135/
+- Montag, 4. September 2023 14:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1693828800/146/
+- Montag, 4. September 2023 14:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1693829520/231/
+- Montag, 4. September 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1693829520/146/
+- Montag, 4. September 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1693829520/172/
+- Montag, 4. September 2023 14:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1693830240/231/
+- Montag, 4. September 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1693830240/146/
+- Montag, 4. September 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1693830240/172/
+- Montag, 4. September 2023 14:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1693830960/231/
+- Montag, 4. September 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1693830960/146/
+- Montag, 4. September 2023 14:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1693831680/231/
+- Montag, 4. September 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1693831680/172/
