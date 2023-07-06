@@ -49,7 +49,6 @@
 - Donnerstag, 31. August 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1693474800/149/
 - Donnerstag, 31. August 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1693474800/150/
 - Donnerstag, 31. August 2023 11:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693475280/2845/
-- Donnerstag, 31. August 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1693475280/167/
 - Donnerstag, 31. August 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1693475280/170/
 - Donnerstag, 31. August 2023 12:00 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693476000/2908/
 - Donnerstag, 31. August 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693476000/2911/
