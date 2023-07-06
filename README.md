@@ -8,14 +8,14 @@
 - Donnerstag, 31. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693473120/841/
 - Donnerstag, 31. August 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693473120/904/
 - Donnerstag, 31. August 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693473120/2926/
-- Donnerstag, 31. August 2023 11:18 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693473480/2836/
-- Donnerstag, 31. August 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693473480/2839/
+- Donnerstag, 31. August 2023 11:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693473480/2839/
 - Donnerstag, 31. August 2023 11:20 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693473600/2881/
 - Donnerstag, 31. August 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693473600/2884/
 - Donnerstag, 31. August 2023 11:24 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693473840/2911/
 - Donnerstag, 31. August 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693473840/2914/
 - Donnerstag, 31. August 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693473840/922/
 - Donnerstag, 31. August 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693473840/2866/
+- Donnerstag, 31. August 2023 11:30 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693474200/2836/
 - Donnerstag, 31. August 2023 11:40 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693474800/2878/
 - Donnerstag, 31. August 2023 11:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693475280/2938/
 - Donnerstag, 31. August 2023 11:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1693475400/147/
