@@ -105,6 +105,7 @@
 - Donnerstag, 31. August 2023 14:12 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693483920/841/
 - Donnerstag, 31. August 2023 14:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1693484400/150/
 - Donnerstag, 31. August 2023 14:30 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693485000/140/
+- Donnerstag, 31. August 2023 14:48 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1693486080/145/
 - Donnerstag, 31. August 2023 15:00 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1693486800/147/
 - Donnerstag, 31. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693486800/841/
 - Donnerstag, 31. August 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693486800/3238/
