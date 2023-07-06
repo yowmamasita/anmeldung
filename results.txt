@@ -1,3 +1,4 @@
+- Donnerstag, 6. Juli 2023 15:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688651280/3238/
 - Donnerstag, 31. August 2023 11:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693473120/3238/
 - Donnerstag, 31. August 2023 11:24 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693473840/2866/
 - Donnerstag, 31. August 2023 11:48 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693475280/2908/
@@ -98,10 +99,3 @@
 - Donnerstag, 31. August 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693494000/2932/
 - Donnerstag, 31. August 2023 17:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1693494720/153/
 - Donnerstag, 31. August 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693494720/103/
-- Montag, 4. September 2023 14:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1693829520/231/
-- Montag, 4. September 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1693829520/146/
-- Montag, 4. September 2023 14:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1693830240/231/
-- Montag, 4. September 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1693830240/146/
-- Montag, 4. September 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1693830240/172/
-- Montag, 4. September 2023 14:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1693830960/231/
-- Montag, 4. September 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1693830960/146/
