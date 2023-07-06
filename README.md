@@ -17,8 +17,7 @@
 - Donnerstag, 31. August 2023 10:20 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1693470000/151/
 - Donnerstag, 31. August 2023 10:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693470240/2887/
 - Donnerstag, 31. August 2023 10:30 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693470600/2932/
-- Donnerstag, 31. August 2023 10:36 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1693470960/135/
-- Donnerstag, 31. August 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1693470960/108/
+- Donnerstag, 31. August 2023 10:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1693470960/108/
 - Donnerstag, 31. August 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693470960/381/
 - Donnerstag, 31. August 2023  Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693470960/898/
 - Donnerstag, 31. August 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1693470960/190/
@@ -26,6 +25,7 @@
 - Donnerstag, 31. August 2023 10:42 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693471320/140/
 - Donnerstag, 31. August 2023 10:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1693471680/106/
 - Donnerstag, 31. August 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693471680/2845/
+- Donnerstag, 31. August 2023  Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1693471680/135/
 - Donnerstag, 31. August 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693471680/844/
 - Donnerstag, 31. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1693471680/191/
 - Donnerstag, 31. August 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1693471680/145/
@@ -95,6 +95,7 @@
 - Donnerstag, 31. August 2023 12:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1693477440/109/
 - Donnerstag, 31. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1693477440/191/
 - Donnerstag, 31. August 2023 12:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1693477800/150/
+- Donnerstag, 31. August 2023 12:36 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1693478160/312/
 - Donnerstag, 31. August 2023 13:00 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693479600/2908/
 - Donnerstag, 31. August 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693479600/2911/
 - Donnerstag, 31. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693479600/841/
@@ -144,8 +145,8 @@
 - Donnerstag, 31. August 2023 16:40 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693492800/2878/
 - Donnerstag, 31. August 2023 17:00 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693494000/841/
 - Donnerstag, 31. August 2023 17:12 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693494720/922/
-- Donnerstag, 31. August 2023 17:24 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693495440/847/
-- Donnerstag, 31. August 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1693495440/191/
+- Donnerstag, 31. August 2023 17:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1693495440/191/
 - Donnerstag, 31. August 2023 17:30 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693495800/2878/
 - Donnerstag, 31. August 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693495800/2881/
+- Donnerstag, 31. August 2023 17:36 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693496160/847/
 - Donnerstag, 31. August 2023 17:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1693497000/150/
