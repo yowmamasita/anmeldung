@@ -77,7 +77,6 @@
 - Donnerstag, 31. August 2023 15:36 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1693488960/135/
 - Donnerstag, 31. August 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1693488960/108/
 - Donnerstag, 31. August 2023 15:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693489320/2839/
-- Donnerstag, 31. August 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1693489320/142/
 - Donnerstag, 31. August 2023 15:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1693489680/109/
 - Donnerstag, 31. August 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693489680/3238/
 - Donnerstag, 31. August 2023 16:00 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693490400/2908/
