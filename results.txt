@@ -1,20 +1,17 @@
 - Donnerstag, 6. Juli 2023 11:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688634720/169/
 - Donnerstag, 6. Juli 2023 11:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688635440/167/
-- Donnerstag, 6. Juli 2023 11:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688636160/3238/
 - Donnerstag, 6. Juli 2023 11:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688636880/2914/
 - Donnerstag, 6. Juli 2023 12:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688637600/3238/
 - Donnerstag, 6. Juli 2023 12:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688638320/3238/
-- Donnerstag, 6. Juli 2023 12:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688639040/3238/
+- Donnerstag, 6. Juli 2023 12:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1688639040/169/
+- Donnerstag, 6. Juli 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688639040/3238/
 - Donnerstag, 6. Juli 2023 12:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688639760/3238/
 - Donnerstag, 6. Juli 2023 13:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688642640/3238/
-- Donnerstag, 6. Juli 2023 13:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688643360/3238/
-- Donnerstag, 6. Juli 2023 15:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1688650200/150/
 - Donnerstag, 6. Juli 2023 15:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1688650800/150/
 - Donnerstag, 6. Juli 2023 17:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1688656200/150/
 - Donnerstag, 6. Juli 2023 17:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1688656800/150/
 - Mittwoch, 26. Juli 2023 11:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690363800/2914/
-- Montag, 31. Juli 2023 08:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1690785720/112/
-- Montag, 31. Juli 2023 10:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1690791480/112/
+- Freitag, 4. August 2023 12:30 Bürgeramt Schöneweide https://service.berlin.de/terminvereinbarung/termin/time/1691145000/313/
 - Donnerstag, 10. August 2023 16:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691678160/922/
 - Montag, 21. August 2023 08:12 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1692598320/381/
 - Montag, 21. August 2023 15:12 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692623520/2839/
