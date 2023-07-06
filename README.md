@@ -3,6 +3,3 @@
 - Donnerstag, 6. Juli 2023 10:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688630400/231/
 - Donnerstag, 6. Juli 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688630400/154/
 - Donnerstag, 6. Juli 2023 10:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688631840/154/
-- Donnerstag, 6. Juli 2023 12:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1688639040/231/
-- Donnerstag, 6. Juli 2023 15:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688650560/2845/
-- Donnerstag, 6. Juli 2023 15:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688651280/2845/
