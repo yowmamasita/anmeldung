@@ -111,8 +111,7 @@
 - Donnerstag, 31. August 2023 15:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693487520/3238/
 - Donnerstag, 31. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693487520/847/
 - Donnerstag, 31. August 2023 15:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693488960/2854/
-- Donnerstag, 31. August 2023 15:50 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1693489800/149/
-- Donnerstag, 31. August 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693489800/2884/
+- Donnerstag, 31. August 2023 15:50 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693489800/2884/
 - Donnerstag, 31. August 2023 16:00 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1693490400/147/
 - Donnerstag, 31. August 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693490400/2854/
 - Donnerstag, 31. August 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693490400/2881/
