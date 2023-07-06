@@ -65,7 +65,6 @@
 - Donnerstag, 31. August 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1693474920/153/
 - Donnerstag, 31. August 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693474920/2932/
 - Donnerstag, 31. August 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1693474920/142/
-- Donnerstag, 31. August 2023 11:48 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1693475280/102/
 - Donnerstag, 31. August 2023 11:54 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1693475640/141/
 - Donnerstag, 31. August 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693475640/2836/
 - Donnerstag, 31. August 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693475640/140/
