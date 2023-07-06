@@ -1,9 +1,5 @@
 - Donnerstag, 6. Juli 2023 10:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688631840/2896/
-- Donnerstag, 6. Juli 2023 12:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1688637600/191/
-- Donnerstag, 6. Juli 2023 12:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688639760/170/
 - Donnerstag, 6. Juli 2023 12:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688640480/170/
-- Donnerstag, 6. Juli 2023 13:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688643360/170/
-- Donnerstag, 6. Juli 2023 16:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1688654880/170/
 - Donnerstag, 3. August 2023 12:12 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691057520/2875/
 - Donnerstag, 31. August 2023 09:54 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693468440/2839/
 - Donnerstag, 31. August 2023 10:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693468800/2845/
@@ -125,8 +121,8 @@
 - Donnerstag, 31. August 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1693479600/150/
 - Donnerstag, 31. August 2023 13:06 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693479960/2839/
 - Donnerstag, 31. August 2023 13:10 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693480200/2884/
+- Donnerstag, 31. August 2023 13:12 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693480320/847/
 - Donnerstag, 31. August 2023 13:18 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693480680/140/
-- Donnerstag, 31. August 2023 13:24 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693481040/847/
 - Donnerstag, 31. August 2023 14:00 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1693483200/147/
 - Donnerstag, 31. August 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693483200/841/
 - Donnerstag, 31. August 2023  Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693483200/847/
