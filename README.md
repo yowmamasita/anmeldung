@@ -90,7 +90,6 @@
 - Donnerstag, 31. August 2023 16:00 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693490400/381/
 - Donnerstag, 31. August 2023 16:12 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693491120/103/
 - Donnerstag, 31. August 2023 16:20 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693491600/2881/
-- Donnerstag, 31. August 2023 16:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693492560/3238/
 - Donnerstag, 31. August 2023 16:48 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693493280/841/
 - Donnerstag, 31. August 2023 17:00 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693494000/381/
 - Donnerstag, 31. August 2023 17:12 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693494720/103/
