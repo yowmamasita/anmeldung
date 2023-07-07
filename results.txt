@@ -1,5 +1,4 @@
 - Dienstag, 29. August 2023 10:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1693296720/192/
-- Dienstag, 29. August 2023 11:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693301040/2863/
 - Dienstag, 29. August 2023 11:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693301760/2863/
 - Dienstag, 29. August 2023 11:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693302480/2863/
 - Dienstag, 29. August 2023 12:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693303200/2863/
@@ -196,7 +195,6 @@
 - Freitag, 1. September 2023 10:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1693555800/147/
 - Freitag, 1. September 2023 10:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1693555920/167/
 - Freitag, 1. September 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693555920/2860/
-- Freitag, 1. September 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1693555920/153/
 - Freitag, 1. September 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693555920/2932/
 - Freitag, 1. September 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1693555920/154/
 - Freitag, 1. September 2023 10:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693556280/2908/
