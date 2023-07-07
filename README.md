@@ -73,7 +73,6 @@
 - Freitag, 1. September 2023 09:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693554480/2845/
 - Freitag, 1. September 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693554480/381/
 - Freitag, 1. September 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693554480/3238/
-- Freitag, 1. September 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1693554480/154/
 - Freitag, 1. September 2023 10:00 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693555200/381/
 - Freitag, 1. September 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1693555200/153/
 - Freitag, 1. September 2023  Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1693555200/189/
