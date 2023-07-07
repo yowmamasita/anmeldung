@@ -1,3 +1,4 @@
+- Montag, 28. August 2023 11:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1693215360/153/
 - Freitag, 1. September 2023 09:12 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693552320/2938/
 - Freitag, 1. September 2023 09:24 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693553040/2836/
 - Freitag, 1. September 2023 09:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693553760/2938/
@@ -96,3 +97,4 @@
 - Freitag, 1. September 2023 12:48 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693565280/2836/
 - Freitag, 1. September 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693565280/2887/
 - Freitag, 1. September 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693565280/2938/
+- Dienstag, 5. September 2023 11:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1693905840/146/
