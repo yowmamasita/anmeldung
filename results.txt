@@ -156,10 +156,10 @@
 - Freitag, 1. September 2023 10:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693556280/2908/
 - Freitag, 1. September 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693556280/844/
 - Freitag, 1. September 2023 10:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1693556640/154/
-- Freitag, 1. September 2023 10:30 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1693557000/149/
 - Freitag, 1. September 2023 10:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693557360/2845/
 - Freitag, 1. September 2023  Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1693557360/141/
-- Freitag, 1. September 2023 10:40 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693557600/2884/
+- Freitag, 1. September 2023 10:40 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1693557600/149/
+- Freitag, 1. September 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693557600/2884/
 - Freitag, 1. September 2023 10:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1693558440/109/
 - Freitag, 1. September 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693558440/140/
 - Freitag, 1. September 2023 11:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693558800/2845/
@@ -214,8 +214,7 @@
 - Freitag, 1. September 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1693563120/167/
 - Freitag, 1. September 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1693563120/192/
 - Freitag, 1. September 2023 12:18 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1693563480/134/
-- Freitag, 1. September 2023 12:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1693563600/147/
-- Freitag, 1. September 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1693563600/149/
+- Freitag, 1. September 2023 12:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1693563600/149/
 - Freitag, 1. September 2023 12:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1693563840/106/
 - Freitag, 1. September 2023 12:36 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1693564560/141/
 - Freitag, 1. September 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1693564560/102/
