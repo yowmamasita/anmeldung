@@ -32,7 +32,6 @@
 - Freitag, 1. September 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1693549800/149/
 - Freitag, 1. September 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1693549800/150/
 - Freitag, 1. September 2023 08:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1693550160/190/
-- Freitag, 1. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693550160/103/
 - Freitag, 1. September 2023 08:42 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693550520/140/
 - Freitag, 1. September 2023 08:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1693550880/108/
 - Freitag, 1. September 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693550880/381/
