@@ -4,9 +4,7 @@
 - Freitag, 7. Juli 2023 08:50 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1688712600/148/
 - Freitag, 7. Juli 2023 09:00 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688713200/922/
 - Freitag, 7. Juli 2023 09:30 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1688715000/148/
-- Freitag, 7. Juli 2023 09:40 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1688715600/148/
-- Freitag, 7. Juli 2023 09:48 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688716080/922/
-- Freitag, 7. Juli 2023 10:10 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1688717400/148/
+- Freitag, 7. Juli 2023 10:50 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1688719800/148/
 - Freitag, 4. August 2023 08:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691130960/2872/
 - Freitag, 4. August 2023 08:48 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691131680/2920/
 - Freitag, 4. August 2023  Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691131680/2893/
@@ -44,7 +42,6 @@
 - Freitag, 18. August 2023 10:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692347040/154/
 - Freitag, 18. August 2023 10:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692347760/154/
 - Freitag, 18. August 2023 11:48 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1692352080/103/
-- Dienstag, 22. August 2023 17:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692719280/2899/
 - Freitag, 25. August 2023 07:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692942480/154/
 - Freitag, 25. August 2023 08:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692943920/154/
 - Freitag, 25. August 2023 08:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1692944640/154/
