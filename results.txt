@@ -1,3 +1,5 @@
+- Donnerstag, 3. August 2023 14:48 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691066880/2920/
+- Montag, 14. August 2023 14:36 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692016560/2908/
 - Freitag, 1. September 2023 08:30 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693549800/2911/
 - Freitag, 1. September 2023 08:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693550520/2908/
 - Freitag, 1. September 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693550520/2911/
@@ -150,3 +152,4 @@
 - Freitag, 1. September 2023 12:54 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693565640/841/
 - Freitag, 1. September 2023 13:12 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693566720/2836/
 - Freitag, 1. September 2023 13:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693568880/3238/
+- Dienstag, 5. September 2023 16:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1693923840/231/
