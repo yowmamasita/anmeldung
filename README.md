@@ -10,7 +10,6 @@
 - Montag, 7. August 2023 09:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1691393040/153/
 - Montag, 7. August 2023 09:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1691393760/153/
 - Montag, 7. August 2023 09:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1691394480/153/
-- Montag, 7. August 2023 10:00 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1691395200/153/
 - Montag, 7. August 2023 10:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1691395920/153/
 - Montag, 7. August 2023 10:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1691396640/153/
 - Montag, 7. August 2023 10:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1691397360/153/
@@ -267,8 +266,7 @@
 - Freitag, 1. September 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693555200/2938/
 - Freitag, 1. September 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693555200/2926/
 - Freitag, 1. September 2023  Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1693555200/189/
-- Freitag, 1. September 2023 10:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1693555560/136/
-- Freitag, 1. September 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693555560/841/
+- Freitag, 1. September 2023 10:06 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693555560/841/
 - Freitag, 1. September 2023 10:10 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693555800/2881/
 - Freitag, 1. September 2023 10:12 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1693555920/106/
 - Freitag, 1. September 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693555920/2836/
