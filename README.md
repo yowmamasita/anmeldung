@@ -29,7 +29,6 @@
 - Montag, 21. August 2023 11:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1692609120/153/
 - Montag, 21. August 2023 11:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1692609840/153/
 - Montag, 21. August 2023 11:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1692610560/153/
-- Mittwoch, 23. August 2023 11:30 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1692783000/153/
 - Freitag, 25. August 2023 08:00 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1692943200/153/
 - Freitag, 25. August 2023 08:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1692943920/153/
 - Freitag, 25. August 2023 08:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1692944640/153/
@@ -151,7 +150,6 @@
 - Donnerstag, 31. August 2023 13:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1693481040/168/
 - Donnerstag, 31. August 2023 13:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1693481760/168/
 - Donnerstag, 31. August 2023 13:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1693482480/168/
-- Donnerstag, 31. August 2023 14:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1693483200/168/
 - Donnerstag, 31. August 2023 14:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1693483920/168/
 - Donnerstag, 31. August 2023 14:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1693484640/168/
 - Donnerstag, 31. August 2023 14:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1693485360/168/
