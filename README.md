@@ -155,3 +155,4 @@
 - Freitag, 1. September 2023 13:12 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693566720/2836/
 - Freitag, 1. September 2023 13:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693567440/3238/
 - Dienstag, 5. September 2023 12:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1693910880/231/
+- Dienstag, 5. September 2023 13:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1693913760/231/
