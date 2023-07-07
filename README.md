@@ -13,7 +13,6 @@
 - Freitag, 7. Juli 2023 09:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688715000/111/
 - Freitag, 7. Juli 2023 09:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688715720/111/
 - Freitag, 7. Juli 2023 09:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688716440/111/
-- Freitag, 7. Juli 2023 10:06 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688717160/111/
 - Freitag, 7. Juli 2023 10:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688717880/111/
 - Freitag, 7. Juli 2023 10:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688718600/111/
 - Freitag, 7. Juli 2023 10:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1688719320/111/
