@@ -163,7 +163,6 @@
 - Freitag, 1. September 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693556400/2884/
 - Freitag, 1. September 2023 10:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1693556640/141/
 - Freitag, 1. September 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1693556640/191/
-- Freitag, 1. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693556640/103/
 - Freitag, 1. September 2023 10:30 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693557000/2839/
 - Freitag, 1. September 2023 10:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693557360/3238/
 - Freitag, 1. September 2023 10:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1693557720/112/
