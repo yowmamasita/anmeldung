@@ -57,8 +57,7 @@
 - Freitag, 1. September 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693559880/841/
 - Freitag, 1. September 2023 11:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1693560000/147/
 - Freitag, 1. September 2023  Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1693560000/189/
-- Freitag, 1. September 2023 11:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1693560240/108/
-- Freitag, 1. September 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693560240/2836/
+- Freitag, 1. September 2023 11:24 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693560240/2836/
 - Freitag, 1. September 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1693560240/190/
 - Freitag, 1. September 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693560240/2887/
 - Freitag, 1. September 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1693560240/153/
