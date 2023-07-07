@@ -1,10 +1,7 @@
 - Freitag, 7. Juli 2023 07:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688709240/109/
-- Freitag, 7. Juli 2023 08:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688710680/109/
 - Freitag, 7. Juli 2023 08:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688712840/109/
-- Freitag, 7. Juli 2023 09:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688714280/109/
 - Freitag, 7. Juli 2023 09:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688716440/109/
 - Freitag, 7. Juli 2023 10:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1688718240/190/
-- Freitag, 7. Juli 2023 10:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688718600/109/
 - Freitag, 7. Juli 2023 10:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1688719320/109/
 - Freitag, 7. Juli 2023 11:12 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1688721120/190/
 - Freitag, 7. Juli 2023 11:24 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1688721840/190/
@@ -20,4 +17,3 @@
 - Freitag, 7. Juli 2023 12:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1688726160/190/
 - Freitag, 7. Juli 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688726160/154/
 - Freitag, 7. Juli 2023 12:48 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1688726880/190/
-- Freitag, 7. Juli 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688726880/154/
