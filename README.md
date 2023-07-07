@@ -3,7 +3,6 @@
 - Montag, 10. Juli 2023 13:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1688987520/153/
 - Montag, 10. Juli 2023 13:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1688989680/153/
 - Dienstag, 11. Juli 2023 12:00 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1689069600/136/
-- Freitag, 14. Juli 2023 10:30 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689323400/847/
 - Montag, 24. Juli 2023 14:00 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690200000/150/
 - Dienstag, 15. August 2023 12:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692096480/3238/
 - Donnerstag, 31. August 2023 09:42 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1693467720/153/
