@@ -3,7 +3,6 @@
 - Donnerstag, 31. August 2023 12:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1693478160/169/
 - Donnerstag, 31. August 2023 12:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1693478880/169/
 - Donnerstag, 31. August 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693478880/2857/
-- Donnerstag, 31. August 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693478880/2863/
 - Donnerstag, 31. August 2023 13:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1693480320/169/
 - Donnerstag, 31. August 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693480320/2857/
 - Donnerstag, 31. August 2023 13:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1693481040/169/
