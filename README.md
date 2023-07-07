@@ -70,7 +70,6 @@
 - Freitag, 1. September 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693564200/2911/
 - Freitag, 1. September 2023 12:36 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693564560/2836/
 - Freitag, 1. September 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693564560/3238/
-- Freitag, 1. September 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1693564560/190/
 - Freitag, 1. September 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693564560/2887/
 - Freitag, 1. September 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693564560/2932/
 - Freitag, 1. September 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693564560/2938/
