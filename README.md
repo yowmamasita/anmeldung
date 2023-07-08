@@ -6,3 +6,4 @@
 - Montag, 21. August 2023 14:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692620640/3238/
 - Montag, 21. August 2023 15:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692622800/2836/
 - Donnerstag, 24. August 2023 11:30 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1692869400/142/
+- Mittwoch, 6. September 2023 14:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1694004480/146/
