@@ -6,4 +6,3 @@
 - Dienstag, 5. September 2023 17:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693926720/2899/
 - Dienstag, 5. September 2023 17:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693927440/2899/
 - Dienstag, 5. September 2023 17:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693928160/2899/
-- Dienstag, 5. September 2023 17:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693928880/2899/
