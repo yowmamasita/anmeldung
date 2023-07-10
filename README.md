@@ -65,7 +65,5 @@
 - Montag, 4. September 2023 14:24 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693830240/2836/
 - Montag, 4. September 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693830240/3238/
 - Montag, 4. September 2023 14:30 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693830600/2878/
-- Montag, 4. September 2023 14:48 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693831680/103/
 - Montag, 4. September 2023 15:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693833120/2908/
 - Mittwoch, 6. September 2023 14:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694001600/2896/
-- Mittwoch, 6. September 2023 14:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694004480/2896/
