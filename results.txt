@@ -112,8 +112,7 @@
 - Montag, 4. September 2023 10:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1693817400/150/
 - Montag, 4. September 2023 10:54 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693817640/844/
 - Montag, 4. September 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1693817640/154/
-- Montag, 4. September 2023 11:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693818000/2845/
-- Montag, 4. September 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693818000/2848/
+- Montag, 4. September 2023 11:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693818000/2848/
 - Montag, 4. September 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693818000/2836/
 - Montag, 4. September 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693818000/2839/
 - Montag, 4. September 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693818000/3238/
@@ -133,7 +132,8 @@
 - Montag, 4. September 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693818600/2881/
 - Montag, 4. September 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1693818600/150/
 - Montag, 4. September 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693818600/2884/
-- Montag, 4. September 2023 11:12 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1693818720/141/
+- Montag, 4. September 2023 11:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693818720/2845/
+- Montag, 4. September 2023  Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1693818720/141/
 - Montag, 4. September 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693818720/381/
 - Montag, 4. September 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1693818720/192/
 - Montag, 4. September 2023 11:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1693819080/136/
