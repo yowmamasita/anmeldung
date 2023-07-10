@@ -120,8 +120,7 @@
 - Montag, 4. September 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1693818720/192/
 - Montag, 4. September 2023 11:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693819080/2908/
 - Montag, 4. September 2023 11:20 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693819200/2881/
-- Montag, 4. September 2023 11:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1693819800/136/
-- Montag, 4. September 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1693819800/150/
+- Montag, 4. September 2023 11:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1693819800/150/
 - Montag, 4. September 2023 11:36 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693820160/140/
 - Montag, 4. September 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693820160/1018/
 - Montag, 4. September 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1693820160/142/
