@@ -53,4 +53,3 @@
 - Freitag, 1. September 2023 14:00 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1693569600/143/
 - Freitag, 1. September 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693569600/2851/
 - Freitag, 1. September 2023 14:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693570320/2851/
-- Dienstag, 5. September 2023 12:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693908720/2899/
