@@ -57,7 +57,6 @@
 - Montag, 4. September 2023 10:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1693815840/191/
 - Montag, 4. September 2023 10:30 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693816200/841/
 - Montag, 4. September 2023  Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1693816200/148/
-- Montag, 4. September 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693816200/2884/
 - Montag, 4. September 2023 10:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693816560/2887/
 - Montag, 4. September 2023 10:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1693816800/147/
 - Montag, 4. September 2023 10:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693816920/2914/
