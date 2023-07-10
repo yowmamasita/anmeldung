@@ -85,4 +85,3 @@
 - Mittwoch, 6. September 2023 13:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693998000/2896/
 - Mittwoch, 6. September 2023 13:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693998720/2896/
 - Mittwoch, 6. September 2023 13:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693999440/2896/
-- Donnerstag, 7. September 2023 10:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1694076480/146/
