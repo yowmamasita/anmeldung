@@ -61,7 +61,6 @@
 - Montag, 4. September 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693819080/2911/
 - Montag, 4. September 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693819080/844/
 - Montag, 4. September 2023 11:20 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693819200/2881/
-- Montag, 4. September 2023 11:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1693819800/111/
 - Montag, 4. September 2023 11:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1693820880/191/
 - Montag, 4. September 2023 11:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1693821000/150/
 - Montag, 4. September 2023 11:54 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693821240/841/
@@ -116,6 +115,4 @@
 - Montag, 4. September 2023 14:40 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1693831200/149/
 - Montag, 4. September 2023 15:24 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693833840/2839/
 - Freitag, 8. September 2023 11:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1694166480/231/
-- Freitag, 8. September 2023 12:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1694167200/231/
 - Freitag, 8. September 2023 12:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1694167920/231/
-- Freitag, 8. September 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1694167920/172/
