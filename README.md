@@ -8,7 +8,6 @@
 - Montag, 10. Juli 2023 09:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688972400/2845/
 - Montag, 10. Juli 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688972400/2848/
 - Montag, 10. Juli 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688972400/2863/
-- Montag, 10. Juli 2023  Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688972400/2842/
 - Montag, 10. Juli 2023 09:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688973120/2848/
 - Montag, 10. Juli 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688973120/2863/
 - Montag, 10. Juli 2023  Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688973120/2842/
@@ -20,7 +19,6 @@
 - Montag, 10. Juli 2023 09:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688975280/2848/
 - Montag, 10. Juli 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688975280/2863/
 - Montag, 10. Juli 2023  Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688975280/2842/
-- Montag, 10. Juli 2023 10:12 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688976720/2842/
 - Montag, 10. Juli 2023 10:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688977440/2848/
 - Montag, 10. Juli 2023  Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688977440/2842/
 - Montag, 10. Juli 2023 10:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688978160/2848/
@@ -49,7 +47,6 @@
 - Montag, 10. Juli 2023 12:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688986080/167/
 - Montag, 10. Juli 2023  Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688986080/2842/
 - Montag, 10. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688986080/2926/
-- Montag, 10. Juli 2023 13:00 Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688986800/2842/
 - Montag, 10. Juli 2023 13:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688988240/167/
 - Montag, 10. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688988240/2926/
 - Montag, 10. Juli 2023 13:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688988600/2914/
@@ -57,7 +54,6 @@
 - Montag, 10. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688988960/2926/
 - Montag, 10. Juli 2023 13:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688989320/2914/
 - Montag, 10. Juli 2023 13:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1688989680/167/
-- Montag, 10. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688989680/2926/
 - Montag, 10. Juli 2023 13:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688990040/2914/
 - Montag, 10. Juli 2023 14:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688991120/2926/
 - Montag, 10. Juli 2023 14:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688991480/2914/
@@ -73,7 +69,6 @@
 - Dienstag, 11. Juli 2023 15:36 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689082560/111/
 - Dienstag, 11. Juli 2023 15:48 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689083280/111/
 - Dienstag, 11. Juli 2023 16:48 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689086880/111/
-- Mittwoch, 12. Juli 2023 07:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689141240/111/
 - Mittwoch, 12. Juli 2023 08:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689142680/111/
 - Mittwoch, 12. Juli 2023 08:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689143400/111/
 - Mittwoch, 12. Juli 2023 08:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689144120/111/
