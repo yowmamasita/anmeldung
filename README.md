@@ -11,7 +11,6 @@
 - Montag, 10. Juli 2023 11:30 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688981400/154/
 - Montag, 10. Juli 2023 11:42 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688982120/154/
 - Montag, 10. Juli 2023 11:54 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688982840/154/
-- Montag, 10. Juli 2023 12:06 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688983560/154/
 - Montag, 10. Juli 2023 12:18 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1688984280/154/
 - Montag, 10. Juli 2023 13:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688986800/2845/
 - Montag, 10. Juli 2023 13:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688987520/2845/
@@ -23,8 +22,8 @@
 - Montag, 10. Juli 2023 14:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688991840/2845/
 - Montag, 10. Juli 2023 14:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688992560/2845/
 - Montag, 10. Juli 2023 14:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1688993280/2845/
+- Montag, 14. August 2023 15:00 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1692018000/141/
 - Dienstag, 29. August 2023 14:36 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693312560/2911/
 - Mittwoch, 30. August 2023 08:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693376640/2857/
 - Mittwoch, 30. August 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693376640/2851/
-- Donnerstag, 31. August 2023 08:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693463760/2848/
 - Donnerstag, 31. August 2023 16:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1693491840/191/
