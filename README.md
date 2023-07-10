@@ -80,7 +80,6 @@
 - Montag, 4. September 2023 11:30 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693819800/2941/
 - Montag, 4. September 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693819800/2881/
 - Montag, 4. September 2023 11:36 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1693820160/190/
-- Montag, 4. September 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1693820160/170/
 - Montag, 4. September 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693820160/2866/
 - Montag, 4. September 2023 12:00 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693821600/2839/
 - Montag, 4. September 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693821600/2926/
@@ -95,8 +94,10 @@
 - Montag, 4. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693823760/103/
 - Montag, 4. September 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1693823760/192/
 - Montag, 4. September 2023 12:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693824120/2911/
-- Montag, 4. September 2023 12:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1693824480/170/
-- Montag, 4. September 2023 13:00 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693825200/381/
+- Montag, 4. September 2023 12:48 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1693824480/134/
+- Montag, 4. September 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1693824480/170/
+- Montag, 4. September 2023 13:00 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1693825200/134/
+- Montag, 4. September 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693825200/381/
 - Montag, 4. September 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693825200/2881/
 - Montag, 4. September 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1693825200/191/
 - Montag, 4. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693825200/103/
@@ -116,13 +117,14 @@
 - Montag, 4. September 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693825920/2926/
 - Montag, 4. September 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1693825920/170/
 - Montag, 4. September 2023 13:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1693828440/135/
-- Montag, 4. September 2023 14:00 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693828800/381/
-- Montag, 4. September 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693828800/2932/
+- Montag, 4. September 2023 14:00 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1693828800/134/
+- Montag, 4. September 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693828800/381/
 - Montag, 4. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693828800/103/
 - Montag, 4. September 2023 14:06 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693829160/2911/
 - Montag, 4. September 2023 14:10 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693829400/2878/
 - Montag, 4. September 2023 14:12 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693829520/2839/
 - Montag, 4. September 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693829520/2887/
+- Montag, 4. September 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693829520/2932/
 - Montag, 4. September 2023 14:20 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693830000/2941/
 - Montag, 4. September 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693830000/2881/
 - Montag, 4. September 2023 14:24 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693830240/2836/
@@ -130,5 +132,6 @@
 - Montag, 4. September 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1693830240/153/
 - Montag, 4. September 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693830240/2866/
 - Montag, 4. September 2023 14:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693830960/2926/
+- Montag, 4. September 2023 15:00 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1693832400/134/
 - Montag, 4. September 2023 15:12 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693833120/381/
 - Montag, 4. September 2023 15:36 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693834560/103/
