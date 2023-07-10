@@ -59,7 +59,6 @@
 - Montag, 4. September 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693825920/2848/
 - Montag, 4. September 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693825920/2836/
 - Montag, 4. September 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693825920/2839/
-- Montag, 4. September 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693825920/381/
 - Montag, 4. September 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693825920/3238/
 - Montag, 4. September 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1693825920/190/
 - Montag, 4. September 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693825920/2887/
@@ -69,7 +68,8 @@
 - Montag, 4. September 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693825920/922/
 - Montag, 4. September 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693825920/2926/
 - Montag, 4. September 2023 13:18 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693826280/2911/
-- Montag, 4. September 2023 13:24 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693826640/103/
+- Montag, 4. September 2023 13:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693826640/381/
+- Montag, 4. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693826640/103/
 - Montag, 4. September 2023 13:30 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1693827000/112/
 - Montag, 4. September 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693827000/844/
 - Montag, 4. September 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693827000/2878/
