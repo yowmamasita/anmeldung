@@ -1,5 +1,0 @@
-- Montag, 14. August 2023 10:12 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1692000720/381/
-- Montag, 14. August 2023 15:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1692018600/150/
-- Montag, 21. August 2023 10:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692606240/2899/
-- Montag, 4. September 2023 09:12 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1693811520/106/
-- Dienstag, 5. September 2023 16:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693923480/2839/
