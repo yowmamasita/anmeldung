@@ -109,7 +109,6 @@
 - Dienstag, 5. September 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693923840/2866/
 - Dienstag, 5. September 2023 16:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693924560/381/
 - Dienstag, 5. September 2023 16:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693925280/381/
-- Dienstag, 5. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693925280/103/
 - Dienstag, 5. September 2023 17:00 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693926000/381/
 - Dienstag, 5. September 2023 17:12 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693926720/381/
 - Dienstag, 5. September 2023 17:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693927440/381/
