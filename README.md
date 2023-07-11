@@ -15,7 +15,6 @@
 - Dienstag, 5. September 2023 12:54 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693911240/2836/
 - Dienstag, 5. September 2023 13:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693912200/2941/
 - Dienstag, 5. September 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693912200/2881/
-- Dienstag, 5. September 2023 13:12 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693912320/2887/
 - Dienstag, 5. September 2023 13:18 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693912680/2836/
 - Dienstag, 5. September 2023 13:20 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693912800/2941/
 - Dienstag, 5. September 2023 13:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693913040/2848/
@@ -95,7 +94,6 @@
 - Dienstag, 5. September 2023 15:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693920240/381/
 - Dienstag, 5. September 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693920240/2866/
 - Dienstag, 5. September 2023 15:30 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693920600/2836/
-- Dienstag, 5. September 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693920600/2839/
 - Dienstag, 5. September 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693920600/2941/
 - Dienstag, 5. September 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693920600/2878/
 - Dienstag, 5. September 2023 15:42 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693921320/2836/
