@@ -6,7 +6,6 @@
 - Dienstag, 8. August 2023 14:36 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691498160/2920/
 - Dienstag, 8. August 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691498160/2875/
 - Dienstag, 8. August 2023 14:48 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691498880/2920/
-- Dienstag, 8. August 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691498880/2875/
 - Dienstag, 8. August 2023 15:00 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691499600/2920/
 - Dienstag, 8. August 2023 15:12 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691500320/2920/
 - Dienstag, 8. August 2023 15:36 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691501760/2920/
@@ -18,7 +17,6 @@
 - Dienstag, 8. August 2023 16:48 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691506080/2875/
 - Dienstag, 8. August 2023 17:12 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691507520/2875/
 - Dienstag, 8. August 2023 17:36 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691508960/2875/
-- Dienstag, 8. August 2023 17:48 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691509680/2875/
 - Dienstag, 5. September 2023 11:36 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693906560/2911/
 - Dienstag, 5. September 2023 11:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1693907400/147/
 - Dienstag, 5. September 2023 12:00 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693908000/2878/
