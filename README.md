@@ -12,4 +12,3 @@
 - Mittwoch, 12. Juli 2023 10:06 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689149160/109/
 - Mittwoch, 12. Juli 2023 10:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689149880/109/
 - Mittwoch, 12. Juli 2023 10:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689151320/109/
-- Donnerstag, 13. Juli 2023 11:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689239520/109/
