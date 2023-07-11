@@ -46,7 +46,6 @@
 - Dienstag, 5. September 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1693913040/168/
 - Dienstag, 5. September 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1693913040/170/
 - Dienstag, 5. September 2023 13:30 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1693913400/149/
-- Dienstag, 5. September 2023 13:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1693913760/153/
 - Dienstag, 5. September 2023 13:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693914120/2839/
 - Dienstag, 5. September 2023 13:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693914480/2926/
 - Dienstag, 5. September 2023 14:00 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1693915200/112/
@@ -62,8 +61,7 @@
 - Dienstag, 5. September 2023 14:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1693915920/109/
 - Dienstag, 5. September 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693915920/2926/
 - Dienstag, 5. September 2023 14:20 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693916400/2941/
-- Dienstag, 5. September 2023 14:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1693917360/168/
-- Dienstag, 5. September 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693917360/922/
+- Dienstag, 5. September 2023 14:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693917360/922/
 - Dienstag, 5. September 2023 15:00 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693918800/2878/
 - Dienstag, 5. September 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693918800/2881/
 - Dienstag, 5. September 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693918800/2866/
