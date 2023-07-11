@@ -10,7 +10,6 @@
 - Donnerstag, 13. Juli 2023 16:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689258960/109/
 - Donnerstag, 13. Juli 2023 16:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689259680/109/
 - Donnerstag, 13. Juli 2023 17:36 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689262560/109/
-- Donnerstag, 13. Juli 2023 17:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689263280/109/
 - Freitag, 14. Juli 2023 07:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689312600/109/
 - Freitag, 14. Juli 2023 07:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689313320/109/
 - Freitag, 14. Juli 2023 07:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689314040/109/
@@ -30,9 +29,7 @@
 - Freitag, 14. Juli 2023 10:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689324840/109/
 - Freitag, 14. Juli 2023 11:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689327000/109/
 - Freitag, 14. Juli 2023 11:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689327720/109/
-- Freitag, 14. Juli 2023 11:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689328440/109/
 - Freitag, 14. Juli 2023 12:06 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689329160/109/
 - Freitag, 14. Juli 2023 12:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689329880/109/
 - Freitag, 14. Juli 2023 12:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689330600/109/
 - Freitag, 14. Juli 2023 12:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689331320/109/
-- Freitag, 14. Juli 2023 12:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689332040/109/
