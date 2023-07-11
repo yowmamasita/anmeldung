@@ -1,8 +1,7 @@
 - Dienstag, 8. August 2023 13:48 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691495280/2920/
 - Dienstag, 8. August 2023 14:00 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691496000/2920/
 - Dienstag, 8. August 2023 14:12 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691496720/2920/
-- Dienstag, 8. August 2023 14:24 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691497440/2920/
-- Dienstag, 8. August 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691497440/2875/
+- Dienstag, 8. August 2023 14:24 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691497440/2875/
 - Dienstag, 8. August 2023 14:36 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691498160/2920/
 - Dienstag, 8. August 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691498160/2875/
 - Dienstag, 8. August 2023 14:48 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691498880/2920/
@@ -177,4 +176,3 @@
 - Dienstag, 5. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693928160/103/
 - Dienstag, 5. September 2023 17:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693928880/381/
 - Dienstag, 5. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693928880/103/
-- Donnerstag, 7. September 2023 13:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694084400/2899/
