@@ -31,7 +31,6 @@
 - Montag, 4. September 2023 14:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1693829520/168/
 - Montag, 4. September 2023 14:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1693830240/168/
 - Montag, 4. September 2023 14:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1693830960/168/
-- Montag, 4. September 2023 14:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1693831680/168/
 - Dienstag, 5. September 2023 09:42 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693899720/2836/
 - Dienstag, 5. September 2023 10:18 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693901880/2836/
 - Dienstag, 5. September 2023 10:20 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693902000/2941/
