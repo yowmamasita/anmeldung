@@ -20,10 +20,10 @@
 - Dienstag, 5. September 2023 12:30 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693909800/2881/
 - Dienstag, 5. September 2023 12:36 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1693910160/111/
 - Dienstag, 5. September 2023 12:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693910520/2839/
-- Dienstag, 5. September 2023 12:48 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693910880/2860/
-- Dienstag, 5. September 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693910880/922/
+- Dienstag, 5. September 2023 12:48 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693910880/922/
 - Dienstag, 5. September 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693910880/2926/
 - Dienstag, 5. September 2023 13:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1693911600/106/
+- Dienstag, 5. September 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1693911600/108/
 - Dienstag, 5. September 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693911600/841/
 - Dienstag, 5. September 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693911600/2881/
 - Dienstag, 5. September 2023 13:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693912200/2941/
@@ -42,6 +42,7 @@
 - Dienstag, 5. September 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693913760/922/
 - Dienstag, 5. September 2023 13:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693914120/2839/
 - Dienstag, 5. September 2023 14:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1693915200/106/
+- Dienstag, 5. September 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1693915200/108/
 - Dienstag, 5. September 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693915200/844/
 - Dienstag, 5. September 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1693915200/111/
 - Dienstag, 5. September 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693915200/2866/
