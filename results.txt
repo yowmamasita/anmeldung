@@ -39,7 +39,6 @@
 - Dienstag, 5. September 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693904400/2878/
 - Dienstag, 5. September 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1693904400/149/
 - Dienstag, 5. September 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693904400/2881/
-- Dienstag, 5. September 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693904400/922/
 - Dienstag, 5. September 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1693904400/150/
 - Dienstag, 5. September 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693904400/2884/
 - Dienstag, 5. September 2023 11:06 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693904760/2839/
@@ -52,6 +51,7 @@
 - Dienstag, 5. September 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1693905120/109/
 - Dienstag, 5. September 2023  Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1693905120/190/
 - Dienstag, 5. September 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1693905120/191/
+- Dienstag, 5. September 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693905120/922/
 - Dienstag, 5. September 2023 11:18 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693905480/2836/
 - Dienstag, 5. September 2023 11:24 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693905840/103/
 - Dienstag, 5. September 2023 11:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693906560/2926/
@@ -126,9 +126,9 @@
 - Dienstag, 5. September 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693922760/2839/
 - Dienstag, 5. September 2023 16:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693923000/2941/
 - Dienstag, 5. September 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693923000/2878/
-- Dienstag, 5. September 2023 16:12 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693923120/841/
-- Dienstag, 5. September 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693923120/922/
+- Dienstag, 5. September 2023 16:12 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693923120/922/
 - Dienstag, 5. September 2023 16:18 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1693923480/141/
+- Dienstag, 5. September 2023 16:24 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693923840/841/
 - Dienstag, 5. September 2023 16:30 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693924200/140/
 - Dienstag, 5. September 2023 16:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1693924800/147/
 - Dienstag, 5. September 2023 17:00 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693926000/2881/
@@ -136,7 +136,6 @@
 - Dienstag, 5. September 2023 17:18 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693927080/2836/
 - Dienstag, 5. September 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693927080/2839/
 - Dienstag, 5. September 2023 17:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1693927200/147/
-- Donnerstag, 7. September 2023 10:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694075760/2899/
 - Donnerstag, 7. September 2023 10:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694076480/2896/
 - Donnerstag, 7. September 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694076480/2899/
 - Donnerstag, 7. September 2023 11:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694077200/2896/
