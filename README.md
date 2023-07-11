@@ -91,7 +91,6 @@
 - Dienstag, 5. September 2023 15:54 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693922040/2836/
 - Dienstag, 5. September 2023 16:00 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693922400/381/
 - Dienstag, 5. September 2023 16:12 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693923120/381/
-- Dienstag, 5. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693923120/103/
 - Dienstag, 5. September 2023 16:20 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693923600/2881/
 - Dienstag, 5. September 2023 16:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693923840/381/
 - Dienstag, 5. September 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693923840/2866/
