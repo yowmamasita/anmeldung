@@ -22,8 +22,7 @@
 - Dienstag, 5. September 2023 12:36 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693910160/844/
 - Dienstag, 5. September 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693910160/2860/
 - Dienstag, 5. September 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693910160/2926/
-- Dienstag, 5. September 2023 12:40 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1693910400/151/
-- Dienstag, 5. September 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1693910400/149/
+- Dienstag, 5. September 2023 12:40 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1693910400/149/
 - Dienstag, 5. September 2023 12:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693910520/2839/
 - Dienstag, 5. September 2023 12:48 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693910880/2932/
 - Dienstag, 5. September 2023 12:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1693911000/150/
