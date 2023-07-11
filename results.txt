@@ -41,7 +41,6 @@
 - Dienstag, 5. September 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1693905480/142/
 - Dienstag, 5. September 2023 11:30 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1693906200/141/
 - Dienstag, 5. September 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693906200/140/
-- Dienstag, 5. September 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1693906200/154/
 - Dienstag, 5. September 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1693906200/142/
 - Dienstag, 5. September 2023 11:42 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1693906920/141/
 - Dienstag, 5. September 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693906920/140/
@@ -136,4 +135,3 @@
 - Dienstag, 5. September 2023 17:30 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1693927800/141/
 - Dienstag, 5. September 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693927800/140/
 - Dienstag, 5. September 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1693927800/142/
-- Dienstag, 5. September 2023 17:42 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1693928520/142/
