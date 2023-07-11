@@ -8,3 +8,10 @@
 - Dienstag, 11. Juli 2023 16:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1689086160/169/
 - Dienstag, 11. Juli 2023 17:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1689089040/169/
 - Dienstag, 11. Juli 2023 17:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1689089760/169/
+- Mittwoch, 12. Juli 2023 07:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689139800/312/
+- Mittwoch, 12. Juli 2023 07:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689140520/312/
+- Mittwoch, 12. Juli 2023 08:54 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689144840/312/
+- Mittwoch, 12. Juli 2023 09:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689147720/312/
+- Mittwoch, 12. Juli 2023 09:54 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689148440/312/
+- Mittwoch, 12. Juli 2023 11:06 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689152760/312/
+- Mittwoch, 12. Juli 2023 13:06 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689159960/312/
