@@ -14,5 +14,4 @@
 - Dienstag, 11. Juli 2023 13:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1689073920/167/
 - Dienstag, 11. Juli 2023 13:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1689074640/167/
 - Dienstag, 11. Juli 2023 13:36 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1689075360/167/
-- Dienstag, 11. Juli 2023 13:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1689076080/167/
-- Dienstag, 11. Juli 2023 14:48 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689079680/2860/
+- Dienstag, 11. Juli 2023 16:48 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1689086880/167/
