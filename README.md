@@ -12,7 +12,6 @@
 - Mittwoch, 12. Juli 2023 09:54 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689148440/2926/
 - Mittwoch, 12. Juli 2023 10:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689148800/2848/
 - Mittwoch, 12. Juli 2023 10:06 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689149160/2926/
-- Mittwoch, 12. Juli 2023 10:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1689149520/231/
 - Mittwoch, 12. Juli 2023 10:18 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1689149880/192/
 - Mittwoch, 12. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689149880/2926/
 - Mittwoch, 12. Juli 2023 10:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689150240/2848/
