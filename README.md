@@ -63,8 +63,7 @@
 - Mittwoch, 6. September 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693991880/2932/
 - Mittwoch, 6. September 2023 11:20 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693992000/2941/
 - Mittwoch, 6. September 2023 11:30 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693992600/2887/
-- Mittwoch, 6. September 2023 11:54 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693994040/841/
-- Mittwoch, 6. September 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693994040/922/
+- Mittwoch, 6. September 2023 11:54 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693994040/922/
 - Mittwoch, 6. September 2023 12:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693994400/2836/
 - Mittwoch, 6. September 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693994400/140/
 - Mittwoch, 6. September 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693994400/2839/
