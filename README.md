@@ -58,6 +58,7 @@
 - Mittwoch, 6. September 2023 11:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1693993320/109/
 - Mittwoch, 6. September 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693993320/2887/
 - Mittwoch, 6. September 2023 11:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693993680/2848/
+- Mittwoch, 6. September 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1693993680/102/
 - Mittwoch, 6. September 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1693993680/154/
 - Mittwoch, 6. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693993680/103/
 - Mittwoch, 6. September 2023 11:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1693994040/136/
