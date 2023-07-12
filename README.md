@@ -12,8 +12,4 @@
 - Mittwoch, 12. Juli 2023 10:42 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689151320/2926/
 - Mittwoch, 12. Juli 2023 10:50 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1689151800/149/
 - Mittwoch, 12. Juli 2023 10:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1689152040/191/
-- Mittwoch, 12. Juli 2023 11:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1689152760/191/
-- Mittwoch, 12. Juli 2023 12:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689158520/312/
-- Freitag, 14. Juli 2023 08:30 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689316200/904/
-- Freitag, 18. August 2023 13:12 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692357120/2854/
 - Dienstag, 29. August 2023 11:50 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693302600/2881/
