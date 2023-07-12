@@ -49,7 +49,6 @@
 - Mittwoch, 6. September 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693990080/3238/
 - Mittwoch, 6. September 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693990080/2866/
 - Mittwoch, 6. September 2023 10:50 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693990200/2881/
-- Mittwoch, 6. September 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693990200/2884/
 - Mittwoch, 6. September 2023 10:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693990440/2908/
 - Mittwoch, 6. September 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693990440/841/
 - Mittwoch, 6. September 2023 11:00 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693990800/2839/
