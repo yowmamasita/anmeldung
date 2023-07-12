@@ -34,4 +34,4 @@
 - Freitag, 14. Juli 2023 08:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689316920/111/
 - Freitag, 14. Juli 2023 09:48 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689320880/2920/
 - Freitag, 14. Juli 2023 10:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689324840/111/
-- Freitag, 14. Juli 2023 11:06 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689325560/111/
+- Dienstag, 29. August 2023 15:48 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693316880/2911/
