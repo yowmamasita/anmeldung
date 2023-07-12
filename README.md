@@ -40,6 +40,7 @@
 - Mittwoch, 12. Juli 2023 11:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689155280/154/
 - Mittwoch, 12. Juli 2023 12:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689156000/154/
 - Mittwoch, 12. Juli 2023 12:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689157440/154/
+- Mittwoch, 12. Juli 2023 12:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689158880/154/
 - Mittwoch, 12. Juli 2023 13:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689159600/2896/
 - Mittwoch, 12. Juli 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689159600/154/
 - Mittwoch, 12. Juli 2023 14:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689163200/2896/
