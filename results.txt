@@ -1,15 +1,14 @@
+- Mittwoch, 12. Juli 2023 07:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689139800/109/
 - Mittwoch, 12. Juli 2023 08:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1689141600/170/
 - Mittwoch, 12. Juli 2023 08:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689142320/154/
 - Mittwoch, 12. Juli 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1689142320/170/
 - Mittwoch, 12. Juli 2023 08:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689143400/2914/
 - Mittwoch, 12. Juli 2023 08:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689144120/2914/
 - Mittwoch, 12. Juli 2023 08:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1689144480/170/
-- Mittwoch, 12. Juli 2023 08:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1689144840/136/
-- Mittwoch, 12. Juli 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689144840/312/
+- Mittwoch, 12. Juli 2023 08:54 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689144840/312/
 - Mittwoch, 12. Juli 2023 09:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1689145200/170/
 - Mittwoch, 12. Juli 2023 09:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689145560/2914/
-- Mittwoch, 12. Juli 2023 09:12 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1689145920/167/
-- Mittwoch, 12. Juli 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689145920/2863/
+- Mittwoch, 12. Juli 2023 09:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689145920/2863/
 - Mittwoch, 12. Juli 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1689145920/170/
 - Mittwoch, 12. Juli 2023 09:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689146280/2914/
 - Mittwoch, 12. Juli 2023 09:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1689146640/170/
@@ -25,7 +24,6 @@
 - Mittwoch, 12. Juli 2023 10:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1689150240/170/
 - Mittwoch, 12. Juli 2023 10:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1689150960/170/
 - Mittwoch, 12. Juli 2023 10:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689151320/2914/
-- Mittwoch, 12. Juli 2023 11:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1689152400/170/
 - Mittwoch, 12. Juli 2023 11:12 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689153120/2839/
 - Mittwoch, 12. Juli 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1689153120/170/
 - Mittwoch, 12. Juli 2023 12:12 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689156720/2836/
