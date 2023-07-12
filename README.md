@@ -19,14 +19,13 @@
 - Mittwoch, 6. September 2023 08:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693981080/2908/
 - Mittwoch, 6. September 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693981080/2911/
 - Mittwoch, 6. September 2023 08:20 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693981200/2884/
-- Mittwoch, 6. September 2023 08:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693981440/2845/
-- Mittwoch, 6. September 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693981440/2848/
+- Mittwoch, 6. September 2023 08:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693981440/2848/
 - Mittwoch, 6. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693981440/103/
 - Mittwoch, 6. September 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693981440/2866/
 - Mittwoch, 6. September 2023 08:30 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693981800/922/
-- Mittwoch, 6. September 2023 08:36 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693982160/140/
+- Mittwoch, 6. September 2023 08:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693982160/2845/
+- Mittwoch, 6. September 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693982160/140/
 - Mittwoch, 6. September 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693982160/2860/
-- Mittwoch, 6. September 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1693982160/170/
 - Mittwoch, 6. September 2023 08:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1693982400/147/
 - Mittwoch, 6. September 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1693982400/149/
 - Mittwoch, 6. September 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1693982400/150/
