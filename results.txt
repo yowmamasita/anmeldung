@@ -16,7 +16,6 @@
 - Mittwoch, 12. Juli 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689144480/2896/
 - Mittwoch, 12. Juli 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1689144480/170/
 - Mittwoch, 12. Juli 2023 08:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689144840/2908/
-- Mittwoch, 12. Juli 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689144840/312/
 - Mittwoch, 12. Juli 2023 09:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689145200/2896/
 - Mittwoch, 12. Juli 2023 09:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689145560/2908/
 - Mittwoch, 12. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689145560/2926/
@@ -53,4 +52,4 @@
 - Mittwoch, 12. Juli 2023 11:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1689153840/231/
 - Mittwoch, 12. Juli 2023 11:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1689154560/231/
 - Mittwoch, 12. Juli 2023 11:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1689155280/231/
-- Mittwoch, 12. Juli 2023 12:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689157080/111/
+- Mittwoch, 12. Juli 2023 14:18 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1689164280/190/
