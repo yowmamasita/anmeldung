@@ -50,8 +50,8 @@
 - Mittwoch, 6. September 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693988640/2854/
 - Mittwoch, 6. September 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693988640/2866/
 - Mittwoch, 6. September 2023 10:30 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693989000/841/
-- Mittwoch, 6. September 2023 10:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693989360/2845/
-- Mittwoch, 6. September 2023  Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1693989360/141/
+- Mittwoch, 6. September 2023 10:36 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1693989360/141/
+- Mittwoch, 6. September 2023 10:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693990080/2845/
 - Mittwoch, 6. September 2023 10:50 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1693990200/149/
 - Mittwoch, 6. September 2023 10:54 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1693990440/153/
 - Mittwoch, 6. September 2023 11:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693990800/2836/
