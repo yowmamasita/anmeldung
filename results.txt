@@ -47,7 +47,6 @@
 - Mittwoch, 6. September 2023 09:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1693986000/150/
 - Mittwoch, 6. September 2023 09:42 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693986120/2887/
 - Mittwoch, 6. September 2023 09:48 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1693986480/140/
-- Mittwoch, 6. September 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1693986480/381/
 - Mittwoch, 6. September 2023 09:54 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1693986840/134/
 - Mittwoch, 6. September 2023 10:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693987200/2845/
 - Mittwoch, 6. September 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693987200/3238/
