@@ -103,7 +103,6 @@
 - Donnerstag, 7. September 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1694088000/145/
 - Donnerstag, 7. September 2023 14:06 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1694088360/140/
 - Donnerstag, 7. September 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694088360/2839/
-- Donnerstag, 7. September 2023 14:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1694088720/191/
 - Donnerstag, 7. September 2023 14:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1694089200/150/
 - Donnerstag, 7. September 2023 15:00 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694091600/841/
 - Donnerstag, 7. September 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694091600/3238/
