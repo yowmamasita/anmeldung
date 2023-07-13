@@ -32,7 +32,6 @@
 - Freitag, 14. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689323040/2887/
 - Freitag, 14. Juli 2023 10:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1689323760/169/
 - Freitag, 14. Juli 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689323760/2857/
-- Freitag, 14. Juli 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689323760/2887/
 - Freitag, 14. Juli 2023 10:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1689324480/169/
 - Freitag, 14. Juli 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689324480/2857/
 - Freitag, 14. Juli 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1689324480/168/
