@@ -20,11 +20,11 @@
 - Donnerstag, 7. September 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1694090160/112/
 - Donnerstag, 7. September 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694090160/844/
 - Donnerstag, 7. September 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1694090160/381/
-- Donnerstag, 7. September 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694090160/2887/
 - Donnerstag, 7. September 2023  Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1694090160/102/
 - Donnerstag, 7. September 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694090160/2932/
 - Donnerstag, 7. September 2023 14:42 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1694090520/141/
 - Donnerstag, 7. September 2023 14:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1694090880/136/
+- Donnerstag, 7. September 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694090880/2887/
 - Donnerstag, 7. September 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1694090880/111/
 - Donnerstag, 7. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1694090880/103/
 - Donnerstag, 7. September 2023 15:00 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694091600/2908/
