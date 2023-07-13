@@ -89,7 +89,6 @@
 - Donnerstag, 7. September 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694093400/2884/
 - Donnerstag, 7. September 2023 15:36 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694093760/841/
 - Donnerstag, 7. September 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694093760/3238/
-- Donnerstag, 7. September 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694093760/2854/
 - Donnerstag, 7. September 2023 15:40 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694094000/2881/
 - Donnerstag, 7. September 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694094000/2884/
 - Donnerstag, 7. September 2023 15:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694094120/2839/
