@@ -3,4 +3,3 @@
 - Donnerstag, 13. Juli 2023 12:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689243120/154/
 - Donnerstag, 13. Juli 2023 12:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689244560/154/
 - Donnerstag, 13. Juli 2023 12:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689245280/154/
-- Donnerstag, 13. Juli 2023 13:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689248160/154/
