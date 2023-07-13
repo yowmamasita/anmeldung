@@ -115,7 +115,6 @@
 - Donnerstag, 7. September 2023 16:12 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694095920/841/
 - Donnerstag, 7. September 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694095920/2854/
 - Donnerstag, 7. September 2023 16:20 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694096400/2878/
-- Donnerstag, 7. September 2023 16:36 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1694097360/145/
 - Donnerstag, 7. September 2023 16:42 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1694097720/140/
 - Donnerstag, 7. September 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694097720/2839/
 - Donnerstag, 7. September 2023 17:00 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694098800/2881/
@@ -124,7 +123,6 @@
 - Donnerstag, 7. September 2023 17:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694099520/3238/
 - Donnerstag, 7. September 2023 17:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1694100000/147/
 - Donnerstag, 7. September 2023 17:36 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694100960/2854/
-- Montag, 11. September 2023 11:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1694423520/172/
 - Montag, 11. September 2023 11:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1694424240/172/
 - Montag, 11. September 2023 11:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1694424960/172/
 - Montag, 11. September 2023 11:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1694425680/231/
