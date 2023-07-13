@@ -28,13 +28,13 @@
 - Donnerstag, 7. September 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694080800/2854/
 - Donnerstag, 7. September 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694080800/2884/
 - Donnerstag, 7. September 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694080800/2866/
-- Donnerstag, 7. September 2023 12:06 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694081160/2839/
+- Donnerstag, 7. September 2023 12:06 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1694081160/140/
+- Donnerstag, 7. September 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694081160/2839/
 - Donnerstag, 7. September 2023 12:10 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1694081400/149/
 - Donnerstag, 7. September 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694081400/2881/
 - Donnerstag, 7. September 2023 12:12 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694081520/844/
 - Donnerstag, 7. September 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694081520/2860/
 - Donnerstag, 7. September 2023 12:18 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694081880/2836/
-- Donnerstag, 7. September 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1694081880/140/
 - Donnerstag, 7. September 2023 12:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1694082240/136/
 - Donnerstag, 7. September 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1694082240/167/
 - Donnerstag, 7. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1694082240/103/
