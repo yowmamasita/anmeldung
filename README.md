@@ -135,4 +135,3 @@
 - Donnerstag, 7. September 2023 16:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694098080/3238/
 - Donnerstag, 7. September 2023 16:50 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694098200/2881/
 - Donnerstag, 7. September 2023 17:10 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694099400/2881/
-- Donnerstag, 7. September 2023 17:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694101680/3238/
