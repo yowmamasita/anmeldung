@@ -18,9 +18,7 @@
 - Donnerstag, 13. Juli 2023 16:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689259680/2863/
 - Donnerstag, 13. Juli 2023 17:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689261120/2863/
 - Donnerstag, 13. Juli 2023 17:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689261840/2863/
-- Mittwoch, 19. Juli 2023 11:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1689759000/191/
 - Mittwoch, 19. Juli 2023 11:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1689759720/191/
 - Mittwoch, 19. Juli 2023 11:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1689760440/191/
 - Mittwoch, 19. Juli 2023 13:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1689766920/191/
 - Mittwoch, 19. Juli 2023 13:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1689767640/191/
-- Donnerstag, 10. August 2023 14:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1691670960/146/
