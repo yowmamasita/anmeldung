@@ -8,5 +8,4 @@
 - Donnerstag, 13. Juli 2023 15:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689254640/2863/
 - Donnerstag, 13. Juli 2023 15:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689255360/2863/
 - Donnerstag, 13. Juli 2023 16:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689256800/2926/
-- Donnerstag, 13. Juli 2023 16:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689257520/2863/
 - Donnerstag, 13. Juli 2023 16:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689258240/2863/
