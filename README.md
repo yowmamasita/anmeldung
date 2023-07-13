@@ -18,7 +18,6 @@
 - Donnerstag, 7. September 2023 10:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1694075760/106/
 - Donnerstag, 7. September 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1694075760/108/
 - Donnerstag, 7. September 2023 10:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1694076000/147/
-- Donnerstag, 7. September 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1694076000/150/
 - Donnerstag, 7. September 2023 10:48 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1694076480/135/
 - Donnerstag, 7. September 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1694076480/381/
 - Donnerstag, 7. September 2023 10:50 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1694076600/149/
@@ -118,4 +117,3 @@
 - Donnerstag, 7. September 2023 17:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1694099400/147/
 - Donnerstag, 7. September 2023 17:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694099880/2839/
 - Donnerstag, 7. September 2023 17:30 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1694100600/149/
-- Donnerstag, 7. September 2023 17:48 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694101680/841/
