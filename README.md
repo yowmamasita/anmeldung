@@ -114,4 +114,3 @@
 - Montag, 11. September 2023 13:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1694430000/231/
 - Montag, 11. September 2023 13:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1694430720/231/
 - Montag, 11. September 2023 13:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1694431440/231/
-- Montag, 11. September 2023 13:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1694432160/146/
