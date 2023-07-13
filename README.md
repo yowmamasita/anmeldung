@@ -5,5 +5,4 @@
 - Donnerstag, 13. Juli 2023 14:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689252480/2926/
 - Donnerstag, 13. Juli 2023 15:10 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689253800/2878/
 - Donnerstag, 13. Juli 2023 15:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689253920/2845/
-- Donnerstag, 13. Juli 2023 15:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689254640/2845/
 - Donnerstag, 13. Juli 2023 15:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689255360/2845/
