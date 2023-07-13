@@ -11,7 +11,6 @@
 - Mittwoch, 19. Juli 2023 11:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1689760440/191/
 - Mittwoch, 19. Juli 2023 12:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1689761160/191/
 - Mittwoch, 19. Juli 2023 12:18 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1689761880/191/
-- Mittwoch, 19. Juli 2023 12:30 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1689762600/191/
 - Mittwoch, 19. Juli 2023 12:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1689763320/191/
 - Mittwoch, 19. Juli 2023 12:54 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1689764040/191/
 - Mittwoch, 19. Juli 2023 13:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1689764760/191/
