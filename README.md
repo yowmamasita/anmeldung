@@ -15,7 +15,6 @@
 - Donnerstag, 7. September 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694083680/2911/
 - Donnerstag, 7. September 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694083680/844/
 - Donnerstag, 7. September 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694083680/3238/
-- Donnerstag, 7. September 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1694083680/111/
 - Donnerstag, 7. September 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694083680/2866/
 - Donnerstag, 7. September 2023 12:50 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694083800/2881/
 - Donnerstag, 7. September 2023 12:54 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694084040/2836/
