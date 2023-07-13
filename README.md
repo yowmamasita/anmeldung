@@ -6,4 +6,3 @@
 - Donnerstag, 13. Juli 2023 12:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689243120/3238/
 - Donnerstag, 13. Juli 2023 12:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689243840/2899/
 - Donnerstag, 13. Juli 2023 12:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689245280/3238/
-- Donnerstag, 13. Juli 2023 16:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689258240/3238/
