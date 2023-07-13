@@ -51,8 +51,7 @@
 - Donnerstag, 7. September 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1694084400/154/
 - Donnerstag, 7. September 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694084400/2866/
 - Donnerstag, 7. September 2023 13:06 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694084760/2836/
-- Donnerstag, 7. September 2023 13:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1694085120/136/
-- Donnerstag, 7. September 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694085120/841/
+- Donnerstag, 7. September 2023 13:12 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694085120/841/
 - Donnerstag, 7. September 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1694085120/167/
 - Donnerstag, 7. September 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694085120/2854/
 - Donnerstag, 7. September 2023 13:18 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1694085480/140/
