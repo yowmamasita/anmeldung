@@ -12,7 +12,6 @@
 - Dienstag, 5. September 2023 11:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693905120/2851/
 - Dienstag, 5. September 2023 11:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693905840/2851/
 - Dienstag, 5. September 2023 12:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693910880/2851/
-- Dienstag, 5. September 2023 13:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693911600/2851/
 - Dienstag, 5. September 2023 13:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693912320/2851/
 - Dienstag, 5. September 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693912320/922/
 - Dienstag, 5. September 2023 13:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693913040/2851/
@@ -20,7 +19,6 @@
 - Dienstag, 5. September 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693913760/2851/
 - Dienstag, 5. September 2023 13:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1693914480/143/
 - Dienstag, 5. September 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693914480/2851/
-- Dienstag, 5. September 2023 15:48 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693921680/2908/
 - Mittwoch, 6. September 2023 08:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1693980000/169/
 - Mittwoch, 6. September 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693980000/2857/
 - Mittwoch, 6. September 2023 08:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1693980720/169/
