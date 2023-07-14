@@ -30,9 +30,9 @@
 - Freitag, 8. September 2023  Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1694157600/189/
 - Freitag, 8. September 2023 09:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1694157840/170/
 - Freitag, 8. September 2023 09:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694158560/2887/
-- Freitag, 8. September 2023 09:40 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1694158800/151/
-- Freitag, 8. September 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1694158800/150/
-- Freitag, 8. September 2023 09:50 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694159400/2878/
+- Freitag, 8. September 2023 09:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1694158800/150/
+- Freitag, 8. September 2023 09:50 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1694159400/151/
+- Freitag, 8. September 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694159400/2878/
 - Freitag, 8. September 2023 10:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1694160000/169/
 - Freitag, 8. September 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694160000/2857/
 - Freitag, 8. September 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694160000/2836/
@@ -75,14 +75,14 @@
 - Freitag, 8. September 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1694164680/111/
 - Freitag, 8. September 2023 11:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694165040/2845/
 - Freitag, 8. September 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1694165040/170/
-- Freitag, 8. September 2023 11:30 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694165400/2878/
-- Freitag, 8. September 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1694165400/150/
+- Freitag, 8. September 2023 11:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1694165400/150/
 - Freitag, 8. September 2023 11:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694165760/2926/
-- Freitag, 8. September 2023 11:40 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1694166000/151/
+- Freitag, 8. September 2023 11:40 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694166000/2878/
 - Freitag, 8. September 2023 11:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694166120/2914/
 - Freitag, 8. September 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694166120/844/
 - Freitag, 8. September 2023 11:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1694166480/381/
 - Freitag, 8. September 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1694166480/153/
+- Freitag, 8. September 2023 11:50 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1694166600/151/
 - Freitag, 8. September 2023 11:54 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1694166840/134/
 - Freitag, 8. September 2023 12:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1694167200/169/
 - Freitag, 8. September 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694167200/2857/
@@ -116,7 +116,6 @@
 - Freitag, 8. September 2023 13:12 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694171520/2836/
 - Freitag, 8. September 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694171520/3238/
 - Dienstag, 12. September 2023 12:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1694513520/231/
-- Dienstag, 12. September 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1694513520/172/
 - Dienstag, 12. September 2023 12:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1694514240/231/
 - Dienstag, 12. September 2023 12:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1694514960/231/
 - Dienstag, 12. September 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1694514960/146/
