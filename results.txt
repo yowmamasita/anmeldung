@@ -1,3 +1,4 @@
+- Montag, 17. Juli 2023 10:06 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689581160/154/
 - Montag, 17. Juli 2023 10:18 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689581880/154/
 - Montag, 17. Juli 2023 10:42 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689583320/154/
 - Montag, 17. Juli 2023 10:54 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689584040/154/
@@ -13,7 +14,6 @@
 - Montag, 17. Juli 2023 12:54 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689591240/154/
 - Montag, 17. Juli 2023 14:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689595920/154/
 - Montag, 17. Juli 2023 14:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689596640/154/
-- Montag, 17. Juli 2023 14:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689597360/154/
 - Montag, 17. Juli 2023 14:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689598080/154/
 - Montag, 17. Juli 2023 15:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689599520/154/
 - Montag, 17. Juli 2023 15:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689600240/154/
@@ -24,7 +24,6 @@
 - Montag, 17. Juli 2023 16:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689603840/154/
 - Montag, 17. Juli 2023 16:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689604560/154/
 - Montag, 17. Juli 2023 16:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689605280/154/
-- Dienstag, 18. Juli 2023 09:42 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689666120/154/
 - Dienstag, 18. Juli 2023 09:54 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689666840/154/
 - Dienstag, 18. Juli 2023 10:06 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689667560/154/
 - Dienstag, 18. Juli 2023 10:18 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689668280/154/
