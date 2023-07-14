@@ -194,13 +194,13 @@
 - Freitag, 8. September 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694157120/2926/
 - Freitag, 8. September 2023 09:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1694157480/112/
 - Freitag, 8. September 2023 09:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1694157840/108/
-- Freitag, 8. September 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1694157840/153/
 - Freitag, 8. September 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1694157840/192/
 - Freitag, 8. September 2023 09:30 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694158200/2878/
 - Freitag, 8. September 2023 09:36 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1694158560/145/
 - Freitag, 8. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1694158560/103/
 - Freitag, 8. September 2023 09:42 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1694158920/140/
 - Freitag, 8. September 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1694158920/111/
+- Freitag, 8. September 2023 09:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1694159280/153/
 - Freitag, 8. September 2023 09:50 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1694159400/148/
 - Freitag, 8. September 2023 10:00 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1694160000/169/
 - Freitag, 8. September 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694160000/2857/
