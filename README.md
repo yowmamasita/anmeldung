@@ -8,8 +8,6 @@
 - Donnerstag, 31. August 2023 14:30 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693485000/2941/
 - Donnerstag, 31. August 2023 14:40 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693485600/2941/
 - Donnerstag, 31. August 2023 14:50 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693486200/2941/
-- Donnerstag, 31. August 2023 15:40 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693489200/2941/
-- Donnerstag, 31. August 2023 16:00 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1693490400/151/
 - Donnerstag, 31. August 2023 16:30 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693492200/2941/
 - Freitag, 1. September 2023 08:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693548600/2941/
 - Freitag, 1. September 2023 08:20 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693549200/2941/
