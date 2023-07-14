@@ -1,8 +1,0 @@
-- Freitag, 14. Juli 2023 10:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689323760/2887/
-- Donnerstag, 31. August 2023 10:00 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1693468800/151/
-- Donnerstag, 31. August 2023 10:10 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1693469400/151/
-- Donnerstag, 31. August 2023 10:20 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1693470000/151/
-- Donnerstag, 31. August 2023 10:40 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1693471200/151/
-- Donnerstag, 31. August 2023 10:50 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1693471800/151/
-- Donnerstag, 31. August 2023 11:00 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1693472400/151/
-- Donnerstag, 31. August 2023 11:10 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1693473000/151/
