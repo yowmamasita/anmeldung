@@ -141,4 +141,3 @@
 - Freitag, 8. September 2023 12:50 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694170200/2878/
 - Freitag, 8. September 2023 13:12 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694171520/2836/
 - Freitag, 8. September 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694171520/3238/
-- Freitag, 8. September 2023 13:48 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1694173680/145/
