@@ -1,4 +1,3 @@
-- Montag, 21. August 2023 11:06 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1692608760/112/
 - Dienstag, 5. September 2023 15:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693920960/2887/
 - Mittwoch, 6. September 2023 08:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693980000/2857/
 - Mittwoch, 6. September 2023 08:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693980720/2857/
@@ -181,8 +180,8 @@
 - Freitag, 8. September 2023 08:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694153880/2914/
 - Freitag, 8. September 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1694153880/112/
 - Freitag, 8. September 2023 08:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1694154240/154/
+- Freitag, 8. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1694154240/103/
 - Freitag, 8. September 2023 08:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1694154960/153/
-- Freitag, 8. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1694154960/103/
 - Freitag, 8. September 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1694154960/170/
 - Freitag, 8. September 2023 08:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1694155320/136/
 - Freitag, 8. September 2023 08:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1694155680/108/
