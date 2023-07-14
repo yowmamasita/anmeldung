@@ -125,7 +125,6 @@
 - Freitag, 8. September 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694171520/3238/
 - Dienstag, 12. September 2023 12:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1694513520/231/
 - Dienstag, 12. September 2023 12:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1694514240/231/
-- Dienstag, 12. September 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1694514240/146/
 - Dienstag, 12. September 2023 12:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1694514960/231/
 - Dienstag, 12. September 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1694514960/146/
 - Dienstag, 12. September 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1694514960/172/
