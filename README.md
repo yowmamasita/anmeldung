@@ -76,9 +76,16 @@
 - Freitag, 8. September 2023 13:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694172240/3238/
 - Freitag, 8. September 2023 13:36 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694172960/2836/
 - Dienstag, 12. September 2023 14:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1694520000/146/
+- Dienstag, 12. September 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1694520000/172/
 - Dienstag, 12. September 2023 14:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1694520720/146/
+- Dienstag, 12. September 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1694520720/172/
 - Dienstag, 12. September 2023 14:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1694521440/146/
+- Dienstag, 12. September 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1694521440/172/
 - Dienstag, 12. September 2023 14:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1694522160/146/
+- Dienstag, 12. September 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1694522160/172/
 - Dienstag, 12. September 2023 14:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1694522880/146/
+- Dienstag, 12. September 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1694522880/172/
 - Dienstag, 12. September 2023 15:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1694523600/146/
+- Dienstag, 12. September 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1694523600/172/
 - Dienstag, 12. September 2023 15:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1694524320/146/
+- Dienstag, 12. September 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1694524320/172/
