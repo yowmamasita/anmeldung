@@ -6,8 +6,7 @@
 - Freitag, 8. September 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694159280/2866/
 - Freitag, 8. September 2023 10:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694160720/2857/
 - Freitag, 8. September 2023 10:20 Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1694161200/189/
-- Freitag, 8. September 2023 10:30 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694161800/2839/
-- Freitag, 8. September 2023  Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1694161800/189/
+- Freitag, 8. September 2023 10:30 Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1694161800/189/
 - Freitag, 8. September 2023 10:36 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694162160/2836/
 - Freitag, 8. September 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694162160/3238/
 - Freitag, 8. September 2023 10:40 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694162400/2941/
@@ -81,11 +80,9 @@
 - Dienstag, 12. September 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1694529360/172/
 - Dienstag, 12. September 2023 16:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1694530080/146/
 - Dienstag, 12. September 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1694530080/172/
-- Dienstag, 12. September 2023 17:00 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1694530800/146/
-- Dienstag, 12. September 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1694530800/172/
+- Dienstag, 12. September 2023 17:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1694530800/172/
 - Dienstag, 12. September 2023 17:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1694531520/146/
 - Dienstag, 12. September 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1694531520/172/
 - Dienstag, 12. September 2023 17:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1694532240/146/
 - Dienstag, 12. September 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1694532240/172/
 - Dienstag, 12. September 2023 17:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1694532960/231/
-- Dienstag, 12. September 2023 17:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1694533680/231/
