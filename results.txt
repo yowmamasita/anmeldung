@@ -121,8 +121,7 @@
 - Donnerstag, 7. September 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1694099520/168/
 - Donnerstag, 7. September 2023 17:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1694100240/169/
 - Donnerstag, 7. September 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694100240/2857/
-- Donnerstag, 7. September 2023 17:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1694100960/169/
-- Donnerstag, 7. September 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1694100960/168/
+- Donnerstag, 7. September 2023 17:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1694100960/168/
 - Freitag, 8. September 2023 07:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694150640/3238/
 - Freitag, 8. September 2023 07:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694151000/2908/
 - Freitag, 8. September 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694151000/2911/
