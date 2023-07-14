@@ -113,7 +113,6 @@
 - Freitag, 8. September 2023 08:36 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694154960/2860/
 - Freitag, 8. September 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1694154960/154/
 - Freitag, 8. September 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1694154960/170/
-- Freitag, 8. September 2023 08:42 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1694155320/140/
 - Freitag, 8. September 2023 08:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1694155680/381/
 - Freitag, 8. September 2023 09:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694156400/2848/
 - Freitag, 8. September 2023  Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1694156400/169/
