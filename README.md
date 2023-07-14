@@ -27,8 +27,8 @@
 - Freitag, 8. September 2023 09:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1694157840/170/
 - Freitag, 8. September 2023 09:30 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1694158200/147/
 - Freitag, 8. September 2023 09:36 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694158560/2887/
-- Freitag, 8. September 2023 09:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1694158800/150/
 - Freitag, 8. September 2023 09:50 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694159400/2878/
+- Freitag, 8. September 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1694159400/150/
 - Freitag, 8. September 2023 10:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694160000/2857/
 - Freitag, 8. September 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694160000/2941/
 - Freitag, 8. September 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694160000/2878/
