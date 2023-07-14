@@ -233,7 +233,6 @@
 - Freitag, 8. September 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694156400/2860/
 - Freitag, 8. September 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694156400/2854/
 - Freitag, 8. September 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694156400/922/
-- Freitag, 8. September 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1694156400/145/
 - Freitag, 8. September 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1694156400/170/
 - Freitag, 8. September 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694156400/2866/
 - Freitag, 8. September 2023 09:06 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1694156760/134/
@@ -251,6 +250,7 @@
 - Freitag, 8. September 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1694157120/153/
 - Freitag, 8. September 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694157120/2932/
 - Freitag, 8. September 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1694157120/154/
+- Freitag, 8. September 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1694157120/145/
 - Freitag, 8. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1694157120/103/
 - Freitag, 8. September 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1694157120/142/
 - Freitag, 8. September 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1694157120/192/
