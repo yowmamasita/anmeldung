@@ -20,8 +20,7 @@
 - Donnerstag, 7. September 2023 14:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694088000/2851/
 - Donnerstag, 7. September 2023 14:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1694088720/143/
 - Donnerstag, 7. September 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694088720/2851/
-- Donnerstag, 7. September 2023 14:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1694089440/143/
-- Donnerstag, 7. September 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694089440/2851/
+- Donnerstag, 7. September 2023 14:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694089440/2851/
 - Donnerstag, 7. September 2023 14:36 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1694090160/143/
 - Donnerstag, 7. September 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694090160/2851/
 - Donnerstag, 7. September 2023 14:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1694090880/143/
