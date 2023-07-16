@@ -34,8 +34,7 @@
 - Donnerstag, 7. September 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694086560/2851/
 - Donnerstag, 7. September 2023 13:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1694087280/143/
 - Donnerstag, 7. September 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694087280/2851/
-- Donnerstag, 7. September 2023 14:00 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1694088000/143/
-- Donnerstag, 7. September 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694088000/2851/
+- Donnerstag, 7. September 2023 14:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694088000/2851/
 - Donnerstag, 7. September 2023 14:12 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1694088720/143/
 - Donnerstag, 7. September 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694088720/2851/
 - Donnerstag, 7. September 2023 14:24 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1694089440/143/
@@ -56,3 +55,4 @@
 - Donnerstag, 7. September 2023 17:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694100960/2851/
 - Donnerstag, 7. September 2023 17:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1694101680/143/
 - Donnerstag, 7. September 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694101680/2851/
+- Dienstag, 12. September 2023 11:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694511360/2896/
