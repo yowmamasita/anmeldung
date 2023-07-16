@@ -5,7 +5,6 @@
 - Donnerstag, 14. September 2023 15:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1694698560/231/
 - Donnerstag, 14. September 2023 15:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1694699280/231/
 - Donnerstag, 14. September 2023 16:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1694700720/172/
-- Donnerstag, 14. September 2023 16:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1694702160/146/
 - Donnerstag, 14. September 2023 16:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1694702880/146/
 - Donnerstag, 14. September 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1694702880/172/
 - Donnerstag, 14. September 2023 17:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1694703600/172/
