@@ -32,8 +32,8 @@
 - Montag, 11. September 2023 10:30 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694421000/2884/
 - Montag, 11. September 2023 10:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694421360/2845/
 - Montag, 11. September 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694421360/2848/
-- Montag, 11. September 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694421360/2887/
 - Montag, 11. September 2023 10:48 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1694422080/141/
+- Montag, 11. September 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694422080/2887/
 - Montag, 11. September 2023 10:54 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694422440/844/
 - Montag, 11. September 2023 11:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694422800/2836/
 - Montag, 11. September 2023  Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1694422800/147/
@@ -100,4 +100,3 @@
 - Freitag, 15. September 2023 12:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1694772000/231/
 - Freitag, 15. September 2023 12:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1694772720/172/
 - Freitag, 15. September 2023 12:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1694773440/231/
-- Freitag, 15. September 2023 12:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1694774160/231/
