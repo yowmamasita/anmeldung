@@ -7,7 +7,6 @@
 - Montag, 17. Juli 2023 08:54 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1689576840/133/
 - Montag, 17. Juli 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689576840/312/
 - Montag, 17. Juli 2023 09:06 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1689577560/133/
-- Montag, 17. Juli 2023 09:24 Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1689578640/167/
 - Montag, 17. Juli 2023 09:30 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1689579000/133/
 - Montag, 17. Juli 2023 09:42 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1689579720/133/
 - Montag, 17. Juli 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689579720/312/
@@ -27,5 +26,3 @@
 - Montag, 17. Juli 2023 13:54 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1689594840/133/
 - Montag, 17. Juli 2023 14:06 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1689595560/133/
 - Montag, 17. Juli 2023  Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689595560/312/
-- Montag, 17. Juli 2023 14:42 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1689597720/133/
-- Montag, 17. Juli 2023 14:54 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1689598440/133/
