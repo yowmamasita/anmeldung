@@ -194,6 +194,5 @@
 - Montag, 11. September 2023 14:50 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694436600/2941/
 - Montag, 11. September 2023 14:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1694436840/135/
 - Montag, 11. September 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694436840/2911/
-- Montag, 11. September 2023 15:06 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1694437560/135/
-- Montag, 11. September 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694437560/2911/
+- Montag, 11. September 2023 15:06 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694437560/2911/
 - Montag, 11. September 2023 15:18 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694438280/2911/
