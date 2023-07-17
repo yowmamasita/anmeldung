@@ -1,5 +1,6 @@
-- Montag, 17. Juli 2023 07:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689571800/312/
-- Montag, 17. Juli 2023 08:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689575400/109/
-- Montag, 17. Juli 2023 08:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689576120/109/
-- Montag, 17. Juli 2023 10:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689581880/109/
+- Montag, 17. Juli 2023 08:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689575400/312/
 - Montag, 17. Juli 2023 10:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689583320/109/
+- Montag, 17. Juli 2023 13:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689594120/312/
+- Dienstag, 18. Juli 2023 11:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689672240/3238/
+- Dienstag, 18. Juli 2023 15:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689687360/922/
+- Dienstag, 18. Juli 2023 17:42 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689694920/2839/
