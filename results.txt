@@ -1,4 +1,3 @@
-- Montag, 17. Juli 2023 11:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689585480/2914/
 - Montag, 17. Juli 2023 11:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689586200/2914/
 - Montag, 17. Juli 2023 11:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689586920/2914/
 - Montag, 17. Juli 2023 12:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689590880/153/
@@ -6,6 +5,4 @@
 - Montag, 17. Juli 2023 13:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689592680/2914/
 - Montag, 17. Juli 2023 13:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689593040/153/
 - Montag, 17. Juli 2023 13:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689593400/2914/
-- Montag, 17. Juli 2023 13:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689593760/153/
-- Montag, 17. Juli 2023 14:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689595920/3238/
-- Montag, 17. Juli 2023 14:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689597360/153/
+- Montag, 17. Juli 2023 14:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689598080/153/
