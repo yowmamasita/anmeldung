@@ -5,5 +5,3 @@
 - Montag, 17. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689575760/103/
 - Montag, 17. Juli 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689575760/2875/
 - Montag, 17. Juli 2023 09:00 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689577200/103/
-- Montag, 17. Juli 2023 09:36 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689579360/103/
-- Montag, 17. Juli 2023 11:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689586200/111/
