@@ -54,9 +54,9 @@
 - Montag, 11. September 2023 09:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1694416800/149/
 - Montag, 11. September 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694416800/2881/
 - Montag, 11. September 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1694416800/150/
-- Montag, 11. September 2023 09:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1694417040/106/
-- Montag, 11. September 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694417040/2887/
+- Montag, 11. September 2023 09:24 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694417040/2887/
 - Montag, 11. September 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694417040/2932/
+- Montag, 11. September 2023 09:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1694417760/106/
 - Montag, 11. September 2023 09:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694418480/2854/
 - Montag, 11. September 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1694418480/142/
 - Montag, 11. September 2023 09:50 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1694418600/151/
@@ -180,3 +180,4 @@
 - Mittwoch, 13. September 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694587680/2899/
 - Mittwoch, 13. September 2023 09:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694589120/2896/
 - Mittwoch, 13. September 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694589120/2899/
+- Mittwoch, 13. September 2023 10:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694592720/2896/
