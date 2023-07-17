@@ -191,4 +191,3 @@
 - Montag, 11. September 2023 15:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1694438640/381/
 - Montag, 11. September 2023 15:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1694440080/381/
 - Dienstag, 12. September 2023 14:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694520000/2896/
-- Mittwoch, 13. September 2023 13:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694604960/2899/
