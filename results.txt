@@ -77,7 +77,6 @@
 - Montag, 11. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1694435040/103/
 - Montag, 11. September 2023 15:00 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694437200/2908/
 - Montag, 11. September 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1694437200/381/
-- Montag, 11. September 2023 15:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694437560/2914/
 - Mittwoch, 13. September 2023 13:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694602800/2899/
 - Mittwoch, 13. September 2023 13:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694603520/2899/
 - Mittwoch, 13. September 2023 13:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694604240/2899/
