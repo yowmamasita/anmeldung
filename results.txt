@@ -6,14 +6,12 @@
 - Montag, 17. Juli 2023 12:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689588720/2845/
 - Montag, 17. Juli 2023 12:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689589440/2845/
 - Montag, 17. Juli 2023 12:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689590160/2848/
-- Montag, 17. Juli 2023 13:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1689593040/106/
 - Montag, 17. Juli 2023 14:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689595920/2845/
 - Mittwoch, 19. Juli 2023 10:12 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689754320/2893/
 - Mittwoch, 19. Juli 2023 15:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689773760/153/
 - Mittwoch, 19. Juli 2023 16:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689775920/153/
 - Mittwoch, 19. Juli 2023 16:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689776640/153/
 - Mittwoch, 19. Juli 2023 16:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689777360/153/
-- Mittwoch, 19. Juli 2023 16:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689778080/153/
 - Donnerstag, 20. Juli 2023 10:06 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689840360/153/
 - Donnerstag, 20. Juli 2023 10:18 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689841080/153/
 - Donnerstag, 20. Juli 2023 10:30 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689841800/153/
@@ -27,7 +25,6 @@
 - Donnerstag, 20. Juli 2023 12:18 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689848280/153/
 - Donnerstag, 20. Juli 2023 12:30 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689849000/153/
 - Donnerstag, 20. Juli 2023 12:54 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689850440/153/
-- Donnerstag, 20. Juli 2023 14:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689855840/153/
 - Donnerstag, 20. Juli 2023 14:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689856560/153/
 - Donnerstag, 20. Juli 2023 14:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689857280/153/
 - Donnerstag, 20. Juli 2023 15:00 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689858000/153/
@@ -38,5 +35,6 @@
 - Donnerstag, 20. Juli 2023 16:00 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689861600/153/
 - Donnerstag, 20. Juli 2023 16:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689862320/153/
 - Donnerstag, 20. Juli 2023 16:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689863040/153/
-- Donnerstag, 20. Juli 2023 16:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689863760/153/
 - Donnerstag, 20. Juli 2023 16:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689864480/153/
+- Mittwoch, 2. August 2023 13:00 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1690974000/172/
+- Mittwoch, 16. August 2023 12:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1692182880/168/
