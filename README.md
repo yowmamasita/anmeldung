@@ -41,8 +41,6 @@
 - Dienstag, 18. Juli 2023 10:36 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689669360/111/
 - Dienstag, 18. Juli 2023 11:00 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689670800/111/
 - Dienstag, 18. Juli 2023 12:24 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689675840/111/
-- Dienstag, 18. Juli 2023 16:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1689690960/146/
-- Mittwoch, 19. Juli 2023 10:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1689755040/146/
 - Mittwoch, 19. Juli 2023 10:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1689755760/146/
 - Mittwoch, 19. Juli 2023 10:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1689756480/146/
 - Donnerstag, 20. Juli 2023 10:36 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1689842160/146/
