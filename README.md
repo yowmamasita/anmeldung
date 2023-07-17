@@ -1,2 +1,81 @@
 # List of available Anmeldung appointments as of $NOW
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122254,122252,329742,122260,329745,122262,329748,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,317869,122281,327352,122279,329772,122283,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
+- Montag, 17. Juli 2023 07:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689572520/312/
+- Montag, 17. Juli 2023 07:54 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689573240/312/
+- Montag, 17. Juli 2023 08:06 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689573960/312/
+- Montag, 17. Juli 2023 08:18 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689574680/312/
+- Montag, 17. Juli 2023 08:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689575400/312/
+- Montag, 17. Juli 2023 08:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689576120/312/
+- Montag, 17. Juli 2023 08:54 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689576840/312/
+- Montag, 17. Juli 2023 09:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689579000/312/
+- Montag, 17. Juli 2023 10:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689581160/2908/
+- Montag, 17. Juli 2023 10:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689582600/312/
+- Montag, 17. Juli 2023 11:06 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689584760/312/
+- Montag, 17. Juli 2023 11:18 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689585480/312/
+- Montag, 17. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689585480/111/
+- Montag, 17. Juli 2023 11:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689586200/312/
+- Montag, 17. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689586200/111/
+- Montag, 17. Juli 2023 11:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689586920/312/
+- Montag, 17. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689586920/111/
+- Montag, 17. Juli 2023 11:54 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689587640/312/
+- Montag, 17. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689587640/111/
+- Montag, 17. Juli 2023 12:06 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689588360/312/
+- Montag, 17. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689588360/111/
+- Montag, 17. Juli 2023 12:18 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689589080/312/
+- Montag, 17. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689589080/111/
+- Montag, 17. Juli 2023 12:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689589800/312/
+- Montag, 17. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689589800/111/
+- Montag, 17. Juli 2023 12:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689590160/153/
+- Montag, 17. Juli 2023 12:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689590520/312/
+- Montag, 17. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689590520/111/
+- Montag, 17. Juli 2023 12:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689590880/153/
+- Montag, 17. Juli 2023 12:54 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689591240/312/
+- Montag, 17. Juli 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689591240/111/
+- Montag, 17. Juli 2023 13:00 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689591600/153/
+- Montag, 17. Juli 2023 13:06 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689591960/312/
+- Montag, 17. Juli 2023 13:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689592320/153/
+- Montag, 17. Juli 2023 13:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689592680/111/
+- Montag, 17. Juli 2023 13:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689593040/153/
+- Montag, 17. Juli 2023 13:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689593400/111/
+- Montag, 17. Juli 2023 13:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689593760/153/
+- Montag, 17. Juli 2023 13:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689594120/111/
+- Montag, 17. Juli 2023 13:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689594480/153/
+- Montag, 17. Juli 2023 13:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689594840/111/
+- Montag, 17. Juli 2023 14:00 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689595200/153/
+- Montag, 17. Juli 2023 14:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689595920/153/
+- Montag, 17. Juli 2023 14:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689596640/153/
+- Montag, 17. Juli 2023 14:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689597000/111/
+- Montag, 17. Juli 2023 14:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689597360/153/
+- Montag, 17. Juli 2023 14:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689597720/111/
+- Montag, 17. Juli 2023 14:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689598080/153/
+- Montag, 17. Juli 2023 14:54 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689598440/111/
+- Dienstag, 18. Juli 2023 10:00 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689667200/111/
+- Dienstag, 18. Juli 2023 10:12 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689667920/111/
+- Dienstag, 18. Juli 2023 10:24 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689668640/111/
+- Dienstag, 18. Juli 2023 10:36 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689669360/111/
+- Dienstag, 18. Juli 2023 10:48 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689670080/111/
+- Dienstag, 18. Juli 2023 11:00 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689670800/111/
+- Dienstag, 18. Juli 2023 11:12 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689671520/111/
+- Dienstag, 18. Juli 2023 11:24 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689672240/111/
+- Dienstag, 18. Juli 2023 11:36 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689672960/111/
+- Dienstag, 18. Juli 2023 11:48 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689673680/111/
+- Dienstag, 18. Juli 2023 12:00 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689674400/111/
+- Dienstag, 18. Juli 2023 12:12 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689675120/111/
+- Dienstag, 18. Juli 2023 12:24 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689675840/111/
+- Dienstag, 18. Juli 2023 14:36 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689683760/111/
+- Dienstag, 18. Juli 2023 14:48 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689684480/111/
+- Dienstag, 18. Juli 2023 15:00 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689685200/111/
+- Dienstag, 18. Juli 2023 15:12 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689685920/111/
+- Dienstag, 18. Juli 2023 15:24 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689686640/111/
+- Dienstag, 18. Juli 2023 15:36 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689687360/111/
+- Dienstag, 18. Juli 2023 15:48 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689688080/111/
+- Dienstag, 18. Juli 2023 16:00 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689688800/111/
+- Dienstag, 18. Juli 2023 16:12 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689689520/111/
+- Dienstag, 18. Juli 2023 16:24 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689690240/111/
+- Dienstag, 18. Juli 2023 16:36 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689690960/111/
+- Dienstag, 18. Juli 2023 16:48 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689691680/111/
+- Dienstag, 18. Juli 2023 17:00 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689692400/111/
+- Dienstag, 18. Juli 2023 17:12 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689693120/111/
+- Dienstag, 18. Juli 2023 17:24 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689693840/111/
+- Dienstag, 18. Juli 2023 17:36 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689694560/111/
+- Dienstag, 18. Juli 2023 17:48 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689695280/111/
