@@ -29,8 +29,6 @@
 - Montag, 17. Juli 2023 13:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689593400/312/
 - Montag, 17. Juli 2023 13:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689594120/312/
 - Montag, 17. Juli 2023 13:54 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689594840/312/
-- Montag, 17. Juli 2023 14:06 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689595560/312/
 - Montag, 17. Juli 2023 14:18 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689596280/312/
 - Montag, 17. Juli 2023 14:30 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689597000/312/
 - Montag, 17. Juli 2023 14:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689597720/312/
-- Montag, 17. Juli 2023 14:54 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689598440/312/
