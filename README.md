@@ -17,11 +17,11 @@
 - Montag, 11. September 2023 09:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1694416200/147/
 - Montag, 11. September 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694416200/2878/
 - Montag, 11. September 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694416200/2884/
-- Montag, 11. September 2023 09:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694416320/2848/
 - Montag, 11. September 2023 09:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694416680/2908/
 - Montag, 11. September 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694416680/2911/
 - Montag, 11. September 2023 09:20 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694416800/2881/
 - Montag, 11. September 2023 09:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694417040/2845/
+- Montag, 11. September 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694417040/2848/
 - Montag, 11. September 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694417040/2839/
 - Montag, 11. September 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1694417040/170/
 - Montag, 11. September 2023 09:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694417760/2926/
