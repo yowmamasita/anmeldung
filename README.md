@@ -89,7 +89,6 @@
 - Montag, 11. September 2023 13:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694430000/2836/
 - Montag, 11. September 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694430000/3238/
 - Montag, 11. September 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694430000/2887/
-- Montag, 11. September 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694430000/2854/
 - Montag, 11. September 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1694430000/149/
 - Montag, 11. September 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694430000/2881/
 - Montag, 11. September 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1694430000/192/
@@ -97,6 +96,7 @@
 - Montag, 11. September 2023 13:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694430600/2941/
 - Montag, 11. September 2023 13:12 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1694430720/140/
 - Montag, 11. September 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694430720/2839/
+- Montag, 11. September 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694430720/2854/
 - Montag, 11. September 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694430720/2926/
 - Montag, 11. September 2023 13:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1694431200/147/
 - Montag, 11. September 2023 13:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694431440/922/
