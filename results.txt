@@ -1,5 +1,4 @@
 - Montag, 17. Juli 2023 09:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689577200/2851/
-- Donnerstag, 10. August 2023 15:36 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1691674560/103/
 - Donnerstag, 17. August 2023 15:00 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1692277200/103/
 - Donnerstag, 17. August 2023 15:12 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1692277920/103/
 - Donnerstag, 17. August 2023 15:24 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1692278640/103/
@@ -25,7 +24,6 @@
 - Donnerstag, 24. August 2023 16:24 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1692887040/103/
 - Donnerstag, 24. August 2023 16:36 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1692887760/103/
 - Donnerstag, 24. August 2023 16:48 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1692888480/103/
-- Donnerstag, 24. August 2023 17:00 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1692889200/103/
 - Donnerstag, 24. August 2023 17:12 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1692889920/103/
 - Donnerstag, 24. August 2023 17:48 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1692892080/103/
 - Donnerstag, 31. August 2023 15:00 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693486800/103/
