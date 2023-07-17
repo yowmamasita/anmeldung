@@ -147,7 +147,6 @@
 - Montag, 11. September 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694435760/2848/
 - Montag, 11. September 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1694435760/381/
 - Montag, 11. September 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694435760/3238/
-- Montag, 11. September 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1694435760/167/
 - Montag, 11. September 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694435760/2860/
 - Montag, 11. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1694435760/103/
 - Montag, 11. September 2023 14:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694436120/2911/
