@@ -4,4 +4,3 @@
 - Montag, 17. Juli 2023 11:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689585120/2896/
 - Montag, 17. Juli 2023 11:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689585840/2896/
 - Montag, 17. Juli 2023 11:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689586560/2896/
-- Montag, 17. Juli 2023 11:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689587280/2896/
