@@ -4,20 +4,16 @@
 - Montag, 17. Juli 2023 09:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689578280/112/
 - Montag, 17. Juli 2023 09:30 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689579000/112/
 - Montag, 17. Juli 2023 09:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689579720/112/
-- Montag, 17. Juli 2023 10:12 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689581520/2845/
 - Montag, 17. Juli 2023 10:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1689581880/112/
 - Montag, 17. Juli 2023 11:30 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1689586200/111/
-- Mittwoch, 19. Juli 2023 08:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689748560/154/
+- Mittwoch, 19. Juli 2023 07:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689744240/3238/
 - Mittwoch, 19. Juli 2023 08:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689749280/154/
 - Mittwoch, 19. Juli 2023 09:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689750000/154/
 - Mittwoch, 19. Juli 2023 09:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689750720/154/
 - Mittwoch, 19. Juli 2023 09:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689751440/154/
 - Mittwoch, 19. Juli 2023 09:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689752160/154/
-- Mittwoch, 19. Juli 2023 09:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689752880/154/
 - Mittwoch, 19. Juli 2023 10:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689753600/154/
-- Mittwoch, 19. Juli 2023 10:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689754320/154/
 - Mittwoch, 19. Juli 2023 10:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689755040/154/
-- Mittwoch, 19. Juli 2023 10:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689755760/154/
 - Donnerstag, 20. Juli 2023 15:12 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689858720/103/
 - Donnerstag, 20. Juli 2023 15:24 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689859440/103/
 - Donnerstag, 20. Juli 2023 15:36 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689860160/103/
@@ -28,7 +24,6 @@
 - Donnerstag, 20. Juli 2023 16:48 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689864480/103/
 - Donnerstag, 20. Juli 2023 17:00 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689865200/103/
 - Donnerstag, 20. Juli 2023 17:12 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689865920/103/
-- Donnerstag, 20. Juli 2023 17:24 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689866640/103/
 - Donnerstag, 20. Juli 2023 17:36 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689867360/103/
 - Donnerstag, 20. Juli 2023 17:48 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689868080/103/
 - Donnerstag, 27. Juli 2023 15:00 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1690462800/103/
