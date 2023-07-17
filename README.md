@@ -4,7 +4,6 @@
 - Montag, 17. Juli 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689575760/3238/
 - Montag, 17. Juli 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689575760/2851/
 - Montag, 17. Juli 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689575760/103/
-- Montag, 17. Juli 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689575760/2875/
 - Montag, 17. Juli 2023 08:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689576480/3238/
 - Montag, 17. Juli 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689576480/2851/
 - Montag, 17. Juli 2023 09:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689577200/2851/
@@ -47,7 +46,6 @@
 - Montag, 14. August 2023 10:24 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692001440/2920/
 - Montag, 14. August 2023 10:36 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692002160/2920/
 - Montag, 14. August 2023 10:48 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692002880/2920/
-- Montag, 14. August 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692002880/2872/
 - Montag, 14. August 2023 11:00 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692003600/2920/
 - Montag, 14. August 2023 11:12 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692004320/2920/
 - Montag, 14. August 2023 11:24 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692005040/2920/
