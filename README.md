@@ -74,7 +74,6 @@
 - Dienstag, 12. September 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694516400/2878/
 - Dienstag, 12. September 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1694516400/149/
 - Dienstag, 12. September 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694516400/2881/
-- Dienstag, 12. September 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1694516400/191/
 - Dienstag, 12. September 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694516400/922/
 - Dienstag, 12. September 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1694516400/150/
 - Dienstag, 12. September 2023 13:06 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1694516760/141/
@@ -84,6 +83,7 @@
 - Dienstag, 12. September 2023 13:10 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1694517000/151/
 - Dienstag, 12. September 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694517000/2941/
 - Dienstag, 12. September 2023 13:12 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694517120/841/
+- Dienstag, 12. September 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1694517120/191/
 - Dienstag, 12. September 2023 14:00 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1694520000/147/
 - Dienstag, 12. September 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694520000/841/
 - Dienstag, 12. September 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694520000/2941/
