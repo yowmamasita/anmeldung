@@ -3,6 +3,4 @@
 - Mittwoch, 19. Juli 2023 07:30 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689744600/922/
 - Mittwoch, 19. Juli 2023 07:42 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1689745320/192/
 - Donnerstag, 20. Juli 2023 13:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1689852960/168/
-- Donnerstag, 20. Juli 2023 17:36 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689867360/143/
-- Mittwoch, 2. August 2023 10:12 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690963920/2938/
 - Dienstag, 15. August 2023 13:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1692099360/381/
