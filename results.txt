@@ -1,2 +1,6 @@
-- Dienstag, 12. September 2023 07:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1694496960/153/
-- Dienstag, 12. September 2023 10:36 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1694507760/145/
+- Dienstag, 18. Juli 2023 09:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689665760/2848/
+- Dienstag, 18. Juli 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689665760/3238/
+- Freitag, 21. Juli 2023 11:18 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689931080/844/
+- Freitag, 4. August 2023 07:42 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691127720/841/
+- Freitag, 4. August 2023 10:24 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691137440/2836/
+- Freitag, 11. August 2023 10:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1691742000/147/
