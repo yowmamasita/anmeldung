@@ -1,5 +1,4 @@
-- Mittwoch, 16. August 2023 10:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692172800/2836/
-- Donnerstag, 31. August 2023 13:24 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1693481040/145/
+- Donnerstag, 7. September 2023 10:06 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694073960/2839/
 - Dienstag, 12. September 2023 10:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694506320/2908/
 - Dienstag, 12. September 2023 10:20 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694506800/2941/
 - Dienstag, 12. September 2023 10:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694507040/2914/
@@ -99,7 +98,6 @@
 - Dienstag, 12. September 2023 15:12 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694524320/2866/
 - Dienstag, 12. September 2023 15:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694524680/2839/
 - Dienstag, 12. September 2023 15:20 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694524800/2941/
-- Dienstag, 12. September 2023 15:30 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1694525400/140/
 - Dienstag, 12. September 2023 15:36 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694525760/841/
 - Dienstag, 12. September 2023 15:40 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694526000/2878/
 - Dienstag, 12. September 2023 16:06 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694527560/2839/
