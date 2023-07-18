@@ -34,7 +34,6 @@
 - Dienstag, 12. September 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1694521440/154/
 - Dienstag, 12. September 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694521440/2866/
 - Dienstag, 12. September 2023 14:30 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694521800/2836/
-- Dienstag, 12. September 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694521800/2839/
 - Dienstag, 12. September 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694521800/2941/
 - Dienstag, 12. September 2023 14:36 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694522160/2908/
 - Dienstag, 12. September 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694522160/2911/
