@@ -3,7 +3,6 @@
 - Mittwoch, 6. September 2023 13:30 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693999800/2887/
 - Donnerstag, 7. September 2023 16:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694095920/2932/
 - Dienstag, 12. September 2023 12:48 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694515680/2908/
-- Dienstag, 12. September 2023 13:48 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1694519280/103/
 - Dienstag, 12. September 2023 14:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694520720/2908/
 - Dienstag, 12. September 2023 14:24 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694521440/2908/
 - Dienstag, 12. September 2023 14:36 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694522160/2908/
