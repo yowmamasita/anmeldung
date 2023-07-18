@@ -3,5 +3,4 @@
 - Dienstag, 18. Juli 2023 08:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689660720/153/
 - Dienstag, 18. Juli 2023 08:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689661440/153/
 - Dienstag, 18. Juli 2023 08:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689662160/153/
-- Dienstag, 18. Juli 2023 12:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689676560/153/
 - Dienstag, 18. Juli 2023 12:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689677280/153/
