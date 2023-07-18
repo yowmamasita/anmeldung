@@ -8,4 +8,6 @@
 - Dienstag, 18. Juli 2023 16:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689690960/2848/
 - Dienstag, 18. Juli 2023 17:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689692400/2848/
 - Dienstag, 18. Juli 2023 17:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689693120/2848/
-- Dienstag, 18. Juli 2023 17:18 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689693480/2836/
+- Mittwoch, 19. Juli 2023 11:00 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1689757200/147/
+- Donnerstag, 20. Juli 2023 14:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1689855000/147/
+- Donnerstag, 24. August 2023 10:24 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692865440/904/
