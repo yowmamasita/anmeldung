@@ -13,4 +13,3 @@
 - Mittwoch, 19. Juli 2023 10:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689756480/3238/
 - Mittwoch, 19. Juli 2023 12:18 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1689761880/192/
 - Mittwoch, 19. Juli 2023 13:06 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1689764760/192/
-- Mittwoch, 19. Juli 2023 13:18 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1689765480/192/
