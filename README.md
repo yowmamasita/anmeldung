@@ -4,6 +4,4 @@
 - Dienstag, 18. Juli 2023 12:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689674400/3238/
 - Dienstag, 18. Juli 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1689674400/172/
 - Dienstag, 18. Juli 2023 12:36 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1689676560/134/
-- Dienstag, 18. Juli 2023 15:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689688080/2899/
-- Dienstag, 8. August 2023 17:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1691508000/149/
 - Donnerstag, 24. August 2023 15:12 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1692882720/103/
