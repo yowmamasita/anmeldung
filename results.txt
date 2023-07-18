@@ -40,7 +40,6 @@
 - Dienstag, 12. September 2023 13:00 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694516400/2887/
 - Dienstag, 12. September 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694516400/2878/
 - Dienstag, 12. September 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694516400/2881/
-- Dienstag, 12. September 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1694516400/192/
 - Dienstag, 12. September 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694516400/2926/
 - Dienstag, 12. September 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694516400/2866/
 - Dienstag, 12. September 2023 13:06 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694516760/2836/
@@ -51,6 +50,7 @@
 - Dienstag, 12. September 2023 13:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694517120/2908/
 - Dienstag, 12. September 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694517120/2914/
 - Dienstag, 12. September 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694517120/841/
+- Dienstag, 12. September 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1694517120/192/
 - Dienstag, 12. September 2023 13:20 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1694517600/149/
 - Dienstag, 12. September 2023 13:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694518560/922/
 - Dienstag, 12. September 2023 14:00 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1694520000/147/
