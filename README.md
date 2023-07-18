@@ -12,16 +12,12 @@
 - Dienstag, 18. Juli 2023 12:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689675120/2872/
 - Dienstag, 18. Juli 2023 12:18 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689675480/154/
 - Dienstag, 18. Juli 2023 12:36 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1689676560/134/
-- Dienstag, 18. Juli 2023 13:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1689678720/168/
 - Dienstag, 18. Juli 2023 13:30 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1689679800/149/
 - Dienstag, 18. Juli 2023 14:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689683760/922/
 - Dienstag, 18. Juli 2023 14:40 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1689684000/149/
 - Dienstag, 18. Juli 2023 15:00 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689685200/922/
 - Dienstag, 18. Juli 2023 15:12 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689685920/922/
-- Dienstag, 18. Juli 2023 15:24 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689686640/2872/
-- Dienstag, 18. Juli 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689686640/922/
+- Dienstag, 18. Juli 2023 15:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689686640/922/
 - Dienstag, 18. Juli 2023 15:36 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1689687360/134/
 - Dienstag, 18. Juli 2023 16:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689688800/154/
-- Dienstag, 18. Juli 2023 16:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689690960/922/
 - Dienstag, 18. Juli 2023 17:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689695280/154/
-- Freitag, 18. August 2023 12:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1692353520/169/
