@@ -20,7 +20,6 @@
 - Donnerstag, 20. Juli 2023 16:42 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689864120/2836/
 - Donnerstag, 20. Juli 2023 17:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689868080/2887/
 - Freitag, 21. Juli 2023 12:48 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689936480/2932/
-- Montag, 24. Juli 2023 08:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690179120/2872/
 - Donnerstag, 10. August 2023 09:36 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1691652960/102/
 - Montag, 14. August 2023 08:36 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1691994960/143/
 - Donnerstag, 31. August 2023 12:48 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693478880/103/
