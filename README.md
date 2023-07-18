@@ -3,3 +3,4 @@
 - Dienstag, 18. Juli 2023 10:48 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689670080/2911/
 - Dienstag, 18. Juli 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689670080/2848/
 - Dienstag, 18. Juli 2023 11:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689672240/2848/
+- Dienstag, 18. Juli 2023 17:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689695280/154/
