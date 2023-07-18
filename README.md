@@ -5,3 +5,10 @@
 - Mittwoch, 19. Juli 2023 07:54 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689746040/922/
 - Mittwoch, 19. Juli 2023 08:06 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689746760/922/
 - Mittwoch, 19. Juli 2023 08:18 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689747480/922/
+- Mittwoch, 19. Juli 2023 08:42 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1689748920/192/
+- Mittwoch, 19. Juli 2023 09:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1689751440/168/
+- Mittwoch, 19. Juli 2023 09:42 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1689752520/192/
+- Mittwoch, 19. Juli 2023 09:54 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1689753240/192/
+- Mittwoch, 19. Juli 2023 10:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689756480/2896/
+- Mittwoch, 19. Juli 2023 11:42 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1689759720/192/
+- Mittwoch, 19. Juli 2023 12:06 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1689761160/192/
