@@ -5,4 +5,5 @@
 - Mittwoch, 19. Juli 2023 07:54 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689746040/922/
 - Mittwoch, 19. Juli 2023 08:06 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689746760/922/
 - Mittwoch, 19. Juli 2023 08:18 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689747480/922/
+- Mittwoch, 19. Juli 2023 08:30 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689748200/922/
 - Mittwoch, 19. Juli 2023 08:42 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689748920/922/
