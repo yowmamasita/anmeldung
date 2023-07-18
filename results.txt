@@ -1,6 +1,3 @@
-- Dienstag, 18. Juli 2023 16:48 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689691680/2887/
-- Montag, 24. Juli 2023 12:40 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690195200/2923/
-- Montag, 24. Juli 2023 12:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690195800/2923/
 - Dienstag, 25. Juli 2023 13:30 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690284600/2923/
 - Dienstag, 25. Juli 2023 13:40 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690285200/2923/
 - Dienstag, 25. Juli 2023 13:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690285800/2923/
@@ -9,6 +6,4 @@
 - Mittwoch, 26. Juli 2023 12:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690368600/2923/
 - Donnerstag, 27. Juli 2023 13:30 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690457400/2923/
 - Donnerstag, 27. Juli 2023 13:40 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690458000/2923/
-- Donnerstag, 27. Juli 2023 13:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1690458600/147/
-- Donnerstag, 27. Juli 2023  Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690458600/2923/
-- Donnerstag, 27. Juli 2023 17:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690472880/2848/
+- Donnerstag, 27. Juli 2023 13:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690458600/2923/
