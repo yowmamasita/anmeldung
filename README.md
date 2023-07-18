@@ -70,8 +70,7 @@
 - Donnerstag, 14. September 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694702160/2899/
 - Donnerstag, 14. September 2023 16:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694702880/2896/
 - Donnerstag, 14. September 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694702880/2899/
-- Donnerstag, 14. September 2023 17:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694703600/2896/
-- Donnerstag, 14. September 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694703600/2899/
+- Donnerstag, 14. September 2023 17:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694703600/2899/
 - Donnerstag, 14. September 2023 17:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694704320/2896/
 - Donnerstag, 14. September 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694704320/2899/
 - Donnerstag, 14. September 2023 17:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694705040/2899/
