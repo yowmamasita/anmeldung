@@ -3,6 +3,7 @@
 - Dienstag, 12. September 2023 09:30 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1694503800/381/
 - Dienstag, 12. September 2023 09:42 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694504520/2836/
 - Dienstag, 12. September 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694504520/2839/
+- Dienstag, 12. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1694504520/103/
 - Dienstag, 12. September 2023 09:50 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1694505000/381/
 - Dienstag, 12. September 2023 09:54 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694505240/2836/
 - Dienstag, 12. September 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694505240/2839/
