@@ -7,6 +7,7 @@
 - Dienstag, 18. Juli 2023 11:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689670800/3238/
 - Dienstag, 18. Juli 2023 11:12 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689671520/2848/
 - Dienstag, 18. Juli 2023 11:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1689672240/169/
+- Dienstag, 18. Juli 2023 11:36 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689672960/2908/
 - Dienstag, 18. Juli 2023 12:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689674400/2863/
 - Dienstag, 18. Juli 2023 12:12 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689675120/2872/
 - Dienstag, 18. Juli 2023 12:18 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689675480/154/
@@ -23,5 +24,4 @@
 - Dienstag, 18. Juli 2023 16:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689688800/154/
 - Dienstag, 18. Juli 2023 16:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689690960/922/
 - Dienstag, 18. Juli 2023 17:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689695280/154/
-- Dienstag, 15. August 2023 09:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692084960/2872/
 - Freitag, 18. August 2023 12:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1692353520/169/
