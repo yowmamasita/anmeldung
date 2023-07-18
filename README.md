@@ -4,6 +4,5 @@
 - Dienstag, 12. September 2023 09:48 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694504880/2932/
 - Dienstag, 12. September 2023 10:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694506320/2932/
 - Dienstag, 12. September 2023 10:36 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694507760/2932/
-- Dienstag, 12. September 2023 10:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1694508480/153/
-- Dienstag, 12. September 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694508480/2932/
+- Dienstag, 12. September 2023 10:48 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694508480/2932/
 - Dienstag, 12. September 2023 11:48 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694512080/2932/
