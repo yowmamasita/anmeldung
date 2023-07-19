@@ -36,8 +36,7 @@
 - Mittwoch, 13. September 2023 08:36 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1694586960/141/
 - Mittwoch, 13. September 2023 08:40 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1694587200/151/
 - Mittwoch, 13. September 2023 08:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1694587320/111/
-- Mittwoch, 13. September 2023 08:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1694587680/381/
-- Mittwoch, 13. September 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1694587680/154/
+- Mittwoch, 13. September 2023 08:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1694587680/154/
 - Mittwoch, 13. September 2023 08:54 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694588040/922/
 - Mittwoch, 13. September 2023 09:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694588400/2845/
 - Mittwoch, 13. September 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694588400/2857/
@@ -119,10 +118,10 @@
 - Mittwoch, 13. September 2023 11:12 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694596320/2857/
 - Mittwoch, 13. September 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1694596320/140/
 - Mittwoch, 13. September 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694596320/3238/
-- Mittwoch, 13. September 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1694596320/145/
 - Mittwoch, 13. September 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1694596320/142/
 - Mittwoch, 13. September 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1694596320/170/
-- Mittwoch, 13. September 2023 11:24 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694597040/1018/
+- Mittwoch, 13. September 2023 11:24 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1694597040/145/
+- Mittwoch, 13. September 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694597040/1018/
 - Mittwoch, 13. September 2023 11:42 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694598120/922/
 - Mittwoch, 13. September 2023 11:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694598480/2854/
 - Mittwoch, 13. September 2023 12:00 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694599200/2857/
@@ -143,7 +142,7 @@
 - Mittwoch, 13. September 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1694600640/170/
 - Mittwoch, 13. September 2023 12:36 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1694601360/145/
 - Mittwoch, 13. September 2023 12:40 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1694601600/151/
-- Mittwoch, 13. September 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1694601600/149/
+- Mittwoch, 13. September 2023 12:50 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1694602200/149/
 - Mittwoch, 13. September 2023 13:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694602800/2836/
 - Mittwoch, 13. September 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694602800/2839/
 - Mittwoch, 13. September 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694602800/3238/
@@ -157,8 +156,8 @@
 - Mittwoch, 13. September 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1694603520/140/
 - Mittwoch, 13. September 2023 13:20 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1694604000/151/
 - Mittwoch, 13. September 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694604000/2941/
-- Mittwoch, 13. September 2023 13:24 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1694604240/145/
-- Mittwoch, 13. September 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1694604240/142/
+- Mittwoch, 13. September 2023 13:24 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1694604240/142/
+- Mittwoch, 13. September 2023 13:36 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1694604960/145/
 - Mittwoch, 13. September 2023 13:42 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694605320/922/
 - Mittwoch, 13. September 2023 13:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694605680/2854/
 - Mittwoch, 13. September 2023 13:50 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694605800/2884/
