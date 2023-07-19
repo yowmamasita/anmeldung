@@ -63,8 +63,7 @@
 - Mittwoch, 13. September 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694592720/2836/
 - Mittwoch, 13. September 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1694592720/167/
 - Mittwoch, 13. September 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694592720/2860/
-- Mittwoch, 13. September 2023 10:18 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694593080/2887/
-- Mittwoch, 13. September 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1694593080/153/
+- Mittwoch, 13. September 2023 10:18 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1694593080/153/
 - Mittwoch, 13. September 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694593080/2932/
 - Mittwoch, 13. September 2023 10:20 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694593200/2941/
 - Mittwoch, 13. September 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1694593200/149/
@@ -74,6 +73,7 @@
 - Mittwoch, 13. September 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1694593440/154/
 - Mittwoch, 13. September 2023 10:30 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1694593800/134/
 - Mittwoch, 13. September 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694593800/2914/
+- Mittwoch, 13. September 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694593800/2887/
 - Mittwoch, 13. September 2023 10:36 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1694594160/140/
 - Mittwoch, 13. September 2023 10:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1694594520/136/
 - Mittwoch, 13. September 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694594520/844/
