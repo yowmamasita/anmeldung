@@ -3,11 +3,19 @@
 - Mittwoch, 19. Juli 2023 09:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689750000/2899/
 - Mittwoch, 19. Juli 2023 09:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689750720/2899/
 - Mittwoch, 19. Juli 2023 09:18 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689751080/922/
+- Mittwoch, 19. Juli 2023 09:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689751440/3238/
+- Mittwoch, 19. Juli 2023 09:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689752160/3238/
+- Mittwoch, 19. Juli 2023 09:48 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1689752880/103/
+- Mittwoch, 19. Juli 2023 09:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689753240/2908/
+- Mittwoch, 19. Juli 2023 10:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689753600/2899/
+- Mittwoch, 19. Juli 2023 10:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689753960/2908/
 - Mittwoch, 19. Juli 2023 10:18 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689754680/922/
 - Mittwoch, 19. Juli 2023 10:30 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689755400/922/
+- Mittwoch, 19. Juli 2023 10:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689755760/2863/
 - Mittwoch, 19. Juli 2023 10:42 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689756120/922/
 - Mittwoch, 19. Juli 2023 10:54 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689756840/922/
 - Mittwoch, 19. Juli 2023 11:10 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689757800/2878/
 - Mittwoch, 19. Juli 2023 11:20 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689758400/2878/
 - Mittwoch, 19. Juli 2023 11:30 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689759000/2878/
-- Mittwoch, 19. Juli 2023 11:40 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689759600/2878/
+- Mittwoch, 19. Juli 2023 11:42 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689759720/312/
+- Mittwoch, 19. Juli 2023 15:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689772320/2932/
