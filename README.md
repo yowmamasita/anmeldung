@@ -93,7 +93,6 @@
 - Mittwoch, 13. September 2023 13:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1694604000/147/
 - Mittwoch, 13. September 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694604000/2878/
 - Mittwoch, 13. September 2023 13:30 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1694604600/135/
-- Freitag, 15. September 2023 11:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694769120/2896/
 - Freitag, 15. September 2023 11:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694769840/2896/
 - Freitag, 15. September 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694769840/2899/
 - Freitag, 15. September 2023 11:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694770560/2896/
