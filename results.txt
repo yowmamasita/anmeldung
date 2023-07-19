@@ -53,7 +53,6 @@
 - Mittwoch, 13. September 2023 09:06 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1694588760/134/
 - Mittwoch, 13. September 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694588760/2908/
 - Mittwoch, 13. September 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694588760/2911/
-- Mittwoch, 13. September 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694588760/2914/
 - Mittwoch, 13. September 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1694588760/109/
 - Mittwoch, 13. September 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694588760/841/
 - Mittwoch, 13. September 2023 09:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1694589000/150/
@@ -64,6 +63,7 @@
 - Mittwoch, 13. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1694589120/103/
 - Mittwoch, 13. September 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1694589120/170/
 - Mittwoch, 13. September 2023 09:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1694589480/136/
+- Mittwoch, 13. September 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694589480/2914/
 - Mittwoch, 13. September 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694589480/922/
 - Mittwoch, 13. September 2023 09:20 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1694589600/151/
 - Mittwoch, 13. September 2023 09:24 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1694589840/140/
