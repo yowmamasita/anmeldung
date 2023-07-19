@@ -98,13 +98,11 @@
 - Mittwoch, 13. September 2023 13:06 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1694603160/135/
 - Mittwoch, 13. September 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694603160/2911/
 - Mittwoch, 13. September 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694603160/2926/
-- Mittwoch, 13. September 2023 13:10 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1694603400/149/
 - Mittwoch, 13. September 2023 13:12 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694603520/2836/
 - Mittwoch, 13. September 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694603520/3238/
 - Mittwoch, 13. September 2023 13:30 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1694604600/147/
 - Freitag, 15. September 2023 11:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694768400/2899/
-- Freitag, 15. September 2023 11:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694769120/2896/
-- Freitag, 15. September 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694769120/2899/
+- Freitag, 15. September 2023 11:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694769120/2899/
 - Freitag, 15. September 2023 11:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694769840/2896/
 - Freitag, 15. September 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694769840/2899/
 - Freitag, 15. September 2023 11:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694770560/2896/
