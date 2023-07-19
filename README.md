@@ -7,6 +7,5 @@
 - Mittwoch, 19. Juli 2023 09:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689752160/2851/
 - Mittwoch, 19. Juli 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689752160/2863/
 - Mittwoch, 19. Juli 2023 13:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689765840/3238/
-- Mittwoch, 19. Juli 2023 13:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689766560/2851/
 - Donnerstag, 20. Juli 2023 16:48 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689864480/841/
 - Dienstag, 15. August 2023 16:48 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1692110880/231/
