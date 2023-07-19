@@ -7,6 +7,5 @@
 - Mittwoch, 19. Juli 2023 09:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689752880/3238/
 - Mittwoch, 19. Juli 2023  Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689752880/143/
 - Mittwoch, 19. Juli 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689752880/2851/
-- Mittwoch, 19. Juli 2023 10:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689755040/2851/
 - Montag, 28. August 2023 08:18 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1693203480/111/
 - Montag, 28. August 2023 08:42 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1693204920/111/
