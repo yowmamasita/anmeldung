@@ -139,3 +139,4 @@
 - Mittwoch, 13. September 2023 13:50 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1694605800/151/
 - Mittwoch, 13. September 2023 13:54 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694606040/2887/
 - Mittwoch, 13. September 2023 14:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1694607600/147/
+- Freitag, 15. September 2023 10:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694765520/2896/
