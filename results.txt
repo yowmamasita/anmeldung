@@ -3,6 +3,7 @@
 - Mittwoch, 19. Juli 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689747120/2851/
 - Mittwoch, 19. Juli 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1689747120/172/
 - Mittwoch, 19. Juli 2023 08:18 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1689747480/135/
+- Mittwoch, 19. Juli 2023 08:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689747840/2851/
 - Mittwoch, 19. Juli 2023 08:30 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1689748200/133/
 - Mittwoch, 19. Juli 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689748200/2908/
 - Mittwoch, 19. Juli 2023 08:54 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1689749640/133/
@@ -10,7 +11,6 @@
 - Mittwoch, 19. Juli 2023 09:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689751440/154/
 - Mittwoch, 19. Juli 2023 09:30 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1689751800/134/
 - Mittwoch, 19. Juli 2023 09:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689752160/154/
-- Mittwoch, 19. Juli 2023 09:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689752880/154/
 - Mittwoch, 19. Juli 2023 10:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689754320/154/
 - Mittwoch, 19. Juli 2023 10:18 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1689754680/312/
 - Mittwoch, 19. Juli 2023 10:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689755760/154/
