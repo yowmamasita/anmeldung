@@ -23,7 +23,6 @@
 - Mittwoch, 13. September 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694587320/2914/
 - Mittwoch, 13. September 2023 08:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694587680/2845/
 - Mittwoch, 13. September 2023  Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1694587680/141/
-- Mittwoch, 13. September 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1694587680/167/
 - Mittwoch, 13. September 2023 09:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694588400/2845/
 - Mittwoch, 13. September 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694588400/2836/
 - Mittwoch, 13. September 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694588400/2941/
