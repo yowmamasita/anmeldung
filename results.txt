@@ -1,4 +1,3 @@
-- Mittwoch, 13. September 2023 07:54 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694584440/2908/
 - Mittwoch, 13. September 2023 08:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694586960/3238/
 - Mittwoch, 13. September 2023 08:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694587320/2908/
 - Mittwoch, 13. September 2023 08:48 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694587680/2839/
@@ -15,7 +14,6 @@
 - Mittwoch, 13. September 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694590200/2878/
 - Mittwoch, 13. September 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694590200/2881/
 - Mittwoch, 13. September 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694590200/2884/
-- Mittwoch, 13. September 2023 09:36 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1694590560/170/
 - Mittwoch, 13. September 2023 09:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694590920/2914/
 - Mittwoch, 13. September 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694590920/841/
 - Mittwoch, 13. September 2023 09:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694591280/2857/
