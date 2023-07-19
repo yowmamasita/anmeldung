@@ -1,4 +1,2 @@
-- Dienstag, 22. August 2023 14:00 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692705600/2911/
-- Dienstag, 22. August 2023 14:12 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692706320/2911/
-- Mittwoch, 23. August 2023 11:10 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692781800/2881/
-- Mittwoch, 13. September 2023 16:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1694614320/153/
+- Montag, 21. August 2023 13:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692618480/2863/
+- Mittwoch, 13. September 2023 13:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694603160/2908/
