@@ -1,7 +1,6 @@
 # List of available Anmeldung appointments as of $NOW
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122254,122252,329742,122260,329745,122262,329748,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,317869,122281,327352,122279,329772,122283,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
 - Donnerstag, 17. August 2023 13:36 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692272160/2872/
-- Freitag, 18. August 2023 08:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692341280/2899/
 - Dienstag, 12. September 2023 09:50 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1694505000/381/
 - Dienstag, 12. September 2023 15:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1694525040/172/
 - Mittwoch, 13. September 2023 09:42 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1694590920/191/
@@ -65,7 +64,6 @@
 - Donnerstag, 14. September 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1694682720/109/
 - Donnerstag, 14. September 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694682720/841/
 - Donnerstag, 14. September 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1694682720/111/
-- Donnerstag, 14. September 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1694682720/145/
 - Donnerstag, 14. September 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694682720/2926/
 - Donnerstag, 14. September 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1694682720/170/
 - Donnerstag, 14. September 2023 11:18 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1694683080/141/
@@ -73,6 +71,7 @@
 - Donnerstag, 14. September 2023 11:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1694683440/381/
 - Donnerstag, 14. September 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694683440/2860/
 - Donnerstag, 14. September 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694683440/922/
+- Donnerstag, 14. September 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1694683440/145/
 - Donnerstag, 14. September 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694683440/2866/
 - Donnerstag, 14. September 2023 11:30 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1694683800/103/
 - Donnerstag, 14. September 2023 11:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1694684160/154/
@@ -229,11 +228,11 @@
 - Donnerstag, 14. September 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694704200/2878/
 - Donnerstag, 14. September 2023 17:12 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694704320/2854/
 - Donnerstag, 14. September 2023 17:18 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1694704680/140/
-- Donnerstag, 14. September 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694704680/2839/
 - Donnerstag, 14. September 2023 17:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1694704800/147/
 - Donnerstag, 14. September 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694704800/2881/
 - Donnerstag, 14. September 2023 17:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694705040/922/
 - Donnerstag, 14. September 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694705040/2866/
+- Donnerstag, 14. September 2023 17:30 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694705400/2839/
 - Donnerstag, 14. September 2023 17:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1694705760/381/
 - Montag, 18. September 2023 08:48 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1695019680/172/
 - Montag, 18. September 2023 09:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1695021120/231/
@@ -280,7 +279,6 @@
 - Montag, 18. September 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1695039120/172/
 - Montag, 18. September 2023 14:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1695039840/231/
 - Montag, 18. September 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1695039840/146/
-- Montag, 18. September 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1695039840/172/
 - Montag, 18. September 2023 14:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1695040560/231/
 - Montag, 18. September 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1695040560/146/
 - Montag, 18. September 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1695040560/172/
