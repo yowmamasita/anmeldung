@@ -1,8 +1,0 @@
-- Donnerstag, 20. Juli 2023 16:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1689863760/169/
-- Donnerstag, 20. Juli 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1689863760/168/
-- Montag, 24. Juli 2023 13:12 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690197120/2920/
-- Donnerstag, 27. Juli 2023 12:50 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690455000/2881/
-- Donnerstag, 27. Juli 2023 14:36 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690461360/135/
-- Donnerstag, 27. Juli 2023 15:48 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690465680/135/
-- Donnerstag, 27. Juli 2023 17:00 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1690470000/136/
-- Mittwoch, 2. August 2023 07:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690954920/2911/
