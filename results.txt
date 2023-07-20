@@ -1,8 +1,6 @@
 - Donnerstag, 20. Juli 2023 14:00 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1689854400/149/
-- Donnerstag, 20. Juli 2023 14:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689855120/153/
 - Donnerstag, 20. Juli 2023 14:48 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689857280/2911/
 - Donnerstag, 20. Juli 2023 14:50 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1689857400/149/
-- Donnerstag, 20. Juli 2023 17:30 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1689867000/147/
 - Freitag, 21. Juli 2023 07:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689915600/3238/
 - Freitag, 21. Juli 2023 07:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689918480/3238/
 - Freitag, 21. Juli 2023 09:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689923520/3238/
