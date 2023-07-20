@@ -1,9 +1,0 @@
-- Donnerstag, 20. Juli 2023 15:36 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689860160/143/
-- Donnerstag, 20. Juli 2023 15:48 Bürgeramt Rathaus Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689860880/143/
-- Donnerstag, 20. Juli 2023 16:00 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1689861600/134/
-- Freitag, 21. Juli 2023 08:30 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689921000/2923/
-- Freitag, 21. Juli 2023 08:54 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689922440/2911/
-- Freitag, 21. Juli 2023 10:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689928560/154/
-- Montag, 24. Juli 2023 14:54 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690203240/847/
-- Mittwoch, 23. August 2023 09:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692776880/2854/
-- Montag, 28. August 2023 09:24 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1693207440/103/
