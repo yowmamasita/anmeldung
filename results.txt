@@ -20,7 +20,6 @@
 - Donnerstag, 14. September 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694685600/2911/
 - Donnerstag, 14. September 2023  Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1694685600/147/
 - Donnerstag, 14. September 2023 12:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694686200/2941/
-- Donnerstag, 14. September 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694686200/2878/
 - Donnerstag, 14. September 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1694686200/149/
 - Donnerstag, 14. September 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694686200/2881/
 - Donnerstag, 14. September 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1694686200/150/
@@ -30,7 +29,8 @@
 - Donnerstag, 14. September 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694686320/3238/
 - Donnerstag, 14. September 2023 12:18 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694686680/2836/
 - Donnerstag, 14. September 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694686680/2839/
-- Donnerstag, 14. September 2023 12:20 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694686800/2884/
+- Donnerstag, 14. September 2023 12:20 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694686800/2878/
+- Donnerstag, 14. September 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694686800/2884/
 - Donnerstag, 14. September 2023 12:24 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694687040/841/
 - Donnerstag, 14. September 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1694687040/381/
 - Donnerstag, 14. September 2023 12:30 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1694687400/140/
@@ -45,7 +45,6 @@
 - Donnerstag, 14. September 2023 13:06 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694689560/2836/
 - Donnerstag, 14. September 2023 13:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694689920/3238/
 - Donnerstag, 14. September 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694689920/2854/
-- Donnerstag, 14. September 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694689920/2926/
 - Donnerstag, 14. September 2023 13:18 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694690280/2839/
 - Donnerstag, 14. September 2023 13:20 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694690400/2941/
 - Donnerstag, 14. September 2023 13:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694690640/2845/
@@ -53,6 +52,7 @@
 - Donnerstag, 14. September 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694690640/2887/
 - Donnerstag, 14. September 2023 13:30 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1694691000/140/
 - Donnerstag, 14. September 2023 13:36 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694691360/841/
+- Donnerstag, 14. September 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694691360/2926/
 - Donnerstag, 14. September 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694691360/2866/
 - Donnerstag, 14. September 2023 13:48 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694692080/844/
 - Donnerstag, 14. September 2023 14:00 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694692800/2911/
