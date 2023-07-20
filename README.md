@@ -80,13 +80,13 @@
 - Donnerstag, 14. September 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1694694240/170/
 - Donnerstag, 14. September 2023 14:30 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694694600/2836/
 - Donnerstag, 14. September 2023  Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1694694600/147/
-- Donnerstag, 14. September 2023 14:36 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1694694960/106/
-- Donnerstag, 14. September 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1694694960/136/
+- Donnerstag, 14. September 2023 14:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1694694960/136/
 - Donnerstag, 14. September 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694694960/844/
 - Donnerstag, 14. September 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694694960/841/
 - Donnerstag, 14. September 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1694694960/381/
 - Donnerstag, 14. September 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694694960/2887/
-- Donnerstag, 14. September 2023 14:48 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1694695680/109/
+- Donnerstag, 14. September 2023 14:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1694695680/106/
+- Donnerstag, 14. September 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1694695680/109/
 - Donnerstag, 14. September 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694695680/2932/
 - Donnerstag, 14. September 2023 15:00 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1694696400/134/
 - Donnerstag, 14. September 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694696400/2908/
