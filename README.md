@@ -23,8 +23,7 @@
 - Donnerstag, 14. September 2023 10:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1694681280/106/
 - Donnerstag, 14. September 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694681280/3238/
 - Donnerstag, 14. September 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694681280/2926/
-- Donnerstag, 14. September 2023 10:54 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1694681640/141/
-- Donnerstag, 14. September 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694681640/2932/
+- Donnerstag, 14. September 2023 10:54 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694681640/2932/
 - Donnerstag, 14. September 2023 11:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694682000/2845/
 - Donnerstag, 14. September 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694682000/2908/
 - Donnerstag, 14. September 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694682000/2911/
@@ -244,7 +243,6 @@
 - Donnerstag, 14. September 2023 17:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694706480/2914/
 - Donnerstag, 14. September 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1694706480/112/
 - Donnerstag, 14. September 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1694706480/109/
-- Donnerstag, 14. September 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1694706480/381/
 - Donnerstag, 14. September 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694706480/2866/
 - Montag, 18. September 2023 11:12 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1695028320/146/
 - Montag, 18. September 2023 12:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1695032640/231/
