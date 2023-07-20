@@ -4,8 +4,7 @@
 - Donnerstag, 14. September 2023 09:30 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694676600/2836/
 - Donnerstag, 14. September 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694676600/2839/
 - Donnerstag, 14. September 2023 09:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1694676960/154/
-- Donnerstag, 14. September 2023 10:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1694678400/106/
-- Donnerstag, 14. September 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694678400/2845/
+- Donnerstag, 14. September 2023 10:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694678400/2845/
 - Donnerstag, 14. September 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694678400/2908/
 - Donnerstag, 14. September 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694678400/2848/
 - Donnerstag, 14. September 2023  Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1694678400/147/
@@ -22,7 +21,8 @@
 - Donnerstag, 14. September 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694679120/2926/
 - Donnerstag, 14. September 2023 10:20 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1694679600/148/
 - Donnerstag, 14. September 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1694679600/149/
-- Donnerstag, 14. September 2023 10:24 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1694679840/134/
+- Donnerstag, 14. September 2023 10:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1694679840/106/
+- Donnerstag, 14. September 2023  Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1694679840/134/
 - Donnerstag, 14. September 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1694679840/381/
 - Donnerstag, 14. September 2023 10:30 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694680200/2884/
 - Donnerstag, 14. September 2023 10:36 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694680560/841/
