@@ -19,16 +19,11 @@
 - Donnerstag, 20. Juli 2023 14:30 Ausbildungsbürgeramt (Alt- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1689856200/133/
 - Donnerstag, 20. Juli 2023 14:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689856560/2914/
 - Donnerstag, 20. Juli 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689856560/153/
-- Donnerstag, 20. Juli 2023 14:48 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689857280/2914/
-- Donnerstag, 20. Juli 2023 15:00 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689858000/153/
-- Donnerstag, 20. Juli 2023 15:12 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689858720/2914/
-- Donnerstag, 20. Juli 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689858720/153/
 - Donnerstag, 20. Juli 2023 15:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689859440/153/
 - Donnerstag, 20. Juli 2023 15:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689860160/153/
 - Donnerstag, 20. Juli 2023 15:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689860880/153/
 - Donnerstag, 20. Juli 2023 16:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689862320/153/
 - Donnerstag, 17. August 2023 09:54 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692258840/2875/
-- Donnerstag, 17. August 2023 10:00 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692259200/2872/
 - Donnerstag, 17. August 2023 10:12 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692259920/2920/
 - Donnerstag, 17. August 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692259920/2872/
 - Donnerstag, 17. August 2023 10:18 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692260280/2875/
@@ -54,7 +49,6 @@
 - Donnerstag, 17. August 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692265680/2872/
 - Donnerstag, 17. August 2023 11:54 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692266040/2875/
 - Donnerstag, 17. August 2023 12:00 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692266400/2920/
-- Donnerstag, 17. August 2023 12:06 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692266760/2875/
 - Donnerstag, 17. August 2023 12:12 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692267120/2920/
 - Donnerstag, 17. August 2023  Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692267120/2893/
 - Donnerstag, 17. August 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692267120/2872/
@@ -65,4 +59,3 @@
 - Donnerstag, 17. August 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692268560/2872/
 - Donnerstag, 17. August 2023 12:42 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692268920/2875/
 - Donnerstag, 17. August 2023 12:48 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692269280/2920/
-- Donnerstag, 17. August 2023 13:36 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692272160/2893/
