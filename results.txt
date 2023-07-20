@@ -138,10 +138,10 @@
 - Donnerstag, 14. September 2023 15:24 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1694697840/109/
 - Donnerstag, 14. September 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694697840/2887/
 - Donnerstag, 14. September 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1694697840/111/
-- Donnerstag, 14. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1694697840/103/
 - Donnerstag, 14. September 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694697840/2926/
 - Donnerstag, 14. September 2023 15:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694698560/2848/
 - Donnerstag, 14. September 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1694698560/381/
+- Donnerstag, 14. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1694698560/103/
 - Donnerstag, 14. September 2023 15:48 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694699280/2860/
 - Donnerstag, 14. September 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694699280/2854/
 - Donnerstag, 14. September 2023 15:50 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1694699400/149/
