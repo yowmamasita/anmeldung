@@ -152,9 +152,9 @@
 - Donnerstag, 14. September 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1694689920/191/
 - Donnerstag, 14. September 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694689920/922/
 - Donnerstag, 14. September 2023 13:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1694690640/192/
-- Donnerstag, 14. September 2023 13:36 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1694691360/145/
-- Donnerstag, 14. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1694691360/103/
+- Donnerstag, 14. September 2023 13:36 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1694691360/103/
 - Donnerstag, 14. September 2023 13:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1694692080/381/
+- Donnerstag, 14. September 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1694692080/145/
 - Donnerstag, 14. September 2023 14:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1694692800/106/
 - Donnerstag, 14. September 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694692800/2845/
 - Donnerstag, 14. September 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694692800/2911/
