@@ -5,5 +5,4 @@
 - Donnerstag, 20. Juli 2023 16:24 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689863040/2845/
 - Donnerstag, 20. Juli 2023 17:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689867360/2845/
 - Freitag, 21. Juli 2023 09:24 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689924240/2857/
-- Donnerstag, 17. August 2023 16:24 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692282240/2893/
 - Mittwoch, 23. August 2023 08:40 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692772800/2881/
