@@ -20,9 +20,9 @@
 - Donnerstag, 20. Juli 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689855120/922/
 - Donnerstag, 20. Juli 2023 14:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1689855600/150/
 - Donnerstag, 20. Juli 2023 14:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689855840/2848/
+- Donnerstag, 20. Juli 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1689855840/168/
 - Donnerstag, 20. Juli 2023 14:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689856560/2848/
 - Donnerstag, 20. Juli 2023 14:48 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689857280/2908/
 - Donnerstag, 20. Juli 2023 14:50 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689857400/2881/
 - Donnerstag, 20. Juli 2023 15:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1689860160/191/
 - Donnerstag, 20. Juli 2023 16:24 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689863040/2908/
-- Montag, 21. August 2023 14:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692619920/2896/
