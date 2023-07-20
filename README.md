@@ -7,4 +7,3 @@
 - Donnerstag, 20. Juli 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1689864480/172/
 - Dienstag, 15. August 2023 11:48 Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692092880/2872/
 - Donnerstag, 17. August 2023 15:36 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692279360/2893/
-- Montag, 28. August 2023 14:24 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1693225440/134/
