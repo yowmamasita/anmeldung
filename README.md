@@ -5,8 +5,7 @@
 - Donnerstag, 20. Juli 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689853680/154/
 - Donnerstag, 20. Juli 2023 14:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689854400/2845/
 - Freitag, 21. Juli 2023 07:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689917760/2938/
-- Freitag, 21. Juli 2023 07:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689918480/154/
-- Freitag, 21. Juli 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689918480/2938/
+- Freitag, 21. Juli 2023 07:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689918480/2938/
 - Freitag, 21. Juli 2023 08:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689919200/154/
 - Freitag, 21. Juli 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689919200/2938/
 - Freitag, 21. Juli 2023 08:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689919920/154/
@@ -19,5 +18,4 @@
 - Freitag, 21. Juli 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689924960/2938/
 - Freitag, 21. Juli 2023 09:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689925680/2938/
 - Freitag, 21. Juli 2023 10:00 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689926400/2938/
-- Freitag, 21. Juli 2023 10:12 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689927120/2938/
 - Freitag, 21. Juli 2023 10:48 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689929280/2938/
