@@ -13,4 +13,3 @@
 - Freitag, 21. Juli 2023 11:20 Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1689931200/189/
 - Freitag, 21. Juli 2023 11:30 Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1689931800/189/
 - Freitag, 21. Juli 2023 11:40 Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1689932400/189/
-- Freitag, 21. Juli 2023 11:50 Mobiles Bürgeramt Hermsdorf https://service.berlin.de/terminvereinbarung/termin/time/1689933000/189/
