@@ -3,8 +3,8 @@
 - Donnerstag, 14. September 2023 13:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1694690640/191/
 - Freitag, 15. September 2023 07:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694754000/3238/
 - Freitag, 15. September 2023 07:12 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694754720/2854/
-- Freitag, 15. September 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1694754720/145/
 - Freitag, 15. September 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694754720/1018/
+- Freitag, 15. September 2023 07:24 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1694755440/145/
 - Freitag, 15. September 2023 07:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694755800/2908/
 - Freitag, 15. September 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694755800/2839/
 - Freitag, 15. September 2023 07:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694756520/2911/
