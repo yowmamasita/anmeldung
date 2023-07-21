@@ -14,8 +14,7 @@
 - Freitag, 21. Juli 2023 09:24 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1689924240/192/
 - Freitag, 21. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689924240/2926/
 - Freitag, 21. Juli 2023 09:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689924960/2926/
-- Freitag, 21. Juli 2023 09:48 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1689925680/192/
-- Freitag, 21. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689925680/2926/
+- Freitag, 21. Juli 2023 09:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689925680/2926/
 - Freitag, 21. Juli 2023 10:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689926400/2926/
 - Freitag, 21. Juli 2023 10:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689927120/2926/
 - Freitag, 21. Juli 2023 10:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689927840/2926/
@@ -24,7 +23,6 @@
 - Freitag, 21. Juli 2023 11:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689930000/2926/
 - Freitag, 21. Juli 2023 11:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689930720/2926/
 - Freitag, 21. Juli 2023 11:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689931440/2926/
-- Freitag, 21. Juli 2023 11:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1689932160/192/
-- Freitag, 21. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689932160/2926/
+- Freitag, 21. Juli 2023 11:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689932160/2926/
 - Freitag, 21. Juli 2023 11:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689932880/2926/
 - Freitag, 21. Juli 2023 12:12 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689934320/2926/
