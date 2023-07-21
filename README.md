@@ -21,4 +21,3 @@
 - Freitag, 21. Juli 2023 10:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689929280/2926/
 - Freitag, 21. Juli 2023 11:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689932160/154/
 - Freitag, 21. Juli 2023 12:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689934320/154/
-- Freitag, 21. Juli 2023 12:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1689935760/154/
