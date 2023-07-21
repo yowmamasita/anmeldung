@@ -162,8 +162,8 @@
 - Freitag, 15. September 2023  Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1694773800/147/
 - Freitag, 15. September 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1694773800/151/
 - Freitag, 15. September 2023 12:36 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694774160/1018/
-- Freitag, 15. September 2023 12:40 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694774400/2884/
 - Freitag, 15. September 2023 12:42 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1694774520/140/
+- Freitag, 15. September 2023 12:50 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694775000/2884/
 - Freitag, 15. September 2023 12:54 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1694775240/112/
 - Freitag, 15. September 2023 13:00 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1694775600/141/
 - Freitag, 15. September 2023 13:12 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694776320/2836/
