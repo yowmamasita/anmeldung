@@ -104,7 +104,7 @@
 - Freitag, 15. September 2023 12:18 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694773080/841/
 - Freitag, 15. September 2023 12:30 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1694773800/147/
 - Freitag, 15. September 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694773800/2878/
-- Freitag, 15. September 2023  Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1694773800/149/
+- Freitag, 15. September 2023 12:40 Bürgeramt Reinickendorf-Ost https://service.berlin.de/terminvereinbarung/termin/time/1694774400/149/
 - Freitag, 15. September 2023 12:42 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694774520/844/
 - Freitag, 15. September 2023 12:50 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694775000/2884/
 - Freitag, 15. September 2023 13:24 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694777040/2836/
