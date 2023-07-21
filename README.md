@@ -3,8 +3,7 @@
 - Freitag, 21. Juli 2023 08:12 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1689919920/192/
 - Freitag, 21. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689919920/2926/
 - Freitag, 21. Juli 2023 08:24 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689920640/2926/
-- Freitag, 21. Juli 2023 08:36 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1689921360/192/
-- Freitag, 21. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689921360/2926/
+- Freitag, 21. Juli 2023 08:36 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689921360/2926/
 - Freitag, 21. Juli 2023 08:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1689922080/153/
 - Freitag, 21. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689922080/2926/
 - Freitag, 21. Juli 2023 09:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689922800/2926/
