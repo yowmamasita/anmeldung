@@ -7,7 +7,7 @@
 - Freitag, 15. September 2023 07:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694754000/3238/
 - Freitag, 15. September 2023 07:12 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694754720/2854/
 - Freitag, 15. September 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1694754720/145/
-- Freitag, 15. September 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694754720/1018/
+- Freitag, 15. September 2023 07:24 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694755440/1018/
 - Freitag, 15. September 2023 07:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694755800/2908/
 - Freitag, 15. September 2023 07:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694756520/2911/
 - Freitag, 15. September 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694756520/841/
@@ -42,12 +42,12 @@
 - Freitag, 15. September 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694758800/2881/
 - Freitag, 15. September 2023 08:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1694759040/106/
 - Freitag, 15. September 2023  Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1694759040/141/
-- Freitag, 15. September 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694759040/2887/
 - Freitag, 15. September 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1694759040/153/
 - Freitag, 15. September 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694759040/2926/
 - Freitag, 15. September 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1694759040/170/
 - Freitag, 15. September 2023 08:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1694759400/150/
 - Freitag, 15. September 2023 08:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1694759760/381/
+- Freitag, 15. September 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694759760/2887/
 - Freitag, 15. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1694759760/103/
 - Freitag, 15. September 2023 08:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1694760480/108/
 - Freitag, 15. September 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694760480/2854/
