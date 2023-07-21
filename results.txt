@@ -3,10 +3,8 @@
 - Freitag, 21. Juli 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689917400/109/
 - Freitag, 21. Juli 2023 07:42 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1689918120/134/
 - Freitag, 21. Juli 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689918120/2908/
-- Freitag, 21. Juli 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689918120/109/
 - Freitag, 21. Juli 2023 07:54 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1689918840/134/
 - Freitag, 21. Juli 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689918840/2908/
-- Freitag, 21. Juli 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689918840/109/
 - Freitag, 21. Juli 2023 08:06 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1689919560/134/
 - Freitag, 21. Juli 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689919560/2908/
 - Freitag, 21. Juli 2023 08:18 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1689920280/134/
@@ -25,7 +23,6 @@
 - Freitag, 21. Juli 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689923160/109/
 - Freitag, 21. Juli 2023 09:18 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1689923880/134/
 - Freitag, 21. Juli 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689923880/2908/
-- Freitag, 21. Juli 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689923880/109/
 - Freitag, 21. Juli 2023 09:30 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1689924600/134/
 - Freitag, 21. Juli 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689924600/2908/
 - Freitag, 21. Juli 2023 09:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689925320/2908/
@@ -34,7 +31,6 @@
 - Freitag, 21. Juli 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689926040/109/
 - Freitag, 21. Juli 2023 10:06 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1689926760/2908/
 - Freitag, 21. Juli 2023 10:30 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689928200/109/
-- Freitag, 21. Juli 2023 10:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689928920/109/
 - Freitag, 21. Juli 2023 10:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689929640/109/
 - Freitag, 21. Juli 2023 11:06 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1689930360/134/
 - Freitag, 21. Juli 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689930360/109/
@@ -48,5 +44,4 @@
 - Freitag, 21. Juli 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689933240/109/
 - Freitag, 21. Juli 2023 12:06 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1689933960/134/
 - Freitag, 21. Juli 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689933960/109/
-- Freitag, 21. Juli 2023 12:18 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1689934680/134/
-- Freitag, 21. Juli 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689934680/109/
+- Freitag, 21. Juli 2023 12:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1689934680/109/
