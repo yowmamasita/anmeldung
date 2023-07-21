@@ -1,5 +1,0 @@
-- Freitag, 15. September 2023 07:00 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1694754000/145/
-- Freitag, 15. September 2023 07:12 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1694754720/145/
-- Freitag, 15. September 2023 07:24 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1694755440/145/
-- Freitag, 15. September 2023 07:36 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1694756160/145/
-- Freitag, 15. September 2023 07:48 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1694756880/145/
