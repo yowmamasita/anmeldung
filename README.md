@@ -77,7 +77,6 @@
 - Freitag, 15. September 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1694772360/109/
 - Freitag, 15. September 2023 12:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694772600/2941/
 - Freitag, 15. September 2023 12:12 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694772720/2836/
-- Freitag, 15. September 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694772720/2887/
 - Freitag, 15. September 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694772720/2932/
 - Freitag, 15. September 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1694772720/154/
 - Freitag, 15. September 2023 12:18 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1694773080/134/
@@ -86,6 +85,7 @@
 - Freitag, 15. September 2023 12:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1694773440/106/
 - Freitag, 15. September 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694773440/2845/
 - Freitag, 15. September 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1694773440/108/
+- Freitag, 15. September 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694773440/2887/
 - Freitag, 15. September 2023 12:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694773800/2914/
 - Freitag, 15. September 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694773800/2878/
 - Freitag, 15. September 2023 12:36 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694774160/2860/
