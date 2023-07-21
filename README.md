@@ -9,9 +9,9 @@
 - Freitag, 15. September 2023 08:40 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694760000/2878/
 - Freitag, 15. September 2023  Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694760000/2881/
 - Freitag, 15. September 2023 08:42 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694760120/2911/
-- Freitag, 15. September 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694760120/2914/
 - Freitag, 15. September 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694760120/844/
-- Freitag, 15. September 2023 08:54 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694760840/2839/
+- Freitag, 15. September 2023 08:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694760840/2914/
+- Freitag, 15. September 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694760840/2839/
 - Freitag, 15. September 2023 09:06 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694761560/2914/
 - Freitag, 15. September 2023 09:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694761800/2941/
 - Freitag, 15. September 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694761800/2878/
@@ -97,7 +97,6 @@
 - Freitag, 15. September 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694777040/3238/
 - Dienstag, 19. September 2023 12:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1695117600/231/
 - Dienstag, 19. September 2023 12:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1695118320/231/
-- Dienstag, 19. September 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1695118320/146/
 - Dienstag, 19. September 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1695118320/172/
 - Dienstag, 19. September 2023 12:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1695119040/231/
 - Dienstag, 19. September 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1695119040/172/
