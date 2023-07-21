@@ -57,8 +57,8 @@
 - Freitag, 15. September 2023 08:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1694759760/108/
 - Freitag, 15. September 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1694759760/381/
 - Freitag, 15. September 2023  Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1694759760/191/
-- Freitag, 15. September 2023 08:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1694760000/147/
 - Freitag, 15. September 2023 08:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1694760480/154/
+- Freitag, 15. September 2023 08:50 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1694760600/147/
 - Freitag, 15. September 2023 09:00 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1694761200/106/
 - Freitag, 15. September 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694761200/2845/
 - Freitag, 15. September 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694761200/2848/
