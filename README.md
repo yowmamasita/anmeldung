@@ -21,6 +21,7 @@
 - Freitag, 15. September 2023 12:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694773080/2908/
 - Freitag, 15. September 2023 12:30 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694773800/2908/
 - Freitag, 15. September 2023 12:42 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694774520/2908/
+- Dienstag, 19. September 2023 15:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1695131280/146/
 - Dienstag, 19. September 2023 16:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1695132720/172/
 - Dienstag, 19. September 2023 16:24 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1695133440/231/
 - Dienstag, 19. September 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1695133440/172/
