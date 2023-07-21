@@ -44,8 +44,7 @@
 - Freitag, 15. September 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1694759040/170/
 - Freitag, 15. September 2023 08:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1694759400/150/
 - Freitag, 15. September 2023 08:36 Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1694759760/103/
-- Freitag, 15. September 2023 08:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1694760480/108/
-- Freitag, 15. September 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1694760480/381/
+- Freitag, 15. September 2023 08:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1694760480/381/
 - Freitag, 15. September 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694760480/2854/
 - Freitag, 15. September 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1694760480/145/
 - Freitag, 15. September 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1694760480/142/
