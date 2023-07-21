@@ -60,7 +60,6 @@
 - Freitag, 15. September 2023  Bürgeramt Rathaus Neukölln https://service.berlin.de/terminvereinbarung/termin/time/1694757600/167/
 - Freitag, 15. September 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694757600/2878/
 - Freitag, 15. September 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694757600/2932/
-- Freitag, 15. September 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694757600/2854/
 - Freitag, 15. September 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694757600/2884/
 - Freitag, 15. September 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1694757600/145/
 - Freitag, 15. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1694757600/103/
@@ -80,6 +79,7 @@
 - Freitag, 15. September 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694758320/2887/
 - Freitag, 15. September 2023  Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694758320/2860/
 - Freitag, 15. September 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1694758320/153/
+- Freitag, 15. September 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694758320/2854/
 - Freitag, 15. September 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694758320/922/
 - Freitag, 15. September 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694758320/1018/
 - Freitag, 15. September 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1694758320/142/
