@@ -64,7 +64,6 @@
 - Freitag, 15. September 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1694762400/151/
 - Freitag, 15. September 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694762400/2884/
 - Freitag, 15. September 2023 09:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1694762640/106/
-- Freitag, 15. September 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694762640/2887/
 - Freitag, 15. September 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694762640/2854/
 - Freitag, 15. September 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694762640/2926/
 - Freitag, 15. September 2023 09:30 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1694763000/134/
@@ -191,7 +190,6 @@
 - Dienstag, 19. September 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1695113280/172/
 - Dienstag, 19. September 2023 11:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1695114000/231/
 - Dienstag, 19. September 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1695114000/146/
-- Dienstag, 19. September 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1695114000/172/
 - Dienstag, 19. September 2023 11:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1695114720/231/
 - Dienstag, 19. September 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1695114720/146/
 - Dienstag, 19. September 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1695114720/172/
