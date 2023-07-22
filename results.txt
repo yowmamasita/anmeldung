@@ -1,5 +1,4 @@
-- Montag, 18. September 2023 08:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695019680/2896/
-- Montag, 18. September 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695019680/2899/
+- Montag, 18. September 2023 08:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695019680/2899/
 - Montag, 18. September 2023 09:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695020400/2899/
 - Montag, 18. September 2023 09:12 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695021120/2896/
 - Montag, 18. September 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695021120/2899/
