@@ -19,6 +19,5 @@
 - Mittwoch, 20. September 2023 11:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1695202560/231/
 - Mittwoch, 20. September 2023 11:48 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1695203280/146/
 - Mittwoch, 20. September 2023 12:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1695204000/231/
-- Mittwoch, 20. September 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1695204000/146/
 - Mittwoch, 20. September 2023 12:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1695204720/231/
 - Mittwoch, 20. September 2023 12:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1695205440/146/
