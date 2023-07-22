@@ -13,6 +13,5 @@
 - Montag, 18. September 2023 12:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695034080/2899/
 - Mittwoch, 20. September 2023 11:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1695200400/231/
 - Mittwoch, 20. September 2023 11:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1695202560/231/
-- Mittwoch, 20. September 2023 12:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1695204000/231/
 - Mittwoch, 20. September 2023 12:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1695204720/231/
 - Mittwoch, 20. September 2023 12:24 Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1695205440/146/
