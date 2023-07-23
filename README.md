@@ -15,7 +15,6 @@
 - Donnerstag, 21. September 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1695293280/146/
 - Donnerstag, 21. September 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1695293280/172/
 - Donnerstag, 21. September 2023 13:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1695294000/231/
-- Donnerstag, 21. September 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1695294000/146/
 - Donnerstag, 21. September 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1695294000/172/
 - Donnerstag, 21. September 2023 13:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1695294720/231/
 - Donnerstag, 21. September 2023  Bürgeramt Schöneberg https://service.berlin.de/terminvereinbarung/termin/time/1695294720/146/
