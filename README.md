@@ -113,8 +113,7 @@
 - Montag, 18. September 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1695024360/109/
 - Montag, 18. September 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695024360/841/
 - Montag, 18. September 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1695024360/111/
-- Montag, 18. September 2023 10:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1695024720/153/
-- Montag, 18. September 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695024720/2932/
+- Montag, 18. September 2023 10:12 Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695024720/2932/
 - Montag, 18. September 2023 10:18 Bürgeramt 1 (Neu- Hohenschönhausen) https://service.berlin.de/terminvereinbarung/termin/time/1695025080/134/
 - Montag, 18. September 2023  Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695025080/2908/
 - Montag, 18. September 2023  Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695025080/2911/
