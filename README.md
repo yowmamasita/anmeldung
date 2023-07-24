@@ -40,9 +40,9 @@
 - Montag, 18. September 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695028680/2938/
 - Montag, 18. September 2023 11:24 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695029040/2866/
 - Montag, 18. September 2023 11:42 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695030120/844/
-- Montag, 18. September 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1695030120/109/
 - Montag, 18. September 2023 11:48 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695030480/2926/
-- Montag, 18. September 2023 11:54 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695030840/841/
+- Montag, 18. September 2023 11:54 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1695030840/109/
+- Montag, 18. September 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695030840/841/
 - Montag, 18. September 2023 12:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695031200/2845/
 - Montag, 18. September 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695031200/2848/
 - Montag, 18. September 2023  Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695031200/2857/
