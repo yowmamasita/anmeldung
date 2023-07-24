@@ -1,7 +1,0 @@
-- Mittwoch, 26. Juli 2023 09:24 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690356240/2938/
-- Mittwoch, 26. Juli 2023 09:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1690356960/381/
-- Freitag, 28. Juli 2023 10:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690531920/2863/
-- Mittwoch, 2. August 2023 12:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690972920/2914/
-- Mittwoch, 9. August 2023 11:06 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1691571960/312/
-- Dienstag, 15. August 2023 14:00 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692100800/2866/
-- Freitag, 25. August 2023 07:00 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692939600/2854/
