@@ -63,7 +63,6 @@
 - Dienstag, 12. September 2023 14:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1694522880/168/
 - Dienstag, 12. September 2023 15:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1694523600/168/
 - Dienstag, 12. September 2023 15:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1694524320/168/
-- Mittwoch, 13. September 2023 08:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1694584800/168/
 - Mittwoch, 13. September 2023 08:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1694585520/168/
 - Mittwoch, 13. September 2023 08:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1694586240/168/
 - Mittwoch, 13. September 2023 08:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1694586960/168/
