@@ -28,9 +28,9 @@
 - Montag, 18. September 2023 09:24 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695021840/2839/
 - Montag, 18. September 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695021840/2887/
 - Montag, 18. September 2023 09:40 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1695022800/147/
-- Montag, 18. September 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1695022800/150/
 - Montag, 18. September 2023 09:42 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695022920/2938/
 - Montag, 18. September 2023 09:48 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695023280/2866/
+- Montag, 18. September 2023 09:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1695023400/150/
 - Montag, 18. September 2023 09:54 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695023640/844/
 - Montag, 18. September 2023 10:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695024000/3238/
 - Montag, 18. September 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695024000/2854/
@@ -81,8 +81,8 @@
 - Montag, 18. September 2023 11:36 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695029760/1018/
 - Montag, 18. September 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1695029760/192/
 - Montag, 18. September 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695029760/2866/
-- Montag, 18. September 2023 11:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695030120/2914/
 - Montag, 18. September 2023 11:48 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695030480/2854/
+- Montag, 18. September 2023 11:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695030840/2914/
 - Montag, 18. September 2023 12:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695031200/2836/
 - Montag, 18. September 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695031200/2839/
 - Montag, 18. September 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695031200/3238/
