@@ -20,4 +20,3 @@
 - Donnerstag, 14. September 2023 15:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1694698560/168/
 - Donnerstag, 14. September 2023 15:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1694699280/168/
 - Montag, 18. September 2023 12:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1695031920/231/
-- Montag, 18. September 2023 14:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1695040920/135/
