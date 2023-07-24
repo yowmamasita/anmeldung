@@ -124,11 +124,11 @@
 - Montag, 18. September 2023 13:12 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695035520/2854/
 - Montag, 18. September 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695035520/2866/
 - Montag, 18. September 2023 13:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1695036000/147/
-- Montag, 18. September 2023 13:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695036240/922/
-- Montag, 18. September 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1695036240/142/
+- Montag, 18. September 2023 13:24 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1695036240/142/
 - Montag, 18. September 2023 13:30 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695036600/841/
 - Montag, 18. September 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1695036600/151/
 - Montag, 18. September 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695036600/2878/
+- Montag, 18. September 2023 13:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695036960/922/
 - Montag, 18. September 2023 13:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1695037200/150/
 - Montag, 18. September 2023 14:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695038400/2836/
 - Montag, 18. September 2023  Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1695038400/147/
