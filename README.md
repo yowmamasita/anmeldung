@@ -15,4 +15,3 @@
 - Montag, 24. Juli 2023 10:12 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1690186320/170/
 - Montag, 24. Juli 2023 10:24 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1690187040/170/
 - Montag, 24. Juli 2023 10:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1690188480/170/
-- Montag, 24. Juli 2023 11:00 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1690189200/170/
