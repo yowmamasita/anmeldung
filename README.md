@@ -14,7 +14,6 @@
 - Freitag, 15. September 2023 11:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1694769120/169/
 - Freitag, 15. September 2023 11:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1694769840/169/
 - Freitag, 15. September 2023 11:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1694771280/169/
-- Freitag, 15. September 2023 12:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1694773440/169/
 - Montag, 18. September 2023 08:36 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695018960/2836/
 - Montag, 18. September 2023 08:50 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695019800/2941/
 - Montag, 18. September 2023 09:00 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695020400/2923/
