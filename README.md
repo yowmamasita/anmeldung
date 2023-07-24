@@ -176,4 +176,3 @@
 - Montag, 18. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1695042000/103/
 - Montag, 18. September 2023 15:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695042720/2908/
 - Montag, 18. September 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695042720/2836/
-- Dienstag, 19. September 2023 14:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695126960/2899/
