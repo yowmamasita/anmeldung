@@ -14,7 +14,6 @@
 - Montag, 24. Juli 2023 14:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690201440/153/
 - Montag, 24. Juli 2023 14:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690202160/153/
 - Montag, 24. Juli 2023 14:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690202880/153/
-- Montag, 24. Juli 2023 17:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1690212240/154/
 - Dienstag, 25. Juli 2023 07:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690263360/153/
 - Dienstag, 25. Juli 2023 07:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690264080/153/
 - Dienstag, 25. Juli 2023 08:00 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690264800/153/
