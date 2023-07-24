@@ -5,5 +5,3 @@
 - Montag, 24. Juli 2023 10:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690188600/150/
 - Montag, 24. Juli 2023 11:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690189800/150/
 - Montag, 24. Juli 2023 12:54 Bürgeramt Marzahner Promenade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690196040/847/
-- Montag, 24. Juli 2023 14:12 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1690200720/381/
-- Dienstag, 25. Juli 2023 09:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690268400/3238/
