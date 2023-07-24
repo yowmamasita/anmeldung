@@ -21,14 +21,13 @@
 - Montag, 24. Juli 2023 14:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690200720/153/
 - Montag, 24. Juli 2023 14:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690201440/153/
 - Montag, 24. Juli 2023 14:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690202160/153/
-- Dienstag, 25. Juli 2023 07:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690263360/153/
 - Dienstag, 25. Juli 2023 07:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690264080/153/
 - Dienstag, 25. Juli 2023 08:00 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690264800/153/
 - Dienstag, 25. Juli 2023 08:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690265520/153/
 - Dienstag, 25. Juli 2023 08:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690266240/153/
 - Dienstag, 25. Juli 2023 08:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690266960/153/
 - Dienstag, 25. Juli 2023 08:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690267680/153/
+- Dienstag, 25. Juli 2023 09:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690269120/153/
 - Dienstag, 25. Juli 2023 09:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690269840/153/
 - Dienstag, 25. Juli 2023 09:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690270560/153/
 - Dienstag, 25. Juli 2023 10:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690274160/153/
-- Dienstag, 25. Juli 2023 11:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690277760/153/
