@@ -125,4 +125,3 @@
 - Donnerstag, 14. September 2023 17:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1694705040/168/
 - Donnerstag, 14. September 2023 17:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1694705760/168/
 - Donnerstag, 14. September 2023 17:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1694706480/168/
-- Montag, 18. September 2023 14:36 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695040560/2938/
