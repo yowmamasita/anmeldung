@@ -10,8 +10,7 @@
 - Montag, 24. Juli 2023 10:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690188480/2863/
 - Montag, 24. Juli 2023 11:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690189200/2863/
 - Montag, 24. Juli 2023 11:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690189920/2863/
-- Montag, 24. Juli 2023 12:36 Bürgeramt Rathaus Neukölln - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690194960/2860/
-- Montag, 24. Juli 2023  Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690194960/153/
+- Montag, 24. Juli 2023 12:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690194960/153/
 - Montag, 24. Juli 2023 12:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690195680/153/
 - Montag, 24. Juli 2023 13:00 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690196400/153/
 - Montag, 24. Juli 2023 13:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690197120/153/
