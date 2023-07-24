@@ -9,9 +9,5 @@
 - Montag, 24. Juli 2023  Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1690182720/172/
 - Montag, 24. Juli 2023 09:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1690183440/108/
 - Montag, 24. Juli 2023 09:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1690184160/108/
-- Montag, 24. Juli 2023 09:48 Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1690184880/108/
-- Montag, 24. Juli 2023 11:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1690189920/172/
 - Montag, 24. Juli 2023 11:24 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1690190640/172/
-- Montag, 24. Juli 2023 14:12 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1690200720/102/
 - Montag, 24. Juli 2023 14:24 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1690201440/102/
-- Montag, 24. Juli 2023 15:36 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1690205760/102/
