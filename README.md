@@ -17,4 +17,3 @@
 - Donnerstag, 14. September 2023 15:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1694697840/168/
 - Donnerstag, 14. September 2023 15:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1694698560/168/
 - Donnerstag, 14. September 2023 16:12 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1694700720/168/
-- Montag, 18. September 2023 10:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1695026520/136/
