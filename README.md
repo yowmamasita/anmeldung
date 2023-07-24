@@ -8,7 +8,6 @@
 - Donnerstag, 10. August 2023 12:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1691662320/191/
 - Donnerstag, 10. August 2023 12:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1691663040/191/
 - Donnerstag, 10. August 2023 12:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1691663760/191/
-- Donnerstag, 10. August 2023 12:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1691664480/191/
 - Donnerstag, 17. August 2023 10:00 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1692259200/191/
 - Donnerstag, 17. August 2023 10:12 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1692259920/191/
 - Donnerstag, 17. August 2023 10:24 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1692260640/191/
