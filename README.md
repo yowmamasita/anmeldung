@@ -3,6 +3,7 @@
 - Montag, 24. Juli 2023 08:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690181280/3238/
 - Montag, 24. Juli 2023 08:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690181400/150/
 - Montag, 24. Juli 2023 09:00 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690182000/922/
+- Montag, 24. Juli 2023 09:12 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690182720/922/
 - Montag, 24. Juli 2023 09:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690183200/150/
 - Montag, 24. Juli 2023 09:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690183800/150/
 - Montag, 24. Juli 2023 09:36 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690184160/922/
@@ -10,6 +11,7 @@
 - Montag, 24. Juli 2023 09:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690185000/150/
 - Montag, 24. Juli 2023 10:00 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690185600/922/
 - Montag, 24. Juli 2023 10:10 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690186200/150/
+- Montag, 24. Juli 2023 10:12 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690186320/922/
 - Montag, 24. Juli 2023 10:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690186800/150/
 - Montag, 24. Juli 2023 10:24 Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690187040/922/
 - Montag, 24. Juli 2023 11:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690190400/150/
