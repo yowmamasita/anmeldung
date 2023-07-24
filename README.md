@@ -7,7 +7,6 @@
 - Donnerstag, 14. September 2023 14:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1694694240/169/
 - Donnerstag, 14. September 2023 14:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1694694960/169/
 - Donnerstag, 14. September 2023 14:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1694695680/169/
-- Donnerstag, 14. September 2023 15:12 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1694697120/169/
 - Freitag, 15. September 2023 08:24 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1694759040/169/
 - Freitag, 15. September 2023 08:36 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1694759760/169/
 - Freitag, 15. September 2023 08:48 Bürgeramt Blaschkoallee https://service.berlin.de/terminvereinbarung/termin/time/1694760480/169/
