@@ -15,6 +15,5 @@
 - Dienstag, 25. Juli 2023 16:00 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690293600/135/
 - Dienstag, 25. Juli 2023 16:48 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690296480/2920/
 - Dienstag, 25. Juli 2023 17:12 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690297920/2908/
-- Dienstag, 25. Juli 2023 17:48 Bürgeramt Prenzlauer Berg https://service.berlin.de/terminvereinbarung/termin/time/1690300080/102/
 - Donnerstag, 3. August 2023 10:36 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1691051760/2908/
 - Donnerstag, 31. August 2023 17:24 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693495440/2854/
