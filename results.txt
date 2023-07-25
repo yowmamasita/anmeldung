@@ -1,7 +1,6 @@
 - Dienstag, 25. Juli 2023 12:12 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690279920/135/
 - Dienstag, 25. Juli 2023 12:24 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690280640/135/
 - Dienstag, 25. Juli 2023 12:36 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690281360/135/
-- Dienstag, 25. Juli 2023 13:00 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690282800/135/
 - Dienstag, 25. Juli 2023 14:12 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690287120/135/
 - Dienstag, 25. Juli 2023 14:24 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690287840/135/
 - Dienstag, 25. Juli 2023 14:36 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690288560/135/
@@ -9,5 +8,4 @@
 - Dienstag, 25. Juli 2023 15:36 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690292160/135/
 - Dienstag, 25. Juli 2023 16:12 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690294320/135/
 - Dienstag, 25. Juli 2023 16:24 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690295040/135/
-- Dienstag, 25. Juli 2023 16:36 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690295760/135/
 - Dienstag, 25. Juli 2023 17:12 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690297920/135/
