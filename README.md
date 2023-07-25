@@ -90,6 +90,5 @@
 - Donnerstag, 21. September 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695299760/2899/
 - Donnerstag, 21. September 2023 14:48 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695300480/2896/
 - Donnerstag, 21. September 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695300480/2899/
-- Donnerstag, 21. September 2023 15:00 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695301200/2896/
-- Donnerstag, 21. September 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695301200/2899/
+- Donnerstag, 21. September 2023 15:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695301200/2899/
 - Donnerstag, 21. September 2023 15:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695301920/2899/
