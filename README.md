@@ -1,2 +1,57 @@
 # List of available Anmeldung appointments as of $NOW
 [Link to Anmeldung website](https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120686&dienstleisterlist=122210,122217,327316,122219,327312,122227,327314,122231,327346,122243,327348,122254,122252,329742,122260,329745,122262,329748,122271,327278,122273,327274,122277,327276,330436,122280,327294,122282,327290,122284,327292,122291,327270,122285,327266,122286,327264,122296,327268,150230,329760,122297,327286,122294,327284,122312,329763,122314,329775,122304,327330,122311,327334,122309,327332,317869,122281,327352,122279,329772,122283,122276,327324,122274,327326,122267,329766,122246,327318,122251,327320,122257,327322,122208,327298,122226,327300&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120686%2F)
+- Dienstag, 19. September 2023 09:30 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1695108600/141/
+- Dienstag, 19. September 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695108600/2836/
+- Dienstag, 19. September 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1695108600/140/
+- Dienstag, 19. September 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695108600/2839/
+- Dienstag, 19. September 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1695108600/154/
+- Dienstag, 19. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1695108600/103/
+- Dienstag, 19. September 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1695108600/142/
+- Dienstag, 19. September 2023 09:40 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1695109200/381/
+- Dienstag, 19. September 2023 10:06 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1695110760/141/
+- Dienstag, 19. September 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695110760/2836/
+- Dienstag, 19. September 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1695110760/140/
+- Dienstag, 19. September 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695110760/2839/
+- Dienstag, 19. September 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1695110760/154/
+- Dienstag, 19. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1695110760/103/
+- Dienstag, 19. September 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1695110760/142/
+- Dienstag, 19. September 2023 11:06 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1695114360/141/
+- Dienstag, 19. September 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695114360/2836/
+- Dienstag, 19. September 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1695114360/140/
+- Dienstag, 19. September 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695114360/2839/
+- Dienstag, 19. September 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1695114360/154/
+- Dienstag, 19. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1695114360/103/
+- Dienstag, 19. September 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1695114360/142/
+- Dienstag, 19. September 2023 11:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695116880/3238/
+- Dienstag, 19. September 2023 12:06 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1695117960/141/
+- Dienstag, 19. September 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695117960/2836/
+- Dienstag, 19. September 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1695117960/140/
+- Dienstag, 19. September 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695117960/2839/
+- Dienstag, 19. September 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1695117960/154/
+- Dienstag, 19. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1695117960/103/
+- Dienstag, 19. September 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1695117960/142/
+- Dienstag, 19. September 2023 13:06 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1695121560/141/
+- Dienstag, 19. September 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695121560/2836/
+- Dienstag, 19. September 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1695121560/140/
+- Dienstag, 19. September 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695121560/2839/
+- Dienstag, 19. September 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1695121560/142/
+- Dienstag, 19. September 2023 14:06 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1695125160/141/
+- Dienstag, 19. September 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695125160/2836/
+- Dienstag, 19. September 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1695125160/140/
+- Dienstag, 19. September 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695125160/2839/
+- Dienstag, 19. September 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1695125160/142/
+- Dienstag, 19. September 2023 15:06 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1695128760/141/
+- Dienstag, 19. September 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695128760/2836/
+- Dienstag, 19. September 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1695128760/140/
+- Dienstag, 19. September 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695128760/2839/
+- Dienstag, 19. September 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1695128760/142/
+- Dienstag, 19. September 2023 16:06 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1695132360/141/
+- Dienstag, 19. September 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695132360/2836/
+- Dienstag, 19. September 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695132360/2839/
+- Dienstag, 19. September 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1695132360/142/
+- Dienstag, 19. September 2023 16:18 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1695133080/140/
+- Dienstag, 19. September 2023 17:06 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1695135960/141/
+- Dienstag, 19. September 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695135960/2836/
+- Dienstag, 19. September 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1695135960/140/
+- Dienstag, 19. September 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695135960/2839/
+- Dienstag, 19. September 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1695135960/142/
