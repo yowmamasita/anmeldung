@@ -107,7 +107,6 @@
 - Dienstag, 19. September 2023 16:06 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695132360/2836/
 - Dienstag, 19. September 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695132360/2839/
 - Dienstag, 19. September 2023 16:12 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695132720/841/
-- Dienstag, 19. September 2023 16:18 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1695133080/141/
 - Dienstag, 19. September 2023 16:30 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695133800/2941/
 - Dienstag, 19. September 2023 17:06 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695135960/2836/
 - Dienstag, 19. September 2023 17:10 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1695136200/147/
