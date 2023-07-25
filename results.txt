@@ -18,7 +18,6 @@
 - Montag, 18. September 2023 08:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695019680/2863/
 - Montag, 18. September 2023 09:00 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695020400/2863/
 - Montag, 18. September 2023 09:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695021120/2863/
-- Montag, 18. September 2023 09:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695022560/2863/
 - Montag, 18. September 2023 10:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695025440/2863/
 - Montag, 18. September 2023 10:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695026160/2863/
 - Montag, 18. September 2023 11:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695029040/2863/
@@ -127,7 +126,6 @@
 - Dienstag, 19. September 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695124080/844/
 - Dienstag, 19. September 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1695124080/381/
 - Dienstag, 19. September 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695124080/2887/
-- Dienstag, 19. September 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1695124080/111/
 - Dienstag, 19. September 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695124080/2932/
 - Dienstag, 19. September 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695124080/2896/
 - Dienstag, 19. September 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695124080/2926/
@@ -199,6 +197,7 @@
 - Dienstag, 19. September 2023 16:20 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695133200/2923/
 - Dienstag, 19. September 2023 16:30 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695133800/2923/
 - Dienstag, 19. September 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695133800/2941/
+- Dienstag, 19. September 2023 16:36 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1695134160/381/
 - Dienstag, 19. September 2023 16:40 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695134400/2923/
 - Dienstag, 19. September 2023 16:42 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695134520/2836/
 - Dienstag, 19. September 2023 16:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695135000/2923/
