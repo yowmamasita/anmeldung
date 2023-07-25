@@ -31,6 +31,7 @@
 - Dienstag, 12. September 2023 15:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694525040/2863/
 - Dienstag, 12. September 2023 15:36 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694525760/2863/
 - Dienstag, 12. September 2023 15:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694526480/2863/
+- Dienstag, 12. September 2023 16:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694527920/2863/
 - Dienstag, 12. September 2023 16:24 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694528640/2863/
 - Dienstag, 12. September 2023 16:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694530080/2863/
 - Dienstag, 12. September 2023 17:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694531520/2863/
@@ -332,6 +333,5 @@
 - Donnerstag, 21. September 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695294720/2899/
 - Donnerstag, 21. September 2023 13:24 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695295440/2896/
 - Donnerstag, 21. September 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695295440/2899/
-- Donnerstag, 21. September 2023 13:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695296160/2896/
-- Donnerstag, 21. September 2023  Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695296160/2899/
+- Donnerstag, 21. September 2023 13:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695296160/2899/
 - Donnerstag, 21. September 2023 13:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695296880/2899/
