@@ -370,10 +370,10 @@
 - Dienstag, 19. September 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695132000/2926/
 - Dienstag, 19. September 2023 16:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695132600/2923/
 - Dienstag, 19. September 2023 16:12 Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1695132720/111/
-- Dienstag, 19. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1695132720/103/
 - Dienstag, 19. September 2023 16:18 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695133080/2836/
 - Dienstag, 19. September 2023 16:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1695133440/136/
 - Dienstag, 19. September 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695133440/2914/
+- Dienstag, 19. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1695133440/103/
 - Dienstag, 19. September 2023 16:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1695134880/154/
 - Dienstag, 19. September 2023 17:00 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695135600/2911/
 - Dienstag, 19. September 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695135600/844/
