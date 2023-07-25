@@ -5,7 +5,6 @@
 - Donnerstag, 14. September 2023 10:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694679840/2899/
 - Donnerstag, 14. September 2023 10:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694681280/2899/
 - Donnerstag, 14. September 2023 11:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694682000/2899/
-- Donnerstag, 14. September 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1694682000/170/
 - Donnerstag, 14. September 2023 11:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694682720/2899/
 - Donnerstag, 14. September 2023 11:24 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694683440/2899/
 - Dienstag, 19. September 2023 09:54 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695110040/2836/
@@ -66,7 +65,7 @@
 - Dienstag, 19. September 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695118320/922/
 - Dienstag, 19. September 2023 12:18 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1695118680/141/
 - Dienstag, 19. September 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695118680/2836/
-- Dienstag, 19. September 2023 12:24 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1695119040/136/
+- Dienstag, 19. September 2023 12:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1695119760/136/
 - Dienstag, 19. September 2023 12:40 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1695120000/151/
 - Dienstag, 19. September 2023 12:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1695120600/150/
 - Dienstag, 19. September 2023 13:00 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695121200/2911/
