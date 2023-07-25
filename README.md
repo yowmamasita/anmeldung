@@ -224,7 +224,6 @@
 - Dienstag, 19. September 2023 17:18 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695136680/2836/
 - Dienstag, 19. September 2023 17:30 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695137400/2836/
 - Dienstag, 19. September 2023  Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695137400/2923/
-- Donnerstag, 21. September 2023 12:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695291120/2899/
 - Donnerstag, 21. September 2023 12:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695292560/2899/
 - Donnerstag, 21. September 2023 12:48 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695293280/2899/
 - Donnerstag, 21. September 2023 13:12 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695294720/2899/
