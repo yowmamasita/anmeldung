@@ -147,8 +147,7 @@
 - Donnerstag, 14. September 2023 16:12 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694700720/904/
 - Donnerstag, 14. September 2023 16:24 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694701440/904/
 - Donnerstag, 14. September 2023 16:36 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694702160/904/
-- Donnerstag, 14. September 2023 16:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694702880/2851/
-- Donnerstag, 14. September 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694702880/904/
+- Donnerstag, 14. September 2023 16:48 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694702880/904/
 - Donnerstag, 14. September 2023 17:00 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694703600/904/
 - Donnerstag, 14. September 2023 17:12 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694704320/904/
 - Freitag, 15. September 2023 07:30 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694755800/904/
