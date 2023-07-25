@@ -1,5 +1,3 @@
-- Montag, 14. August 2023 10:18 Bürgeramt Köpenick - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692001080/898/
-- Mittwoch, 16. August 2023 07:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692164160/3238/
 - Dienstag, 22. August 2023 11:00 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692694800/2920/
 - Dienstag, 22. August 2023 11:12 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692695520/2920/
 - Dienstag, 29. August 2023 12:48 Bürgeramt Blaschkoallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1693306080/2857/
@@ -79,12 +77,12 @@
 - Dienstag, 19. September 2023 12:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695118200/2941/
 - Dienstag, 19. September 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695118200/2884/
 - Dienstag, 19. September 2023 12:12 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1695118320/135/
-- Dienstag, 19. September 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695118320/844/
 - Dienstag, 19. September 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1695118320/111/
 - Dienstag, 19. September 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695118320/922/
 - Dienstag, 19. September 2023 12:18 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1695118680/141/
 - Dienstag, 19. September 2023 12:20 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1695118800/151/
 - Dienstag, 19. September 2023 12:24 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1695119040/112/
+- Dienstag, 19. September 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695119040/844/
 - Dienstag, 19. September 2023 12:30 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1695119400/154/
 - Dienstag, 19. September 2023 12:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1695120000/150/
 - Dienstag, 19. September 2023 13:00 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695121200/2911/
