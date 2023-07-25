@@ -5,6 +5,5 @@
 - Donnerstag, 27. Juli 2023 17:00 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690470000/2878/
 - Donnerstag, 27. Juli 2023 17:10 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690470600/2878/
 - Donnerstag, 27. Juli 2023 17:20 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690471200/2878/
-- Donnerstag, 27. Juli 2023 17:30 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690471800/2878/
 - Donnerstag, 27. Juli 2023 17:40 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690472400/2878/
-- Donnerstag, 27. Juli 2023 17:50 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690473000/2878/
+- Mittwoch, 23. August 2023 08:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1692772920/112/
