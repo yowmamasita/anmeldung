@@ -45,7 +45,6 @@
 - Mittwoch, 13. September 2023 10:30 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694593800/904/
 - Mittwoch, 13. September 2023 10:40 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694594400/2881/
 - Mittwoch, 13. September 2023 10:42 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694594520/904/
-- Mittwoch, 13. September 2023 10:50 Bürgeramt Reinickendorf-Ost - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694595000/2881/
 - Mittwoch, 13. September 2023 10:54 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694595240/904/
 - Mittwoch, 13. September 2023 11:06 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694595960/904/
 - Mittwoch, 13. September 2023 11:18 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694596680/904/
