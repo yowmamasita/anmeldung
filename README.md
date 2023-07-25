@@ -37,7 +37,6 @@
 - Dienstag, 19. September 2023 11:20 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695115200/2923/
 - Dienstag, 19. September 2023 11:30 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695115800/2836/
 - Dienstag, 19. September 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695115800/2839/
-- Dienstag, 19. September 2023 11:36 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695116160/2911/
 - Dienstag, 19. September 2023 11:40 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695116400/2923/
 - Dienstag, 19. September 2023 11:42 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695116520/2836/
 - Dienstag, 19. September 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695116520/2839/
@@ -122,7 +121,6 @@
 - Dienstag, 19. September 2023 13:48 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695124080/2845/
 - Dienstag, 19. September 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695124080/2848/
 - Dienstag, 19. September 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695124080/844/
-- Dienstag, 19. September 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1695124080/381/
 - Dienstag, 19. September 2023  Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695124080/2887/
 - Dienstag, 19. September 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695124080/2932/
 - Dienstag, 19. September 2023  Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695124080/2896/
