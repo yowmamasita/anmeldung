@@ -54,12 +54,12 @@
 - Dienstag, 19. September 2023 11:10 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695114600/2941/
 - Dienstag, 19. September 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695114600/2878/
 - Dienstag, 19. September 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1695114600/150/
-- Dienstag, 19. September 2023 11:12 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1695114720/106/
-- Dienstag, 19. September 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1695114720/109/
+- Dienstag, 19. September 2023 11:12 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1695114720/109/
 - Dienstag, 19. September 2023 11:18 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1695115080/141/
 - Dienstag, 19. September 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1695115080/154/
 - Dienstag, 19. September 2023 11:20 Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1695115200/147/
-- Dienstag, 19. September 2023 11:24 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1695115440/135/
+- Dienstag, 19. September 2023 11:24 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1695115440/106/
+- Dienstag, 19. September 2023  Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1695115440/135/
 - Dienstag, 19. September 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee https://service.berlin.de/terminvereinbarung/termin/time/1695115440/108/
 - Dienstag, 19. September 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1695115440/111/
 - Dienstag, 19. September 2023 11:40 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1695116400/151/
@@ -87,7 +87,7 @@
 - Dienstag, 19. September 2023 12:20 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1695118800/151/
 - Dienstag, 19. September 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1695118800/150/
 - Dienstag, 19. September 2023 12:30 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1695119400/154/
-- Dienstag, 19. September 2023 12:36 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1695119760/191/
+- Dienstag, 19. September 2023 12:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1695120480/191/
 - Dienstag, 19. September 2023 13:00 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695121200/2911/
 - Dienstag, 19. September 2023  Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695121200/841/
 - Dienstag, 19. September 2023  Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1695121200/151/
