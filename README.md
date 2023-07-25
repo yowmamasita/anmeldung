@@ -333,7 +333,6 @@
 - Dienstag, 19. September 2023 11:24 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695115440/904/
 - Dienstag, 19. September 2023 11:36 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695116160/904/
 - Dienstag, 19. September 2023 11:48 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695116880/904/
-- Dienstag, 19. September 2023 11:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695117000/2923/
 - Dienstag, 19. September 2023 11:54 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695117240/2836/
 - Dienstag, 19. September 2023 12:00 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695117600/904/
 - Dienstag, 19. September 2023 12:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695118200/2923/
