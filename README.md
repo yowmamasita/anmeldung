@@ -62,10 +62,10 @@
 - Dienstag, 19. September 2023  Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695118200/2878/
 - Dienstag, 19. September 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695118200/2884/
 - Dienstag, 19. September 2023 12:12 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1695118320/135/
+- Dienstag, 19. September 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695118320/922/
 - Dienstag, 19. September 2023 12:18 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1695118680/141/
 - Dienstag, 19. September 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695118680/2836/
 - Dienstag, 19. September 2023 12:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1695119040/381/
-- Dienstag, 19. September 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695119040/922/
 - Dienstag, 19. September 2023 12:40 Bürgeramt Märkisches Viertel https://service.berlin.de/terminvereinbarung/termin/time/1695120000/151/
 - Dienstag, 19. September 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1695120000/150/
 - Dienstag, 19. September 2023 12:48 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1695120480/191/
