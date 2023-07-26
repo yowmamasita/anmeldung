@@ -6,3 +6,4 @@
 - Donnerstag, 27. Juli 2023 10:06 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690445160/153/
 - Donnerstag, 27. Juli 2023 10:18 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690445880/153/
 - Donnerstag, 27. Juli 2023 10:42 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690447320/153/
+- Montag, 28. August 2023 08:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1693205280/106/
