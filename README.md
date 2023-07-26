@@ -95,4 +95,3 @@
 - Mittwoch, 20. September 2023 14:00 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695211200/2938/
 - Mittwoch, 20. September 2023 14:20 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695212400/2923/
 - Donnerstag, 21. September 2023 10:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1695283200/231/
-- Donnerstag, 21. September 2023 14:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1695298320/172/
