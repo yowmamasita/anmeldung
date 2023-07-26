@@ -13,5 +13,4 @@
 - Mittwoch, 26. Juli 2023 09:12 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690355520/1018/
 - Mittwoch, 26. Juli 2023 09:42 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690357320/2887/
 - Mittwoch, 26. Juli 2023 10:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690359120/2851/
-- Mittwoch, 26. Juli 2023 10:36 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690360560/1018/
 - Mittwoch, 26. Juli 2023 11:06 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690362360/2887/
