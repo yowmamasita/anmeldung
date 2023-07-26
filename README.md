@@ -15,7 +15,6 @@
 - Mittwoch, 26. Juli 2023 08:42 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690353720/2887/
 - Mittwoch, 26. Juli 2023 08:54 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690354440/2887/
 - Mittwoch, 26. Juli 2023 09:06 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690355160/2887/
-- Mittwoch, 26. Juli 2023 09:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690355520/2851/
 - Mittwoch, 26. Juli 2023 09:18 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690355880/2887/
 - Mittwoch, 26. Juli 2023 09:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690356240/2851/
 - Mittwoch, 26. Juli 2023 09:30 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690356600/2887/
@@ -26,10 +25,8 @@
 - Mittwoch, 26. Juli 2023 10:12 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690359120/2851/
 - Mittwoch, 26. Juli 2023 10:18 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690359480/2887/
 - Mittwoch, 26. Juli 2023 10:24 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690359840/2851/
-- Mittwoch, 26. Juli 2023 10:30 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690360200/2887/
 - Mittwoch, 26. Juli 2023 10:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690360560/2851/
 - Mittwoch, 26. Juli 2023 10:42 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690360920/2887/
-- Mittwoch, 26. Juli 2023 10:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690361280/2851/
 - Mittwoch, 26. Juli 2023 10:54 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690361640/2887/
 - Mittwoch, 26. Juli 2023 11:00 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690362000/2851/
 - Mittwoch, 26. Juli 2023 11:06 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690362360/2887/
@@ -39,7 +36,6 @@
 - Mittwoch, 26. Juli 2023 11:30 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690363800/2887/
 - Mittwoch, 26. Juli 2023 11:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690364160/2851/
 - Mittwoch, 26. Juli 2023 11:42 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690364520/2887/
-- Mittwoch, 26. Juli 2023 11:48 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690364880/2851/
 - Mittwoch, 26. Juli 2023 11:54 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690365240/2887/
 - Mittwoch, 26. Juli 2023 12:06 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690365960/2887/
 - Mittwoch, 26. Juli 2023 12:18 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690366680/2887/
@@ -49,3 +45,4 @@
 - Mittwoch, 26. Juli 2023 13:06 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690369560/2887/
 - Mittwoch, 26. Juli 2023 13:20 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690370400/2878/
 - Mittwoch, 26. Juli 2023 13:40 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690371600/2878/
+- Donnerstag, 27. Juli 2023 09:54 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690444440/2839/
