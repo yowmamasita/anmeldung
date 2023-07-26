@@ -4,7 +4,6 @@
 - Mittwoch, 26. Juli 2023  Bürgeramt Prenzlauer Berg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690360560/2872/
 - Mittwoch, 26. Juli 2023 10:48 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690361280/2836/
 - Mittwoch, 26. Juli 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690361280/3238/
-- Mittwoch, 26. Juli 2023  Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690361280/2851/
 - Mittwoch, 26. Juli 2023 11:18 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690363080/153/
 - Mittwoch, 26. Juli 2023 11:30 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690363800/153/
 - Mittwoch, 26. Juli 2023 11:42 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690364520/153/
@@ -19,7 +18,4 @@
 - Mittwoch, 26. Juli 2023 15:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690377120/153/
 - Mittwoch, 26. Juli 2023 15:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690377840/153/
 - Mittwoch, 26. Juli 2023 15:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690378560/153/
-- Mittwoch, 26. Juli 2023 15:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690379280/153/
-- Mittwoch, 26. Juli 2023 16:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690380720/153/
 - Mittwoch, 26. Juli 2023 16:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690381440/153/
-- Mittwoch, 26. Juli 2023 16:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690382160/153/
