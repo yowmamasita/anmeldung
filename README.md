@@ -10,7 +10,6 @@
 - Mittwoch, 26. Juli 2023 09:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690357200/150/
 - Mittwoch, 26. Juli 2023 10:00 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1690358400/148/
 - Mittwoch, 26. Juli 2023 10:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690360200/150/
-- Mittwoch, 26. Juli 2023 11:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690363200/150/
 - Mittwoch, 26. Juli 2023 11:48 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690364880/2866/
 - Mittwoch, 26. Juli 2023 12:18 Bürgeramt 1 (Neu- Hohenschönhausen) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690366680/2908/
 - Mittwoch, 26. Juli 2023 12:20 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690366800/2878/
