@@ -51,6 +51,7 @@
 - Mittwoch, 20. September 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695198600/904/
 - Mittwoch, 20. September 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695198600/2884/
 - Mittwoch, 20. September 2023 10:36 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695198960/2845/
+- Mittwoch, 20. September 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695198960/2848/
 - Mittwoch, 20. September 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695198960/2863/
 - Mittwoch, 20. September 2023 10:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695199320/2914/
 - Mittwoch, 20. September 2023 10:54 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695200040/2887/
@@ -118,7 +119,6 @@
 - Mittwoch, 20. September 2023 13:18 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695208680/2926/
 - Mittwoch, 20. September 2023 13:24 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695209040/2836/
 - Mittwoch, 20. September 2023  Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1695209040/381/
-- Mittwoch, 20. September 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695209040/2854/
 - Mittwoch, 20. September 2023  Bürgeramt Weißensee https://service.berlin.de/terminvereinbarung/termin/time/1695209040/103/
 - Mittwoch, 20. September 2023 13:50 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695210600/2941/
 - Mittwoch, 20. September 2023  Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695210600/2884/
