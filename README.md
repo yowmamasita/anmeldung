@@ -131,7 +131,6 @@
 - Mittwoch, 20. September 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1695198600/111/
 - Mittwoch, 20. September 2023 10:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1695199320/112/
 - Mittwoch, 20. September 2023  Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695199320/844/
-- Mittwoch, 20. September 2023  Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1695199320/192/
 - Mittwoch, 20. September 2023 10:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1695199800/150/
 - Mittwoch, 20. September 2023 11:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695200400/2836/
 - Mittwoch, 20. September 2023  Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1695200400/147/
