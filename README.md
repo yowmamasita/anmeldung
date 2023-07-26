@@ -79,9 +79,9 @@
 - Mittwoch, 20. September 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695205080/2914/
 - Mittwoch, 20. September 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695205080/904/
 - Mittwoch, 20. September 2023 12:20 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695205200/2941/
-- Mittwoch, 20. September 2023 12:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695205440/2848/
 - Mittwoch, 20. September 2023 12:30 Bürgeramt Biesdorf - Center - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695205800/844/
-- Mittwoch, 20. September 2023 12:36 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695206160/2866/
+- Mittwoch, 20. September 2023 12:36 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695206160/2848/
+- Mittwoch, 20. September 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695206160/2866/
 - Mittwoch, 20. September 2023 12:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1695206880/381/
 - Mittwoch, 20. September 2023 12:50 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695207000/2878/
 - Mittwoch, 20. September 2023 13:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695207600/2845/
@@ -105,5 +105,4 @@
 - Mittwoch, 20. September 2023  Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695211200/2938/
 - Mittwoch, 20. September 2023 14:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1695211920/154/
 - Mittwoch, 20. September 2023 14:20 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695212400/2923/
-- Donnerstag, 21. September 2023 14:12 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1695298320/172/
 - Freitag, 22. September 2023 11:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695375360/2899/
