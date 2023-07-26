@@ -38,7 +38,7 @@
 - Dienstag, 19. September 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695129840/904/
 - Dienstag, 19. September 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695129840/2863/
 - Dienstag, 19. September 2023 15:36 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695130560/904/
-- Dienstag, 19. September 2023 16:24 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695133440/904/
+- Dienstag, 19. September 2023 15:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695131280/2863/
 - Mittwoch, 20. September 2023 07:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695186720/3238/
 - Mittwoch, 20. September 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695186720/2854/
 - Mittwoch, 20. September 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695186720/1018/
@@ -107,7 +107,6 @@
 - Mittwoch, 20. September 2023  Bürgeramt Rathaus Spandau - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695195000/2932/
 - Mittwoch, 20. September 2023 09:36 Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1695195360/142/
 - Mittwoch, 20. September 2023 09:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1695195720/136/
-- Mittwoch, 20. September 2023 09:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1695196080/381/
 - Mittwoch, 20. September 2023 09:54 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695196440/2914/
 - Mittwoch, 20. September 2023  Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1695196440/112/
 - Mittwoch, 20. September 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1695196440/111/
