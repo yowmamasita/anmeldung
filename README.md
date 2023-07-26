@@ -5,11 +5,9 @@
 - Mittwoch, 26. Juli 2023 11:30 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690363800/153/
 - Mittwoch, 26. Juli 2023 11:42 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690364520/153/
 - Mittwoch, 26. Juli 2023 11:54 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690365240/153/
-- Mittwoch, 26. Juli 2023 12:06 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690365960/153/
 - Mittwoch, 26. Juli 2023 12:18 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690366680/153/
 - Mittwoch, 26. Juli 2023 12:42 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690368120/153/
 - Mittwoch, 26. Juli 2023 12:54 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690368840/153/
-- Mittwoch, 26. Juli 2023 14:00 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690372800/153/
 - Mittwoch, 26. Juli 2023 14:12 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690373520/153/
 - Mittwoch, 26. Juli 2023 14:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690374240/153/
 - Mittwoch, 26. Juli 2023 14:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690374960/153/
@@ -24,4 +22,4 @@
 - Mittwoch, 26. Juli 2023 16:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690381440/153/
 - Mittwoch, 26. Juli 2023 16:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690382160/153/
 - Mittwoch, 26. Juli 2023 16:48 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690382880/153/
-- Mittwoch, 26. Juli 2023 17:24 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690385040/153/
+- Mittwoch, 26. Juli 2023 17:36 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690385760/153/
