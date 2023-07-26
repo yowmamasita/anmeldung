@@ -3,7 +3,7 @@
 - Mittwoch, 26. Juli 2023 09:12 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690355520/2875/
 - Mittwoch, 26. Juli 2023 09:24 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690356240/2875/
 - Mittwoch, 26. Juli 2023 10:36 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690360560/2899/
-- Mittwoch, 26. Juli 2023 11:36 Bürgeramt Schöneberg - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690364160/2896/
 - Mittwoch, 26. Juli 2023 12:00 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690365600/2878/
+- Mittwoch, 26. Juli 2023 12:30 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690367400/2926/
 - Dienstag, 22. August 2023 09:54 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692690840/2836/
 - Mittwoch, 23. August 2023 09:36 Bürgeramt Karow / Buch - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692776160/2920/
