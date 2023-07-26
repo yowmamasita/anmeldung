@@ -13,4 +13,3 @@
 - Mittwoch, 26. Juli 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690357680/2875/
 - Mittwoch, 26. Juli 2023 10:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1690358400/154/
 - Mittwoch, 26. Juli 2023 10:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1690359120/154/
-- Mittwoch, 26. Juli 2023 10:24 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1690359840/154/
