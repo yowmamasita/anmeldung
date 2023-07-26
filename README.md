@@ -17,12 +17,12 @@
 - Dienstag, 19. September 2023 13:24 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695122640/904/
 - Dienstag, 19. September 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695122640/2866/
 - Dienstag, 19. September 2023 13:36 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695123360/904/
-- Dienstag, 19. September 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695123360/2863/
 - Dienstag, 19. September 2023 13:48 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695124080/904/
 - Dienstag, 19. September 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695124080/2863/
 - Dienstag, 19. September 2023 14:12 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695125520/2863/
 - Dienstag, 19. September 2023 14:24 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695126240/904/
-- Dienstag, 19. September 2023 14:36 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695126960/2914/
+- Dienstag, 19. September 2023 14:36 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695126960/2911/
+- Dienstag, 19. September 2023  Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695126960/2914/
 - Dienstag, 19. September 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695126960/904/
 - Dienstag, 19. September 2023  Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695126960/2866/
 - Dienstag, 19. September 2023 14:48 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695127680/904/
