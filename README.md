@@ -111,8 +111,8 @@
 - Mittwoch, 20. September 2023 08:18 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1695190680/112/
 - Mittwoch, 20. September 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1695190680/111/
 - Mittwoch, 20. September 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695190680/922/
+- Mittwoch, 20. September 2023 08:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1695190800/150/
 - Mittwoch, 20. September 2023 08:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1695191040/141/
-- Mittwoch, 20. September 2023 08:30 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1695191400/150/
 - Mittwoch, 20. September 2023 08:36 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1695191760/140/
 - Mittwoch, 20. September 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1695191760/145/
 - Mittwoch, 20. September 2023 08:42 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1695192120/109/
