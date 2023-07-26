@@ -4,7 +4,6 @@
 - Mittwoch, 13. September 2023 12:12 Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694599920/2839/
 - Donnerstag, 14. September 2023 10:00 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694678400/2926/
 - Freitag, 15. September 2023 11:40 Bürgeramt Tegel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694770800/2884/
-- Montag, 18. September 2023 14:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1695040920/135/
 - Mittwoch, 20. September 2023 07:24 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695187440/3238/
 - Mittwoch, 20. September 2023 07:54 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695189240/904/
 - Mittwoch, 20. September 2023 08:10 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695190200/2923/
@@ -95,8 +94,7 @@
 - Mittwoch, 20. September 2023  Bürgeramt Hohenzollerndamm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695204720/2839/
 - Mittwoch, 20. September 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695204720/3238/
 - Mittwoch, 20. September 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695204720/2863/
-- Mittwoch, 20. September 2023 12:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1695205080/109/
-- Mittwoch, 20. September 2023  Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695205080/904/
+- Mittwoch, 20. September 2023 12:18 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695205080/904/
 - Mittwoch, 20. September 2023 12:20 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695205200/2941/
 - Mittwoch, 20. September 2023 12:24 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1695205440/381/
 - Mittwoch, 20. September 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1695205440/154/
