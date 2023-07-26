@@ -47,9 +47,9 @@
 - Mittwoch, 20. September 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695190320/2854/
 - Mittwoch, 20. September 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695190320/1018/
 - Mittwoch, 20. September 2023 08:18 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695190680/2926/
-- Mittwoch, 20. September 2023 08:20 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695190800/2878/
-- Mittwoch, 20. September 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1695190800/150/
+- Mittwoch, 20. September 2023 08:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1695190800/150/
 - Mittwoch, 20. September 2023 08:24 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695191040/2938/
+- Mittwoch, 20. September 2023 08:30 Bürgeramt Rathaus Reinickendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695191400/2878/
 - Mittwoch, 20. September 2023 08:42 Bürgeramt Biesdorf - Center https://service.berlin.de/terminvereinbarung/termin/time/1695192120/112/
 - Mittwoch, 20. September 2023  Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1695192120/109/
 - Mittwoch, 20. September 2023 09:00 Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695193200/2836/
