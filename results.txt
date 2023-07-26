@@ -9,7 +9,6 @@
 - Mittwoch, 26. Juli 2023 09:00 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690354800/3238/
 - Mittwoch, 26. Juli 2023 09:06 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690355160/2926/
 - Mittwoch, 26. Juli 2023 09:12 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690355520/3238/
-- Mittwoch, 26. Juli 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690355520/231/
 - Mittwoch, 26. Juli 2023 09:18 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690355880/2926/
 - Mittwoch, 26. Juli 2023 09:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690356240/2848/
 - Mittwoch, 26. Juli 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690356240/3238/
@@ -27,13 +26,11 @@
 - Mittwoch, 26. Juli 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690359120/231/
 - Mittwoch, 26. Juli 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1690359120/154/
 - Mittwoch, 26. Juli 2023  Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690359120/2842/
-- Mittwoch, 26. Juli 2023 10:18 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690359480/2887/
 - Mittwoch, 26. Juli 2023 10:24 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690359840/2848/
 - Mittwoch, 26. Juli 2023  Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690359840/3238/
 - Mittwoch, 26. Juli 2023  Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690359840/231/
 - Mittwoch, 26. Juli 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1690359840/154/
 - Mittwoch, 26. Juli 2023 10:36 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690360560/3238/
-- Mittwoch, 26. Juli 2023  Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690360560/2863/
 - Mittwoch, 26. Juli 2023  Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1690360560/154/
 - Mittwoch, 26. Juli 2023  Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690360560/2842/
 - Mittwoch, 26. Juli 2023 10:42 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690360920/2926/
@@ -62,6 +59,5 @@
 - Mittwoch, 26. Juli 2023 13:12 Bürgeramt Lichtenrade - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690369920/2893/
 - Mittwoch, 26. Juli 2023 13:18 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690370280/2926/
 - Mittwoch, 26. Juli 2023 13:36 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690371360/231/
-- Mittwoch, 26. Juli 2023 13:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1690372080/154/
 - Mittwoch, 26. Juli 2023 14:00 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690372800/231/
 - Mittwoch, 26. Juli 2023 14:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690373520/231/
