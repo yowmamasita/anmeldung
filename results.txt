@@ -6,7 +6,6 @@
 - Mittwoch, 26. Juli 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690354800/150/
 - Mittwoch, 26. Juli 2023 09:06 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690355160/135/
 - Mittwoch, 26. Juli 2023 09:10 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1690355400/148/
-- Mittwoch, 26. Juli 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690355400/150/
 - Mittwoch, 26. Juli 2023 09:12 Bürgeramt Lichtenrade https://service.berlin.de/terminvereinbarung/termin/time/1690355520/231/
 - Mittwoch, 26. Juli 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690355520/2875/
 - Mittwoch, 26. Juli 2023  Bürgeramt Wilmersdorfer Straße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690355520/2842/
@@ -16,8 +15,7 @@
 - Mittwoch, 26. Juli 2023 09:24 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690356240/2875/
 - Mittwoch, 26. Juli 2023 09:30 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1690356600/148/
 - Mittwoch, 26. Juli 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690356600/150/
-- Mittwoch, 26. Juli 2023 09:36 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1690356960/154/
-- Mittwoch, 26. Juli 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690356960/2875/
+- Mittwoch, 26. Juli 2023 09:36 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690356960/2875/
 - Mittwoch, 26. Juli 2023 09:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690357200/150/
 - Mittwoch, 26. Juli 2023 09:48 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1690357680/154/
 - Mittwoch, 26. Juli 2023  Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690357680/2875/
@@ -46,11 +44,10 @@
 - Mittwoch, 26. Juli 2023 11:42 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690364520/135/
 - Mittwoch, 26. Juli 2023 11:50 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690365000/150/
 - Mittwoch, 26. Juli 2023 12:00 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690365600/150/
-- Mittwoch, 26. Juli 2023 12:12 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690366320/2875/
+- Mittwoch, 26. Juli 2023 12:06 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690365960/135/
 - Mittwoch, 26. Juli 2023 12:18 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690366680/135/
 - Mittwoch, 26. Juli 2023 12:24 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690367040/2875/
 - Mittwoch, 26. Juli 2023 12:30 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690367400/135/
 - Mittwoch, 26. Juli 2023 12:40 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690368000/150/
 - Mittwoch, 26. Juli 2023 12:48 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690368480/2875/
-- Mittwoch, 26. Juli 2023 12:54 Bürgeramt 2 (Lichtenberg) https://service.berlin.de/terminvereinbarung/termin/time/1690368840/135/
 - Mittwoch, 26. Juli 2023 13:36 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690371360/2875/
