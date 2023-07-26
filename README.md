@@ -6,5 +6,5 @@
 - Mittwoch, 26. Juli 2023 10:00 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690358400/168/
 - Mittwoch, 26. Juli 2023 10:18 Bürgeramt Helle Mitte https://service.berlin.de/terminvereinbarung/termin/time/1690359480/109/
 - Mittwoch, 26. Juli 2023 10:24 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690359840/168/
-- Mittwoch, 26. Juli 2023 10:36 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690360560/168/
-- Mittwoch, 26. Juli 2023 10:48 Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690361280/168/
+- Mittwoch, 26. Juli 2023 10:36 Bürgeramt Rathaus Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690360560/2851/
+- Mittwoch, 26. Juli 2023  Bürgeramt Sonnenallee https://service.berlin.de/terminvereinbarung/termin/time/1690360560/168/
