@@ -86,7 +86,6 @@
 - Mittwoch, 20. September 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695209040/2854/
 - Mittwoch, 20. September 2023 13:30 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695209400/2887/
 - Mittwoch, 20. September 2023  Bürgeramt Marzahner Promenade https://service.berlin.de/terminvereinbarung/termin/time/1695209400/111/
-- Mittwoch, 20. September 2023 13:48 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1695210480/106/
 - Mittwoch, 20. September 2023 13:50 Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695210600/2941/
 - Mittwoch, 20. September 2023 14:00 Bürgeramt Wasserstadt - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695211200/2938/
 - Mittwoch, 20. September 2023 14:20 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695212400/2923/
