@@ -3,7 +3,6 @@
 - Donnerstag, 14. September 2023 11:48 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694684880/904/
 - Donnerstag, 14. September 2023 12:36 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694687760/904/
 - Donnerstag, 14. September 2023 12:48 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694688480/904/
-- Freitag, 15. September 2023 09:06 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694761560/904/
 - Freitag, 15. September 2023 09:42 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694763720/904/
 - Freitag, 15. September 2023 10:06 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1694765160/904/
 - Montag, 18. September 2023 07:54 Bürgeramt Schöneweide - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695016440/904/
@@ -113,9 +112,9 @@
 - Mittwoch, 20. September 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695190680/922/
 - Mittwoch, 20. September 2023 08:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1695190800/150/
 - Mittwoch, 20. September 2023 08:24 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1695191040/141/
-- Mittwoch, 20. September 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1695191040/145/
 - Mittwoch, 20. September 2023 08:30 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter https://service.berlin.de/terminvereinbarung/termin/time/1695191400/136/
 - Mittwoch, 20. September 2023 08:36 Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1695191760/140/
+- Mittwoch, 20. September 2023  Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1695191760/145/
 - Mittwoch, 20. September 2023  Bürgeramt Wilmersdorfer Straße https://service.berlin.de/terminvereinbarung/termin/time/1695191760/142/
 - Mittwoch, 20. September 2023 08:48 Bürgeramt Karow / Buch https://service.berlin.de/terminvereinbarung/termin/time/1695192480/381/
 - Mittwoch, 20. September 2023 09:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695193200/2845/
