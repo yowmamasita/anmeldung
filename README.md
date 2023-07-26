@@ -4,7 +4,6 @@
 - Mittwoch, 26. Juli 2023 09:06 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690355160/2926/
 - Mittwoch, 26. Juli 2023 09:12 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690355520/2854/
 - Mittwoch, 26. Juli 2023 09:30 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690356600/153/
-- Mittwoch, 26. Juli 2023 09:36 Bürgeramt Tempelhof https://service.berlin.de/terminvereinbarung/termin/time/1690356960/172/
 - Mittwoch, 26. Juli 2023 10:00 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1690358400/154/
 - Mittwoch, 26. Juli 2023 10:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1690359120/154/
 - Mittwoch, 26. Juli 2023 10:40 Bürgeramt Rathaus Reinickendorf https://service.berlin.de/terminvereinbarung/termin/time/1690360800/148/
@@ -13,6 +12,4 @@
 - Mittwoch, 26. Juli 2023 12:48 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690368480/2875/
 - Mittwoch, 26. Juli 2023 12:50 Bürgeramt Heiligensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690368600/2923/
 - Mittwoch, 26. Juli 2023 13:00 Bürgeramt Tempelhof - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690369200/2899/
-- Freitag, 28. Juli 2023 07:00 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690520400/2854/
 - Montag, 31. Juli 2023 09:12 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690787520/2866/
-- Donnerstag, 17. August 2023 16:48 Bürgeramt Klosterstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1692283680/3238/
