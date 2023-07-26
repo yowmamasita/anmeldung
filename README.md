@@ -3,6 +3,4 @@
 - Mittwoch, 26. Juli 2023 09:12 Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690355520/2854/
 - Mittwoch, 26. Juli 2023 09:30 Bürgeramt Rathaus Spandau https://service.berlin.de/terminvereinbarung/termin/time/1690356600/153/
 - Mittwoch, 26. Juli 2023 10:12 Bürgeramt Wasserstadt https://service.berlin.de/terminvereinbarung/termin/time/1690359120/154/
-- Freitag, 28. Juli 2023 08:54 Bürgeramt 2 (Lichtenberg) - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690527240/2911/
-- Montag, 31. Juli 2023 09:48 Bürgeramt Zwickauer Damm - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690789680/2866/
 - Freitag, 25. August 2023 08:00 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1692943200/150/
