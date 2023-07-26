@@ -10,7 +10,7 @@
 - Mittwoch, 26. Juli 2023 09:00 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690354800/1018/
 - Mittwoch, 26. Juli 2023 09:12 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690355520/1018/
 - Mittwoch, 26. Juli 2023 09:24 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690356240/1018/
-- Mittwoch, 26. Juli 2023 09:48 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690357680/1018/
+- Mittwoch, 26. Juli 2023 10:18 Bürgeramt Köpenick https://service.berlin.de/terminvereinbarung/termin/time/1690359480/312/
 - Mittwoch, 26. Juli 2023 10:36 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690360560/1018/
 - Mittwoch, 26. Juli 2023 10:48 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690361280/1018/
 - Mittwoch, 26. Juli 2023 13:36 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690371360/1018/
