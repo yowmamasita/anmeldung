@@ -6,3 +6,8 @@
 - Mittwoch, 26. Juli 2023 09:12 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690355520/2875/
 - Mittwoch, 26. Juli 2023 09:24 Bürgeramt Weißensee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690356240/2875/
 - Mittwoch, 26. Juli 2023 10:06 Bürgeramt Steglitz https://service.berlin.de/terminvereinbarung/termin/time/1690358760/191/
+- Mittwoch, 26. Juli 2023 10:12 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690359120/1018/
+- Mittwoch, 26. Juli 2023 10:24 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690359840/1018/
+- Mittwoch, 26. Juli 2023 10:36 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690360560/1018/
+- Mittwoch, 26. Juli 2023 10:48 Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690361280/1018/
+- Mittwoch, 26. Juli 2023 13:20 Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1690370400/150/
