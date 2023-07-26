@@ -61,7 +61,7 @@
 - Mittwoch, 26. Juli 2023 11:30 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690363800/2926/
 - Mittwoch, 26. Juli 2023 11:42 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690364520/2926/
 - Mittwoch, 26. Juli 2023 11:48 Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1690364880/170/
-- Mittwoch, 26. Juli 2023 11:54 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1690365240/192/
+- Mittwoch, 26. Juli 2023 11:54 Bürgeramt Lankwitz https://service.berlin.de/terminvereinbarung/termin/time/1690365240/190/
 - Mittwoch, 26. Juli 2023  Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690365240/2926/
 - Mittwoch, 26. Juli 2023 12:06 Bürgeramt Zehlendorf - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690365960/2926/
 - Mittwoch, 26. Juli 2023 12:18 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1690366680/2914/
