@@ -120,7 +120,6 @@
 - Mittwoch, 20. September 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1695201120/170/
 - Mittwoch, 20. September 2023 11:18 Bürgeramt Helle Mitte - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695201480/841/
 - Mittwoch, 20. September 2023  Bürgeramt Steglitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695201480/922/
-- Mittwoch, 20. September 2023 11:36 Bürgeramt Wedding https://service.berlin.de/terminvereinbarung/termin/time/1695202560/145/
 - Mittwoch, 20. September 2023 11:48 Bürgeramt Sonnenallee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695203280/2863/
 - Mittwoch, 20. September 2023  Bürgeramt Wedding - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695203280/1018/
 - Mittwoch, 20. September 2023 11:54 Bürgeramt Zehlendorf https://service.berlin.de/terminvereinbarung/termin/time/1695203640/192/
