@@ -76,8 +76,7 @@
 - Mittwoch, 20. September 2023 10:42 Bürgeramt 3 (Friedrichsfelde) Tierparkcenter - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695199320/2914/
 - Mittwoch, 20. September 2023 10:48 Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1695199680/141/
 - Mittwoch, 20. September 2023 10:54 Bürgeramt Lankwitz - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695200040/2887/
-- Mittwoch, 20. September 2023 11:00 Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695200400/2845/
-- Mittwoch, 20. September 2023  Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695200400/2848/
+- Mittwoch, 20. September 2023 11:00 Bürgeramt 3 (Friedrichshain), Frankfurter Allee - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695200400/2848/
 - Mittwoch, 20. September 2023  Bürgeramt Heerstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695200400/2836/
 - Mittwoch, 20. September 2023  Bürgeramt Heiligensee https://service.berlin.de/terminvereinbarung/termin/time/1695200400/147/
 - Mittwoch, 20. September 2023  Bürgeramt Hohenzollerndamm (Flüchtlingsbürgeramt) https://service.berlin.de/terminvereinbarung/termin/time/1695200400/140/
@@ -96,6 +95,7 @@
 - Mittwoch, 20. September 2023  Bürgeramt Märkisches Viertel - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695201000/2941/
 - Mittwoch, 20. September 2023  Bürgeramt Tegel https://service.berlin.de/terminvereinbarung/termin/time/1695201000/150/
 - Mittwoch, 20. September 2023 11:12 Bürgeramt 1 (Kreuzberg), Yorckstraße https://service.berlin.de/terminvereinbarung/termin/time/1695201120/106/
+- Mittwoch, 20. September 2023  Bürgeramt 1 (Kreuzberg), Yorckstraße - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695201120/2845/
 - Mittwoch, 20. September 2023  Bürgeramt Heerstraße https://service.berlin.de/terminvereinbarung/termin/time/1695201120/141/
 - Mittwoch, 20. September 2023  Bürgeramt Rathaus Tiergarten - Vorzugstermine https://service.berlin.de/terminvereinbarung/termin/time/1695201120/2854/
 - Mittwoch, 20. September 2023  Bürgeramt Zwickauer Damm https://service.berlin.de/terminvereinbarung/termin/time/1695201120/170/
